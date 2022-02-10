@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<MVN xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>SIGNATUUR HANDSCHRIFT</title>
+            </titleStmt>
+            <publicationStmt>
+                <p>Diplomatische, digitale uitgave van handschrift SIGNATUUR INVOEGEN</p>
+            </publicationStmt>
+            <sourceDesc>
+                <p>De transcriptie is vervaardigd op basis van een fotografische reproductie van het
+                    handschrift, die vervolgens in situ is gecollationeerd met het origineel.</p>
+            </sourceDesc>
+        </fileDesc>
+        <encodingDesc>
+            <xi:include href="charDecl.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+            <editorialDecl>
+                <p>Voor alle andere opmerkingen: zie de inleiding bij de editie.</p>
+            </editorialDecl>
+        </encodingDesc>
+        <profileDesc>
+            <handNotes>
+                <handNote xml:id="naamvandekopiist">
+                    <p>Eventueel bijkomende informatie over de kopiist</p>
+                </handNote>
+            </handNotes>
+        </profileDesc>
+    </teiHeader>
+    <text xml:id="xxx" n="1.1.1">
+                <body>
+                    <p><lb n="34" xml:id="Antf219rb.34"/><l>﻿Op basis van uitgave Sleiderink, Moors <pc>&</pc> De Schepper <choice><abbr><g ref="#bar"/></abbr><expan><ex>2020</ex></expan></choice></l>
+<lb n="35" xml:id="Antf219rb.35"/><l>Gecontroleerd met foto's en aangepast aan richtlijnen TxT</l>
+
+
+<pb xml:id="Ant.f*5ra" n="*5ra"/>
+<lb n="1" xml:id="Antf*5ra.1"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="2" xml:id="Antf*5ra.2"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="3" xml:id="Antf*5ra.3"/><l><choice><abbr><g ref="#apomod"/>ijt</abbr><expan><ex>...</ex>ijt</expan></choice></l>
+<lb n="4" xml:id="Antf*5ra.4"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="5" xml:id="Antf*5ra.5"/><l>610 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="6" xml:id="Antf*5ra.6"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="7" xml:id="Antf*5ra.7"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="8" xml:id="Antf*5ra.8"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="9" xml:id="Antf*5ra.9"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="10" xml:id="Antf*5ra.10"/><l>615 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="11" xml:id="Antf*5ra.11"/><l><choice><abbr><g ref="#apomod"/>jn</abbr><expan><ex>...</ex>jn</expan></choice></l>
+<lb n="12" xml:id="Antf*5ra.12"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="13" xml:id="Antf*5ra.13"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="14" xml:id="Antf*5ra.14"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="15" xml:id="Antf*5ra.15"/><l>620 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="16" xml:id="Antf*5ra.16"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="17" xml:id="Antf*5ra.17"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="18" xml:id="Antf*5ra.18"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="19" xml:id="Antf*5ra.19"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="20" xml:id="Antf*5ra.20"/><l>625 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="21" xml:id="Antf*5ra.21"/><l><choice><abbr><g ref="#apomod"/><unclear>t</unclear></abbr><expan><ex>...</ex><unclear>t</unclear></expan></choice></l>
+<lb n="22" xml:id="Antf*5ra.22"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="23" xml:id="Antf*5ra.23"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="24" xml:id="Antf*5ra.24"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="25" xml:id="Antf*5ra.25"/><l>630 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="26" xml:id="Antf*5ra.26"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="27" xml:id="Antf*5ra.27"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="28" xml:id="Antf*5ra.28"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="29" xml:id="Antf*5ra.29"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="30" xml:id="Antf*5ra.30"/><l>635 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="31" xml:id="Antf*5ra.31"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="32" xml:id="Antf*5ra.32"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="33" xml:id="Antf*5ra.33"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="34" xml:id="Antf*5ra.34"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="35" xml:id="Antf*5ra.35"/><l>640 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="36" xml:id="Antf*5ra.36"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="37" xml:id="Antf*5ra.37"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="38" xml:id="Antf*5ra.38"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+
+
+<pb xml:id="Ant.f*5rb" n="*5rb"/>
+<lb n="1" xml:id="Antf*5rb.1"/><l><hi rend="capitalsize1">S</hi>oe viel <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="2" xml:id="Antf*5rb.2"/><l>645 <hi rend="capitalsize1">D</hi>us <choice><abbr>moch<g ref="#apomod"/></abbr><expan>moch<ex>...</ex></expan></choice></l>
+<lb n="3" xml:id="Antf*5rb.3"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>clare<g ref="#apomod"/></abbr><expan>clare<ex>...</ex></expan></choice></l>
+<lb n="4" xml:id="Antf*5rb.4"/><l><hi rend="capitalsize1">M</hi>iltheit <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>...</ex></expan></choice></l>
+<lb n="5" xml:id="Antf*5rb.5"/><l><hi rend="capitalsize1">V</hi>recheit <choice><abbr>l<g ref="#apomod"/></abbr><expan>l<ex>...</ex></expan></choice></l>
+<lb n="6" xml:id="Antf*5rb.6"/><l><hi rend="capitalsize1">D</hi>it <choice><abbr>proeu<g ref="#apomod"/></abbr><expan>proeu<ex>...</ex></expan></choice></l>
+<lb n="7" xml:id="Antf*5rb.7"/><l>650 <hi rend="capitalsize1">D</hi>ie <choice><abbr>winn<g ref="#apomod"/></abbr><expan>winn<ex>...</ex></expan></choice></l>
+<lb n="8" xml:id="Antf*5rb.8"/><l><hi rend="capitalsize2">I</hi>Acob <choice><abbr>e<g ref="#apomod"/></abbr><expan>e<ex>...</ex></expan></choice></l>
+<lb n="9" xml:id="Antf*5rb.9"/><l><hi rend="capitalsize1">A</hi>ls <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>...</ex></expan></choice></l>
+<lb n="10" xml:id="Antf*5rb.10"/><l><hi rend="capitalsize1">V</hi>an <choice><abbr>gher<g ref="#apomod"/></abbr><expan>gher<ex>...</ex></expan></choice></l>
+<lb n="11" xml:id="Antf*5rb.11"/><l><hi rend="capitalsize1">D</hi>oet <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>og<g ref="#apomod"/></abbr><expan>og<ex>...</ex></expan></choice></l>
+<lb n="12" xml:id="Antf*5rb.12"/><l>655 <hi rend="capitalsize1">O</hi>ft <choice><abbr>comt<g ref="#apomod"/><g ref="#apomod"/></abbr><expan>comt<ex>e</ex><ex>...</ex></expan></choice></l>
+<lb n="13" xml:id="Antf*5rb.13"/><l><hi rend="capitalsize1">D</hi>it euel <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>...</ex></expan></choice></l>
+<lb n="14" xml:id="Antf*5rb.14"/><l><hi rend="capitalsize1">I</hi>c liet <choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>...</ex></expan></choice></l>
+<lb n="15" xml:id="Antf*5rb.15"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ics <choice><abbr>vr<g ref="#apomod"/></abbr><expan>vr<ex>...</ex></expan></choice></l>
+<lb n="16" xml:id="Antf*5rb.16"/><l><hi rend="capitalsize1">M</hi>aect mi <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="17" xml:id="Antf*5rb.17"/><l>660 <hi rend="capitalsize1">M</hi>ijn <choice><abbr>hert<g ref="#apomod"/></abbr><expan>hert<ex>...</ex></expan></choice></l>
+<lb n="18" xml:id="Antf*5rb.18"/><l><hi rend="capitalsize1">M</hi>ine <choice><abbr>besce<g ref="#apomod"/></abbr><expan>besce<ex>...</ex></expan></choice></l>
+<lb n="19" xml:id="Antf*5rb.19"/><l><hi rend="capitalsize1">E</hi>n es <choice><abbr>niet<g ref="#apomod"/></abbr><expan>niet<ex>...</ex></expan></choice></l>
+<lb n="20" xml:id="Antf*5rb.20"/><l><hi rend="capitalsize1">N</hi>a dat <choice><abbr>ic<g ref="#apomod"/></abbr><expan>ic<ex>...</ex></expan></choice></l>
+<lb n="21" xml:id="Antf*5rb.21"/><l><choice><abbr><hi rend="capitalsize1">M</hi>Erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>Erte<ex>n</ex></expan></choice> du <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="22" xml:id="Antf*5rb.22"/><l>665 <hi rend="capitalsize1">D</hi>u <choice><abbr>spr<g ref="#apomod"/></abbr><expan>spr<ex>...</ex></expan></choice></l>
+<lb n="23" xml:id="Antf*5rb.23"/><l><hi rend="capitalsize1">D</hi>ie noch <choice><abbr>n<g ref="#apomod"/></abbr><expan>n<ex>...</ex></expan></choice></l>
+<lb n="24" xml:id="Antf*5rb.24"/><l><choice><abbr><hi rend="capitalsize1">A</hi>lrehand<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">A</hi>lrehand<ex>...</ex></expan></choice></l>
+<lb n="25" xml:id="Antf*5rb.25"/><l><hi rend="capitalsize1">C</hi>omt <choice><abbr>van<g ref="#apomod"/></abbr><expan>van<ex>...</ex></expan></choice></l>
+<lb n="26" xml:id="Antf*5rb.26"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> noit <choice><abbr>do<g ref="#apomod"/></abbr><expan>do<ex>...</ex></expan></choice></l>
+<lb n="27" xml:id="Antf*5rb.27"/><l>670 <hi rend="capitalsize1">H</hi>em en <choice><abbr>m<g ref="#apomod"/></abbr><expan>m<ex>...</ex></expan></choice></l>
+<lb n="28" xml:id="Antf*5rb.28"/><l><hi rend="capitalsize1">D</hi>ie stille <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="29" xml:id="Antf*5rb.29"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="30" xml:id="Antf*5rb.30"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="31" xml:id="Antf*5rb.31"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="32" xml:id="Antf*5rb.32"/><l>675 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="33" xml:id="Antf*5rb.33"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="34" xml:id="Antf*5rb.34"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="35" xml:id="Antf*5rb.35"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="36" xml:id="Antf*5rb.36"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="37" xml:id="Antf*5rb.37"/><l>680 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="38" xml:id="Antf*5rb.38"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+
+
+<pb xml:id="Ant.f*5va" n="*5va"/>
+<lb n="1" xml:id="Antf*5va.1"/><l><choice><abbr><g ref="#apomod"/>en</abbr><expan><ex>...</ex>en</expan></choice></l>
+<lb n="2" xml:id="Antf*5va.2"/><l><choice><abbr><g ref="#apomod"/>n</abbr><expan><ex>...</ex>n</expan></choice> wijt</l>
+<lb n="3" xml:id="Antf*5va.3"/><l><choice><abbr><g ref="#apomod"/>r</abbr><expan><ex>...</ex>r</expan></choice> di lijt</l>
+<lb n="4" xml:id="Antf*5va.4"/><l>685 <choice><abbr><g ref="#apomod"/>ts</abbr><expan><ex>...</ex>ts</expan></choice> <choice><abbr>geloge<g ref="#bar"/></abbr><expan>geloge<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Antf*5va.5"/><l><choice><abbr><g ref="#apomod"/>neg<g ref="#apomod"/></abbr><expan><ex>...</ex>neg<ex>er</ex></expan></choice> tijt</l>
+<lb n="6" xml:id="Antf*5va.6"/><l><choice><abbr><g ref="#apomod"/>vor</abbr><expan><ex>...</ex>vor</expan></choice> lijt</l>
+<lb n="7" xml:id="Antf*5va.7"/><l><choice><abbr><g ref="#apomod"/>gen</abbr><expan><ex>...</ex>gen</expan></choice></l>
+<lb n="8" xml:id="Antf*5va.8"/><l><choice><abbr><g ref="#apomod"/>n</abbr><expan><ex>...</ex>n</expan></choice></l>
+<lb n="9" xml:id="Antf*5va.9"/><l>690 <choice><abbr><g ref="#apomod"/>elijc</abbr><expan><ex>...</ex>elijc</expan></choice> viant</l>
+<lb n="10" xml:id="Antf*5va.10"/><l><choice><abbr><g ref="#apomod"/>menege<g ref="#bar"/></abbr><expan><ex>...</ex>menege<ex>n</ex></expan></choice> pant</l>
+<lb n="11" xml:id="Antf*5va.11"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice></l>
+<lb n="12" xml:id="Antf*5va.12"/><l><choice><abbr><g ref="#apomod"/>ere</abbr><expan><ex>...</ex>ere</expan></choice> di vant</l>
+<lb n="13" xml:id="Antf*5va.13"/><l><choice><abbr><g ref="#apomod"/>uus</abbr><expan><ex>...</ex>uus</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> lant</l>
+<lb n="14" xml:id="Antf*5va.14"/><l>695 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>...</ex></expan></choice> houde</l>
+<lb n="15" xml:id="Antf*5va.15"/><l><choice><abbr><g ref="#apomod"/>en</abbr><expan><ex>...</ex>en</expan></choice> bant</l>
+<lb n="16" xml:id="Antf*5va.16"/><l><choice><abbr><g ref="#apomod"/>n</abbr><expan><ex>...</ex>n</expan></choice> .I. sant</l>
+<lb n="17" xml:id="Antf*5va.17"/><l><choice><abbr><g ref="#apomod"/>ude</abbr><expan><ex>...</ex>ude</expan></choice></l>
+<lb n="18" xml:id="Antf*5va.18"/><l><choice><abbr><g ref="#apomod"/>metterha<g ref="#bar"/>t</abbr><expan><ex>...</ex>metterha<ex>n</ex>t</expan></choice></l>
+<lb n="19" xml:id="Antf*5va.19"/><l>700 <choice><abbr><g ref="#apomod"/>lke<g ref="#bar"/></abbr><expan><ex>...</ex>lke<ex>n</ex></expan></choice> pant</l>
+<lb n="20" xml:id="Antf*5va.20"/><l><choice><abbr><g ref="#apomod"/>moude</abbr><expan><ex>...</ex>moude</expan></choice></l>
+<lb n="21" xml:id="Antf*5va.21"/><l><choice><abbr><g ref="#apomod"/>woude</abbr><expan><ex>...</ex>woude</expan></choice></l>
+<lb n="22" xml:id="Antf*5va.22"/><l><choice><abbr><g ref="#apomod"/>ge</abbr><expan><ex>...</ex>ge</expan></choice> sprac</l>
+<lb n="23" xml:id="Antf*5va.23"/><l><choice><abbr><g ref="#apomod"/>ins</abbr><expan><ex>...</ex>ins</expan></choice> gebrac</l>
+<lb n="24" xml:id="Antf*5va.24"/><l>705 <choice><abbr><g ref="#apomod"/>nne</abbr><expan><ex>...</ex>nne</expan></choice></l>
+<lb n="25" xml:id="Antf*5va.25"/><l><choice><abbr><g ref="#apomod"/>ongemac</abbr><expan><ex>...</ex>ongemac</expan></choice></l>
+<lb n="26" xml:id="Antf*5va.26"/><l><choice><abbr><g ref="#apomod"/>uwert</abbr><expan><ex>...</ex>uwert</expan></choice> lac</l>
+<lb n="27" xml:id="Antf*5va.27"/><l><choice><abbr><g ref="#apomod"/>emt</abbr><expan><ex>...</ex>emt</expan></choice> mi <choice><abbr>i<g ref="#bar"/>ne</abbr><expan>i<ex>n</ex>ne</expan></choice></l>
+<lb n="28" xml:id="Antf*5va.28"/><l><choice><abbr><g ref="#apomod"/>le</abbr><expan><ex>...</ex>le</expan></choice> wt stac</l>
+                    </p>
+                </body>
+    </text>
+</MVN>
