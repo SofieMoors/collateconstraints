@@ -1628,7 +1628,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <D>us leeret tgheloue mi
 <G_1><O>de besluut gheene stede
 
-&112vb&
+&122vb&
 
 <M>[aer] alle stede(n) beluuct hi mede
 185 <I>n sine godlicheit
