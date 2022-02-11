@@ -683,7 +683,7 @@
 
 <pb xml:id="D.f14v" n="14v"/>
 <lb n="1" xml:id="Df14v.1"/><l><hi rend="capitalsize1">D</hi>ese twee en hout niet voer <choice><abbr>schere<g ref="#bar"/>.</abbr><expan>schere<ex>n</ex>.</expan></choice></l>
-<lb n="2" xml:id="Df14v.2"/><l><hi rend="capitalsize1">W</hi>es neerachtich. minne <choice><abbr>n</abbr><expan>n<ex>iet</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> gout</l>
+<lb n="2" xml:id="Df14v.2"/><l><hi rend="capitalsize1">W</hi>es neerachtich. minne n <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> gout</l>
 <lb n="3" xml:id="Df14v.3"/><l><hi rend="capitalsize1">W</hi>es eerachtich menichfout</l>
 <lb n="4" xml:id="Df14v.4"/><l><hi rend="capitalsize1">D</hi>ie sijn al vol eeren.</l>
 <lb n="5" xml:id="Df14v.5"/><l><hi rend="capitalsize1">T</hi>en is oeck nyemant ionck of out.</l>
@@ -1069,8 +1069,8 @@
 <lb n="2" xml:id="Df22v.2"/><l><hi rend="capitalsize1">H</hi>i dunct my mesdoen in dien.</l>
 <lb n="3" xml:id="Df22v.3"/><l><hi rend="capitalsize1">W</hi>il hy der waerheyt ghien.</l>
 <lb n="4" xml:id="Df22v.4"/><l><hi rend="capitalsize1">D</hi>at hi daer toe taelde/</l>
-<lb n="5" xml:id="Df22v.5"/><l><hi rend="capitalsize1">W</hi>at mogens <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>ma<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>plie<g ref="#bar"/></abbr><expan>plie<ex>n</ex></expan></choice></l>
-<lb n="6" xml:id="Df22v.6"/><l>905 <hi rend="capitalsize1">S</hi>oe nauwe om haer <choice><abbr>schoenh</abbr><expan>schoenh<ex>eit</ex></expan></choice> <choice><abbr>spie<g ref="#bar"/>.</abbr><expan>spie<ex>n</ex>.</expan></choice></l>
+<lb n="5" xml:id="Df22v.5"/><l><hi rend="capitalsize1">W</hi>at mogens <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>ma<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>ma<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>plie<g ref="#bar"/></abbr><expan>plie<ex>n</ex></expan></choice></l>
+<lb n="6" xml:id="Df22v.6"/><l>905 <hi rend="capitalsize1">S</hi>oe nauwe om haer schoenh <choice><abbr>spie<g ref="#bar"/>.</abbr><expan>spie<ex>n</ex>.</expan></choice></l>
 <lb n="7" xml:id="Df22v.7"/><l><hi rend="capitalsize1">W</hi>ie is diese toe haelde</l>
 <lb n="8" xml:id="Df22v.8"/><l><hi rend="capitalsize1">W</hi>ilde die clagher te tijde vlien</l>
 <lb n="9" xml:id="Df22v.9"/><l><hi rend="capitalsize1">S</hi>oe en mocht hem niet misschien</l>
@@ -1319,7 +1319,7 @@
 <lb n="13" xml:id="Df27v.13"/><l>145 <hi rend="capitalsize1">D</hi>ats een vaste knoop een vaste <choice><abbr>ba<g ref="#bar"/>t</abbr><expan>ba<ex>n</ex>t</expan></choice></l>
 <lb n="14" xml:id="Df27v.14"/><l><hi rend="capitalsize1">D</hi>ie nyemant en can ontbinden.</l>
 <lb n="15" xml:id="Df27v.15"/><l><hi rend="capitalsize1">D</hi>en knoop die alexander vant/</l>
-<lb n="16" xml:id="Df27v.16"/><l><hi rend="capitalsize1">O</hi>ntknocht sijn zwaert <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>zij<g ref="#bar"/>re</abbr><expan>zij<ex>n</ex>re</expan></choice> <choice><abbr>ha<g ref="#bar"/>t</abbr><expan>ha<ex>n</ex>t</expan></choice></l>
+<lb n="16" xml:id="Df27v.16"/><l><hi rend="capitalsize1">O</hi>ntknocht sijn zwaert <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>zij<g ref="#bar"/>re</abbr><expan>zij<ex>n</ex>re</expan></choice> <choice><abbr>ha<g ref="#bar"/>t</abbr><expan>ha<ex>n</ex>t</expan></choice></l>
 <lb n="17" xml:id="Df27v.17"/><l><hi rend="capitalsize1">A</hi>ls hijs hem wil bewinden</l>
 <lb n="18" xml:id="Df27v.18"/><l>150 <hi rend="capitalsize1">L</hi>aet my ghenaken aen uwen cant</l>
 <lb n="19" xml:id="Df27v.19"/><l><hi rend="capitalsize1">V</hi>we vroetscap suldi te hant.</l>
@@ -2118,7 +2118,7 @@
 <lb n="9" xml:id="Df44r.9"/><l><hi rend="capitalsize1">D</hi>ats in abrahams schoot.</l>
 <lb n="10" xml:id="Df44r.10"/><l><hi rend="capitalsize1">N</hi>a dese corte doot/</l>
 <lb n="11" xml:id="Df44r.11"/><l><hi rend="capitalsize1">A</hi>M_1E_1N_1:</l>
-<lb n="12" xml:id="Df44r.12"/><l>¶ <hi rend="capitalsize1">H</hi>ier es voleyndt. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> groter di<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
+<lb n="12" xml:id="Df44r.12"/><l>¶ <hi rend="capitalsize1">H</hi>ier es voleyndt. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> groter di<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
 <lb n="13" xml:id="Df44r.13"/><l>ligencien ghecorrigeert een seer no<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
 <lb n="14" xml:id="Df44r.14"/><l>tabel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> profitelic boecxken gemaect</l>
 <lb n="15" xml:id="Df44r.15"/><l>byden groten philozophe ende poe<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
@@ -2138,7 +2138,7 @@
 <lb n="29" xml:id="Df44r.29"/><l><hi rend="capitalsize1">E</hi>nde correct geworden is int <choice><abbr>dinne<g ref="#bar"/></abbr><expan>dinne<ex>n</ex></expan></choice></l>
 <lb n="30" xml:id="Df44r.30"/><l><hi rend="capitalsize1">B</hi>y scriuers simpel van vermoghe</l>
 <lb n="31" xml:id="Df44r.31"/><l><hi rend="capitalsize1">D</hi>och naersticheyt cloeck int innen:</l>
-<lb n="32" xml:id="Df44r.32"/><l><choice><abbr><hi rend="capitalsize1">H</hi>eu<g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">H</hi>eu<ex>et</ex></expan></choice> gecorrigeert <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> duechs <choice><abbr>gewi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>gewi<ex>n</ex>ne<ex>n</ex></expan></choice></l>
+<lb n="32" xml:id="Df44r.32"/><l><choice><abbr><hi rend="capitalsize1">H</hi>eu<g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">H</hi>eu</expan></choice> gecorrigeert <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> duechs <choice><abbr>gewi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>gewi<ex>n</ex>ne<ex>n</ex></expan></choice></l>
 <lb n="33" xml:id="Df44r.33"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> in <choice><abbr>pre<g ref="#bar"/>te</abbr><expan>pre<ex>n</ex>te</expan></choice> gestelt claer int betoghe</l>
 <lb n="34" xml:id="Df44r.34"/><l><hi rend="capitalsize1">O</hi>m te verscherpen elcx sin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oghe</l>
                     </p>
