@@ -2,7 +2,7 @@
 Gecontroleerd met foto's en aangepast aan richtlijnen TxT
 
 
-&*5ra&
+&5ra&
  
 [...]
 [...]
@@ -43,7 +43,7 @@ Gecontroleerd met foto's en aangepast aan richtlijnen TxT
 [...]
 [...]
 
-&*5rb&
+&5rb&
 
 <S>oe viel [...]
 645 <D>us moch[...]
@@ -84,7 +84,7 @@ Gecontroleerd met foto's en aangepast aan richtlijnen TxT
 680 [...]
 [...]
 
-&*5va& 
+&5va& 
 
 [...]en
 [...]n wijt
