@@ -1,32 +1,34 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt>
-                <title>SIGNATUUR HANDSCHRIFT</title>
-            </titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
             <publicationStmt>
-                <p>Diplomatische, digitale uitgave van handschrift SIGNATUUR INVOEGEN</p>
+                <p><!-- Gegevens over uitgave --></p>
             </publicationStmt>
             <sourceDesc>
-                <p>De transcriptie is vervaardigd op basis van een fotografische reproductie van het
-                    handschrift, die vervolgens in situ is gecollationeerd met het origineel.</p>
+                <p>...</p>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
-            <xi:include href="charDecl.xml" xmlns:xi="http://www.w3.org/2001/XInclude"/>
+            <xi:include href="http://www.huygensinstituut.knaw.nl/projecten/mvn/webfiles/charDecl.xml"  
+                xmlns:xi="http://www.w3.org/2001/XInclude">
+                <xi:fallback>
+                    <xi:include href="charDecl/charDecl.xml"/>
+                </xi:fallback>
+            </xi:include>
             <editorialDecl>
-                <p>Voor alle andere opmerkingen: zie de inleiding bij de editie.</p>
+                <p><!-- Verantwoording van de editie --></p>
             </editorialDecl>
         </encodingDesc>
         <profileDesc>
             <handNotes>
-                <handNote xml:id="naamvandekopiist">
-                    <p>Eventueel bijkomende informatie over de kopiist</p>
-                </handNote>
+                <handNote xml:id="h1"><p>...</p></handNote>
             </handNotes>
         </profileDesc>
     </teiHeader>
-    <text xml:id="xxx" n="1.1.1">
+    <text xml:id="sig">
+        <group>
+            <text n="1" xml:id="sig1">
                 <body>
                     <p>
