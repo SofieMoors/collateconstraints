@@ -31,11 +31,7 @@
         <group>
             <text n="1" xml:id="sig1">
                 <body>
-                    <p><lb n="39" xml:id="Of2rb.39"/><l>M2 obv Mertens, M1 en M3 obv varianten</l>
-<lb n="40" xml:id="Of2rb.40"/><l>Foto's aangevraagd, PDF ontvangen via bib Oxford.</l>
-
-
-<pb xml:id="O.f19r" n="19r"/>
+                    <p><pb xml:id="O.f19r" n="19r"/>
 <lb n="1" xml:id="Of19r.1"/><l>1 <hi rend="capitalsize7">W</hi>Aphene martin</l>
 <lb n="2" xml:id="Of19r.2"/><l>hoe salt gaen <hi rend="capitalsize1">S</hi>al</l>
 <lb n="3" xml:id="Of19r.3"/><l>dese weerelt yet</l>
@@ -1445,7 +1441,7 @@
 
 <pb xml:id="O.f66r" n="66r"/>
 <lb n="1" xml:id="Of66r.1"/><l><hi rend="capitalsize2">G</hi>Hi wilt <choice><abbr>sterke<g ref="#bar"/></abbr><expan>sterke<ex>n</ex></expan></choice> uwe woort</l>
-<lb n="2" xml:id="Of66r.2"/><l><hi rend="capitalsize1">D</hi>ie ghi hier nu <choice><abbr>bri<g ref="#bar"/>gh<g ref="#etfin"/></abbr><expan>bri<ex>n</ex>gh</expan></choice> voort</l>
+<lb n="2" xml:id="Of66r.2"/><l><hi rend="capitalsize1">D</hi>ie ghi hier nu <choice><abbr>bri<g ref="#bar"/>gh<g ref="#etfin"/></abbr><expan>bri<ex>n</ex>gh<ex>et</ex></expan></choice> voort</l>
 <lb n="3" xml:id="Of66r.3"/><l><hi rend="capitalsize1">M</hi>et truffen ende poetrien</l>
 <lb n="4" xml:id="Of66r.4"/><l>160 <hi rend="capitalsize1">O</hi>ft medea dede moort</l>
 <lb n="5" xml:id="Of66r.5"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hem narchisus <choice><abbr>v<g ref="#apomod"/>smoort</abbr><expan>v<ex>er</ex>smoort</expan></choice></l>
@@ -1470,7 +1466,7 @@
 <lb n="8" xml:id="Of66v.8"/><l><hi rend="capitalsize1">S</hi>cone ende wijs vp sulc <choice><abbr>co<g ref="#bar"/>nent</abbr><expan>co<ex>n</ex>nent</expan></choice></l>
 <lb n="9" xml:id="Of66v.9"/><l><hi rend="capitalsize1">D</hi>at hem god hoyr beriede</l>
 <lb n="10" xml:id="Of66v.10"/><l><hi rend="capitalsize1">A</hi>l doechder <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> zulc torment</l>
-<lb n="11" xml:id="Of66v.11"/><l>180 <hi rend="capitalsize1">S</hi>ulc al <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> der <choice><abbr>jogh<g ref="#etfin"/></abbr><expan>jogh</expan></choice> toesent</l>
+<lb n="11" xml:id="Of66v.11"/><l>180 <hi rend="capitalsize1">S</hi>ulc al <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> der <choice><abbr>jogh<g ref="#etfin"/></abbr><expan>jogh<ex>et</ex></expan></choice> toesent</l>
 <lb n="12" xml:id="Of66v.12"/><l><hi rend="capitalsize1">W</hi>ien wast datter af messciede</l>
 <lb n="13" xml:id="Of66v.13"/><l><hi rend="capitalsize1">G</hi>helijc heidenen diede</l>
 
@@ -1503,7 +1499,7 @@
 <lb n="9" xml:id="Of67v.9"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>D</ex></expan></choice> in E veranderd <hi rend="capitalsize1">E</hi>nde an my blijft ghestaede</l>
 <lb n="10" xml:id="Of67v.10"/><l>205 <hi rend="capitalsize1">D</hi>an haer die fierlic haren kin</l>
 <lb n="11" xml:id="Of67v.11"/><l><hi rend="capitalsize1">T</hi>e mywaert draecht <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer ghespin</l>
-<lb n="12" xml:id="Of67v.12"/><l><hi rend="capitalsize1">V</hi>an <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> elder <choice><abbr>dragh<g ref="#etfin"/></abbr><expan>dragh</expan></choice> te zade</l>
+<lb n="12" xml:id="Of67v.12"/><l><hi rend="capitalsize1">V</hi>an <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> elder <choice><abbr>dragh<g ref="#etfin"/></abbr><expan>dragh<ex>et</ex></expan></choice> te zade</l>
 <lb n="13" xml:id="Of67v.13"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dier ic niet om bade.</l>
 
 
@@ -1613,7 +1609,7 @@
 <lb n="4" xml:id="Of71v.4"/><l>290 <hi rend="capitalsize1">D</hi>ie onghetelde gods scat</l>
 <lb n="5" xml:id="Of71v.5"/><l><hi rend="capitalsize1">E</hi>n was noyt ontfaermens lat</l>
 <lb n="6" xml:id="Of71v.6"/><l><hi rend="capitalsize1">S</hi>inen creaturen</l>
-<lb n="7" xml:id="Of71v.7"/><l><hi rend="capitalsize1">V</hi>p dat mens <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> trauwen bat</l>
+<lb n="7" xml:id="Of71v.7"/><l><hi rend="capitalsize1">V</hi>p dat mens <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> trauwen bat</l>
 <lb n="8" xml:id="Of71v.8"/><l><hi rend="capitalsize1">M</hi>aer lucifer zit ende zat</l>
 <lb n="9" xml:id="Of71v.9"/><l>295 <hi rend="capitalsize1">N</hi>u ende telker hueren</l>
 <lb n="10" xml:id="Of71v.10"/><l><hi rend="capitalsize1">J</hi>n der fieren houerden stat</l>
@@ -1627,7 +1623,7 @@
 <lb n="2" xml:id="Of72r.2"/><l><hi rend="capitalsize1">D</hi>at <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> dat by redene weet</l>
 <lb n="3" xml:id="Of72r.3"/><l><hi rend="capitalsize1">W</hi>ien gheeft hi dlanghe leuen</l>
 <lb n="4" xml:id="Of72r.4"/><l><hi rend="capitalsize1">S</hi>o den <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice> die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> es wreet</l>
-<lb n="5" xml:id="Of72r.5"/><l><hi rend="capitalsize1">Z</hi>o die hem <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> heet</l>
+<lb n="5" xml:id="Of72r.5"/><l><hi rend="capitalsize1">Z</hi>o die hem <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> heet</l>
 <lb n="6" xml:id="Of72r.6"/><l>305 <hi rend="capitalsize1">O</hi>nderdaen es bleuen</l>
 <lb n="7" xml:id="Of72r.7"/><l><hi rend="capitalsize1">J</hi>c dart wel <choice><abbr>neme<g ref="#bar"/></abbr><expan>neme<ex>n</ex></expan></choice> vp <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> eet</l>
 <lb n="8" xml:id="Of72r.8"/><l><hi rend="capitalsize1">S</hi>ine hooscheit waere onghecleet</l>
@@ -1795,7 +1791,7 @@
 <lb n="8" xml:id="Of77v.8"/><l><hi rend="capitalsize1">S</hi>ijn werc behoet dat hem ne deere</l>
 <lb n="9" xml:id="Of77v.9"/><l>100 <hi rend="capitalsize1">G</hi>hene dijnc cout no heet</l>
 <lb n="10" xml:id="Of77v.10"/><l><choice><abbr><hi rend="capitalsize1">B</hi>inne<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>inne<ex>n</ex></expan></choice> als die met <choice><abbr>zij<g ref="#bar"/>re</abbr><expan>zij<ex>n</ex>re</expan></choice> leere</l>
-<lb n="11" xml:id="Of77v.11"/><l><hi rend="capitalsize1">S</hi>ijn werc <choice><abbr>v<g ref="#apomod"/>uult</abbr><expan>v<ex>er</ex>uult</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> zulker eere</l>
+<lb n="11" xml:id="Of77v.11"/><l><hi rend="capitalsize1">S</hi>ijn werc <choice><abbr>v<g ref="#apomod"/>uult</abbr><expan>v<ex>er</ex>uult</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> zulker eere</l>
 <lb n="12" xml:id="Of77v.12"/><l><hi rend="capitalsize1">G</hi>hene dinc cout no heet</l>
 <lb n="13" xml:id="Of77v.13"/><l><hi rend="capitalsize1">W</hi>ien lief zij of leet</l>
 
@@ -2000,7 +1996,7 @@
 <lb n="8" xml:id="Of84v.8"/><l><hi rend="capitalsize1">D</hi>at hine sciep om dat hi leere</l>
 <lb n="9" xml:id="Of84v.9"/><l><hi rend="capitalsize1">T</hi>e doene dat god gheboot</l>
 <lb n="10" xml:id="Of84v.10"/><l>270 <hi rend="capitalsize1">E</hi>nde dan <choice><abbr>besitte<g ref="#bar"/></abbr><expan>besitte<ex>n</ex></expan></choice> <choice><abbr>emm<g ref="#apomod"/>meere</abbr><expan>emm<ex>er</ex>meere</expan></choice></l>
-<lb n="11" xml:id="Of84v.11"/><l><hi rend="capitalsize1">D</hi>er inghelen stoel <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>groot<g ref="#apomod"/></abbr><expan>groot<ex>er</ex></expan></choice> eere</l>
+<lb n="11" xml:id="Of84v.11"/><l><hi rend="capitalsize1">D</hi>er inghelen stoel <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>groot<g ref="#apomod"/></abbr><expan>groot<ex>er</ex></expan></choice> eere</l>
 <lb n="12" xml:id="Of84v.12"/><l><hi rend="capitalsize1">E</hi>nde nutten themelsche broot</l>
 <lb n="13" xml:id="Of84v.13"/><l><hi rend="capitalsize1">S</hi>onder enighen wederstoot</l>
 
@@ -2039,7 +2035,7 @@
 
 <pb xml:id="O.f86r" n="86r"/>
 <lb n="1" xml:id="Of86r.1"/><l>300 <hi rend="capitalsize2">A</hi>l gheheel ende alte male</l>
-<lb n="2" xml:id="Of86r.2"/><l><hi rend="capitalsize1">R</hi>uste hi in der <choice><abbr>magh<g ref="#etfin"/></abbr><expan>magh</expan></choice> zale</l>
+<lb n="2" xml:id="Of86r.2"/><l><hi rend="capitalsize1">R</hi>uste hi in der <choice><abbr>magh<g ref="#etfin"/></abbr><expan>magh<ex>et</ex></expan></choice> zale</l>
 <lb n="3" xml:id="Of86r.3"/><l><hi rend="capitalsize1">D</hi>ie godsone gods kint</l>
 <lb n="4" xml:id="Of86r.4"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> al gheheel oec also wale</l>
 <lb n="5" xml:id="Of86r.5"/><l><hi rend="capitalsize1">W</hi>as in des vaders zale</l>
@@ -2112,7 +2108,7 @@
 
 
 <pb xml:id="O.f88v" n="88v"/>
-<lb n="1" xml:id="Of88v.1"/><l><choice><abbr><hi rend="capitalsize1">V</hi>erdome<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>erdome<ex>n</ex></expan></choice> de weerelt <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> scaren</l>
+<lb n="1" xml:id="Of88v.1"/><l><choice><abbr><hi rend="capitalsize1">V</hi>erdome<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>erdome<ex>n</ex></expan></choice> de weerelt <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> scaren</l>
 <lb n="2" xml:id="Of88v.2"/><l>360 <hi rend="capitalsize1">E</hi>nde den helschen viant</l>
 <lb n="3" xml:id="Of88v.3"/><l><hi rend="capitalsize1">S</hi>onne ende mane zal hij <choice><abbr>v<g ref="#apomod"/>claren</abbr><expan>v<ex>er</ex>claren</expan></choice></l>
 <lb n="4" xml:id="Of88v.4"/><l><hi rend="capitalsize1">D</hi>ie bi adaeme <choice><abbr>v<g ref="#apomod"/>donkert</abbr><expan>v<ex>er</ex>donkert</expan></choice> waren</l>

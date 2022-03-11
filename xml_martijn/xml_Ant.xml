@@ -31,11 +31,7 @@
         <group>
             <text n="1" xml:id="sig1">
                 <body>
-                    <p><lb n="34" xml:id="Antf219rb.34"/><l>﻿Op basis van uitgave Sleiderink, Moors en De Schepper <choice><abbr><g ref="#bar"/></abbr><expan><ex>2020</ex></expan></choice></l>
-<lb n="35" xml:id="Antf219rb.35"/><l>Gecontroleerd met foto's en aangepast aan richtlijnen TxT</l>
-
-
-<pb xml:id="Ant.f5ra" n="5ra"/>
+                    <p><pb xml:id="Ant.f5ra" n="5ra"/>
 <lb n="1" xml:id="Antf5ra.1"/><l><damage><gap></gap></damage></l>
 <lb n="2" xml:id="Antf5ra.2"/><l><damage><gap></gap></damage></l>
 <lb n="3" xml:id="Antf5ra.3"/><l><damage><gap></gap></damage>ijt</l>
@@ -88,7 +84,7 @@
 <lb n="9" xml:id="Antf5rb.9"/><l><hi rend="capitalsize1">A</hi>ls d<damage><gap></gap></damage></l>
 <lb n="10" xml:id="Antf5rb.10"/><l><hi rend="capitalsize1">V</hi>an gher<damage><gap></gap></damage></l>
 <lb n="11" xml:id="Antf5rb.11"/><l><hi rend="capitalsize1">D</hi>oet <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> og<damage><gap></gap></damage></l>
-<lb n="12" xml:id="Antf5rb.12"/><l>655 <hi rend="capitalsize1">O</hi>ft <choice><abbr>comt<g ref="#apomod"/></abbr><expan>comt<ex>e<damage><gap></gap></damage></ex></expan></choice></l>
+<lb n="12" xml:id="Antf5rb.12"/><l>655 <hi rend="capitalsize1">O</hi>ft comt<damage><gap></gap></damage></l>
 <lb n="13" xml:id="Antf5rb.13"/><l><hi rend="capitalsize1">D</hi>it euel t<damage><gap></gap></damage></l>
 <lb n="14" xml:id="Antf5rb.14"/><l><hi rend="capitalsize1">I</hi>c liet m<damage><gap></gap></damage></l>
 <lb n="15" xml:id="Antf5rb.15"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ics vr<damage><gap></gap></damage></l>
@@ -102,7 +98,7 @@
 <lb n="23" xml:id="Antf5rb.23"/><l><hi rend="capitalsize1">D</hi>ie noch n<damage><gap></gap></damage></l>
 <lb n="24" xml:id="Antf5rb.24"/><l><hi rend="capitalsize1">A</hi>lrehand<damage><gap></gap></damage></l>
 <lb n="25" xml:id="Antf5rb.25"/><l><hi rend="capitalsize1">C</hi>omt van<damage><gap></gap></damage></l>
-<lb n="26" xml:id="Antf5rb.26"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> noit do<damage><gap></gap></damage></l>
+<lb n="26" xml:id="Antf5rb.26"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> noit do<damage><gap></gap></damage></l>
 <lb n="27" xml:id="Antf5rb.27"/><l>670 <hi rend="capitalsize1">H</hi>em en m<damage><gap></gap></damage></l>
 <lb n="28" xml:id="Antf5rb.28"/><l><hi rend="capitalsize1">D</hi>ie stille <damage><gap></gap></damage></l>
 <lb n="29" xml:id="Antf5rb.29"/><l><damage><gap></gap></damage></l>

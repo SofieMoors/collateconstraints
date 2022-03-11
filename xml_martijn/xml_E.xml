@@ -31,56 +31,53 @@
         <group>
             <text n="1" xml:id="sig1">
                 <body>
-                    <p><lb n="40" xml:id="Ef2vb.40"/><l>Gemaild naar Heidelberg voor foto's. Digitalisatie gebeurd.</l>
-<lb n="41" xml:id="Ef2vb.41"/><l>Foto in mapje Mertens zijn al beter want met UV-licht.</l>
-<lb n="42" xml:id="Ef2vb.42"/><l>Al aangepast aan de richtlijnen.</l>
-<lb n="43" xml:id="Ef2vb.43"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>&1ra&</ex></expan></choice> verloren gegaan, Mone beschreef het wel en dit is de transcriptie</l>
-<lb n="44" xml:id="Ef2vb.44"/><l>al sie ic meer den quaden geheert</l>
-<lb n="45" xml:id="Ef2vb.45"/><l>mijn herte en werdes niet verseert</l>
-<lb n="46" xml:id="Ef2vb.46"/><l>noch in ghênen twiste:</l>
-<lb n="47" xml:id="Ef2vb.47"/><l>al heefti meer dan hi verteert</l>
-<lb n="48" xml:id="Ef2vb.48"/><l>190 ende hi gewint dat hi begeert</l>
-<lb n="49" xml:id="Ef2vb.49"/><l>met scalhêden ende met liste:</l>
-<lb n="50" xml:id="Ef2vb.50"/><l>ghinder wert hi gedestineert</l>
-<lb n="51" xml:id="Ef2vb.51"/><l>ende ghebonden ende ghemeert</l>
-<lb n="52" xml:id="Ef2vb.52"/><l>sine kindere gaen te quiste</l>
-<lb n="53" xml:id="Ef2vb.53"/><l>195 ghelijc ênen miste.</l>
-<lb n="54" xml:id="Ef2vb.54"/><l><hi rend="capitalsize1">M</hi>erten en warstu niet so wreet</l>
-<lb n="55" xml:id="Ef2vb.55"/><l>êne dinc die ic niet en weet</l>
-<lb n="56" xml:id="Ef2vb.56"/><l>soudic u gherne vraghen</l>
-<lb n="57" xml:id="Ef2vb.57"/><l>twi sijn die sonden gode so leet</l>
-<lb n="58" xml:id="Ef2vb.58"/><l>200 dat hi den sondare es so heet</l>
-<lb n="59" xml:id="Ef2vb.59"/><l>in wraken ende in plaghen?</l>
-<lb n="60" xml:id="Ef2vb.60"/><l>want gheen sondare in sonden steet</l>
-<lb n="61" xml:id="Ef2vb.61"/><l>langher dan sijn lijf es breet</l>
-<lb n="62" xml:id="Ef2vb.62"/><l>twi torment hine met slaghen</l>
-<lb n="63" xml:id="Ef2vb.63"/><l>205 ewelijc sonder versceet?</l>
-<lb n="64" xml:id="Ef2vb.64"/><l>dit nes te poente niet ghecleet</l>
-<lb n="65" xml:id="Ef2vb.65"/><l>dordeel torsticx ghewaghen</l>
-<lb n="66" xml:id="Ef2vb.66"/><l>al en wêtict wien claghen.</l>
-<lb n="67" xml:id="Ef2vb.67"/><l>Jacop god die alle herten kint</l>
-<lb n="68" xml:id="Ef2vb.68"/><l>210 sind de <choice><abbr><g ref="#apomod"/></abbr><expan><ex>I.</ex></expan></choice> den sondare recht tormint</l>
-<lb n="69" xml:id="Ef2vb.69"/><l>na der herten ghedochte</l>
-<lb n="70" xml:id="Ef2vb.70"/><l>om dat hi wilt als een rent</l>
-<lb n="71" xml:id="Ef2vb.71"/><l>altoes leven ombekent</l>
-<lb n="72" xml:id="Ef2vb.72"/><l>op dat wesen mochte</l>
-<lb n="73" xml:id="Ef2vb.73"/><l>215 so es hi ter hellen gesent</l>
-<lb n="74" xml:id="Ef2vb.74"/><l>daer hi ewelijc wert gescent</l>
-<lb n="75" xml:id="Ef2vb.75"/><l>want sijn wille dat wrochte.</l>
-<lb n="76" xml:id="Ef2vb.76"/><l>besiet u herte al omtrent</l>
-<lb n="77" xml:id="Ef2vb.77"/><l>dinct u dese redene blent</l>
-<lb n="78" xml:id="Ef2vb.78"/><l>220 die ic haer toe brochte</l>
-<lb n="79" xml:id="Ef2vb.79"/><l>neense diese wel besochte.</l>
-<lb n="80" xml:id="Ef2vb.80"/><l>Merten ghi segt wel ende waer</l>
-<lb n="81" xml:id="Ef2vb.81"/><l>ende dîne redene es claer</l>
-<lb n="82" xml:id="Ef2vb.82"/><l>ende lîcht te verstane.</l>
-<lb n="83" xml:id="Ef2vb.83"/><l>225 alle ghepêns es oppenbaer</l>
-<lb n="84" xml:id="Ef2vb.84"/><l>voer hem die tellet alle haer</l>
-<lb n="85" xml:id="Ef2vb.85"/><l>ende wat die hemel hevet ane</l>
-<lb n="86" xml:id="Ef2vb.86"/><l>ja lôver dach gras ende iaer</l>
-<lb n="87" xml:id="Ef2vb.87"/><l>dropel sants nes hem niet zwaer</l>
-<lb n="88" xml:id="Ef2vb.88"/><l>230 in tellen te bestane.</l>
-<lb n="89" xml:id="Ef2vb.89"/><l>ypocrise heeft hi onmaer</l>
+                    <p><pb xml:id="E.f1ra" n="1ra"/>
+<lb n="1" xml:id="Ef1ra.1"/><l>al sie ic meer den quaden geheert</l>
+<lb n="2" xml:id="Ef1ra.2"/><l>mijn herte en werdes niet verseert</l>
+<lb n="3" xml:id="Ef1ra.3"/><l>noch in ghênen twiste:</l>
+<lb n="4" xml:id="Ef1ra.4"/><l>al heefti meer dan hi verteert</l>
+<lb n="5" xml:id="Ef1ra.5"/><l>190 ende hi gewint dat hi begeert</l>
+<lb n="6" xml:id="Ef1ra.6"/><l>met scalhêden ende met liste:</l>
+<lb n="7" xml:id="Ef1ra.7"/><l>ghinder wert hi gedestineert</l>
+<lb n="8" xml:id="Ef1ra.8"/><l>ende ghebonden ende ghemeert</l>
+<lb n="9" xml:id="Ef1ra.9"/><l>sine kindere gaen te quiste</l>
+<lb n="10" xml:id="Ef1ra.10"/><l>195 ghelijc ênen miste.</l>
+<lb n="11" xml:id="Ef1ra.11"/><l><hi rend="capitalsize1">M</hi>erten en warstu niet so wreet</l>
+<lb n="12" xml:id="Ef1ra.12"/><l>êne dinc die ic niet en weet</l>
+<lb n="13" xml:id="Ef1ra.13"/><l>soudic u gherne vraghen</l>
+<lb n="14" xml:id="Ef1ra.14"/><l>twi sijn die sonden gode so leet</l>
+<lb n="15" xml:id="Ef1ra.15"/><l>200 dat hi den sondare es so heet</l>
+<lb n="16" xml:id="Ef1ra.16"/><l>in wraken ende in plaghen?</l>
+<lb n="17" xml:id="Ef1ra.17"/><l>want gheen sondare in sonden steet</l>
+<lb n="18" xml:id="Ef1ra.18"/><l>langher dan sijn lijf es breet</l>
+<lb n="19" xml:id="Ef1ra.19"/><l>twi torment hine met slaghen</l>
+<lb n="20" xml:id="Ef1ra.20"/><l>205 ewelijc sonder versceet?</l>
+<lb n="21" xml:id="Ef1ra.21"/><l>dit nes te poente niet ghecleet</l>
+<lb n="22" xml:id="Ef1ra.22"/><l>dordeel torsticx ghewaghen</l>
+<lb n="23" xml:id="Ef1ra.23"/><l>al en wêtict wien claghen.</l>
+<lb n="24" xml:id="Ef1ra.24"/><l>Jacop god die alle herten kint</l>
+<lb n="25" xml:id="Ef1ra.25"/><l>210 sind de <choice><abbr><g ref="#apomod"/></abbr><expan><ex>I.</ex></expan></choice> den sondare recht tormint</l>
+<lb n="26" xml:id="Ef1ra.26"/><l>na der herten ghedochte</l>
+<lb n="27" xml:id="Ef1ra.27"/><l>om dat hi wilt als een rent</l>
+<lb n="28" xml:id="Ef1ra.28"/><l>altoes leven ombekent</l>
+<lb n="29" xml:id="Ef1ra.29"/><l>op dat wesen mochte</l>
+<lb n="30" xml:id="Ef1ra.30"/><l>215 so es hi ter hellen gesent</l>
+<lb n="31" xml:id="Ef1ra.31"/><l>daer hi ewelijc wert gescent</l>
+<lb n="32" xml:id="Ef1ra.32"/><l>want sijn wille dat wrochte.</l>
+<lb n="33" xml:id="Ef1ra.33"/><l>besiet u herte al omtrent</l>
+<lb n="34" xml:id="Ef1ra.34"/><l>dinct u dese redene blent</l>
+<lb n="35" xml:id="Ef1ra.35"/><l>220 die ic haer toe brochte</l>
+<lb n="36" xml:id="Ef1ra.36"/><l>neense diese wel besochte.</l>
+<lb n="37" xml:id="Ef1ra.37"/><l>Merten ghi segt wel ende waer</l>
+<lb n="38" xml:id="Ef1ra.38"/><l>ende dîne redene es claer</l>
+<lb n="39" xml:id="Ef1ra.39"/><l>ende lîcht te verstane.</l>
+<lb n="40" xml:id="Ef1ra.40"/><l>225 alle ghepêns es oppenbaer</l>
+<lb n="41" xml:id="Ef1ra.41"/><l>voer hem die tellet alle haer</l>
+<lb n="42" xml:id="Ef1ra.42"/><l>ende wat die hemel hevet ane</l>
+<lb n="43" xml:id="Ef1ra.43"/><l>ja lôver dach gras ende iaer</l>
+<lb n="44" xml:id="Ef1ra.44"/><l>dropel sants nes hem niet zwaer</l>
+<lb n="45" xml:id="Ef1ra.45"/><l>230 in tellen te bestane.</l>
+<lb n="46" xml:id="Ef1ra.46"/><l>ypocrise heeft hi onmaer</l>
 
 
 <pb xml:id="E.f1b" n="1b"/>
@@ -236,7 +233,7 @@
 <pb xml:id="E.f1ra" n="1ra"/>
 <lb n="1" xml:id="Ef1ra.1"/><l><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> tie <hi rend="capitalsize1">R</hi> niet en doet</l>
 <lb n="2" xml:id="Ef1ra.2"/><l><hi rend="capitalsize1">H</hi>ine <choice><abbr>v<g ref="#apomod"/>slit</abbr><expan>v<ex>er</ex>slit</expan></choice> vleesch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> bloet</l>
-<lb n="3" xml:id="Ef1ra.3"/><l><hi rend="capitalsize1">O</hi>p <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> prijs mere</l>
+<lb n="3" xml:id="Ef1ra.3"/><l><hi rend="capitalsize1">O</hi>p <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> prijs mere</l>
 <lb n="4" xml:id="Ef1ra.4"/><l><choice><abbr><hi rend="capitalsize1">D</hi>and<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>and<ex>er</ex></expan></choice> al <choice><abbr>wa<g ref="#apomod"/>e</abbr><expan>wa<ex>r</ex>e</expan></choice> al ghelt die vloet</l>
 <lb n="5" xml:id="Ef1ra.5"/><l>375 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> vloyde <choice><abbr>inde<g ref="#bar"/></abbr><expan>inde<ex>n</ex></expan></choice> moet</l>
 <lb n="6" xml:id="Ef1ra.6"/><l><choice><abbr><hi rend="capitalsize1">H</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">H</hi>e<ex>m</ex></expan></choice> soude alsoe sere</l>
@@ -245,17 +242,17 @@
 <lb n="9" xml:id="Ef1ra.9"/><l><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> die na die ere steet</l>
 <lb n="10" xml:id="Ef1ra.10"/><l>380 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>pine<g ref="#bar"/></abbr><expan>pine<ex>n</ex></expan></choice> <choice><abbr>omde<g ref="#bar"/></abbr><expan>omde<ex>n</ex></expan></choice> scatte</l>
 <lb n="11" xml:id="Ef1ra.11"/><l><hi rend="capitalsize1">W</hi>iltu ere <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> wes gereet</l>
-<lb n="12" xml:id="Ef1ra.12"/><l><hi rend="capitalsize1">T</hi>e latene <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> gode es leet</l>
+<lb n="12" xml:id="Ef1ra.12"/><l><hi rend="capitalsize1">T</hi>e latene <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> gode es leet</l>
 <lb n="13" xml:id="Ef1ra.13"/><l><hi rend="capitalsize1">P</hi>intti te doene datte</l>
-<lb n="14" xml:id="Ef1ra.14"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> lief es <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi heet</l>
-<lb n="15" xml:id="Ef1ra.15"/><l>385 <hi rend="capitalsize1">W</hi>es vromich <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> <choice><abbr>dog<g ref="#etfin"/></abbr><expan>dog</expan></choice> zweet</l>
-<lb n="16" xml:id="Ef1ra.16"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> men dy n en matte</l>
+<lb n="14" xml:id="Ef1ra.14"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> lief es <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> hi heet</l>
+<lb n="15" xml:id="Ef1ra.15"/><l>385 <hi rend="capitalsize1">W</hi>es vromich <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> <choice><abbr>dog<g ref="#etfin"/></abbr><expan>dog<ex>et</ex></expan></choice> zweet</l>
+<lb n="16" xml:id="Ef1ra.16"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> men dy n en matte</l>
 <lb n="17" xml:id="Ef1ra.17"/><l><choice><abbr><hi rend="capitalsize1">O</hi>nd<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">O</hi>nd<ex>er</ex></expan></choice> der <choice><abbr>ydeld<g ref="#apomod"/></abbr><expan>ydeld<ex>er</ex></expan></choice> <choice><abbr>glorie<g ref="#bar"/></abbr><expan>glorie<ex>n</ex></expan></choice> cleet</l>
-<lb n="18" xml:id="Ef1ra.18"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> die meneghe <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> gheet</l>
+<lb n="18" xml:id="Ef1ra.18"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> die meneghe <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> gheet</l>
 <lb n="19" xml:id="Ef1ra.19"/><l><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> <choice><abbr>ha<g ref="#apomod"/>e</abbr><expan>ha<ex>er</ex>e</expan></choice> tonghe platte</l>
 <lb n="20" xml:id="Ef1ra.20"/><l>390 <choice><abbr><hi rend="capitalsize1">S</hi>melte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>melte<ex>n</ex></expan></choice> als snee clatte</l>
 <lb n="21" xml:id="Ef1ra.21"/><l><hi rend="capitalsize2">E</hi>re te <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> es ene dinc</l>
-<lb n="22" xml:id="Ef1ra.22"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> noy <choice><abbr>h<g ref="#apomod"/>te</abbr><expan>h<ex>er</ex>te</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> ghinc</l>
+<lb n="22" xml:id="Ef1ra.22"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> noy <choice><abbr>h<g ref="#apomod"/>te</abbr><expan>h<ex>er</ex>te</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> ghinc</l>
 <lb n="23" xml:id="Ef1ra.23"/><l><hi rend="capitalsize1">S</hi>ine w <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>reyne<g ref="#bar"/></abbr><expan>reyne<ex>n</ex></expan></choice> arde</l>
 <lb n="24" xml:id="Ef1ra.24"/><l><hi rend="capitalsize1">B</hi>estu out oft iongelinc</l>
 <lb n="25" xml:id="Ef1ra.25"/><l>395 <hi rend="capitalsize1">D</hi>oet altoes wel dwinc</l>
@@ -266,12 +263,12 @@
 <lb n="30" xml:id="Ef1ra.30"/><l>400 <choice><abbr><hi rend="capitalsize1">O</hi>nw<g ref="#apomod"/>deghe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">O</hi>nw<ex>aer</ex>deghe<ex>n</ex></expan></choice> lof vliet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>tspri<g ref="#bar"/>c</abbr><expan>o<ex>n</ex>tspri<ex>n</ex>c</expan></choice></l>
 <lb n="31" xml:id="Ef1ra.31"/><l><hi rend="capitalsize1">D</hi>ie <choice><abbr>meneghe<g ref="#bar"/></abbr><expan>meneghe<ex>n</ex></expan></choice> vaet <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>wile<g ref="#bar"/></abbr><expan>wile<ex>n</ex></expan></choice> vinc</l>
 <lb n="32" xml:id="Ef1ra.32"/><l><hi rend="capitalsize1">D</hi>ie dat wort begaerde</l>
-<lb n="33" xml:id="Ef1ra.33"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>weldoe<g ref="#bar"/></abbr><expan>weldoe<ex>n</ex></expan></choice> sparde</l>
+<lb n="33" xml:id="Ef1ra.33"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>weldoe<g ref="#bar"/></abbr><expan>weldoe<ex>n</ex></expan></choice> sparde</l>
 <lb n="34" xml:id="Ef1ra.34"/><l><hi rend="capitalsize2">G</hi>oet te <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> scat</l>
 <lb n="35" xml:id="Ef1ra.35"/><l>405 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> met <choice><abbr>ere<g ref="#bar"/></abbr><expan>ere<ex>n</ex></expan></choice> te <choice><abbr>nutte<g ref="#bar"/></abbr><expan>nutte<ex>n</ex></expan></choice> dat</l>
 <lb n="36" xml:id="Ef1ra.36"/><l><hi rend="capitalsize1">D</hi>ats <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> salich <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
 <lb n="37" xml:id="Ef1ra.37"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> gods <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> maect <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> gat</l>
-<lb n="38" xml:id="Ef1ra.38"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>ne<g ref="#bar"/>mermeer</abbr><expan>ne<ex>m</ex>mermeer</expan></choice> mach <choice><abbr>w<g ref="#apomod"/>de<g ref="#bar"/></abbr><expan>w<ex>er</ex>de<ex>n</ex></expan></choice> sat</l>
+<lb n="38" xml:id="Ef1ra.38"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>ne<g ref="#bar"/>mermeer</abbr><expan>ne<ex>m</ex>mermeer</expan></choice> mach <choice><abbr>w<g ref="#apomod"/>de<g ref="#bar"/></abbr><expan>w<ex>er</ex>de<ex>n</ex></expan></choice> sat</l>
 <lb n="39" xml:id="Ef1ra.39"/><l><hi rend="capitalsize1">A</hi>l wilde <choice><abbr>me<g ref="#bar"/>t</abbr><expan>me<ex>n</ex>t</expan></choice> <choice><abbr>ha<g ref="#apomod"/></abbr><expan>ha<ex>er</ex></expan></choice> al gheven</l>
 <lb n="40" xml:id="Ef1ra.40"/><l>410 <hi rend="capitalsize1">M</hi>inne van goede es ghehadt</l>
 <lb n="41" xml:id="Ef1ra.41"/><l><hi rend="capitalsize1">V</hi>oer gode <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> die hoghe stad</l>
@@ -286,7 +283,7 @@
 <lb n="1" xml:id="Ef1rb.1"/><l><hi rend="capitalsize2">D</hi>Ie derde <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> eyscht <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> tijt</l>
 <lb n="2" xml:id="Ef1rb.2"/><l><hi rend="capitalsize1">A</hi>lse bi naturen elc ontb</l>
 <lb n="3" xml:id="Ef1rb.3"/><l><hi rend="capitalsize1">D</hi>ie bloyende iare</l>
-<lb n="4" xml:id="Ef1rb.4"/><l>420 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>s</abbr><expan><hi rend="capitalsize1">D</hi>s</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> edelste delijt</l>
+<lb n="4" xml:id="Ef1rb.4"/><l>420 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>s</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>s</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> edelste delijt</l>
 <lb n="5" xml:id="Ef1rb.5"/><l>421 <hi rend="capitalsize1">A</hi>lse <choice><abbr>ha<g ref="#apomod"/></abbr><expan>ha<ex>re</ex></expan></choice> scamelheit besnijt</l>
 <lb n="6" xml:id="Ef1rb.6"/><l>425 <hi rend="capitalsize1">G</hi>helijc oft al haer ware</l>
 <lb n="7" xml:id="Ef1rb.7"/><l>423 <choice><abbr><hi rend="capitalsize1">D</hi>ieme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>ieme<ex>n</ex></expan></choice> vint <choice><abbr>t<g ref="#apomod"/></abbr><expan>t<ex>er</ex></expan></choice> <choice><abbr>we<g ref="#apomod"/>lt</abbr><expan>we<ex>re</ex>lt</expan></choice> wijt</l>
@@ -300,8 +297,8 @@
 <lb n="15" xml:id="Ef1rb.15"/><l><hi rend="capitalsize1">C</hi>racht die II. <choice><abbr>h<g ref="#apomod"/>te<g ref="#bar"/></abbr><expan>h<ex>er</ex>te<ex>n</ex></expan></choice> <choice><abbr>tsame<g ref="#bar"/></abbr><expan>tsame<ex>n</ex></expan></choice> bint</l>
 <lb n="16" xml:id="Ef1rb.16"/><l><hi rend="capitalsize1">I</hi>n <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>reyne<g ref="#bar"/></abbr><expan>reyne<ex>n</ex></expan></choice> wane</l>
 <lb n="17" xml:id="Ef1rb.17"/><l><hi rend="capitalsize1">D</hi>attie <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> hetet blint</l>
-<lb n="18" xml:id="Ef1rb.18"/><l><hi rend="capitalsize1">C</hi>omt <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> menich es so kint</l>
-<lb n="19" xml:id="Ef1rb.19"/><l>435 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>ti</abbr><expan><hi rend="capitalsize1">D</hi>ti</expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> laet <choice><abbr>v<g ref="#apomod"/>spanen</abbr><expan>v<ex>er</ex>spanen</expan></choice></l>
+<lb n="18" xml:id="Ef1rb.18"/><l><hi rend="capitalsize1">C</hi>omt <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> menich es so kint</l>
+<lb n="19" xml:id="Ef1rb.19"/><l>435 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>ti</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>ti</expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> laet <choice><abbr>v<g ref="#apomod"/>spanen</abbr><expan>v<ex>er</ex>spanen</expan></choice></l>
 <lb n="20" xml:id="Ef1rb.20"/><l><hi rend="capitalsize1">S</hi>ine <choice><abbr>co<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>co<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> n <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> <choice><abbr>twi<g ref="#bar"/>t</abbr><expan>twi<ex>n</ex>t</expan></choice></l>
 <lb n="21" xml:id="Ef1rb.21"/><l><hi rend="capitalsize1">D</hi>ie wandel <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> als die wint</l>
 <lb n="22" xml:id="Ef1rb.22"/><l><hi rend="capitalsize1">S</hi>i <choice><abbr>rolle<g ref="#bar"/></abbr><expan>rolle<ex>n</ex></expan></choice> <choice><abbr>bute<g ref="#bar"/></abbr><expan>bute<ex>n</ex></expan></choice> banen</l>
@@ -313,7 +310,7 @@
 <lb n="28" xml:id="Ef1rb.28"/><l><hi rend="capitalsize1">H</hi>et <choice><abbr>segghe<g ref="#bar"/></abbr><expan>segghe<ex>n</ex></expan></choice> al <choice><abbr>h<g ref="#apomod"/>en</abbr><expan>h<ex>er</ex>en</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> knecht</l>
 <lb n="29" xml:id="Ef1rb.29"/><l>445 <choice><abbr><hi rend="capitalsize1">V</hi><g ref="#apomod"/>uwen</abbr><expan><hi rend="capitalsize1">V</hi><ex>ro</ex>uwen</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ioffrouwen</l>
 <lb n="30" xml:id="Ef1rb.30"/><l><hi rend="capitalsize1">I</hi>n sanghe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> rime slecht</l>
-<lb n="31" xml:id="Ef1rb.31"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> si <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>plecht</abbr><expan>v<ex>er</ex>plecht</expan></choice></l>
+<lb n="31" xml:id="Ef1rb.31"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> si <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>plecht</abbr><expan>v<ex>er</ex>plecht</expan></choice></l>
 <lb n="32" xml:id="Ef1rb.32"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>cae<g ref="#bar"/>t</abbr><expan>cae<ex>n</ex>t</expan></choice> gescouwen</l>
 <lb n="33" xml:id="Ef1rb.33"/><l><hi rend="capitalsize1">M</hi>i dinct al die <choice><abbr>we<g ref="#apomod"/>lt</abbr><expan>we<ex>re</ex>lt</expan></choice> vecht</l>
 <lb n="34" xml:id="Ef1rb.34"/><l>450 <choice><abbr><hi rend="capitalsize1">I</hi>eghe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">I</hi>eghe<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>reynd<g ref="#apomod"/></abbr><expan>reynd<ex>er</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> lecht</l>
@@ -325,21 +322,21 @@
 <lb n="40" xml:id="Ef1rb.40"/><l><hi rend="capitalsize2">I</hi>acop ghi hebt my geuraegt</l>
 <lb n="41" xml:id="Ef1rb.41"/><l><hi rend="capitalsize1">I</hi>c <choice><abbr>antw<g ref="#apomod"/>t</abbr><expan>antw<ex>oer</ex>t</expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>draegt</abbr><expan>v<ex>er</ex>draegt</expan></choice></l>
 <lb n="42" xml:id="Ef1rb.42"/><l><hi rend="capitalsize1">N</hi>v willic <choice><abbr>m<g ref="#apomod"/>ten</abbr><expan>m<ex>er</ex>ten</expan></choice> vraghen</l>
-<lb n="43" xml:id="Ef1rb.43"/><l><choice><abbr><hi rend="capitalsize1">W</hi>ae<g ref="#bar"/>di</abbr><expan><hi rend="capitalsize1">W</hi>ae<ex>n</ex>di</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> my wel behaegt</l>
-<lb n="44" xml:id="Ef1rb.44"/><l>460 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> ghi my <choice><abbr>d<g ref="#usmod"/></abbr><expan>d<ex>us</ex></expan></choice> hebt geiaegt</l>
+<lb n="43" xml:id="Ef1rb.43"/><l><choice><abbr><hi rend="capitalsize1">W</hi>ae<g ref="#bar"/>di</abbr><expan><hi rend="capitalsize1">W</hi>ae<ex>n</ex>di</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> my wel behaegt</l>
+<lb n="44" xml:id="Ef1rb.44"/><l>460 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> ghi my <choice><abbr>d<g ref="#usmod"/></abbr><expan>d<ex>us</ex></expan></choice> hebt geiaegt</l>
 <lb n="45" xml:id="Ef1rb.45"/><l><choice><abbr><hi rend="capitalsize1">N</hi>ee<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">N</hi>ee<ex>n</ex>t</expan></choice> wistict <choice><abbr>wie<g ref="#bar"/></abbr><expan>wie<ex>n</ex></expan></choice> <choice><abbr>claghe<g ref="#bar"/></abbr><expan>claghe<ex>n</ex></expan></choice></l>
-<lb n="46" xml:id="Ef1rb.46"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/>te<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>er</ex>te<ex>n</ex></expan></choice> <choice><abbr>vrie<g ref="#bar"/>t</abbr><expan>vrie<ex>n</ex>t</expan></choice> <choice><abbr>w<g ref="#etfin"/></abbr><expan>w</expan></choice> hulpt geclaegt</l>
+<lb n="46" xml:id="Ef1rb.46"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/>te<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>er</ex>te<ex>n</ex></expan></choice> <choice><abbr>vrie<g ref="#bar"/>t</abbr><expan>vrie<ex>n</ex>t</expan></choice> <choice><abbr>w<g ref="#etfin"/></abbr><expan>w<ex>at</ex></expan></choice> hulpt geclaegt</l>
 
 
 <pb xml:id="E.f1va" n="1va"/>
-<lb n="1" xml:id="Ef1va.1"/><l><hi rend="capitalsize1">V</hi>raegt <choice><abbr>d<g ref="#etfin"/>tu</abbr><expan>dtu</expan></choice> wils ic waegt</l>
+<lb n="1" xml:id="Ef1va.1"/><l><hi rend="capitalsize1">V</hi>raegt <choice><abbr>d<g ref="#etfin"/>tu</abbr><expan>d<ex>at</ex>tu</expan></choice> wils ic waegt</l>
 <lb n="2" xml:id="Ef1va.2"/><l><hi rend="capitalsize1">I</hi>c wilt al <choice><abbr>v<g ref="#apomod"/>draghen</abbr><expan>v<ex>er</ex>draghen</expan></choice></l>
 <lb n="3" xml:id="Ef1va.3"/><l>465 <hi rend="capitalsize1">G</hi>od hulpe my want hy <choice><abbr>v<g ref="#apomod"/>maegt</abbr><expan>v<ex>er</ex>maegt</expan></choice></l>
-<lb n="4" xml:id="Ef1va.4"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> sin so <choice><abbr>w<g ref="#apomod"/>de</abbr><expan>w<ex>er</ex>de</expan></choice> geuaegt</l>
-<lb n="5" xml:id="Ef1va.5"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> v moet behaghen</l>
+<lb n="4" xml:id="Ef1va.4"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> sin so <choice><abbr>w<g ref="#apomod"/>de</abbr><expan>w<ex>er</ex>de</expan></choice> geuaegt</l>
+<lb n="5" xml:id="Ef1va.5"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> v moet behaghen</l>
 <lb n="6" xml:id="Ef1va.6"/><l><hi rend="capitalsize1">I</hi>c wille <choice><abbr>danw<g ref="#apomod"/>de</abbr><expan>danw<ex>oer</ex>de</expan></choice> <choice><abbr>draghe<g ref="#bar"/></abbr><expan>draghe<ex>n</ex></expan></choice></l>
 <lb n="7" xml:id="Ef1va.7"/><l><hi rend="capitalsize2">I</hi>acop nv berecht my</l>
-<lb n="8" xml:id="Ef1va.8"/><l>470 <hi rend="capitalsize1">O</hi>f <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> volc <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> sy</l>
+<lb n="8" xml:id="Ef1va.8"/><l>470 <hi rend="capitalsize1">O</hi>f <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> volc <choice><abbr>come<g ref="#bar"/></abbr><expan>come<ex>n</ex></expan></choice> sy</l>
 <lb n="9" xml:id="Ef1va.9"/><l><choice><abbr><hi rend="capitalsize1">V</hi>ande<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>ande<ex>n</ex></expan></choice> <choice><abbr>yerste<g ref="#bar"/></abbr><expan>yerste<ex>n</ex></expan></choice> adame</l>
 <lb n="10" xml:id="Ef1va.10"/><l><hi rend="capitalsize1">T</hi>wi eest <choice><abbr>dee<g ref="#bar"/></abbr><expan>dee<ex>n</ex></expan></choice> edel <choice><abbr>dand<g ref="#apomod"/></abbr><expan>dand<ex>er</ex></expan></choice> vry</l>
 <lb n="11" xml:id="Ef1va.11"/><l><hi rend="capitalsize1">D</hi>ie derde <choice><abbr>eyghe<g ref="#bar"/></abbr><expan>eyghe<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> <choice><abbr>da<g ref="#apomod"/></abbr><expan>da<ex>er</ex></expan></choice> by</l>
@@ -349,7 +346,7 @@
 <lb n="15" xml:id="Ef1va.15"/><l><hi rend="capitalsize1">D</hi>v best <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>we<g ref="#apomod"/>lt</abbr><expan>we<ex>re</ex>lt</expan></choice> scame</l>
 <lb n="16" xml:id="Ef1va.16"/><l><hi rend="capitalsize1">D</hi>ie edele heuet al tgecri</l>
 <lb n="17" xml:id="Ef1va.17"/><l><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> seit willecome ghy</l>
-<lb n="18" xml:id="Ef1va.18"/><l>480 <hi rend="capitalsize1">D</hi>it doet <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> ic my <choice><abbr>verg<hi rend="superscript">u</hi>me</abbr><expan>verg<ex>ra</ex>me</expan></choice></l>
+<lb n="18" xml:id="Ef1va.18"/><l>480 <hi rend="capitalsize1">D</hi>it doet <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> ic my <choice><abbr>verg<hi rend="superscript">u</hi>me</abbr><expan>verg<ex>ra</ex>me</expan></choice></l>
 <lb n="19" xml:id="Ef1va.19"/><l><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> het dinct my ontame</l>
 <lb n="20" xml:id="Ef1va.20"/><l><choice><abbr><hi rend="capitalsize2">M</hi>erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize2">M</hi>erte<ex>n</ex></expan></choice> menich es bedect</l>
 <lb n="21" xml:id="Ef1va.21"/><l><hi rend="capitalsize1">D</hi>ie <choice><abbr>di<g ref="#bar"/>c</abbr><expan>di<ex>n</ex>c</expan></choice> <choice><abbr>da<g ref="#apomod"/></abbr><expan>da<ex>er</ex></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> sin op mect</l>
@@ -361,69 +358,69 @@
 <lb n="27" xml:id="Ef1va.27"/><l><hi rend="capitalsize1">A</hi>l <choice><abbr>wa<g ref="#apomod"/></abbr><expan>wa<ex>re</ex></expan></choice> hi <choice><abbr>duse<g ref="#bar"/>tvout</abbr><expan>duse<ex>n</ex>tvout</expan></choice> beulect</l>
 <lb n="28" xml:id="Ef1va.28"/><l>490 <hi rend="capitalsize1">T</hi>gelt <choice><abbr>claerte<g ref="#bar"/></abbr><expan>claerte<ex>n</ex></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>t<g ref="#apomod"/>re</abbr><expan>t<ex>er</ex>re</expan></choice></l>
 <lb n="29" xml:id="Ef1va.29"/><l><hi rend="capitalsize1">D</hi>its die <choice><abbr>di<g ref="#bar"/>c</abbr><expan>di<ex>n</ex>c</expan></choice> die <choice><abbr>liede<g ref="#bar"/></abbr><expan>liede<ex>n</ex></expan></choice> wect</l>
-<lb n="30" xml:id="Ef1va.30"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> elc tsine te <choice><abbr>wi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>wi<ex>n</ex>ne<ex>n</ex></expan></choice> trect</l>
+<lb n="30" xml:id="Ef1va.30"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> elc tsine te <choice><abbr>wi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>wi<ex>n</ex>ne<ex>n</ex></expan></choice> trect</l>
 <lb n="31" xml:id="Ef1va.31"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>maect<g ref="#apomod"/></abbr><expan>maect<ex>er</ex></expan></choice> gode om erre</l>
 <lb n="32" xml:id="Ef1va.32"/><l><hi rend="capitalsize1">E</hi>ntie ziele in werre</l>
-<lb n="33" xml:id="Ef1va.33"/><l>495 <hi rend="capitalsize2">S</hi>ulc <choice><abbr>wae<g ref="#bar"/>t</abbr><expan>wae<ex>n</ex>t</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> tfolc <choice><abbr>eyghij<g ref="#bar"/></abbr><expan>eyghij<ex>n</ex></expan></choice></l>
+<lb n="33" xml:id="Ef1va.33"/><l>495 <hi rend="capitalsize2">S</hi>ulc <choice><abbr>wae<g ref="#bar"/>t</abbr><expan>wae<ex>n</ex>t</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> tfolc <choice><abbr>eyghij<g ref="#bar"/></abbr><expan>eyghij<ex>n</ex></expan></choice></l>
 <lb n="34" xml:id="Ef1va.34"/><l><choice><abbr><hi rend="capitalsize1">C</hi>ome<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">C</hi>ome<ex>n</ex></expan></choice> es <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>quade<g ref="#bar"/></abbr><expan>quade<ex>n</ex></expan></choice> <choice><abbr>cay<g ref="#bar"/></abbr><expan>cay<ex>n</ex></expan></choice></l>
 <lb n="35" xml:id="Ef1va.35"/><l><hi rend="capitalsize1">D</hi>ie <choice><abbr>v<g ref="#apomod"/>morde</abbr><expan>v<ex>er</ex>morde</expan></choice> <choice><abbr>ab<g ref="#apomod"/>lle</abbr><expan>ab<ex>e</ex>lle</expan></choice></l>
 <lb n="36" xml:id="Ef1va.36"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> die god <choice><abbr>v<g ref="#apomod"/>doe<g ref="#bar"/>t</abbr><expan>v<ex>er</ex>doe<ex>m</ex>t</expan></choice> hiet <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice></l>
 <lb n="37" xml:id="Ef1va.37"/><l><hi rend="capitalsize1">D</hi>it nes n <choice><abbr>wa<g ref="#apomod"/></abbr><expan>wa<ex>er</ex></expan></choice> mertijn</l>
 <lb n="38" xml:id="Ef1va.38"/><l>500 <hi rend="capitalsize1">B</hi>i <choice><abbr>rededene<g ref="#bar"/></abbr><expan>rededene<ex>n</ex></expan></choice> die ic telle</l>
 <lb n="39" xml:id="Ef1va.39"/><l><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> seit die bibele <choice><abbr>fij<g ref="#bar"/></abbr><expan>fij<ex>n</ex></expan></choice></l>
-<lb n="40" xml:id="Ef1va.40"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> al <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> gheslechte <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice></l>
+<lb n="40" xml:id="Ef1va.40"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> al <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> gheslechte <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice></l>
 <lb n="41" xml:id="Ef1va.41"/><l><choice><abbr><hi rend="capitalsize1">V</hi><g ref="#apomod"/>dra<g ref="#bar"/>c</abbr><expan><hi rend="capitalsize1">V</hi><ex>er</ex>dra<ex>n</ex>c</expan></choice> <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> die delouie felle</l>
-<lb n="42" xml:id="Ef1va.42"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> valsce dorplijc <choice><abbr>fenij<g ref="#bar"/></abbr><expan>fenij<ex>n</ex></expan></choice></l>
-<lb n="43" xml:id="Ef1va.43"/><l>505 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>cay<g ref="#bar"/></abbr><expan>cay<ex>n</ex></expan></choice> droech <choice><abbr>d<g ref="#etfin"/>s</abbr><expan>ds</expan></choice> <choice><abbr>anschij<g ref="#bar"/></abbr><expan>anschij<ex>n</ex></expan></choice></l>
+<lb n="42" xml:id="Ef1va.42"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> valsce dorplijc <choice><abbr>fenij<g ref="#bar"/></abbr><expan>fenij<ex>n</ex></expan></choice></l>
+<lb n="43" xml:id="Ef1va.43"/><l>505 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>cay<g ref="#bar"/></abbr><expan>cay<ex>n</ex></expan></choice> droech <choice><abbr>d<g ref="#etfin"/>s</abbr><expan>d<ex>at</ex>s</expan></choice> <choice><abbr>anschij<g ref="#bar"/></abbr><expan>anschij<ex>n</ex></expan></choice></l>
 <lb n="44" xml:id="Ef1va.44"/><l><hi rend="capitalsize1">A</hi>n <choice><abbr>meneghe<g ref="#bar"/></abbr><expan>meneghe<ex>n</ex></expan></choice> die ic telle</l>
 <lb n="45" xml:id="Ef1va.45"/><l><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> <choice><abbr>h<g ref="#apomod"/>ten</abbr><expan>h<ex>er</ex>ten</expan></choice> sijn gheselle</l>
-<lb n="46" xml:id="Ef1va.46"/><l><hi rend="capitalsize2">S</hi>ulc <choice><abbr>wae<g ref="#bar"/>t</abbr><expan>wae<ex>n</ex>t</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>quade<g ref="#bar"/></abbr><expan>quade<ex>n</ex></expan></choice> <choice><abbr>ca<g ref="#bar"/></abbr><expan>ca<ex>m</ex></expan></choice></l>
+<lb n="46" xml:id="Ef1va.46"/><l><hi rend="capitalsize2">S</hi>ulc <choice><abbr>wae<g ref="#bar"/>t</abbr><expan>wae<ex>n</ex>t</expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>quade<g ref="#bar"/></abbr><expan>quade<ex>n</ex></expan></choice> <choice><abbr>ca<g ref="#bar"/></abbr><expan>ca<ex>m</ex></expan></choice></l>
 
 
 <pb xml:id="E.f1vb" n="1vb"/>
 <lb n="1" xml:id="Ef1vb.1"/><l><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> noe <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> <choice><abbr>vad<g ref="#apomod"/></abbr><expan>vad<ex>er</ex></expan></choice> was gram</l>
-<lb n="2" xml:id="Ef1vb.2"/><l>510 <hi rend="capitalsize1">O</hi>m <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> hine niet en decte</l>
-<lb n="3" xml:id="Ef1vb.3"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>eyghe<g ref="#bar"/></abbr><expan>eyghe<ex>n</ex></expan></choice> volc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> quam</l>
+<lb n="2" xml:id="Ef1vb.2"/><l>510 <hi rend="capitalsize1">O</hi>m <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> hine niet en decte</l>
+<lb n="3" xml:id="Ef1vb.3"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>eyghe<g ref="#bar"/></abbr><expan>eyghe<ex>n</ex></expan></choice> volc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> quam</l>
 <lb n="4" xml:id="Ef1vb.4"/><l><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> des <choice><abbr>vad<g ref="#apomod"/>s</abbr><expan>vad<ex>er</ex>s</expan></choice> vloec <choice><abbr>mesqua<g ref="#bar"/></abbr><expan>mesqua<ex>m</ex></expan></choice></l>
 <lb n="5" xml:id="Ef1vb.5"/><l><hi rend="capitalsize1">H</hi>i doelde <choice><abbr>di<g ref="#apomod"/>e</abbr><expan>di<ex>er</ex>e</expan></choice> op micte</l>
-<lb n="6" xml:id="Ef1vb.6"/><l><hi rend="capitalsize1">A</hi>l <choice><abbr>vi<g ref="#bar"/>tme<g ref="#bar"/></abbr><expan>vi<ex>n</ex>tme<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> die goede <choice><abbr>ra<g ref="#bar"/></abbr><expan>ra<ex>m</ex></expan></choice></l>
+<lb n="6" xml:id="Ef1vb.6"/><l><hi rend="capitalsize1">A</hi>l <choice><abbr>vi<g ref="#bar"/>tme<g ref="#bar"/></abbr><expan>vi<ex>n</ex>tme<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> die goede <choice><abbr>ra<g ref="#bar"/></abbr><expan>ra<ex>m</ex></expan></choice></l>
 <lb n="7" xml:id="Ef1vb.7"/><l>515 <hi rend="capitalsize1">D</hi>icke <choice><abbr>wi<g ref="#bar"/>t</abbr><expan>wi<ex>n</ex>t</expan></choice> dongaue lam</l>
 <lb n="8" xml:id="Ef1vb.8"/><l><hi rend="capitalsize1">D</hi>its <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> rudarise secte</l>
 <lb n="9" xml:id="Ef1vb.9"/><l><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/>de<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>edele<g ref="#bar"/></abbr><expan>edele<ex>n</ex></expan></choice> abraham</l>
 <lb n="10" xml:id="Ef1vb.10"/><l><choice><abbr><hi rend="capitalsize1">Q</hi>ua<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">Q</hi>ua<ex>m</ex></expan></choice> <choice><abbr>eyghe<g ref="#bar"/></abbr><expan>eyghe<ex>n</ex></expan></choice> volc alsic <choice><abbr>v<g ref="#apomod"/>na<g ref="#bar"/></abbr><expan>v<ex>er</ex>na<ex>m</ex></expan></choice></l>
 <lb n="11" xml:id="Ef1vb.11"/><l><hi rend="capitalsize1">D</hi>ie oyt ter <choice><abbr>ere<g ref="#bar"/></abbr><expan>ere<ex>n</ex></expan></choice> trecte</l>
 <lb n="12" xml:id="Ef1vb.12"/><l>520 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> noyt beulecte</l>
-<lb n="13" xml:id="Ef1vb.13"/><l><choice><abbr><hi rend="capitalsize2">M</hi>erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize2">M</hi>erte<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> duutsce loy <choice><abbr>v<g ref="#apomod"/>telt</abbr><expan>v<ex>er</ex>telt</expan></choice></l>
-<lb n="14" xml:id="Ef1vb.14"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>onrecht<g ref="#apomod"/></abbr><expan>onrecht<ex>er</ex></expan></choice> gewelt</l>
+<lb n="13" xml:id="Ef1vb.13"/><l><choice><abbr><hi rend="capitalsize2">M</hi>erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize2">M</hi>erte<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> duutsce loy <choice><abbr>v<g ref="#apomod"/>telt</abbr><expan>v<ex>er</ex>telt</expan></choice></l>
+<lb n="14" xml:id="Ef1vb.14"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>onrecht<g ref="#apomod"/></abbr><expan>onrecht<ex>er</ex></expan></choice> gewelt</l>
 <lb n="15" xml:id="Ef1vb.15"/><l><hi rend="capitalsize1">E</hi>ygendom es comen</l>
 <lb n="16" xml:id="Ef1vb.16"/><l><hi rend="capitalsize1">A</hi>ls <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> <choice><abbr>p<g ref="#apomod"/>nce</abbr><expan>p<ex>ri</ex>nce</expan></choice> wan wijch op tfelt</l>
-<lb n="17" xml:id="Ef1vb.17"/><l>525 <hi rend="capitalsize1">T</hi>folc <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> te liue helt</l>
+<lb n="17" xml:id="Ef1vb.17"/><l>525 <hi rend="capitalsize1">T</hi>folc <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> te liue helt</l>
 <lb n="18" xml:id="Ef1vb.18"/><l><hi rend="capitalsize1">D</hi>ede <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>doemen</abbr><expan>v<ex>er</ex>doemen</expan></choice></l>
 <lb n="19" xml:id="Ef1vb.19"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>cope<g ref="#bar"/></abbr><expan>v<ex>er</ex>cope<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> ghelt</l>
-<lb n="20" xml:id="Ef1vb.20"/><l><hi rend="capitalsize1">D</hi>its tfolc <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>eyghe<g ref="#bar"/></abbr><expan>eyghe<ex>n</ex></expan></choice> scelt</l>
-<lb n="21" xml:id="Ef1vb.21"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> scalc hoort <choice><abbr>noeme<g ref="#bar"/></abbr><expan>noeme<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="Ef1vb.20"/><l><hi rend="capitalsize1">D</hi>its tfolc <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>eyghe<g ref="#bar"/></abbr><expan>eyghe<ex>n</ex></expan></choice> scelt</l>
+<lb n="21" xml:id="Ef1vb.21"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> scalc hoort <choice><abbr>noeme<g ref="#bar"/></abbr><expan>noeme<ex>n</ex></expan></choice></l>
 <lb n="22" xml:id="Ef1vb.22"/><l>530 <choice><abbr><hi rend="capitalsize1">N</hi>atu<g ref="#apomod"/>e</abbr><expan><hi rend="capitalsize1">N</hi>atu<ex>r</ex>e</expan></choice> gaet <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> <choice><abbr>rechte<g ref="#bar"/></abbr><expan>rechte<ex>n</ex></expan></choice> telt</l>
 <lb n="23" xml:id="Ef1vb.23"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> <choice><abbr>auo<g ref="#bar"/>tu<g ref="#apomod"/>e</abbr><expan>auo<ex>n</ex>tu<ex>r</ex>e</expan></choice> wast <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> smelt</l>
 <lb n="24" xml:id="Ef1vb.24"/><l><choice><abbr><hi rend="capitalsize1">M</hi>eneghe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>eneghe<ex>n</ex></expan></choice> te <choice><abbr>vrome<g ref="#bar"/></abbr><expan>vrome<ex>n</ex></expan></choice></l>
 <lb n="25" xml:id="Ef1vb.25"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>tonn<g ref="#apomod"/>en</abbr><expan>tonn<ex>er</ex>en</expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> somen</l>
 <lb n="26" xml:id="Ef1vb.26"/><l><hi rend="capitalsize2">G</hi>od gedoget <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> onse mesdaet</l>
-<lb n="27" xml:id="Ef1vb.27"/><l>535 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> geslechte <choice><abbr>tond<g ref="#apomod"/></abbr><expan>tond<ex>er</ex></expan></choice> gaet</l>
+<lb n="27" xml:id="Ef1vb.27"/><l>535 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> geslechte <choice><abbr>tond<g ref="#apomod"/></abbr><expan>tond<ex>er</ex></expan></choice> gaet</l>
 <lb n="28" xml:id="Ef1vb.28"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> een <choice><abbr>and<g ref="#apomod"/></abbr><expan>and<ex>er</ex></expan></choice> riset</l>
 <lb n="29" xml:id="Ef1vb.29"/><l><hi rend="capitalsize1">W</hi>ie mach <choice><abbr>wete<g ref="#bar"/></abbr><expan>wete<ex>n</ex></expan></choice> <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> staet</l>
 <lb n="30" xml:id="Ef1vb.30"/><l><hi rend="capitalsize1">H</hi>i weet wiene <choice><abbr>mi<g ref="#bar"/>t</abbr><expan>mi<ex>n</ex>t</expan></choice> oft haet</l>
 <lb n="31" xml:id="Ef1vb.31"/><l><hi rend="capitalsize1">D</hi>ie al die <choice><abbr>we<g ref="#apomod"/>lt</abbr><expan>we<ex>re</ex>lt</expan></choice> spiset</l>
 <lb n="32" xml:id="Ef1vb.32"/><l>540 <hi rend="capitalsize1">D</hi>ie meest <choice><abbr>tsine<g ref="#bar"/></abbr><expan>tsine<ex>n</ex></expan></choice> <choice><abbr>die<g ref="#bar"/>ste</abbr><expan>die<ex>n</ex>ste</expan></choice> staet</l>
-<lb n="33" xml:id="Ef1vb.33"/><l><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> seit <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> oer sijn saet</l>
+<lb n="33" xml:id="Ef1vb.33"/><l><choice><abbr><hi rend="capitalsize1">M</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>e<ex>n</ex></expan></choice> seit <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> oer sijn saet</l>
 <lb n="34" xml:id="Ef1vb.34"/><l><hi rend="capitalsize1">M</hi>eest in eren riset</l>
 <lb n="35" xml:id="Ef1vb.35"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> alse tfolc <choice><abbr>w<g ref="#apomod"/>t</abbr><expan>w<ex>er</ex>t</expan></choice> so quaet</l>
-<lb n="36" xml:id="Ef1vb.36"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> die wet gods <choice><abbr>v<g ref="#apomod"/>smaet</abbr><expan>v<ex>er</ex>smaet</expan></choice></l>
+<lb n="36" xml:id="Ef1vb.36"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> die wet gods <choice><abbr>v<g ref="#apomod"/>smaet</abbr><expan>v<ex>er</ex>smaet</expan></choice></l>
 <lb n="37" xml:id="Ef1vb.37"/><l>545 <hi rend="capitalsize1">W</hi>erdet te valle ghewiset</l>
 <lb n="38" xml:id="Ef1vb.38"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>nieme<g ref="#bar"/></abbr><expan>nieme<ex>n</ex></expan></choice> gepriset</l>
 <lb n="39" xml:id="Ef1vb.39"/><l><hi rend="capitalsize2">M</hi>I en roect <choice><abbr>wie<g ref="#bar"/></abbr><expan>wie<ex>ne</ex></expan></choice> droech</l>
-<lb n="40" xml:id="Ef1vb.40"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> trouwe en <choice><abbr>dog<g ref="#etfin"/></abbr><expan>dog</expan></choice> es an</l>
+<lb n="40" xml:id="Ef1vb.40"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> trouwe en <choice><abbr>dog<g ref="#etfin"/></abbr><expan>dog<ex>et</ex></expan></choice> es an</l>
 <lb n="41" xml:id="Ef1vb.41"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> reyne es <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> seden</l>
-<lb n="42" xml:id="Ef1vb.42"/><l>550 <hi rend="capitalsize1">N</hi>och uut <choice><abbr>w<g ref="#etfin"/></abbr><expan>w</expan></choice> <choice><abbr>la<g ref="#bar"/>de</abbr><expan>la<ex>n</ex>de</expan></choice> <choice><abbr>d<g ref="#etfin"/>ti</abbr><expan>dti</expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
-<lb n="43" xml:id="Ef1vb.43"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>s</abbr><expan><hi rend="capitalsize1">D</hi>s</expan></choice> <choice><abbr>die<g ref="#bar"/></abbr><expan>die<ex>n</ex></expan></choice> ic der <choice><abbr>ere<g ref="#bar"/></abbr><expan>ere<ex>n</ex></expan></choice> an</l>
+<lb n="42" xml:id="Ef1vb.42"/><l>550 <hi rend="capitalsize1">N</hi>och uut <choice><abbr>w<g ref="#etfin"/></abbr><expan>w<ex>at</ex></expan></choice> <choice><abbr>la<g ref="#bar"/>de</abbr><expan>la<ex>n</ex>de</expan></choice> <choice><abbr>d<g ref="#etfin"/>ti</abbr><expan>d<ex>at</ex>ti</expan></choice> <choice><abbr>qua<g ref="#bar"/></abbr><expan>qua<ex>m</ex></expan></choice></l>
+<lb n="43" xml:id="Ef1vb.43"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>s</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>s</expan></choice> <choice><abbr>die<g ref="#bar"/></abbr><expan>die<ex>n</ex></expan></choice> ic der <choice><abbr>ere<g ref="#bar"/></abbr><expan>ere<ex>n</ex></expan></choice> an</l>
 <lb n="44" xml:id="Ef1vb.44"/><l><choice><abbr><hi rend="capitalsize1">D</hi>and<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>and<ex>er</ex></expan></choice> edelheden</l>
 <lb n="45" xml:id="Ef1vb.45"/><l><hi rend="capitalsize1">A</hi>l <choice><abbr>v<g ref="#apomod"/>cocht</abbr><expan>v<ex>er</ex>cocht</expan></choice> <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>sulke<g ref="#bar"/></abbr><expan>sulke<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice></l>
 <lb n="46" xml:id="Ef1vb.46"/><l><hi rend="capitalsize1">E</hi>ns <choice><abbr>nieme<g ref="#bar"/></abbr><expan>nieme<ex>n</ex></expan></choice> diene <choice><abbr>geroue<g ref="#bar"/></abbr><expan>geroue<ex>n</ex></expan></choice> can</l>
@@ -435,7 +432,7 @@
 <lb n="2" xml:id="Ef2ra.2"/><l>315 <hi rend="capitalsize1">D</hi>it <choice><abbr>proeftme<g ref="#bar"/></abbr><expan>proeftme<ex>n</ex></expan></choice> met <choice><abbr>si<g ref="#bar"/>ne</abbr><expan>si<ex>n</ex>ne</expan></choice></l>
 <lb n="3" xml:id="Ef2ra.3"/><l><hi rend="capitalsize1">H</hi>i storte doer <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> bloet root</l>
 <lb n="4" xml:id="Ef2ra.4"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> geeft <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> themelsce broot</l>
-<lb n="5" xml:id="Ef2ra.5"/><l><hi rend="capitalsize1">O</hi>m <choice><abbr>d<g ref="#etfin"/>me<g ref="#bar"/></abbr><expan>dme<ex>n</ex></expan></choice> <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> minne</l>
+<lb n="5" xml:id="Ef2ra.5"/><l><hi rend="capitalsize1">O</hi>m <choice><abbr>d<g ref="#etfin"/>me<g ref="#bar"/></abbr><expan>d<ex>at</ex>me<ex>n</ex></expan></choice> <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> minne</l>
 <lb n="6" xml:id="Ef2ra.6"/><l><choice><abbr><hi rend="capitalsize1">O</hi><g ref="#bar"/>ne</abbr><expan><hi rend="capitalsize1">O</hi><ex>m</ex>ne</expan></choice> <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice> <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> stoot</l>
 <lb n="7" xml:id="Ef2ra.7"/><l>320 <choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> noit sonde mede sco<unclear>e</unclear>t</l>
 <lb n="8" xml:id="Ef2ra.8"/><l><hi rend="capitalsize1">E</hi>n laeti <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> <choice><abbr>da<g ref="#apomod"/></abbr><expan>da<ex>er</ex></expan></choice> <choice><abbr>i<g ref="#bar"/>ne</abbr><expan>i<ex>n</ex>ne</expan></choice></l>
@@ -445,22 +442,22 @@
 <lb n="12" xml:id="Ef2ra.12"/><l>325 <hi rend="capitalsize1">S</hi>o <choice><abbr>wa<g ref="#apomod"/></abbr><expan>wa<ex>er</ex></expan></choice> <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> <choice><abbr>vroede<g ref="#bar"/></abbr><expan>vroede<ex>n</ex></expan></choice> dinne</l>
 <lb n="13" xml:id="Ef2ra.13"/><l><hi rend="capitalsize2">W</hi>aerheit iacop dits al waer</l>
 <lb n="14" xml:id="Ef2ra.14"/><l><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> my waest te <choice><abbr>vi<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>vi<ex>n</ex>de<ex>n</ex></expan></choice> zwaer</l>
-<lb n="15" xml:id="Ef2ra.15"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>tu</abbr><expan><hi rend="capitalsize1">D</hi>tu</expan></choice> <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>ier</ex></expan></choice> heeft ontbonden</l>
+<lb n="15" xml:id="Ef2ra.15"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>tu</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>tu</expan></choice> <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>ier</ex></expan></choice> heeft ontbonden</l>
 <lb n="16" xml:id="Ef2ra.16"/><l><hi rend="capitalsize1">I</hi>c lye <choice><abbr>u<g ref="#apomod"/>wo<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>u<ex>er</ex>wo<ex>n</ex>ne<ex>n</ex></expan></choice> oppenbaer</l>
-<lb n="17" xml:id="Ef2ra.17"/><l>330 <hi rend="capitalsize1">M</hi>ine <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> <choice><abbr>d<g ref="#etfin"/>s</abbr><expan>ds</expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>ziele<g ref="#bar"/></abbr><expan>ziele<ex>n</ex></expan></choice> vaer</l>
-<lb n="18" xml:id="Ef2ra.18"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> besmet <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>sonde<g ref="#bar"/></abbr><expan>sonde<ex>n</ex></expan></choice></l>
+<lb n="17" xml:id="Ef2ra.17"/><l>330 <hi rend="capitalsize1">M</hi>ine <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> <choice><abbr>d<g ref="#etfin"/>s</abbr><expan>d<ex>at</ex>s</expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>ziele<g ref="#bar"/></abbr><expan>ziele<ex>n</ex></expan></choice> vaer</l>
+<lb n="18" xml:id="Ef2ra.18"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> besmet <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>sonde<g ref="#bar"/></abbr><expan>sonde<ex>n</ex></expan></choice></l>
 <lb n="19" xml:id="Ef2ra.19"/><l><hi rend="capitalsize1">G</hi>hi segt <choice><abbr>da<g ref="#apomod"/></abbr><expan>da<ex>er</ex></expan></choice> an wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waer</l>
 <lb n="20" xml:id="Ef2ra.20"/><l><hi rend="capitalsize1">R</hi>edene heeft mine <choice><abbr>wae<g ref="#bar"/></abbr><expan>wae<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>maer</abbr><expan>o<ex>n</ex>maer</expan></choice></l>
-<lb n="21" xml:id="Ef2ra.21"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> hebbic ondervonden</l>
+<lb n="21" xml:id="Ef2ra.21"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> hebbic ondervonden</l>
 <lb n="22" xml:id="Ef2ra.22"/><l>335 <hi rend="capitalsize1">N</hi>v moet <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> god <choice><abbr>bri<g ref="#bar"/>ghe<g ref="#bar"/></abbr><expan>bri<ex>n</ex>ghe<ex>n</ex></expan></choice> daer</l>
 <lb n="23" xml:id="Ef2ra.23"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> n en int <choice><abbr>ha<g ref="#apomod"/></abbr><expan>ha<ex>er</ex></expan></choice> iaer</l>
 <lb n="24" xml:id="Ef2ra.24"/><l><hi rend="capitalsize1">E</hi>nten lesten stonden</l>
-<lb n="25" xml:id="Ef2ra.25"/><l><hi rend="capitalsize1">V</hi>rien <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> wonden</l>
+<lb n="25" xml:id="Ef2ra.25"/><l><hi rend="capitalsize1">V</hi>rien <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> wonden</l>
 <lb n="26" xml:id="Ef2ra.26"/><l><hi rend="capitalsize1">D</hi>en derden bouc</l>
-<lb n="27" xml:id="Ef2ra.27"/><l>1 <hi rend="capitalsize7">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>ne</abbr><expan>ma<ex>n</ex>ne</expan></choice> <choice><abbr>m<g ref="#etfin"/>te<g ref="#bar"/></abbr><expan>mte<ex>n</ex></expan></choice> wiuen</l>
+<lb n="27" xml:id="Ef2ra.27"/><l>1 <hi rend="capitalsize7">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>ne</abbr><expan>ma<ex>n</ex>ne</expan></choice> <choice><abbr>m<g ref="#etfin"/>te<g ref="#bar"/></abbr><expan>m<ex>et</ex>te<ex>n</ex></expan></choice> wiuen</l>
 <lb n="28" xml:id="Ef2ra.28"/><l><hi rend="capitalsize1">D</hi>ie dit <choice><abbr>lese<g ref="#bar"/></abbr><expan>lese<ex>n</ex></expan></choice> oft scriuen</l>
 <lb n="29" xml:id="Ef2ra.29"/><l><hi rend="capitalsize1">O</hi>pten hoechsten ban</l>
-<lb n="30" xml:id="Ef2ra.30"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> sijt reine <choice><abbr>late<g ref="#bar"/></abbr><expan>late<ex>n</ex></expan></choice> bliuen</l>
+<lb n="30" xml:id="Ef2ra.30"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> sijt reine <choice><abbr>late<g ref="#bar"/></abbr><expan>late<ex>n</ex></expan></choice> bliuen</l>
 <lb n="31" xml:id="Ef2ra.31"/><l>5 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>zie<g ref="#apomod"/></abbr><expan>zie<ex>re</ex></expan></choice> n toe en driuen</l>
 <lb n="32" xml:id="Ef2ra.32"/><l><hi rend="capitalsize1">W</hi>ort <choice><abbr>l<g ref="#apomod"/>re<g ref="#bar"/></abbr><expan>l<ex>ette</ex>re<ex>n</ex></expan></choice> af noch an</l>
 <lb n="33" xml:id="Ef2ra.33"/><l><hi rend="capitalsize1">D</hi>oen sijt oec hem sal beclîven</l>
@@ -482,20 +479,20 @@
 
 <pb xml:id="E.f2vb" n="2vb"/>
 <lb n="1" xml:id="Ef2vb.1"/><l><choice><abbr><hi rend="capitalsize1">B</hi>i<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>i<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>hoedt</abbr><expan>v<ex>er</ex>hoedt</expan></choice> hijt <choice><abbr>ieghe<g ref="#bar"/></abbr><expan>ieghe<ex>n</ex></expan></choice> <choice><abbr>plaghe<g ref="#bar"/></abbr><expan>plaghe<ex>n</ex></expan></choice></l>
-<lb n="2" xml:id="Ef2vb.2"/><l>115 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> <choice><abbr>di<g ref="#bar"/>c</abbr><expan>di<ex>n</ex>c</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice> <choice><abbr>vlaghe<g ref="#bar"/></abbr><expan>vlaghe<ex>n</ex></expan></choice></l>
+<lb n="2" xml:id="Ef2vb.2"/><l>115 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> <choice><abbr>di<g ref="#bar"/>c</abbr><expan>di<ex>n</ex>c</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice> <choice><abbr>vlaghe<g ref="#bar"/></abbr><expan>vlaghe<ex>n</ex></expan></choice></l>
 <lb n="3" xml:id="Ef2vb.3"/><l><hi rend="capitalsize1">N</hi>iet en si ongherast</l>
 <lb n="4" xml:id="Ef2vb.4"/><l><hi rend="capitalsize1">N</hi>och ghequest <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> bast</l>
 <lb n="5" xml:id="Ef2vb.5"/><l><choice><abbr><hi rend="capitalsize2">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize2">V</hi>a<ex>n</ex></expan></choice> <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> god <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> wi <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice></l>
 <lb n="6" xml:id="Ef2vb.6"/><l><choice><abbr><hi rend="capitalsize1">D</hi>ie<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>ie<ex>n</ex></expan></choice> wi <choice><abbr>vad<g ref="#apomod"/></abbr><expan>vad<ex>er</ex></expan></choice> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sone <choice><abbr>meene<g ref="#bar"/></abbr><expan>meene<ex>n</ex></expan></choice></l>
 <lb n="7" xml:id="Ef2vb.7"/><l>120 <choice><abbr><hi rend="capitalsize1">E</hi>nte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>nte<ex>n</ex></expan></choice> <choice><abbr>heyleghe<g ref="#bar"/></abbr><expan>heyleghe<ex>n</ex></expan></choice> gheest</l>
-<lb n="8" xml:id="Ef2vb.8"/><l><hi rend="capitalsize1">W</hi>et wel <choice><abbr>d<g ref="#etfin"/></abbr><expan>d</expan></choice> wine <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="Ef2vb.8"/><l><hi rend="capitalsize1">W</hi>et wel <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> wine <choice><abbr>ghene<g ref="#bar"/></abbr><expan>ghene<ex>n</ex></expan></choice></l>
 <lb n="9" xml:id="Ef2vb.9"/><l><hi rend="capitalsize1">S</hi>o <choice><abbr>g<hi rend="superscript">roe</hi>t</abbr><expan>g<ex>roe</ex>t</expan></choice> <choice><abbr>noeme<g ref="#bar"/></abbr><expan>noeme<ex>n</ex></expan></choice> no so <choice><abbr>clene<g ref="#bar"/></abbr><expan>clene<ex>n</ex></expan></choice></l>
-<lb n="10" xml:id="Ef2vb.10"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>ter</abbr><expan><hi rend="capitalsize1">D</hi>ter</expan></choice> <choice><abbr>ieghe<g ref="#bar"/></abbr><expan>ieghe<ex>n</ex></expan></choice> es meest</l>
+<lb n="10" xml:id="Ef2vb.10"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>ter</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>ter</expan></choice> <choice><abbr>ieghe<g ref="#bar"/></abbr><expan>ieghe<ex>n</ex></expan></choice> es meest</l>
 <lb n="11" xml:id="Ef2vb.11"/><l><choice><abbr><hi rend="capitalsize1">E</hi>ne<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>ne<ex>n</ex></expan></choice> god <choice><abbr>segghe<g ref="#bar"/></abbr><expan>segghe<ex>n</ex></expan></choice> wi <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> <choice><abbr>rene<g ref="#bar"/></abbr><expan>rene<ex>n</ex></expan></choice></l>
 <lb n="12" xml:id="Ef2vb.12"/><l>125 <hi rend="capitalsize1">N</hi>och <choice><abbr>v<g ref="#apomod"/>uoegde<g ref="#bar"/></abbr><expan>v<ex>er</ex>uoegde<ex>n</ex></expan></choice> noch <choice><abbr>v<g ref="#apomod"/>bene<g ref="#bar"/></abbr><expan>v<ex>er</ex>bene<ex>n</ex></expan></choice></l>
 <lb n="13" xml:id="Ef2vb.13"/><l><hi rend="capitalsize1">E</hi>n esser an <choice><abbr>v<g ref="#apomod"/>heest</abbr><expan>v<ex>er</ex>heest</expan></choice></l>
 <lb n="14" xml:id="Ef2vb.14"/><l><hi rend="capitalsize1">D</hi>ie <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> sin so laet <choice><abbr>v<g ref="#apomod"/>stene<g ref="#bar"/></abbr><expan>v<ex>er</ex>stene<ex>n</ex></expan></choice></l>
-<lb n="15" xml:id="Ef2vb.15"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> hijs loechent hi moet <choice><abbr>wene<g ref="#bar"/></abbr><expan>wene<ex>n</ex></expan></choice></l>
+<lb n="15" xml:id="Ef2vb.15"/><l><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> hijs loechent hi moet <choice><abbr>wene<g ref="#bar"/></abbr><expan>wene<ex>n</ex></expan></choice></l>
 <lb n="16" xml:id="Ef2vb.16"/><l><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ewelijc <choice><abbr>sij<g ref="#bar"/></abbr><expan>sij<ex>n</ex></expan></choice> gheureest</l>
 <lb n="17" xml:id="Ef2vb.17"/><l>130 <choice><abbr><hi rend="capitalsize1">I</hi>nte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">I</hi>nte<ex>n</ex></expan></choice> <choice><abbr>helsche<g ref="#bar"/></abbr><expan>helsche<ex>n</ex></expan></choice> tempeest</l>
 <lb n="18" xml:id="Ef2vb.18"/><l><hi rend="capitalsize2">W</hi>i <choice><abbr>sette<g ref="#bar"/></abbr><expan>sette<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>vad<g ref="#apomod"/></abbr><expan>vad<ex>er</ex></expan></choice> voren</l>
@@ -512,7 +509,7 @@
 <lb n="29" xml:id="Ef2vb.29"/><l><hi rend="capitalsize1">S</hi>ine <choice><abbr>conde<g ref="#bar"/></abbr><expan>conde<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> <choice><abbr>ghee<g ref="#bar"/></abbr><expan>ghee<ex>n</ex></expan></choice> ghewin</l>
 <lb n="30" xml:id="Ef2vb.30"/><l><choice><abbr><hi rend="capitalsize1">G</hi>hegronde<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">G</hi>hegronde<ex>n</ex></expan></choice> meer no min</l>
 <lb n="31" xml:id="Ef2vb.31"/><l><hi rend="capitalsize2">E</hi>er <choice><abbr>acht<g ref="#apomod"/></abbr><expan>acht<ex>er</ex></expan></choice> tijt oft stonde</l>
-<lb n="32" xml:id="Ef2vb.32"/><l>145 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi></expan></choice> verstaet vut <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> <choice><abbr>mo<g ref="#bar"/>de</abbr><expan>mo<ex>n</ex>de</expan></choice></l>
+<lb n="32" xml:id="Ef2vb.32"/><l>145 <choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> verstaet vut <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> <choice><abbr>mo<g ref="#bar"/>de</abbr><expan>mo<ex>n</ex>de</expan></choice></l>
 <lb n="33" xml:id="Ef2vb.33"/><l><hi rend="capitalsize1">E</hi>n w noit an dese drie</l>
 <lb n="34" xml:id="Ef2vb.34"/><l><choice><abbr><hi rend="capitalsize1">D</hi>e<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">D</hi>e<ex>n</ex></expan></choice> <choice><abbr>vad<g ref="#apomod"/></abbr><expan>vad<ex>er</ex></expan></choice> <choice><abbr>sette<g ref="#bar"/></abbr><expan>sette<ex>n</ex></expan></choice> wi als te <choice><abbr>gro<g ref="#bar"/>de</abbr><expan>gro<ex>n</ex>de</expan></choice></l>
 <lb n="35" xml:id="Ef2vb.35"/><l><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> alle doget vut begonde</l>

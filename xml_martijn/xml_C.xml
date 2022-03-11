@@ -31,10 +31,7 @@
         <group>
             <text n="1" xml:id="sig1">
                 <body>
-                    <p><lb n="35" xml:id="Cf44r.35"/><l><choice><abbr><g ref="#apomod"/></abbr><expan><ex>uit</ex></expan></choice> edities maar al gecontroleerd met foto's, aangepast aan TxT richtlijnen; de eerste letters hebben de neiging groter te zijn geschreven</l>
-
-
-<pb xml:id="C.f219va" n="219va"/>
+                    <p><pb xml:id="C.f219va" n="219va"/>
 <lb n="1" xml:id="Cf219va.1"/><l><hi rend="capitalsize1">V</hi>an iacob <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van martijn.</l>
 <lb n="2" xml:id="Cf219va.2"/><l>1 <hi rend="capitalsize5">U</hi>uapene martijn hoe zalt gaen</l>
 <lb n="3" xml:id="Cf219va.3"/><l>zal dese werelt iet langhe staen</l>

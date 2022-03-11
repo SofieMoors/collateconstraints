@@ -31,12 +31,7 @@
         <group>
             <text n="1" xml:id="sig1">
                 <body>
-                    <p><lb n="21" xml:id="Bf124va.21"/><l>Uitgave A gebruikt en dan aangepast 'obv varianten' <pc>&</pc> foto's</l>
-<lb n="22" xml:id="Bf124va.22"/><l>Foto's ontvangen via Ed van der Vlist, vanaf 146v staat M2, transcriptie gemaakt met oude uitgave maar die van Mertens was beter geweest, gecontroleerd met deze foto's</l>
-<lb n="23" xml:id="Bf124va.23"/><l>Gecontroleerd met foto's en aangepast aan richtlijnen TxT</l>
-
-
-<pb xml:id="B.f141ra" n="141ra"/>
+                    <p><pb xml:id="B.f141ra" n="141ra"/>
 <lb n="1" xml:id="Bf141ra.1"/><l>1 <hi rend="capitalsize4">W</hi>aphene martin hoe salt <choice><abbr>gae<g ref="#bar"/></abbr><expan>gae<ex>n</ex></expan></choice></l>
 <lb n="2" xml:id="Bf141ra.2"/><l><hi rend="capitalsize1">S</hi>al de <choice><abbr>we<g ref="#apomod"/>lt</abbr><expan>we<ex>re</ex>lt</expan></choice> yet lang staen</l>
 <lb n="3" xml:id="Bf141ra.3"/><l><hi rend="capitalsize1">I</hi>n dus <choice><abbr>crancke<g ref="#bar"/></abbr><expan>crancke<ex>n</ex></expan></choice> loue</l>
@@ -900,7 +895,7 @@
 <lb n="23" xml:id="Bf145vb.23"/><l><hi rend="capitalsize1">W</hi>ant die hem in dit doopsel <choice><abbr>dwae<g ref="#bar"/></abbr><expan>dwae<ex>n</ex></expan></choice></l>
 <lb n="24" xml:id="Bf145vb.24"/><l>805 <hi rend="capitalsize1">S</hi>ijn seker gode te siene</l>
 <lb n="25" xml:id="Bf145vb.25"/><l><hi rend="capitalsize1">E</hi>nde <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> niet te messciene</l>
-<lb n="26" xml:id="Bf145vb.26"/><l><hi rend="capitalsize1">D</hi>Ie gods sone <choice><abbr>togh<g ref="#etfin"/></abbr><expan>togh</expan></choice> ons dat</l>
+<lb n="26" xml:id="Bf145vb.26"/><l><hi rend="capitalsize1">D</hi>Ie gods sone <choice><abbr>togh<g ref="#etfin"/></abbr><expan>togh<ex>et</ex></expan></choice> ons dat</l>
 <lb n="27" xml:id="Bf145vb.27"/><l><hi rend="capitalsize1">D</hi>ie enen gheweldich sit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sat</l>
 <lb n="28" xml:id="Bf145vb.28"/><l><hi rend="capitalsize1">D</hi>en <choice><abbr>vad<g ref="#apomod"/></abbr><expan>vad<ex>er</ex></expan></choice> <choice><abbr>inde<g ref="#bar"/></abbr><expan>inde<ex>n</ex></expan></choice> rijke</l>
 <lb n="29" xml:id="Bf145vb.29"/><l>810 <hi rend="capitalsize1">H</hi>i beete in dese arme stat</l>
@@ -931,7 +926,7 @@
 <lb n="12" xml:id="Bf146ra.12"/><l><hi rend="capitalsize1">O</hi>ftu moets zwaire <choice><abbr>sneue<g ref="#bar"/></abbr><expan>sneue<ex>n</ex></expan></choice></l>
 <lb n="13" xml:id="Bf146ra.13"/><l><hi rend="capitalsize1">N</hi>iet segghic dat <choice><abbr>rijch<hi rend="superscript">t</hi></abbr><expan>rijch<ex>eit</ex></expan></choice> zent</l>
 <lb n="14" xml:id="Bf146ra.14"/><l><hi rend="capitalsize1">D</hi>ie zielen <choice><abbr>inde<g ref="#bar"/></abbr><expan>inde<ex>n</ex></expan></choice> torment</l>
-<lb n="15" xml:id="Bf146ra.15"/><l>835 <hi rend="capitalsize1">O</hi>p dat ment nutte <choice><abbr>m<g ref="#etfin"/></abbr><expan>m</expan></choice> rechte</l>
+<lb n="15" xml:id="Bf146ra.15"/><l>835 <hi rend="capitalsize1">O</hi>p dat ment nutte <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> rechte</l>
 <lb n="16" xml:id="Bf146ra.16"/><l><hi rend="capitalsize1">M</hi>er zekerst ist vlien tserpent</l>
 <lb n="17" xml:id="Bf146ra.17"/><l><hi rend="capitalsize1">D</hi>an wandelen <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> omtrent</l>
 <lb n="18" xml:id="Bf146ra.18"/><l><hi rend="capitalsize1">D</hi>attet niet enbeulecte</l>
