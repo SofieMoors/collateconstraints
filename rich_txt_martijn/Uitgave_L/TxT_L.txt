@@ -1,4 +1,4 @@
-&Ira&
+&1ra&
 
 1 <W_7><A>phene 			
 m*e*rten
@@ -46,7 +46,7 @@ lange stae(n)
 *…*
 40 […]				
 
-&Irb&
+&1rb&
 
 <W>ae*r* s*oudic* *d* *…*[…] 	
 <D>at ic d*aer* *…* […]		
@@ -94,7 +94,7 @@ lange stae(n)
 <S>one can so tier vren		
 85 […] 
 
-&Iva&	
+&1va&	
 
 […] *…*rt die scalke k*ne*cht	
 […] *…*ren			
@@ -142,7 +142,7 @@ lange stae(n)
 […]*l*esten maele		
 130	[…]*scalken* […]
 
-&Ivb&
+&1vb&
 
 <M_2><E>rten n*v berecht mi* dies	
 <O>ft *…* *g*od die noeyt en wies 	
