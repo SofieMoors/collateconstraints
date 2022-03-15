@@ -296,7 +296,7 @@ d{at} van ongerecht gewelt
 <S>ine conste sij(n) h[er]te bedwinge(n)
 <H>i sterf bi desen dingen
 <M_2>edea toe(n)t o(n)s selue dat
-die rouede en(de) stal h[aer]s vad[er] ≤scat≥ 
+die rouede en(de) stal h[aer]s vad[er] «scat» 
 120 <E>n(de) sloech h[are]n broed[er]
 <O>(m) nasoe(n) dies h[aer] cume bat
 <S>i liet co(ninc)rike en(de) s*t/c*at
@@ -407,7 +407,7 @@ d{at} god nieme(n) heu{et} leet
 d{at} de me(n)sche heuet noet
 315 <D>it proeftme(n) m{et} sinne
 <H>i storte dor o(n)s bloot roet
-<E>n(de) geeft o(n)s themessche ≤broet≥
+<E>n(de) geeft o(n)s themessche «broet»
 <O>p d{at}me(n) wed[er] mi(n)ne
 <O>m gene(n) wed[er] stoet
 320 <D>[aer] o(n)s nie sonde mede scoet
@@ -430,7 +430,7 @@ d{at} de me(n)sche heuet noet
 <E>nte(n) leste(n) stonden
 <V>rie(n) m{et} h[are]n wonden
 <D>ie d[er]de merten boec	 
-1 <I_2>c mane ma(n)ne m{et}ten wi#≤ue(n)≥
+1 <I_2>c mane ma(n)ne m{et}ten wi#«ue(n)»
 die dit lese(n) of scriue(n)	
 <O>pde(n) hoechten ban	
 Ø
@@ -566,7 +566,7 @@ al vlogic boue(n) d[er] inglen v[...]
 125 <N>och v[er]moge(n)d[er] no v[er]benen	
 <N>e w[er]t[er] ae(n) vereest	
 <D>ie sine(n) sin soe laet v[er]stene(n)	
-<D>{at}ti des loechent hi moet ≤wene(n)≥ 	
+<D>{at}ti des loechent hi moet «wene(n)» 	
 <E>n(de) sij(n) geureest	
 130 <I>nde(n) helsche(n) te(m)peest
 <W_2>i sette(n) de(n) vad[er] voren	

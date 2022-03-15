@@ -147,7 +147,7 @@
 <A>lle creatueren
 <T>wi heuet die quade da(n) de(n) kies
 135 <E>ntie goede heeft al tverlies
-<W>ie saelt ou[er] recht cure
+<W>ie saelt ou[er] recht curen
 <M>ijn sin seghet mi als eene(n) ries
 <H>i die adame tlijf in blies
 <D>ie meester der natueren
@@ -512,7 +512,7 @@
 <T>wi es deen edel dand[er] vri
 <D>ie derde eyghin man d[aer] bi
 <W>ane(n) qua(m) desen name
-475 <T>wi seghemen ten dorp{er}e spi
+475 <T>wi seghemen ten dor{per}e spi
 <G>anc wech god onneere di
 <D>u best der w[eer]elt scame
 <D>ie edele heuet al tghecri
@@ -522,7 +522,7 @@
 <M_1>artin de(n) meneghe(n) es bedect
 <D>ie dinc d[aer] dijn sin vp mect
 <E>n(de) du vraghes wel verre
-485 <W>ant heuet een p{er}semier geblect
+485 <W>ant heuet een {per}semier geblect
 <E>nte(n) liede(n) thare ontpect
 <S>o wille hi sonder merre
 <O>nder die edele sijn ghetrect
@@ -552,7 +552,7 @@
 <D>oe <N>oe sijn vader was gram
 510 <W>ant hine niet en decte
 <D>at eyghin volc va(n) he(m) qua(m)
-<W>a(n)t he(m) sijns vad[er] vl[ou]c mesqua(m)
+<W>a(n)t he(m) sijns vad[er] vl*ou*c mesqua(m)
 <H>i dolde diere vp mecte
 <A>l vindme(n) dattie goede ram
 515 <D>icke(n) wint dongaue lam
@@ -629,7 +629,7 @@
 580 <W>ertme(n) arem so eist ghedaen
 <M>en valt in doude steden
 <M>[aer] reene edelheit dats .I. traen
-<D>ie dorp[er] h[er]te nie conste ontfae(n)
+<D>ie dor{per} h[er]te nie conste ontfae(n)
 <D>ie gheuet dor smeinsche(n) bede(n)
 585 <G>od in sire miltheden
 <I_1>acop ic hore an dine wort
@@ -732,7 +732,7 @@
 <W>illic dat hier mede si beduut
 675 <P>rouf of ic dit ontbinde
 <E>ntie redene bevinde
-<E_1>en zw[aer] orloghe en(de) een g%roe%t strijt
+<E_1>en zw[aer] orloghe en(de) een g%roet% strijt
 <E>n(de) daer toe een eewelijc nijt
 <E>s tussche(n) d[er] herte(n) ente(n) oghe(n)
 680 <T>herte de(n) oghen verwijt 
@@ -751,7 +751,7 @@
 <W>ach datti nature oit vant
 <W>aerdi v[er]bode(n) huus en(de) lant
 700 <E>n(de) des mei(n)schen houde
-<S>one bonde mi gheen ban
+<S>one bonde mi gheen bant
 <L>ichtre ware dan een zant
 <A>l gader mine scoude
 <M>en stake bet vut mett[er] hant
@@ -776,7 +776,7 @@
 <A>lse ouer alle huwe lede
 <M>e(n)ne conde hu ghescade(n) niet
 720 <W>aert so dat ghi va(n) hu sciet
-<A>lle dorp[er]hede
+<A>lle dor{per}hede
 <M>[aer] alse ghi bi mi bespiet
 <D>inghe(n) die ghi ane v tiet
 <V>olghedijs gherne mede 
@@ -990,9 +990,9 @@
 <W>are(n) die ma(n)ne also behoet
 <D>at si oghen sin en(de) moet
 <W>el consten besniden
-920 [...o] ware vrouwe(n) mi(n)ne spoet
-[...w]orde(n) si va(n) minne(n) v[er]woet
-[...d]ompelike toe tiden
+920 [...]*o* ware vrouwe(n) mi(n)ne spoet
+[...]*w*orde(n) si va(n) minne(n) v[er]woet
+[...]*d*ompelike toe tiden
 
 &118vb&
 
@@ -1004,10 +1004,10 @@
 <W>ert onwert en(de) onghemint
 <E>n(de) men copet ondiere
 930 <M>anne sijn loser da(n) die wint
-<H>are scone claghe(n) v%ro%uwe(n) v[er]blint
+<H>are scone claghe(n) v%rou%we(n) v[er]blint
 <W>ant si sijn goedertiere
 <G>rote sonde(n) hi he(m) bewint
-<D>ie valsche worde(n) v%ro%uwe(n) toe sint
+<D>ie valsche worde(n) v%rou%we(n) toe sint
 935 <G>od die moetene schiere
 <S>enden ten helschen viere
 <V_1>vat mochte v[er]hieue dat adm
@@ -1039,7 +1039,7 @@
 <9>60 Die zielen int helsche dal
 <D>ies lucifer beghiede
 <W>a(n)t het was sine meiseniede
-<I_1>acop du best de(n) v[ro]uwe(n) hout
+<I_1>acop du best de(n) v{rou}we(n) hout
 <D>u gheues de(n) manne(n) al de scout
 965 <I>c wanict best ghedoghe
 <I>c v[er]gheue al onghedout
@@ -1053,8 +1053,7 @@
 <O>nse dyaloghe
 975 <I>n vraghe ne(m)meer no ne toghe
 
-[Tussen deze regels bevinden zich geen witregels.
-In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [dand] martijn.]
+[In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [dand] martijn.]
 
 1 <D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
 <M_3><A>rtijn slaepstu slaept dijn sin
@@ -1103,7 +1102,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <V>an vrouwe(n) moeste dijn sermoen
 <O>f beghinnen of enden
 <W>aerstu een dorp{er} du spraex va(n) coen
-<N>u es dine h[er]te dies ontfloen (o ertussen geschreven)
+<N>u es dine h[er]te dies ontfloen [o ertussen geschreven]
 45 <D>och willix mi ghenende(n)
 <E>n(de) steke(n) af mine(n) caproen
 <E>n(de) hore(n) watti hier toe spoen
@@ -1540,7 +1539,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <D>at eewelike steet
 <W>ient lief si oft leet
 105 <B_1><O>uen al es god ghedraghen
-<N>e gheene dinc en mach beclaghe(n)
+<N>v gheene dinc en mach beclaghe(n)
 <D>at hise hiet verlast
 <O>nder sonder last va(n) waghen
 <W>a(n)t he(m) en moyet no jaghe(n)
@@ -1609,7 +1608,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <D>ie dese note wel can craken
 <H>ine darf beide(n) nochte hake(n)
 <H>ine vint in eene godheit
-<D>rie p{er}sone(n) gheleit
+<D>rie {per}sone(n) gheleit
 170 <D_1><E>se god d[aer] wi af leeren
 <D>oet troen so(n)ne en(de) sterre ke[er]en
 <E>n(de) al dat roerende si
@@ -1653,7 +1652,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <E>n(de) nv es ghemanc
 <I>n dese weerelt cranc
 <M_1>artijn nv en clach no crone
-210 <D>its een god in drie p{er}sone
+210 <D>its een god in drie {per}sone
 <D>aer ic af spreke dye
 <E>uen gheweldich eue(n) scone
 <E>ven ghelijc in hemel in trone
@@ -1682,7 +1681,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <N>u antwort mi bet vort
 <O>f ics niet en hebbe v[er]bort
 
-[strofe 19 tot 22 ontbreken]
+(strofe 19 tot 22 ontbreken)
 
 <D_1><I>e gods sone sach de(n) ma(n) v[er]lade(n)
 <E>nte(n) viant va(n) ouerdaden
@@ -1710,7 +1709,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 
 <D>ie godheit diet al bint
 <D>ie godheit heuet gheene pale
-310 <D>ie me(n) scheit dat meent mine tale
+310 <D>ie me(n)scheit dat meent mine tale
 <O>ntfinc god diet al mint
 <I>n he(m) dus eist bekint
 <E_1>ven gheweldich en(de) heere
@@ -1798,7 +1797,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <E>s he(m) altoes ghereit
 390 <V>p dat mer in vulsteit
 <I_1>acop du berechts mi scone
-<N>u berecht mi vande(n) p{er}sone
+<N>u berecht mi vande(n) {per}sone
 <D>ie me(n) heet helich gheest
 <H>oe mijn gheloue sond[er] hone
 395 <T>e he(m) cle(m)me en(de) spa(n)ne crone
@@ -1855,7 +1854,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <D_1><I>ts des vad[er]s en(de) des sons mi(n)ne
 <D>its caritate d[aer] altoes inne
 445 <R>ust die triniteit
-<H>i es die der p%ro%pheten sinne
+<H>i es die der {pro}pheten sinne
 <L>eerde en(de) maecte in jnne
 <D>es gods soens me(n)schelicheit
 <H>ens co(ninc) noch coninghinne
@@ -1884,7 +1883,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [
 <V_1>vt helpt martijn sin en(de) tale
 470 <D>ie begheue(n) mi alte male
 <M>eer te sprekene vort
-<E>lc p{er}soen v[er]stant mi wale
+<E>lc {per}soen v[er]stant mi wale
 <E>s god en(de) dies nes gheene hale
 <V>a(n) dren d[aer] men af hort
 475 <D>och eist waer een die berch en(de) dale

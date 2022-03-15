@@ -125,7 +125,7 @@ loeue sp[re]ct so willickene hier setten
 <D>ien wi vader en(de) sone meenen
 120 <E>nde den heileghe(n) gheest 
 <E>n(de) wet wel dat wiere negeenen
-<S>oe g%ro%t e(n) noeme(n) no so cleene(n) : <D>att[er] ieme(n) es ≤meest≥
+<S>oe g%ro%t e(n) noeme(n) no so cleene(n) : <D>att[er] ieme(n) es «meest»
 <E>ne(n) god segge(n) wi ene(n) reenen
 125 <N>och vervoecht no verbeenen: <E>n esser ane v[er]v[re]escht [in linkermarge geschreven]
 <D>ie sinen sin soe laet versteenen
@@ -369,7 +369,7 @@ loeue sp[re]ct so willickene hier setten
 385 <S>o ic naest hebbe ondervo(n)de(n) 
 <N>a miere mogentheit
 <D>ie dit geloeue vaste [ernaast geschreven] orconden 
-<A>fla{et} g%ro%t va(n) hare(n) so(n)de : <E>s hen altoes ≤gereit≥ 
+<A>fla{et} g%ro%t va(n) hare(n) so(n)de : <E>s hen altoes «gereit» 
 390 <O>p dat me(n) da[er] i(n) volsteit 
 <I_1>acob du berechts mi scone
 <B>erecht mi [ertussen geschreven] nv vande(n) p{er}sone
@@ -386,7 +386,7 @@ loeue sp[re]ct so willickene hier setten
 <D>at tuere moet come(n) o(n)gevreest
 <M_1><E>rte(n) o(n)s le[er]t de screfture
 405 <D>at een god en(de) een natuere
-<E>(m)mer sij(n) dese drie : <A>ltoes eve(n) nage#≤buere≥
+<E>(m)mer sij(n) dese drie : <A>ltoes eve(n) nage#«buere»
 <E>n(de) e(n) verscheede(n) te negee(n)re vre [superscript geplaatst]
 <N>och e(n) verschieden nie
 410 <V>ader ki(n)t versta(n)t t[er] cure
@@ -427,7 +427,7 @@ loeue sp[re]ct so willickene hier setten
 445 <R>ust de t%ri%niteit : <D>its die d[er] p{ro}ph{et}en si(n)ne 
 <L>e[er]de en(de) maecte i(n) inne 
 <D>es gods soens menschelecheit
-<E>n es co(ninc) no co(nin)gi(n)ne : 450 <D>ie e(m)m[er]me[er] af la{et} ≤gewi(n)ne≥
+<E>n es co(ninc) no co(nin)gi(n)ne : 450 <D>ie e(m)m[er]me[er] af la{et} «gewi(n)ne»
 <V>an siere onsalecheit
 <H>ine hebbe ene(n) trae(n) al ware hi di(n)ne
 <V>a(n) dese(n) dauwe tsine(n) beghinne
@@ -438,7 +438,7 @@ loeue sp[re]ct so willickene hier setten
 <J>n de w[er]elt b[re]yt : <D>ese gaf de(n) m[ar]telare(n) 
 460 <D>at si co(n)ste(n) sonder mesbaren
 <D>oegen lief en(de) leit
-<D>ese ca(n) de si(n)ne v[er]clare(n) : <D>ie hen [n superscript erbij geplaatst] m{et} so(n)de(n) v[er]#≤vare(n)≥
+<D>ese ca(n) de si(n)ne v[er]clare(n) : <D>ie hen [n superscript erbij geplaatst] m{et} so(n)de(n) v[er]#«vare(n)»
 <E>n(de) tcoude maken heit
 465 <S>ine(n) lieuen sinen caren
 <D>eilt hi sonder enech sparen
@@ -447,7 +447,7 @@ loeue sp[re]ct so willickene hier setten
 470 <D>ie begeuen mi altemale 
 <M>eer te sprekene voert
 <E>lc p{er}soen verstant mi wale
-<E>s selue god so(n)d[er] hale : <V>a(n) d[ri]en da[er] me(n) ≤af ho[er]t≥
+<E>s selue god so(n)d[er] hale : <V>a(n) d[ri]en da[er] me(n) «af ho[er]t»
 475 <D>och e(n) eest m[er] I die b[er]ch en(de) dale [in linkermarge geschreven]
 <G>hesciep . daer bi g{ro}et en(de) smale
 <T>ellen hi[er] af en(de) alle woert

@@ -141,7 +141,7 @@ werelt yet la(n)ge stae(n)
 <I>nden lesten male
 130 <M>etten scalken betale
 <M_2><E>rten nv berecht mi dies
-<B>erecht oft .I. god die nye en ≤wies≥
+<B>erecht oft .I. god die nye en «wies»
 <M>aecte alle creatueren
 <T>wij heeft die q{ua}de dan den kies
 135 <E>ntie goede valt int verlies
@@ -1028,7 +1028,7 @@ werelt yet la(n)ge stae(n)
 <D>an een maget gode maecte so tam
 <D>at hij hem eenweruen
 <D>oer ons liet bederuen
-950 <W_2><A>t maken quaet sprekers ghe≤scal≥
+950 <W_2><A>t maken quaet sprekers ghe«scal»
 <V>rouwe(n) dadent bij na al
 <D>at dit wonder gheschiede
 <A>l dat es oft wesen zal
@@ -1185,7 +1185,7 @@ werelt yet la(n)ge stae(n)
 <H>ine const hem niet bedwinge(n)
 <H>ine sterf bij desen dinghen
 <M_2>edea toont ons selue dat
-<D>ie rouede en(de) stal hairs vad[er]s ≤scat≥
+<D>ie rouede en(de) stal hairs vad[er]s «scat»
 120 <E>nde verslouch hare(n) broed[er]
 <O>m naersoen dies hair cume bat
 <S>ij liet conincrike en(de) scat
@@ -1279,7 +1279,7 @@ werelt yet la(n)ge stae(n)
 <V>a(n) mi(n)nen elwaert draecht te sade 
 <E>n(de) dier ic om niet en bade
 <I_2>acob of ghi niet en acht
-210 <E>xempele(n) die ic hebbe voirtghe≤bracht≥
+210 <E>xempele(n) die ic hebbe voirtghe«bracht»
 <W>illic ter bibelen keeren
 
 &8vb&
@@ -1487,7 +1487,7 @@ werelt yet la(n)ge stae(n)
 <D>at die hoecheyt d[er] hoger name(n)
 <T>e verre en doech ghesocht
 <A>l waert dat alle dingen q%ua%men
-60 <S>ine conden die godheid n{iet} geha≤me(n)≥
+60 <S>ine conden die godheid n{iet} geha«me(n)»
 <D>its al aff gheknocht
 <M>aer leere mine(n) crancke(n) sin lame(n)
 <G>hewont metter sonden bramen
