@@ -9,8 +9,8 @@
 <I>c sie die valsche wel ontfaen
 <D>ie de heren conne(n) d[oer]staen
 10 <E>nde plocke(n) vande(n) stoue
-<E>n(de) ic sie de(n) rechte(n) slaen
-<B>ede bespotte(n) en(de) vaen
+<E>n(de) ic sie den rechten slaen
+<B>ede bespotten en(de) vaen
 <A>ls die meze in de cloue
 <R>echt offen god v[er]scoue
 <H>oe lang sal hi doghen dit
@@ -25,7 +25,7 @@
 <R>echt als een man deluet sond[er] spit
 <H>ien heeft te punte niet ghehit
 25 <I>nne ghene talie
-<M>i es leet dat ic waer lie
+<M>i es leet dat ic wair lie
 <L_1>aet ons martijn ouer een
 <H>ier of spreken ond[er] ons tween
 <I>n dit dyaloghe
@@ -63,7 +63,7 @@
 <D>ien hiet so sijn here
 <N>u maken die here(n) ghespan
 60 <E>nde gheue(n) d[er] eren ene(n) ban
-<E>nde en willen niet (er tussen geschreven) dat so kere
+<E>nde en willen niet er tussen geschreven dat so kere
 <S>egt mi waen dit venijn ran
 <T>oicht mi redene dair van
 <W>ant ic gairne lere
@@ -74,18 +74,18 @@
 <E>nde so trac de scalke naer
 70 <D>ie raden nv hier nv dair
 <E>nde niet scelden den here
-<S>o es edelheit worden so zwaer
+<S>o es edelheit worden so zwair
 <D>at so tclemme(n) heeft o(m)maer
 <E>nde daelt so lanc so mere
 75 <D>ats nv al ter werelt claer
-<E>nde oic zietment openbaer
-<D>us es v[er]banne(n) ere
+<E>nde oic zietment openbair
+<D>us es v[er]banne(n) die ere
 <E>nde wederstaen ten kere
 <N_1>v merc bid[er] sonne(n) lecht
 80 <D>at al d[er] we[re]lt oghen berecht
 <B>i sire edelre naturen
 <A>ls dat zwerc dair ieghen vecht
-<E>nde die neuel met sire drecht
+<E>nde die neuel mit sire drecht
 <S>o en can so tier vren
 85 <N>iet toghen hairre scoonh%eit% echt
 <A>ldus v[er]donckert die scalcke knecht
@@ -93,11 +93,11 @@
 &141va&
 
 <D>ie edele creature(n)
-<A>ls hi he(m) dair ane hecht
-<E>n(de) hare ydelheyt verplecht
+<A>ls hi hem dair ane hecht
+<E>nde hare ydelheyt verplecht
 90 <D>at so laet ghedueren
 <B>y hare die scalcke zure(n)
-<S_1>int scalcke(n) droughe(n) ou[er] een
+<S_1>int scalke(n) droughe(n) ou[er] een
 <D>at neen was ja en(de) ja neen
 <E>n(de) hem dat wijsheit dochte
 95 <E>n(de) ydelheyt d[aer] o(m)me green
@@ -114,7 +114,7 @@
 <E>n(de) brieue(n) die ghewaghe(n) das
 <V>an dat lantshere(n) gheue(n)
 <H>ets al niet ende een ghedwas
-<A>lso lief had mi een (tsas doorgestreept) tsas
+<A>lso lief had mi een tsas doorgestreept tsas
 110 <O>ff een vriese bescreue(n)
 <T>rouwe es brosch[er] dan glas
 <D>ie hier te voren so starc was
@@ -129,7 +129,7 @@
 <E>n wet[er] wat toe segghen el 
 <D>ie scalc hout boosheit ou[er] spel
 <H>i pijnt hoe hi die doghet v[er]smale
-<C>aym slouch den edel abel
+<C>aym sloich den edel abel
 125 <D>us souct die scalc zijns he[re]n vel
 <H>oe hijt trect te dale
 <G>ode die ons domen sel
@@ -161,7 +161,7 @@
 150 <W>at heeft dine h[er]te becort
 <D>attu helts an leggher boirt
 <D>ie papen sullent smake
-<S>o (v[er]t doorstreept) w[er]tstu v[er]brant of v[er]smoirt
+<S>o v[er]t doorstreept w[er]tstu v[er]brant of v[er]smoirt
 <I>nne en gaue om dijn ziel n%iet% I toirt
 155 <M>en mach mit sulken sake(n)
 <G>ode niet genake(n)
@@ -201,7 +201,7 @@
 <N>och in ghene(n) twiste
 <A>l heeft hi meer dan hi v[er]teert
 190 <E>n(de) hi ghewint dat hi begheert
-<M>et scalcheden en(de) met liste
+<M>et scalcheden en(de) mit liste
 <G>hind[er] w[er]t hi ghedestrueert 
 <E>n(de) ghebonde(n) en(de) ghemeert
 <S>ine kinde[re]n gaen te quiste
@@ -210,9 +210,9 @@
 <E>ne dinc die ic niet en weet
 <S>oude ic di gairne vraghen
 <T>wi sijn die sonde(n) gode so leet
-200 <D>at hi es de(n) sondare so heet
-<M>et wraken en(de) mit in plaghen
-<W>ant gheen sondair in sonde(n) steet
+200 <D>at hi es den sondare so heet
+<M>et wraken en(de) mit plaghen
+<W>ant gheen sondair in sonde(n) ste# et
 <L>angh[er] dan sijn lijf es breet
 <T>wi tormente(n) hine met slaghe(n)
 205 <E>welike sond[er] v[er]sceet
@@ -226,25 +226,25 @@
 210 <S>ent de(n) sondair menich torme(n)t
 <N>ad[er] h[er]te(n) ghedochte
 <O>m dat hi wilde als een rent
-<A>ltois leue(n) en(de) ongheent
+<A>ltois leue(n) ende ongheent
 <O>p dat wesen mochte
-215 <S>o is hi ter helle(n) ghesent
-<D>air hi eewelijc es ghescent
+215 <S>o is hi ter hellen ghesent
+<D>air hi ne(m)mermeer en went
 <W>ant sijn wille dat wrochte
-<B>esie dine h[er]te al omtrent
+<B>esie dijn h[er]te al omtrent
 <D>incti dese redene blent
 220 <D>ie ic hier toe brochte
 <N>een so diet wel besochte
-<M_1>aertijn du segs wel en(de) waer
+<M_1>aertijn du segs wel en(de) wair
 <E>nde dine redene es clair
 <E>n(de) licht te v[er]staen
-225 <A>l ghepens es openbaer
+225 <A>l ghepens es openbair
 <V>oir hem die telt alle hair
 <E>nde wat de hemel heeft ane
 <I>a louere(n) gras dach en(de) jaer
 <D>ropele sant es he(m) niet zwair
 230 <I>n telne te beuaen
-<H>i heeft ypocricie o(m)maer
+<H>i heeft ypocrisie o(m)maer
 <E>n(de) leecht he(m) met wrake(n) naer
 <D>ie in hare bane
 <P>leghen o(m)me te gane
@@ -253,13 +253,13 @@
 <E>n(de) ghedoghede groot coude
 <W>air ic in hooft sonde(n) mat
 <H>et en holpe mi niet een blat
-240 <D>ie nyewe wet seghet en(de) oude
+240 <D>ie nyewe wet seghet en(de) de oude
 <D>ie ons dus nauwe maken de(n) pat
 <T>en hemel wairt en(de) so glat
 <I>c wilde god selue woude
 <D>at si portiers ware(n) ghesat
 245 <T>er hellen si soude(n) tgat
-<S>o (s??) houden mit ghewoude
+<S>o *s* houden mit ghewoude
 <D>att[er] come(n) yement in soude
 <I_1>acop menich prouft en(de) coort
 <D>er heligher scrifturen woort
@@ -289,7 +289,7 @@
 270 <D>an ic u viele in do(m)me(n) waen
 <N>utter is dat hi vlie de(n) aen
 <D>an hi te campe strike
-<J>eghe(n) den kempe eerlike
+<J>eghen den kempe eerlike
 <A_1>ls god ten ionxte(n) daghe sal
 275 <G>hepens en(de) wort berechte(n) al
 <D>air wi ye in misdaden
@@ -305,8 +305,8 @@
 <H>oirde god niet de baden
 <D_1>at seit dat gheloue mijn
 <G>od moet in hem selue(n) zijn
-<H>i en mach el nieweren wesen
-290 <G>od is gherechtich en(de) fijn
+<H>i en mach el niewer wesen
+290 <G>od es gherechtich en(de) fijn
 <E>nde genadich dats aenscijn
 
 &142vb&
@@ -347,12 +347,12 @@
 325 <B>rochten in desen wene
 <I_1>acop dijn vraghen es zwair
 <D>och prouftme(n) mit redenen clair
-(clair doorgestreept) <D>rierande minne
+clair doorgestreept <D>rierande minne
 <D>eerste es caritate dats wair
 330 <D>ie es sond[er] pine en(de) vaer
-<E>n(de) dair woent god inne
+<E>nde dair woent god inne
 <D>and[er] truct de werelt naer
-<O>m ere om goet staet al hair gaer
+<O>m ere om goet staet hair gaer
 
 &143ra&
 
@@ -374,7 +374,7 @@
 <D>ie d[er] mi(n)e(n) zijn bloet root
 350 <S>turte op die airde
 <E>n(de) mi(n)ne openbairde
-<W_1><I>ie so sulke mi(n)ne es cont
+<W_1><I>e so sulke mi(n)ne es cont
 <A>ls caritate hi es ghesont
 <M>en machen niet v[er]blende(n)
 355 <A>l ware hi ind[er] hellen gront
@@ -394,14 +394,14 @@
 <R>idd[er]scap wesen v[er]woet
 370 <E>nde de(n) wouk[er] eere
 <W>ant die ridde[r] niet gheuroet 
-<H>i v[er]sleet (doorstreept) verslijt vleesch en(de) bloet
+<H>i v[er]sleet doorstreept verslijt vleesch en(de) bloet
 <V>p dat zijn prijs niet mere
 
 &143rb&
 
 <D>and[er] al ware ghelt de vloet
 375 <E>nde he(m) vloeyende in sine(n) moet
-<H>e(m) soude noch also zeere
+<H>em soude noch also zeere
 <D>orste(n) alst dede eerre
 <D_1>ese mi(n)ne heeft ond[er]sceet
 <V>an hem die o(m)me die ere steet
@@ -422,14 +422,14 @@
 <B>istu out man of iongling
 395 <D>oe altois wel en(de) dwing
 <D>ire harte houarde
-<P>rijs die in lodders tonghe hing
+<P>rijs die in lodders tonge hing
 <W>as noyt waert eens oghen winc
 <O>nd[er] die goede(n) waerde
 400 <O>nwerde(n) loof vlie en(de) ontsprinc
 <D>ie meneghe(n) vaet en(de) wile(n) vinc
 <D>ie dat woirt begaerde
 <E>nde dat wel doen spaerde
-<G_1>oet te hebbene en(de) scat
+<G_1>oet te hebben en(de) scat
 405 <E>nde zalichlike te nutte(n) dat
 <D>ats een zalich leue(n)
 <M>er gods mi(n)ne maict een gat
@@ -514,7 +514,7 @@
 480 <D>it doet dat ic mi v[er]grame
 <W>ant het dinct mi ontame
 <M_1>artin de(n) meneghen es bedect
-<D>it dinc dair dijn sin vp mect
+<D>it dinc dair dijn sin op mect
 <E>nde du vraghes wel verre
 485 <W>ant heeft een personier gheplect
 <E>nde de(n) liede(n) thare ontpect
@@ -542,7 +542,7 @@
 505 <D>at caym drouch es noch anschij(n)
 <B>i meneghen die ic telle
 <V>an h[er]ten sine gheselle
-<S_1>vlc waent dat va(n)de(n) q[ua]de(n) cam
+<S_1>vlc waent dat va(n)de(n) q%ua%de(n) cam
 <D>oe noe sijn vad[er] was gram
 510 <O>mme dat hine niet decte
 <D>at eyghen volc van he(m) quam
@@ -551,7 +551,7 @@
 <A>l vintme(n) dat de ongaue ram
 515 Dicken wint tongaue lam
 <D>its der rudairsser secte
-<V>ande(n) eydele(n) abraham
+<V>ande(n) eydelen abraham
 <Q>uam eyghin volc als ict v[er]nam
 <D>at oyt ter eren trecte
 520 <E>nde noyt he(m) beulecte
@@ -559,17 +559,17 @@
 <D>at van onrecht[er] ghewelt
 <E>yghendom es come(n)
 <A>ls een p[ri]nche wan wijch op tvelt
-525 <T>volc datme(n) te liue helt (? d doorstreept?)
+525 <T>volc datme(n) te liue helt d doorstreept
 <D>at deide hi v[er]dome(n)
 <E>nde v[er]copen om ghelt
 <D>its volc datme(n) eyghen scelt
 <E>nde men scalc hoirt nomen
 530 <N>ature gaet hare(n) rechte(n) telt
 <M>[aer] auonture wast en(de) smelt
-<D>en meneghen te onvromen
+<D>en meneghen te onvrome(n)
 <E>nde te o(n)nere(n) he(m) somen
 <G_1>od ghehinghet o(m)me de mis#daet 
-535 <D>at een gheslachte neid[er] 
+535 <D>at een gheslachte neid[er] gaet
 
 &144rb&
 
@@ -598,7 +598,7 @@
 <M>it douchden besneiden
 Ø 
 560 <M_1>artijn oftu clemme(n) wout
-<T>er eydelheit drie pointe hout
+<T>er eydelheit drie pointe(n) hout
 <D>ie ic di sal lere(n)
 <W>es nerachtich mi(n)ne niet tgout
 <W>es erachtich menichuout
@@ -609,9 +609,9 @@
 <H>et nes niemen ionc no out
 570 <D>ien du scalc dincke(n) sout
 <S>ond[er] weldaet deren
-<E>nde alle doecht v[er]keren
+<E>nde alle doecht v[er]kere(n)
 <T_1>rauwe(n) iacop ic heb v[er]staen
-<V>te dine(n) monde woirde gaen
+<V>te dine(n) monde woirde(n) gaen
 575 <V>ol gherecht[er] waerheiden
 <A>l spreect in sine boeke(n) alane
 <D>at edelheit quam sond[er] waene
@@ -671,28 +671,28 @@
 625 <G_1>od diet al bi redene(n) doet
 <G>aff dit wandel erdtsche goet
 <D>er menscheit ghemene
-<D>att[er] de menscje mede ware gheuoet
+<D>att[er] de mensche mede ware gheuoet
 <E>n(de) ghecleet ende ghescoet
 630 <E>nde leue(n) soude rene
 <M>[aer] nv es ghierichede so v[er]woet
 <D>at elc stellet sine(n) moet
 <O>mme al te hebben allene
 <H>ier o(m)me steurt me(n) me(n)sche(n) bloet
-635 <H>ier o(m)me stichtme(n) metter spoet
+635 <H>ier o(m)me so stichtme(n) metter spoet
 <B>orghen ende stene
 <D>en meneghe(n) te wene
 <W_1>airhede iacop ic heb v[er]staen
 <D>attet wair is sond[er] waen
 640 <D>attu hier heefs ontbonden
-<G>oets es ghenoich lietment gae(n)
-(gaen?? doorstreept) <I>nt gheemee(n) en(de) he(m) ontfaen
+<G>oets es genoich lietment gae(n)
+gaen doorstreept <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <D>ie airme worden vonde(n)
 <S>o vele alle oirloghe zaen
 645 <S>o mochtme(n) de ziele dwaen
 <E>n(de) claerse vande(n) zonden
-<M>iltheit heeft hare macht gedien (of toch gedaen??)
+<M>iltheit heeft hare macht ged*i/a*en 
 <V>recheit leert die we[re]lt vlaen
-<D>it prouen en(de) orconden
+<D>at prouen en(de) orconden
 650 <D>ie minres vande(n) ponden
 <I_1>acop ere dinc mac mi cont
 <A>ls die minre w[er]t ghewont
@@ -735,7 +735,7 @@
 <D>air so menich dief voir lijt
 <B>i di ben ic doir vloghen
 <D>es claghe ic den oghen
-690 <W_1>apen vriendelic viant
+690 <W_1>apen vrie(n)delic viant
 <D>oir di doghe ic menighe(n) bra(n)t
 <E>nde menich coude
 <W>apene dat nature dit vant
@@ -787,7 +787,7 @@
 <A>ls diese ouer voeghet helt
 <E>nde vrouwe bi hare(n) ede
 <M>[aer] des gheualles ghewelt
-<D>at bi sine th[er]te ghe (doorstreept) dwelt
+<D>at bi sine th[er]te ghe doorstreept dwelt
 740 <T>iet so des oghen ghelede
 <D>us deelt so de vede
 <M_1>artijn hier bi moghestu zien
@@ -814,7 +814,7 @@
 760 <D>at wi ons wilden hoeden
 <W>ilde therte make(n) onmair
 <D>at hem de oghen zende(n) naer
-<H>ine dorste hem noet v[er]moede(n)
+<H>ine dorste hem niet v[er]moede(n)
 <D>at hi leuen soude dair
 765 <D>air god sal domen openbair 
 <E>nde wisen ten gloeden
@@ -838,7 +838,7 @@
 
 <B>iden stoel dair moyses sat
 <D>air saten die gheleerde
-<D>at si de raden doe al dat
+<D>at si di raden doe al dat
 785 <S>i wisen di den rechte(n) pat
 <W>el hem dier hem an keerde
 <M>[aer] in weeldoene sijn si lac
@@ -891,7 +891,7 @@
 <L>ere weelde begheue(n)
 <O>ftu moets zwaire sneue(n)
 <N_1>iet segghic dat rijch%eit% zent
-<D>ie zielen inde(n) torment
+<D>ie ziele inde(n) torment
 835 <O>p dat ment nutte m{et} rechte
 <M>er zekerst ist vlien tserpent
 <D>an wandelen d[aer] omtrent
@@ -908,11 +908,11 @@
 <E>nde zere onghetreden
 <M>et armoede te cle(m)mene dair
 850 <D>airme(n) leuet sond[er] vaer
-<I>nt ewelike(n) vreden
+<M>it ewelik[er] vreden
 <M>artin so trec de(n) arme(n) naer
 <E>nde deel he(m) stille en(de) openbair
 <V>an dire weldicheden
-855 <E>ere die kercke ende die outair
+855 <E>ere die kercke en(de) die outair
 <H>et wert ten jonxsten daghe clair
 <D>at di god sal besteiden
 <M>et sine(n) lieue(n) lede(n)
@@ -932,14 +932,14 @@
 <E>nde de(n) milde(n) noyt bedroich
 870 <S>ette di in sire hoede
 <B>uten d[er] duuele(n) roede
-<I_1>acop die we[re]lt maect ghescal
+<I_1>acop die we[re]lt maict ghescal
 <E>nde tyent de(n) vrouwe(n) al
 <D>at wi in sonde(n) sneue(n)
 875 <W>ant eua viel de(n) eerste(n) val
 <D>air wi o(m)me int erdsche dal
 <N>och alle zijn v[er]dreue(n)
 <S>o segghen si dat groot en(de) smal
-<D>at so adaem th[er]te stal (die doorstreept)
+<D>at so adaem th[er]te stal die doorstreept
 880 <D>ie he(m) hare liet v[er]gheue(n)
 <S>egt my wiement tyen sal
 <D>it v[er]lies sond[er] getal
@@ -978,7 +978,7 @@
 <S>i slachte(n) de(n) wine(n) en(de) d[er] gloet
 <D>ie de we[re]lt v[er]blide(n)
 <D>ie te vele des wijns in doet
-915 <E>n(de) te naer de(n) viere stelt den voet
+915 <E>n(de) te naer de(n) viere stelt de(n) voet
 <H>i en cant niet gheliden
 <W>air een man so behoet
 <D>at hire h[er]te sin en(de) moet
@@ -997,7 +997,7 @@
 <H>are scone claghe(n) v%ra%uwe(n) v[er]bli(n)t
 <W>ant si sijn goed[er]tiere
 <G>rot[er] zonde(n) hi he(m) bewijnt
-<D>ie valsche worde(n) v[ra]uwe(n) toezint
+<D>ie valsche worde(n) v%ra%uwe(n) toezint
 935 <G>od die moeten sciere
 <S>ende(n) te(n) helsche(n) viere
 950 <W_1>at make(n) q%ua%et sprekers gescal
@@ -1043,7 +1043,7 @@
 <O>nse dyaloghe
 975 <I>c en vraghe ne(m)mer no toghe
 
-(in latere hand II in middenmarge)
+in latere hand II in middenmarge
 1 II <M_1>aertijn slaepstu slaep dijn zin
 <S>prec hebstu gheen spreke(n) jn
 <D>u dincts mi v[er]dore(n)
@@ -1163,7 +1163,7 @@
 <W>at es nairchisuse ghesciet
 <D>ie sine vorme spieghelt en(de) siet
 110 <J>nt wat[er] sond[er] minghen 
-<H>ant en(de) mont hi dair w%air%t [bovengeschreven r achter t] biet
+<H>ant en(de) mont hi dair w%air%t bovengeschreven r achter t biet
 <H>i bid hi claghet zijn v[er]driet
 <N>ature en wils ghehinghen
 <D>at hem can ghehelpen yet
@@ -1326,7 +1326,7 @@
 <D>at ic mi eer v[er]smoirde
 260 <E>er icse sterue(n) hoirde
 <M_1>aertijn ruud gramarien
-<D>u pleechs dat rude (doorgehaalde aanzet tot p?) liede(n) plien
+<D>u pleechs dat rude *p* liede(n) plien
 <D>ie tware niet willen lyen
 <M>esdaden die de(n) wisen ghescien
 265 <S>alme(n) niet in exemplen tyen
@@ -1365,7 +1365,7 @@
 295 <N>u en(de) telker vren
 <J>nd[er] fierer houarde(n) stat
 <E>nde ne(m)mermeer w[ar]t hijs zat
-<D>us ne mach (f weggedaan) (s)iere nature(n)
+<D>us ne mach *s*iere nature(n)
 <G>hene ghenade ghebure(n)
 300 <N_1>a datme(n) bi redene(n) weet
 <D>at god niemene heeft leet
@@ -1375,13 +1375,13 @@
 305 <O>nderdaen es bleue(n)
 <J>c dart wel segghe(n) vp mine(n) eet
 <S>ine houescheit ware onghecleet 
-(doorgehaalde letteraanzet) <L>iete hi de(n) gone(n) sneue(n)
+doorgehaalde letteraanzet <L>iete hi de(n) gone(n) sneue(n)
 <D>ie al te zine(n) dienste steet
 310 <D>es ghelijcs wil ic ghereet
 <D>en loon hair wed[er] gheue(n)
 <D>ie doir mi lust leue(n)
-<G>Od gheu[et] al clene en(de) groot
-<D>ies de mensche heu[et] noot
+<G><O>d gheu{et} al clene en(de) groot
+<D>ies de mensche heu{et} noot
 315 <D>it prouftme(n) mit zinne
 <H>i storte doir ons zijn bloet root
 <E>nde gheeft ons dat hemelsche broot
@@ -1410,7 +1410,7 @@
 <E>n(de) ten laetsten stonde(n)
 <V>rien mit zine(n) wonde(n)
 
-[in latere hand III]
+in latere hand III
 1 <I_1><C> mane ma(n)ne(n) mitte(n) wiue(n)
 <D>ie dit dicht sulle(n) lesen of scriue(n)
 <O>p den hoichste(n) ban
@@ -1461,8 +1461,8 @@
 45 <H>ets recht dat hijt beweent
 <D>u soucts mi in alle(n) houke(n)
 <M>et rime(n) sond[er] valsch va(n) douke(n)
-<E>ist goed ic wane neent
-<D>u telts mi mette(n) wise(n) clouke(n)
+<E>ist goet ic wane neent
+<D>u telts mi mette(n) wisen clouke(n)
 50 <W>airtt goet ic soud[er] di om vlouke(n)
 <I>c wane dine harte meent
 <D>attu mi hebs v[er]beent
@@ -1470,17 +1470,17 @@
 <I>c souts mi in mij(n) selue(n) scame(n)
 55 <H>ad ict oyt ghedocht
 <O>ic lye ics metti te same(n)
-<D>it de hoich%eit% d[er] hogh[er] name(n)
+<D>at de hoich%eit% d[er] hogh[er] name(n)
 <T>e v[er]re niet docht ghesocht
 <A>l wairt dat alle die enghele(n) q%ua%me(n)
 60 <S>i en conden die godh%eit% ghehame(n)
 <D>its al of ghecnocht
-<M>[er] lere mine(n) zin dein lame(n)
+<M>[er] lere mine(n) zin dein lamen
 <G>hewont mitt[er] zonde(n) blame(n)
 <V>an datti v[er]mocht
 65 <S>o es mijn wille volbrocht
 <M_1>airtijn nv merct in dine(n) zinne
-<G>od es een (wisen doorstreept) wese(n) vor alle begi(n)ne
+<G>od es een wisen doorstreept wese(n) vor alle begi(n)ne
 <T>edelste boue(n) al
 <S>ijn wesen es als ict bekinne
 
@@ -1493,7 +1493,7 @@
 <D>iet ke(n)nen en(de) smal
 75 <S>ine wijshede es coninginne
 <B>oue(n) alrande ghewinne
-<E>n(de) boue(n) al gheual
+<E>nde boue(n) al gheual
 <D>air boue(n) of hier int dal
 <D_1>en hemel en(de) den troon gem[er]cke
 80 <G>od es boue(n) al sine(n) ghewercke
@@ -1532,7 +1532,7 @@
 110 <S>ijn wesen es so vast
 <B>ute(n) ne breet nauw[er] sine daghe(n)
 <W>ant hi es altois sond[er] vraghen
-<W>erdt *g* [doorgestreepte] voghet en(de) met gast
+<W>erdt *g* doorgestreept voghet en(de) met gast
 <B>inne(n) v[er]uolt hijt jeghen plaghe(n)
 115 <D>at zijn werc met ghene(n) vlaghe(n)
 <N>e sijn ongherast
@@ -1556,9 +1556,9 @@
 <D>air na de(n) zone wtu[er]core(n)
 135 <V>an he(m) ghewonne(n) als wijt hore(n)
 <E>er oyt beghin ghinc jn
-<D>en heilighe(n) gheest lere(n) wi de doren
+<D>en heilighen gheest lere(n) wi de doren
 <W>te desen come(n)de ondoe sine oren
-<E>lc mensche (zine doorstreept) en(de) zine(n) sin
+<E>lc mensche zine doorstreept en(de) zine(n) sin
 140 <E>n(de) latet gheloue niet te storen
 <W>ant al hadt alde we[re]lt ghezwore(n)
 <S>o en conde o(m)me gheen ghewin
@@ -1582,7 +1582,7 @@
 <D_1><I>eme(n) es wille hi yet make(n)
 <H>i en moet in he(m) selue(n) smake(n)
 <E>nigherhand[er] triniteyt
-160 <W>a(n)t hi moet (erboven geschreven) moeghe(n) d[er] dinc genake(n)
+160 <W>a(n)t hi moet erboven geschreven moeghe(n) d[er] dinc genake(n)
 <E>n(de) hi moet ko(n)ne(n) die dinc gerake(n)
 <O>f hets he(m) al ontseit
 <O>oc moet hi wile(n) dair om wake(n)
@@ -1591,8 +1591,8 @@
 <D>ie dese note wel can craken
 <H>i en darf beiden no hake(n)
 <H>ine vint in ene godheit
-<D>rie p[er]sone gheseit
-170 <D_1>ese god dair wi (erboven geschreven) of leren
+<D>rie {per}sone gheseit
+170 <D_1>ese god dair wi erboven geschreven of leren
 <D>oet troon son(n)e mane st[er]re(n) kere(n)
 <E>n(de) al dat roerende sij
 <S>ine ruste es nochtan so vul ere(n)
@@ -1635,11 +1635,11 @@
 <E>n(de) nv es gemanc
 <I>n dese we[re]lt cranc
 <M_1>artin nv en claech no croen
-210 <D>its een god in drien p{er}sone
+210 <D>its een god in drien {per}sone
 <D>air ic of spreke die
 <E>uen gheweldich euen scone
 <E>ue(n) ghelijc in we[re]lt in throne
-(ne doorstreept) <S>ijn dese enighe drie
+ne doorstreept <S>ijn dese enighe drie
 215 <R>edene en draecht hier n%iet% de crone
 <M>[er] tgheloue sond[er] hone
 <D>es en twifele nie
@@ -1660,15 +1660,15 @@
 <O>ns en trucke gheloue en(de) mi(n)ne
 230 <V>pwairt ter hemelscher poirt
 <D>air god es loon boue(n) ghewi(n)ne
-<E>nde dair tgheloue es coni(n)ginne
-<N>u antwoirt mi bet vort
+<E>nde dair tgeloue es coni(n)ginne
+<N>u antwoirt mi bet voirt
 <O>f ict niet heb v[er]boort
 235 <A_1>nde(n) vad[er] va(n) hemelrike
 <E>n(de) ande(n) zone dies ghelike
 <E>n(de) ande(n) heilighe(n) gheest
 <S>o es mijn geloue also rijke
 <D>at een god is en(de) ics ne wike
-240 <H>oe so ic worde ghevreest
+240 <H>oe so ic worde gheureest
 <M>[er] segt mi so claer dat blike
 <H>oe die zone die ewelike
 <D>en vad[er] es alre neest 
@@ -1680,7 +1680,7 @@
 <S>o bidde(n) wi d[er] maghet marien 
 250 <D>iene maghet ontfinc
 <E>n(de) maghet ghenas des wi al lyen 
-<D>air wise alle o(m)e benedien
+<D>air wise alle o(m)me benedien
 <D>atsi starcke onse dinc
 <E>n(de) moete claersen en(de) wien
 255 <D>ine(n) zin en(de) van zonde(n) vrien 
@@ -1764,7 +1764,7 @@
 <D>ope(n) prouuen in dien tyde(n)
 <V>ande(n) helsche(n) viant
 <S>o liet hi hare vaen en(de) beniden
-330 <D>oirbore(n) hande(n) (en(de) v doorstreept) voete(n) en zide(n)
+330 <D>oirbore(n) hande(n) en(de) v doorstreept voete(n) en zide(n)
 <S>o starf dus est becant
 <D>ie ziele wilde t[er] helle(n) tiden
 <D>air ze de gone wilde v[er]blide(n)
@@ -1772,14 +1772,14 @@
 335 <A>y hoe si gode benedide(n)
 <D>ie heilighe(n) diene zaghe(n) stride(n)
 <J>eghens des duuels brant
-<D>air hise inne vant
+<D>air hise jnne vant
 <D_1>ie godheit wecte va(n) dode te liue
 340 <T>vleesch dat hi vande(n) reyne wiue
 <V>rouwe marien nam
 <H>y troiste sine lieue keytiue
 <H>ier .ij. hier .iij hier iiij hier v
 <M>it hem hi eten quam
-345 <D>us es die gods zone alsic scriue
+345 <D>us es die gods zone als ic scriue
 <G>od en(de) mensche elc man bliue
 <H>ier in ghehoirsaem
 <E>s ooc enich sin so stiue
@@ -1797,7 +1797,7 @@
 <D>ie he(m) hier zijn becant
 <N>och comt hi he(m) hier v[er]baren
 <D>iene(n) die we[re]lt mit sine(n) scare(n)
-360 <E>nde de(n) helsche(n) viant
+360 <E>n(de) de(n) helsche(n) viant
 <Z>onne en(de) mane sal hi v[er]claren
 <D>ie bi adame v[er]donckert ware(n)
 <W>at[er] lucht en(de) lant
@@ -1826,7 +1826,7 @@
 <N>a mire moghentheit
 <D>ie dit gheloue vaste orconde(n)
 <O>flaet groot van hare(n) sonden
-<E>s he(m) altois ghereit
+<E>s hem altois ghereit
 
 &151va&
 
@@ -1873,7 +1873,7 @@
 
 &151vb&
 
-430 (hoofdletter D ontbreekt?)its des vad[er]s en(de) des zoens gaue
+430 its des vad[er]s en(de) des zoens gaue
 <R>ijcheit boue(n) alre haue
 <F>onteyne des leuens al
 <W>ie so gheporret w[er]t hier aue
@@ -1881,7 +1881,7 @@
 435 <S>oude he(m) dincke(n) smal
 <R>ijcheit die coninc heift of graue
 <N>es tienste deel niet van ene(n) caue
-<T>e mickene jeghen dit gheval
+<T>e mickene jeghen dit gheual
 <I>hesus die rustes inde(n) graue
 440 <M>it deser eydelheit so laue
 <O>ns alsme(n) rume(n) sal
@@ -1889,7 +1889,7 @@
 <D_1>its des vaders en(de) des zoens mi(n)ne
 <D>its caritate dair altois jnne
 445 <R>ust die triniteit
-<H>i es die p{ro}pheten zinne
+<H>i es die {pro}pheten zinne
 <L>eerde en(de) makede in jnne
 <D>es gods soens me(n)schelich%eit%
 <H>ens coninc no coningi(n)ne
@@ -1925,7 +1925,7 @@
 <S>ciep en(de) al dat grote en(de) al dat smale
 <D>air of spreke(n) alle woirt
 <E>n ganc niet ou[er] dese pale
-<M>er hout dit in dire h[ar]te(n) zale
+<M>[er] hout dit in dire h[ar]te(n) zale
 480 <S>o en w[er]tstu niet v[er]smoort
 <I>n de helsche moort
 <W_1>are ooc yeme(n)t die wed[er]sprake

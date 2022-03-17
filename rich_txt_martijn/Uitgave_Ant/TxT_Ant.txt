@@ -52,7 +52,7 @@
 <A>ls d[...]
 <V>an gher[...]
 <D>oet d[er] og[...]
-655 <O>ft comt[e[...]
+655 <O>ft comt[...]
 <D>it euel t[...]
 <I>c liet m[...]
 <E>n(de) ics vr[...]

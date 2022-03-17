@@ -732,7 +732,7 @@
 <W>illic dat hier mede si beduut
 675 <P>rouf of ic dit ontbinde
 <E>ntie redene bevinde
-<E_1>en zw[aer] orloghe en(de) een g%roet% strijt
+<E_1>en zw[aer] orloghe en(de) een g%roe%t strijt
 <E>n(de) daer toe een eewelijc nijt
 <E>s tussche(n) d[er] herte(n) ente(n) oghe(n)
 680 <T>herte de(n) oghen verwijt 
@@ -1004,10 +1004,10 @@
 <W>ert onwert en(de) onghemint
 <E>n(de) men copet ondiere
 930 <M>anne sijn loser da(n) die wint
-<H>are scone claghe(n) v%rou%we(n) v[er]blint
+<H>are scone claghe(n) v%ro%uwe(n) v[er]blint
 <W>ant si sijn goedertiere
 <G>rote sonde(n) hi he(m) bewint
-<D>ie valsche worde(n) v%rou%we(n) toe sint
+<D>ie valsche worde(n) v%ro%uwe(n) toe sint
 935 <G>od die moetene schiere
 <S>enden ten helschen viere
 <V_1>vat mochte v[er]hieue dat adm
@@ -1039,7 +1039,7 @@
 <9>60 Die zielen int helsche dal
 <D>ies lucifer beghiede
 <W>a(n)t het was sine meiseniede
-<I_1>acop du best de(n) v{rou}we(n) hout
+<I_1>acop du best de(n) v%ro%uwe(n) hout
 <D>u gheues de(n) manne(n) al de scout
 965 <I>c wanict best ghedoghe
 <I>c v[er]gheue al onghedout
@@ -1053,7 +1053,7 @@
 <O>nse dyaloghe
 975 <I>n vraghe ne(m)meer no ne toghe
 
-[In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: [dand] martijn.]
+In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *dand* martijn.
 
 1 <D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
 <M_3><A>rtijn slaepstu slaept dijn sin
