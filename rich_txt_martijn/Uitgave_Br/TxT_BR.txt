@@ -326,8 +326,8 @@
 <A>l dunct si den ghene(n) swaer
 <D>ie luttel geuroeden
 
-
 &4ra&
+
 *<D>en liefsten die *...**
 <H>iertoe sijn si verdreuen
 <L>iecht mi n{iet} als een truwant
@@ -448,6 +448,9 @@
 <D>[aer] ic en mach meer no mi(n)
 <A>ne winnen dan scade
 <E>n(de) mi een ander heeft in
+
+&4vb&
+
 200 [...]
 <M>i an vroech en(de) spade
 <M>i dunct d{at} ic meer sculdich bin
@@ -596,7 +599,6 @@
 <D>[aer] minne n{iet} en int h[aer] iaer
 <E>nten lesten stonden
 <V>rien m{et} sinen wonde(n)
-
 *...* es den derden boeck
 1 <J_10><C> mane manne m{et}ten wiuen
 <D>ie dit lesen ofte scriuen
