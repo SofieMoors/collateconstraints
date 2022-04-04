@@ -26,7 +26,7 @@
 <D>[aer] bi god sal besceden
 <M>et sinen lieuen leden
 <E_2>s die wech nau en(de) hoech
-860 <D>[aer] ih{esu}s bi te hemel vloech
+860 <D>[aer] ih(esu)s bi te hemel vloech
 <D>ats passie en(de) aermoede
 <O>ftu meer heues da(n)di doech
 <O>m gods hulde poech
@@ -51,7 +51,7 @@
 <D>at si adame th[er]te sta[...]
 880 <D>ie hem va(n) he(m) liet v[er]g[...]
 <S>ech wient men tien [...]
-<D>it v[er]lies (oorspronkelijk verlves of verles) sonder geta[...]
+<D>it v[er]lies sonder geta[...]
 <D>[aer] wi om sullen beuen
 <A>ls enden sal dit leu[...]
 885 <M_2><E>rten hene nes n{iet} v[...]
@@ -69,7 +69,7 @@
 <D>at ic my verlade
 <S_2><E>lc tient de(n) vrouwe(n) [...]
 <D>{at} si hem th[er]te onti[...]
-900 <A>ls die steen die nael[]
+900 <A>ls die steen die nael[...]
 <H>i du(n)ct my mesdoe(n) in [...]
 <W>ildi die w[aer]heit ghie*n*
 <E>er hire toe taelde
@@ -103,7 +103,7 @@
 [...]s onweert en(de) ongemint
 [...]n(de) men coept om diere
 930 [...]ans sijn loser dan de wint	
-[...][aer] clage(n) vrouwe(n) blint
+[...]aer clage(n) vrouwe(n) blint
 [...]ant si sijn goedertiere(n)
 [...]ote sonde(n) hi he(m) bewint
 [...]e vals wort vrouwe(n) sint
@@ -134,10 +134,10 @@
 <B>enedien groot en(de) smal
 <M>aria genas den val
 <V>an mensceliken diede
-<S>ies die rouede en(de) stal
+<S>i es die rouede en(de) stal
 960 <D>ie siel int thelle dal
-<D>ies Lucifer beghiede
-<D>at was sine meiseniede
+<D>ies lucifer beghiede
+<D>at was sine meiseinede
 <I_2><A>cop du best de(n) vrouwe(n) hout
 <E>n(de) geuet den mans scout
 965 <I>c wanict best gedoge	

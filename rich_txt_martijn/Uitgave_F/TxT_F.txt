@@ -16,18 +16,18 @@ werelt yet la(n)ge stae(n)
 <R>echt often god verscroue.
 <H_2><O>e langhe sal gedogen dit
 15 <G>od. die alle dinc besit
-<I>n zijnre heerscappie
+<I>n ziine heerscappie
 <D>attie goede vleeut en(de) bid
 <H>em en doech dat no dit
 <D>atti ye ghedye.
-20 <A>l gaet inden helschen pit
+20 <A>l gaet inden helschen pit/
 <E>est grau blau zwert oft wit
 <H>ets ghetrouwe als die zie
-<R>echt man deluet sonder spit
-<H>ine heeft te poynte niet gehit
-25 <I>n gheene baelgye.
-<M>i es leet dat ic waer lye
-<L_2>aet ons merte(n) ouer een
+<R>echt man deluet sonder spit/
+<H>ine heeft te poynte niet gehit/
+25 <I>n gheene baelgye/.
+<M>i es leet dat ic waer lye/
+<L_2><A>et ons merte(n) ouer een
 <H>ier af spreke(n) ond[er] ons tween
 <I>n dit dyaloge.
 30 <W>ane(n) quam ons desen ween
@@ -35,7 +35,7 @@ werelt yet la(n)ge stae(n)
 <E>nde nu sit dus hoghe
 <I>c sal vraghen ende vleen
 <A>ntwoirt mi ia oft neen
-35 <V>an dat ic dy betoeghe.
+35 <V>an dat ic dy betoeghe/.
 
 &1rb&
 
@@ -43,7 +43,7 @@ werelt yet la(n)ge stae(n)
 <A>rbeyt vint vier inden steen
 <D>aer bij ontsteect dat droeghe
 <N>u spreect ende ict ghedoeghe
-40 <S_2>preke(n) iacob lieue co(m)paen
+40 <S_2><P>reke(n) iacob lieue co(m)paen
 <W>aer soudic dat hebbe(n) v[er]stae(n)
 <D>at ic daer toe dochte
 <T>e verclaren dinen waen
@@ -65,7 +65,7 @@ werelt yet la(n)ge stae(n)
 <N>u maken die heere(n) een gespan
 60 <E>n(de) gheue(n) der eeren eene(n) ban
 <E>n(de) en wille(n) niet dat zij keere
-<Z>egt mi wane(n) dit fenijn ran
+<Z>eght mi wane(n) dit fenijn ran
 <T>oecht mi redene daer van
 <W>ant ict gheerne leere
 65 <W>ies scult dat het weere.
@@ -74,21 +74,21 @@ werelt yet la(n)ge stae(n)
 <T>e pinen om die eere
 <E>n(de) zij trac den scalken naer
 70 <D>ie raden nu hier nv daer
-<E>n(de) niet en (ertussen geschreven) scelden den heere.
+<E>n(de) niet en ertussen geschreven scelden den heere.
 
 &1va&
 
 <S>o es del herte worden zo zwair
 <D>at sij te clymme(n) heeft ommaer
-<E>n(de) daelt int lanck zo meer
+<E>n(de) daelt int lanc zo meer
 75 <D>its nu alder werelt claer
 <E>n(de) oic zietment wel openbaer
 <D>us es verbannen eere
 <E>nde wederstaen ten keere
 <N_2><U> merct bid[er] zo(n)nen licht
-80 <D>at alder werelt oghe bericht
+80 <D>at alder werelt oge bericht
 <B>ij hare edelre natuere
-<A>ls dat zwert dair ieghen vecht
+<A>ls dat zwerc dair iegen vecht
 <E>ntie neuel met sire drecht
 <S>one can sij te diere vren
 85 <N>iet ghetone(n) haer scone lecht
@@ -98,7 +98,7 @@ werelt yet la(n)ge stae(n)
 <E>n(de) haer edelheyt verplecht
 90 <D>at zij laet ghedueren
 <B>ij haer. den scalken sueren
-<S_2><I>nt die scalke droege(n) ou[er] een
+<S_2><I>nt dat scalke droege(n) ou[er] een
 <D>at neen w[er]t ia en(de) ia neen
 <E>n(de) hem dat wijsheyt dochte.
 95 <E>n(de) edelheyt daer om green
@@ -143,7 +143,7 @@ werelt yet la(n)ge stae(n)
 <M_2><E>rten nv berecht mi dies
 <B>erecht oft .I. god die nye en «wies»
 <M>aecte alle creatueren
-<T>wij heeft die q{ua}de dan den kies
+<T>wij heeft die q%ua%de dan den kies
 135 <E>ntie goede valt int verlies
 <W>ie saelt voir recht cueren
 <M>ijn sin zeyt mi als een ries
@@ -159,7 +159,7 @@ werelt yet la(n)ge stae(n)
 <I_2><A>cob zegt bistu verdoort
 145 <A>uontuere en es maer .I. woort
 <V>an gheuensder spraken
-<B>rincstu ongheloeue voort
+<B>rincstu ongeloeue voort
 <G>od siet alle dinc ende hoort
 <W>iltu den duuel maken
 150 <W>at heeft diin h[er]te dus becoort
@@ -214,16 +214,16 @@ werelt yet la(n)ge stae(n)
 <M_2>erte(n) en waerstu niet zo wreet
 <E>en dinc dat ic niet en weet
 <S>oudic dij gheerne vraghen
-<T>wij zijn die sonden gode so leet
+<T>wij ziin die sonden gode so leet
 200 <D>atti den sondare es so wreet
 <I>n wraken en(de) in plaghen
 <W>ant gheen sondare in so(n)de(n) steet
-<L>angher dan sijn lijf es breet
+<L>angher dan siin lijf es breet
 <T>wij torment hine met slagen
-205 <E>ewelijc sonder verscheet
+205 <E>euwelijc sonder verscheet
 <D>it en schijnt te pointe n{iet} geleet
-<D>ordeel. dorst ics ghewaghen
-<A>l en weet ic wien claghen
+<D>ordeel. dorst ics ghewagen
+<A>l en weet is wien claghen
 <I_2>acob die alle herten kent
 210 <S>ent den sondae[r] recht torme(n)t
 <N>ader herten ghedochte
@@ -234,10 +234,10 @@ werelt yet la(n)ge stae(n)
 
 &2va&
 
-<D>air hij eewelic wert gheschent
-<W>ant sijn wille dat wrochte
+<D>air hij eeuwelic wert gheschent
+<W>ant siin wille dat wrochte
 <B>esich diin herte al omtrent
-<D>unctix dese redene blent
+<D>uncti dese redene blent
 220 <D>ie ic hier voort brochte
 <H>eent diet wel besochte
 <M_2><E>rten du segghes wel en(de) waer
@@ -257,7 +257,7 @@ werelt yet la(n)ge stae(n)
 <A>l gaef ic wech goet en(de) scat
 <E>nde doghede grote coude
 <W>aer ic in hooft sonden mat
-<E>nde holpe mi niet een blat
+<E>n holpe mi niet een blat
 240 <S>prect die nuwe wet en(de) doude
 <D>ie ons dus nauwe make(n) de(n) pat
 <T>e hemelwaert en(de) zo glat
@@ -276,7 +276,7 @@ werelt yet la(n)ge stae(n)
 <D>ie gheerne nieuwe dingen hoirt
 <W>at hij heuet vonden
 <S>elue v[er]staet hijs niet een woirt
-255 <D>us meerder mesdaet dan moort
+255 <D>its meerder mesdaet dan moort
 <D>at sij gods woort dus wonden
 <H>ier nayen sijt hier eest gescoort
 <H>ier brect een nagel hier een boort 
@@ -288,37 +288,37 @@ werelt yet la(n)ge stae(n)
 <S>ij iagen vele mer cleue sij vaen
 265 <D>an wille(n) zij te gader slaen
 <G>helijc ende onghelike
-<D>ies laet ic mijn vragen staen
+<D>ies laet ic miin vragen staen
 <H>et dunct mi best ghedaen
 <D>at ic hier aff wijke
 270 <D>an ic vele in eene(n) do(m)me(n) waen
 <B>eter es dat ic vlye die naem
 <D>an ic te kempe strijke
-<J>eghen den kempe eerlike
+<J>egen den kempe eerlike
 <O_2><F>t god ten ioncte(n) dage zal
 275 <G>hepens en(de) woort bezichte(n) al
 <D>air wij oyt in mesdaden
 <S>oudi als een onweert bal
 <W>eldaet werpen int helsche dal
 <S>oe waer hij sonder genaden
-280 <N>een. hij ne es niet soe smal
+280 <N>een hij ne es niet soe smal
 <V>an weldaden dat ghetal
-<E>n(de) wort van grade (r erboven geschreven) te grade
+<E>n(de) wort van grade r erboven geschreven te grade
 <V>an gode ghedanct die nie en hal
-<D>atmen wel dede ofte stal
+<D>atmen weldede ofte stal
 285 <G>herechticheyt soude scaden
 <E>n hoorde god niet die baden
 <D_1><A>t zeyt tgheloeue mijn.
 
 &3ra&
 
-<G>od moet in hem seluen zijn
+<G>od moet in hem seluen ziin
 <H>ine mach el niewers wesen
-290 <H>ij es gherechtich ende fijn
+290 <H>ij es gherechtich ende fiin
 <E>n(de) ghenadich dats aenschijn
 <H>ij es alleen van desen
-<D>ie vanden water maecte wijn
-<H>ine es sijns selfs niet eyghin
+<D>ie vanden water maecte wiin
+<H>ine es siins selfs niet eyghin
 295 <S>oe wat die doeren lesen
 <J>acop hout tgheloeue mijn
 <H>ets menich onbescheden zwijn
@@ -330,7 +330,7 @@ werelt yet la(n)ge stae(n)
 <L>aet he(m) begaen diet ghelde(n) moet
 <E>n(de) diet al bij redenen doet
 305 <N>e(m)meer en wil ics weten
-<H>ij es diet al maecte en(de) behoet
+<H>ii es diet al maecte en(de) behoet
 <G>helijc die hi(n)ne die kieke(n) broet
 <H>eeft hij al beseten.
 <H>ij gheeft ons ziele vleesch en(de) bloet
@@ -359,12 +359,12 @@ werelt yet la(n)ge stae(n)
 ¶ <D>ie ierste es caritate dats waer
 330 <D>ie es sonder pine en(de) vaer
 <E>n(de) daer woent god inne
-¶ <D>ander trect de werelt naer
-<O>meere om goet staet al haer gaer
-<D>ats eene bastaertdinne
+¶ <D>ander trect die werelt naer
+<O>m eere om goet staet al h[aer] gaer
+<D>at es eene bastaertdinne
 ¶ 335 <D>ie derde mi(n)ne eyschen die iaer
-<A>ls bij natueren elc sijn paer
-<A>l doch sijn zij dinne.
+<A>ls bij natueren elc siin paer
+<A>l doch siin zij dinne.
 <D>ie deser volghe(n) met zinne
 <D_2><E>erste minne es soe groot
 340 <D>at alleene dat god ye geboot
@@ -375,7 +375,7 @@ werelt yet la(n)ge stae(n)
 345 <M>i(n)ne es god die merct al bloot
 <W>ie mochte(n) anders bringe(n) ind[er] noot 
 <H>em diet al verueerde
-<D>an hij hem daer in besloot
+<D>an hij hem dair in besloot
 <D>ie doer mi(n)ne sijn bloet root
 350 <S>torte hier neder op deerde
 <E>n(de) in minne openbaerde
@@ -398,12 +398,12 @@ werelt yet la(n)ge stae(n)
 365 <D_2><A>nder mi(n)ne es ombehoet
 <W>a(n)t sij staet na deertsche goet 
 <E>n(de) na der werelt eere
-<D>its die mi(n)ne die dicke doet
+<D>its mi(n)ne die dicke doet
 <R>idderscap wesen verwoet
 370 <E>nten wokenneere
 <W>ant die ridder niet en ghedoet 
 <H>ine verslijt vleesch ende bloet
-<O>p dat sijn prijs meere
+<O>p dat siin prijs meere
 <D>and[er]. al w[aer] al gelt een vloet
 375 <E>n(de) hem vloeyde inden moet
 <H>em soude noch zoe zeere
@@ -413,15 +413,15 @@ werelt yet la(n)ge stae(n)
 380 <E>n(de) om der werelt scatte.
 <W>iltu eere hebbe(n) wes ghereet
 <T>e laten dat gode es leet
-<P>ijndy v te doene datte
+<P>ijndy te doene datte
 <D>at hem es lief en(de) hij dij heet
 385 <W>es vrome ende doget zweet
 <W>acht datme(n) dij niet en matte
 <O>nder der ydelre glorien cleet
 <D>[aer] menich met om gheet
 <W>ant haer tonghe platte
-390 <S>meltet als een snee clatte
-<S_2><E>ere te mi(n)nen es een dinc
+390 <S>meltet als snee clatte
+<S_2><E>re te mi(n)nen es een dinc
 <D>air noyt herte met omginc 
 <S>ine was van reynen aerde
 <B>estu out off ionghelinc
@@ -429,7 +429,7 @@ werelt yet la(n)ge stae(n)
 
 &3vb&
 
-<D>ijnre herten houeerde.
+<D>iinre herten houeerde.
 <P>rijs die in lodders tonghe hinc
 <W>as noyt weert een oge winc
 <O>nder die goede weerde
@@ -448,7 +448,7 @@ werelt yet la(n)ge stae(n)
 <D>aer die enghele beuen
 <D>ese scuwen der eeren pat
 <W>ant sij moete(n) int helsche bat
-415 <S>alomon heuet bescreuen (salomon rood onderlijnd)
+415 <S>alomon heuet bescreuen salomon rood onderlijnd
 <W>ant ten es niet arghers bleuen
 <D_2>ie derde mi(n)ne eyscht den tijt
 <A>ls bij natueren elc ontbijt
@@ -460,10 +460,10 @@ werelt yet la(n)ge stae(n)
 <W>ant sij talder stont verblijt
 425 <G>helijc oft al haer ware
 <H>aer hope ne(m)mermeer ghelijdt
-<D>ie aldus sijn lijf verslijt
+<D>ie aldus siin lijf verslijt
 <M>aect sine ziele clare
 <E>nde en es gheen futselare
-430 <M_2><I>nne es alsmen beschreue(n) vint
+430 <M_2><I>nne es alsmen bescreue(n) vint
 <C>racht die .ij. h[er]ten tsame(n) bint
 
 &4ra&
@@ -473,7 +473,7 @@ werelt yet la(n)ge stae(n)
 <Co>mt dat die menighe es zo kint
 435 <D>atti hem laet verspanen
 <S>ine co(n)nen mi(n)ne(n) niet een twint
-<D>ie wandel sijn als die wint
+<D>ie wandel siin als die wint
 <S>ij rollen buten banen
 <I>c wane men zoe vele vint
 440 <M>inres in trouwen ghehint
@@ -483,7 +483,7 @@ werelt yet la(n)ge stae(n)
 <H>et seit al he[er]e en(de) knecht
 445 <V>rouwen en(de) ioncfrouwen
 <I>n sanghe en(de) in rime slecht
-<D>at zij met mi(n)ne(n) sijn v[er]plecht
+<D>at zij met mi(n)ne(n) siin v[er]plecht
 <E>n(de) men cans niet ghescouwe(n)
 <M>ij dunct al die werelt vecht
 450 <J>egen der reynd[er] mi(n)ne(n) lecht
@@ -524,10 +524,10 @@ werelt yet la(n)ge stae(n)
 <M_2><E>rten die menich is bedect
 <D>ie dinct d[aer] zijn sin op mect
 <E>n(de) du vraghes wel verre
-485 <A>l heeft een p{er}semer gheplect
+485 <A>l heeft een {per}semer gheplect
 <E>nten lieden thare ontrect
 <S>oe wilt hij sonder merre
-<O>nder die edele sijn ghetrect
+<O>nder die edele siin ghetrect
 <A>l ware hij dusenfout beulect
 490 <T>ghelt claret vanden terre
 <D>its dinc dien de lieden wect
@@ -537,11 +537,11 @@ werelt yet la(n)ge stae(n)
 495 <S_2><E>lc waent dat d{at} volc eyghij(n)
 <C>ome(n) es vande(n) quade(n) caym
 <D>ie vermoorde abelle.
-<E>ntie god v[er]doemt hiet zijn
+<E>ntie god v[er]doemt hiet ziin
 <D>its niet waer mertijn
 500 <B>ij redene die ic telle
-<W>ant ons scrijft die bybel fijn
-<D>at al dat gheslachte sijn
+<W>ant ons scrijft die bybel fiin
+<D>at al dat gheslachte siin
 <V>erdranc die diluuie felle
 
 &4va&
@@ -549,13 +549,13 @@ werelt yet la(n)ge stae(n)
 <M>aer tvalsche dorperlijc fenij(n)
 505 <D>at caym droech es noch ae(n)schij(n)
 <A>en meneghen die ic telle
-<V>an herten sijn gheselle
+<V>an herten siin gheselle
 <S_2><E>lc waent dat volc va(n)de(n) q%ua%de(n) ca(m)
-<D>ies noe sijn vader was gra(m)
+<D>ies noe siin vader was gra(m)
 510 <O>m dat hine niet en decte
 <D>at eyghen volc van hem quam
 <W>a(n)t hem des tfuaders vloec mesq%ua%m
-<H>ij doelde diere op mecte
+<H>ii doelde diere op mecte
 <A>l vintmen dattie goede ram
 515 <D>icke wint dongaue lam
 <D>its der rudarise secte
@@ -590,7 +590,7 @@ werelt yet la(n)ge stae(n)
 <M>eest in die eere rijset
 <M>aer als tvolc wert soe quaet
 <D>at die wet gods versmaet
-545 <W>ordet ten valle ghewijset
+545 <W>ordet te valle ghewijset
 <E>nde va(n) niemant ghepriset
 <M_2><I>ne roec wien droech of wan
 <D>aer trouwe ende eere es an
@@ -600,7 +600,7 @@ werelt yet la(n)ge stae(n)
 <V>ander edelheden
 <A>l vercoeptme(n) sulke(n) ma(n)
 <N>iemant en es die he(m) beroue(n) can
-555 <S>ijnre doechdachticheden
+555 <S>iinre doechdachticheden
 <M>y dunc dat edelheyt began
 <V>ut reynder herten dan  
 <M>et doeghden besneden
@@ -609,24 +609,24 @@ werelt yet la(n)ge stae(n)
 <T>er edelheit .iij. poente(n) hout
 <D>ie ic dij sal leeren.
 <W>es neerachtich menichfout
-<W>es eerachtich mi(n)e met tgout
+<W>es eerachtich mi(n)ne met tgout
 565 <D>ese .ij. hout niet voir scheren
 <W>es warsichtich ende stout 
 <D>ese drie poynten hout
-<W>ant sij sijn vol eeren
+<W>ant sij siin vol eeren
 <S>o en niement ionc no out
 570 <D>ien du scalc duncken sout
 <S>onder he(m) die weldaet deeren
 <E>n(de) doghet tondoeghden keeren
 <M_2><E>rten ic hebbe wel v[er]staen
 <W>oirden vut dine(n) monde gaen
-575 <V>ol rechter waerheden
+575 <V>ol rechter waerheden/
 
 &5ra&
 
 <A>l sprect in sinen bouc alaen
 <D>at edelheit qua(m) sonder waen
-<V>an ouder rijcheden
+<V>an ouder rijcheden/
 <D>ese edelheyt machme(n) afdwaen
 580 <W>ortmen erm so eist ghedaen
 <M>en valt in doude stede
@@ -652,41 +652,41 @@ werelt yet la(n)ge stae(n)
 <B>eghan in hemelrike
 <A>ls lucifer te siere ontijt
 <I>nden hemelschen delijt
-<W>ildy zijn gods ghelike
-605 <D>[aer] viel hij int helsche bijt
+<W>ildy ziin gods ghelike
+605 <D>[aer] viel hii int helsche bijt
 <D>[aer] hij ne(m)mermeer v[er]slijt
 <E>n(de) bliuet eeuwelike
 <N>u sendt hij dor de werelt wijt
-<S>ijn fenijn en(de) sijn nijt
+<S>iin fenijn en(de) siin nijt
 610 <E>n(de) wille dat het blijke
-<A>lst doet iammerlike
+<A>lst doet iammerlike/
 
 &5rb&
 
-<T_2><W>ee woirde in die werelt zijn
+<T_2><W>ee woirde in die werelt ziin
 <D>ats alleen mijn en(de) diin
 <M>ochtmen die verdriuen
-615 <P>ays ende vrede bleuen fijn
-<H>et waer al vry nieme(n)s eyghijn
+615 <P>ays ende vrede bleuen fiin
+<H>et waer al vry nieme(n)s eyghiin
 <M>anne(n) metten wiuen
-<H>et waer ghemeen tarwe en(de) wijn
+<H>et waer ghemeen tarwe en(de) wiin
 <O>uer die zee en(de) opten rijn
 620 <M>en soude oic niemant ontliuen
 <N>u beneemt dat fenijn
-<V>an ghiericheden mertijn
+<V>an ghiericheden mertiin
 <E>n(de) doet al achter bliuen
 <E>nde ander loy bescriuen
 625 <G_2><O>d diet al bij rede(n)ne doet
-<G>aff dat wandel eertsche goet
+<G>aff dit wandel eertsche goet
 <D>er menscheit ghemeene
 <D>atter mede waer gheuoet
 <E>n(de) ghecleet en(de) ghescoet
 630 <E>n(de) leuen soude reene
-<N>u es ghiericheyt so verwoet
+<N>u es ghiericheit so verwoet
 <D>at elc set sinen moet
 <O>m te hebben alleene
-<H>ier om stortme(n) metter spoet
-635 <H>ier om stortmen smenschen bloet
+<H>ier om stortme(n) sme(n)sche(n) bloet 
+635 <H>ier om stichtme(n) metter spoet
 <B>orghe ende hoghe steene
 <D>en menighen te weene
 <I_2><A>cob ic hebbe wel v[er]staen
@@ -705,19 +705,19 @@ werelt yet la(n)ge stae(n)
 <V_1>recheyt leert die werelt vlaen
 <D>it proeuen ende oirconden
 650 <D>ie winners vanden ponden
-<I_2><A>cob een dinc maect mi cont
+<I_2><A>cob een dinc maect mi cont/
 <A>ls die me(n)sche wert ghewont
 <V>an gherechter minnen
 <D>oet der ogen wandel vont
 655 <O>ft comt vter herten gront
 <D>it euel ten beghinne
 <I>c liet mi coste(n) wel een pont
-<E>nde ics vroet waer ter stont
+<E>n(de) ics vroet waer ter stont
 <M>aect mi des een inne
 660 <M>ijn h[er]te bliuet onghesont
-<M>y en bescheede dit dijn mont 
+<M>y en bescheede dit diin mont 
 <W>ant en es met wijsheit dinne
-<N>a dat ic redene kinne
+<N>a dat ic redene kinne/
 <M_2><E>rte(n) du best een vremt druut
 665 <D>u sprekes als een vriese ruut
 <D>ie noch noyt en minde
@@ -811,7 +811,7 @@ werelt yet la(n)ge stae(n)
 <M>er hets der herten plien
 <A>lst doir dogen siet desen of dien
 750 <D>aert hem toe wille poghen
-<S>oe moet alle sijn wille gescien
+<S>oe moet alle siin wille gescien
 <D>oghe(n) moeten lyen en(de) ghien
 <D>aert dore quam ghevloghen
 <M>inne int vertoghen
@@ -824,14 +824,14 @@ werelt yet la(n)ge stae(n)
 <I>c weet wel ouer waer
 <D>ie der zielen hadde vaer
 760 <En>(de) hem wilde hoeden
-<En>(de) sijn herte maken o(n)maer
+<En>(de) siin herte maken o(n)maer
 <D>at haer dogen senden vaer
 <H>ine dorste hem niet v[er]moede(n)
 <D>atti beuen soude dair
 765 <D>[aer] god sal doemen ope(n)baer 
 <E>nde wisen ten gloeden
 <D>ie haer ten sonde(n) spoede(n)
-<B_2><E>recht mi iacop oftu wout
+<B_2><E>recht mi iacob oftu wout
 <W>elc sekerst es in behout
 770 <R>ijcheyt oft armoede
 <E>est clerc leec ionc oft out
@@ -839,7 +839,7 @@ werelt yet la(n)ge stae(n)
 <E>n(de) staet al na den goede
 <A>rmoede prijs ic menichfout
 775 <W>ant sij es sekerst ende bout
-<V>oer rouers sonder hoede
+<V>oer rouers / sonder hoede
 <D>och mi(n)nen zij voir wat[er] smout
 <S>ij scuwen honger en(de) cout
 <E>est zo ic mi vermoede
@@ -851,7 +851,7 @@ werelt yet la(n)ge stae(n)
 785 <S>ij wisen v den rechten pat
 <W>el diere hem aen keerde
 <M>aer in weldoen sijn zij lat
-<S>ij heten vaste(n) zij zijn zat
+<S>ij heten vaste(n) zij ziin zat
 <E>n volght niet sulken herde
 790 <S>ine minne(n) niet voir den scat
 <H>aer hant es altoes sond[er] gat
@@ -862,16 +862,16 @@ werelt yet la(n)ge stae(n)
 <D>at meer scats begheerde
 <D_2><I>e meeste menichte es d{us} gedae(n)
 795 <D>och soe vintmer sond[er] waen
-<A>l sijn zij selsiene
+<A>l siin zij selsiene
 <D>ie den eertschen goede ontgaen
 <E>nde armoede ane vaen
 <B>ij heylighen engyene
 800 <S>ij lieten hem blouwe(n) en(de) slaen
 <T>ormenten ende vlaen
-<O>m die helle tontvliene (i erboven geschreven)
+<O>m die helle tontvliene i erboven geschreven
 <H>ier in waert tsekerst te volstaen
 <W>ant die hem in dit doopsel dwae(n)
-805 <S>ijn seker gode te siene
+805 <S>iin seker gode te siene
 <E>n(de) hem niet te misschiene
 <D_2><I>e gods sone toecht ons dat
 <D>ie euengheweldich sit en(de) sat
@@ -887,25 +887,25 @@ werelt yet la(n)ge stae(n)
 <D>atti hem niet en bezwike
 <D>ie hem met herten wike
 820 <W_2><A>enstu merte(n) weeldich en(de) vet
-<C>hierlic gecleet nu wel nu bet
+<C>hierlic gecleet nu wel nu bet/
 <E>nde varen int langhe leuen.
 <E>nde ih{es}us naect met bloede besmet 
-<E>n(de) zijn rechter zijde ghesplet
+<E>n(de) ziin rechter zijde ghesplet/
 825 <A>ent cruce was verheuen.
 <O>p dat hoot va(n) onser wet
-<M>et scerpen doornen was beset
+<M>et scerpen doornen was beset/
 
 &6vb&
 
 <A>lsoet noch is bescreuen.
-<M>aer wiltu sijn gods let
+<M>aer wiltu siin gods let
 830 <M>agherlijc drinc ende et
 <L>eer weelde begheuen
 <O>ftu moets zwairlic sneue(n)
 <N_2><I>et en zeggic dat rijcheit sent
 <D>ie siele in dat torment
 835 <O>p dat men nutte te rechte
-<M>aer sejerst eest vlien tserpent
+<M>aer sekerst eest vlien tserpent
 <D>an te wandelen dair omtrent
 <D>atti niet en bevlecte
 <M>aer rijcheyt maect eene(n) so blent 
@@ -932,17 +932,17 @@ werelt yet la(n)ge stae(n)
 860 <D>aer ih{esus} bij te hemel vloech
 <D>ats passie ende armoede
 <O>ftu meer heues dan dy doech
-<O>m die gods hulde poech
+<O>m die gods hulde poech/
 
 &7ra&
 
-<D>eyle van dinen goede
+<D>eyle van dinen goede/
 865 <D>ine fiere herte poech
 <D>en armen lieden en(de) toech
 <O>ntfermicheyt van moede
 <G>od selue die noyt en loech
 <N>o den milden en bedroech
-870 <S>ette dij in sijnre hoeden
+870 <S>ette dij in siinre hoeden
 <B>uten der duuele roeden
 <I_2><A>cob die werelt maect ghescal
 <E>nde tyent den vrouwen al
@@ -986,15 +986,15 @@ werelt yet la(n)ge stae(n)
 <S>one mochte hem niet messcien
 <E>nde hij den sin verstaelde 
 910 <E>er hem therte daelde.
-<V_2><R>ouwen sijn bij natuere(n) goet
-<S>ij slechten den wijn enter gloet
+<V_2><R>ouwen siin bij natuere(n) goet
+<S>ij slechten den wiin enter gloet
 <D>ie de werelt verblijden
-<D>ie te vele wijns in doet
+<D>ie te vele wiins in doet
 915 <E>n(de) te na den viere set den voet
 <H>ine cans niet gheliden
 <W>aren ma(n)nen soe behoet
-<D>at zij ogen hert sijn en(de) moet
-<W>el conden besiden
+<D>at zij/ ogen/ hert/ siin/ en(de) moet
+<W>el conden besinden
 920 <S>oe ware vrouwe mi(n)ne spoet
 <N>u worden zij va(n) mi(n)ne(n) verwoet
 <D>iere domlike toe tijden
@@ -1005,7 +1005,7 @@ werelt yet la(n)ge stae(n)
 <W>ant wes men vele vint.
 <E>s onweert en(de) onghemint
 <E>n(de) men copet ondiere
-930 <M>anne zijn loser dan die wint
+930 <M>anne ziin loser dan die wint/
 <H>aer scone clagen vrouwe(n) v[er]blint
 <W>ant zij zijn goedertieren
 <G>rote sonde hij hem bewint
@@ -1044,8 +1044,8 @@ werelt yet la(n)ge stae(n)
 <I_2><A>cob du best de(n) vrouwe(n) hout
 <D>u gheues de(n) mans al die scout 
 965 <I>c wane ict best ghedoghe
-<I>c vergheue al onghedout
-<A>lle vrouwen ionc en(de) out
+<I>c vergheue al onghedout/
+<A>lle vrouwen ionc en(de) out/
 <O>m die vrouwe hoghe
 <D>aer ons af quam ons behout
 970 <G>hedanct zij zij menichfout
@@ -1087,7 +1087,7 @@ werelt yet la(n)ge stae(n)
 <M_2><E>rten vrient heb ic messeit
 <I>c bins te beteren bereit
 <I>s wils al op dy bliuen
-30 <M>[aer] verstant ende ontbeit
+30 <M>[aer] verstant mi ende ontbeit
 <E>en dinc die mi opt herte leit
 
 &8ra&
@@ -1103,7 +1103,7 @@ werelt yet la(n)ge stae(n)
 40 <I_2>acob dit was oyt diin doen
 <D>at van vrouwen diin s[er]moen
 <B>eghinnen meest oft eynden
-<W>aerstu een dorp{er} du sprakes va(n) coen 
+<W>aerstu een dor{per} du sprakes va(n) coen 
 <N>u es diin herte dus ontvloen
 45 <D>och willics mi ghenenden
 <E>n(de) steken off mine(n) caproen
@@ -1145,7 +1145,7 @@ werelt yet la(n)ge stae(n)
 <M_2><E>rten hore ende verstant
 80 <D>ese .ij. siin in een bewant 
 <D>at costen moet d[er] eenre dleue(n)
-<N>u hebbic die machte i(n) mij(n) hant
+<N>u hebbic die macht i(n) mij(n) hant
 <W>elker ic wil brekic den bant 
 <E>n(de) macht haer al v[er]gheuen
 85 <D>een moet emmer biten den cant
@@ -1179,7 +1179,7 @@ werelt yet la(n)ge stae(n)
 110 <I>nt water sonder minghen
 <H>ant en(de) mont hij derwaert biet
 <H>ij bit hij claecht siin v[er]driet
-<N>ature en wils ghehinge(n)
+<N>ature en wils niet ghehinge(n)
 <D>atti hem can ghehelpen yet
 115 <H>ine doelt als hijt selue siet 
 <H>ine const hem niet bedwinge(n)
@@ -1191,7 +1191,7 @@ werelt yet la(n)ge stae(n)
 <S>ij liet conincrike en(de) scat
 <V>ader ende suster ende moeder
 <N>ochtan d[aer] sij alleene sat
-125 <W>ijsde haer reden de(n) rechte(n) pat 
+125 <W>ijsde haer redene de(n) rechte(n) pat 
 <A>l volghede zij den loeder 
 <M>[aer] therte was hair so mat
 <D>air mi(n)ne in hadde gemaect .j. gat
@@ -1210,14 +1210,14 @@ werelt yet la(n)ge stae(n)
 &8vb&
 
 140 <D>iin proeue(n) waer hier ieghe(n) smal
-<E>n sal dij niet weert sijn een bal 
+<E>n sal dij niet weert siin een bal 
 <G>hevult met caue
 <A>lsoe hulpe mi sinte baue
 <M_2>erten du best een stout seriant
 145 <D>ats een vast knoop en(de) bant
 <D>ie niement en can ontbinden
 <D>en knoop die alexander bant
-<O>ntknocht sijn zweert niet sij(n) ha(n)t
+<O>ntknocht siin zweert niet sij(n) ha(n)t
 <A>ls hijs hem wilde bewinden
 150 <L>aet mi ghenaken an dine(n) kant
 <M>en sal v vroetscap te hant
@@ -1230,13 +1230,13 @@ werelt yet la(n)ge stae(n)
 <D>ie ghij met fabule(n) brinct voirt
 <O>ff met poeteryen/
 <O>ft medea dede moort
-160 <E>n(de) narciscus heeft v[er]smoort
+160 <E>n(de) he(m) narciscus heeft v[er]smoort
 <D>ats minne van sottyen
 <M>inne / en(de) datter toebehoort
 <W>as met sonden niet becoort
 165 <O>ft met <R>ibaudyen
 <W>ie zo reine minne becoort
-<H>ine mach niet zijn verdoort
+<H>ine mach niet ziin verdoort
 <D>ies selen met mi lien
 <D>ie meesters van clergien
 170 <L_2>es douwe en(de) dniewe testame(n)t
@@ -1245,6 +1245,10 @@ werelt yet la(n)ge stae(n)
 <W>ie was va(n) minne(n) ye gescent
 <W>ie maecte ye minne blent/
 175 <D>ie aen gode ghiede/ 
+
+&9ra&
+
+
 <S>i minden vrouwen wel bekent
 <S>coen ende wijs op sulc couent/ 
 <D>at hem god eer beriede
@@ -1254,7 +1258,7 @@ werelt yet la(n)ge stae(n)
 <G>helijc heydenen diede
 <A_2><B>raham was vrou zaren ma(n)
 <D>ie siin amye verheffen began
-185 <B>ouen zijnre vrouwen
+185 <B>ouen ziinre vrouwen
 <D>aer en es gheen houden an
 <H>ij deedse wech wa(n)t reden v[er]wan
 <E>n(de) volghede der ontrouwen
@@ -1278,11 +1282,11 @@ werelt yet la(n)ge stae(n)
 <T>e mi wert draget en(de) h[aer] ghespin
 <V>a(n) mi(n)nen elwaert draecht te sade 
 <E>n(de) dier ic om niet en bade
-<I_2>acob of ghi niet en acht
+<I_2>acob of ghij niet en acht
 210 <E>xempele(n) die ic hebbe voirtghe«bracht»
 <W>illic ter bibelen keeren
 
-&8vb&
+&9rb&
 
 <D>ie mi(n)ne hadde op adaem macht/
 <S>ij verwan met hare cracht
@@ -1296,15 +1300,15 @@ werelt yet la(n)ge stae(n)
 <S>ijns willens ontbeeren
 <W_2><A>t machte hadde sampsoen
 <D>auid ofte salomoen 
-<I>eghen die cracht van mi(n)nen 
+<J>eghen die cracht van mi(n)nen 
 225 <D>[aer] en was ieghen gheen doen
-<S>orobabel in sijn sermoen
+<S>orobabel in siin sermoen
 <D>oet ons wel bekinnen
 <S>oe wien vrouwe mi(n)ne spoen 
 <H>ine mocht niet gheroen
 230 <I>n siin herte binnen
 <H>ij moest alle zijn zi(n)ne ontdoe(n) 
-<E>nde volghen die he(m) ware(n) ontvloen
+<E>n(de) volghen die he(m) ware(n) ontvloen
 <O>ft hem seluen ontsinnen
 <H>ier toe en es gheen verwinne(n).
 235 <I_2>acob zegt verstaetstu niet
@@ -1325,10 +1329,10 @@ werelt yet la(n)ge stae(n)
 
 <O_2>ff dit minne es alst es
 <D>ies zijt seker ende ghewes
-250 <I>c volchs minne(n) iersten woirde
+250 <I>c volchs mine(n) iersten woirde
 <O>uer ware lye ic des
 <S>ine smaecter om zweert no mes
-<D>ie mi therte dore boorde
+<D>ie mi therte doir boorde
 <T>herte ne(m)mermeer ghenes
 255 <N>o gherust no ghetes 
 <L>ieghe ic van eenen woorde
@@ -1352,8 +1356,8 @@ werelt yet la(n)ge stae(n)
 <M_2>erten nu hore na mi en(de) v[er]stant
 275 <W>ie was die ierst mi(n)ne vant
 <D>an god die selue es minne
-<A>l dat ye maecte sijn hant
-<A>l mi(n)net sijnre h[er]ten bant 
+<A>l dat ye maecte siin hant
+<A>l mi(n)net siinre h[er]ten bant 
 <M>et ghestaden sinne
 280 <J>a lucifer de(n) helschen viant
 <E>n haet hij niet dats becant
@@ -1384,7 +1388,7 @@ werelt yet la(n)ge stae(n)
 <S>oe den gheenen die he(m) is wreet
 <S>oe die hem met sinne heet
 305 <O>nderdaen es bleuen
-<J>c derre wel segghe(n) op minne(n) eet
+<J>c derre wel segghe(n) op mine(n) eet
 <S>ine houescheit waer onghecleet  
 <L>iet hij den ghenen sneuen
 <D>ie al tsinen dienste steet
@@ -1408,7 +1412,7 @@ werelt yet la(n)ge stae(n)
 <D>ie ic mi soe hout kinne
 325 <S>oe ware mijn vroeden dinne
 <W_2>aerheit iacob dits al claer
-<M>[aer] (w doorstreept) mi was te vinde(n)ne zwaer
+<M>[aer] w doorstreept mi was te vinde(n)ne zwaer
 <D>attu mi hier heues ontbonden
 <I>c lye verwonnen openbaer
 330 <M>ine mi(n)ne es zielen vaer
@@ -1457,25 +1461,25 @@ werelt yet la(n)ge stae(n)
 30 <S>oe weet ic wel dat ic en moge
 <B>erechten dat te volle(n) gedoge
 <M>et wonden niet hier af
-<A>lle sinnen siin te droghe
+<A>lle sinne siin te droghe
 <A>lle creatueren hoement poge
 35 <E>n doghen niet een caf
 <D>at hier eenich te volle(n) doge
 <M>aer verscerpe dijns sins oge
 <H>oort wat scriftuere dij gaff
-<S>luyt dat in dijnre herten graf
+<S>luut met diinre h[er]ten graf
 40 <M_2>oyses sprect in sine boucke(n)
 <B>eesten die den berch besoucke(n)
 <M>oeten siin vereent./
 <B>eeste es hij die wille roeken 
 <T>e nauwe om die godheit loeken
-45 <H>ets recht dat hijt beweent
+45 <H>ets recht dat hijt beweent/
 <D>u soecs mi in allen hoeken
 <M>et rime sond[er] valsch va(n) doeke(n)
-<E>s dit goet ic wane neent
-<D>u telles mi mette wisen (ertussen geschreven) cloeken
+<E>s dit goet ic wane neent/
+<D>u telles mi mette wisen ertussen geschreven cloeken
 50 <W>aert goet ic soud[er] dy o(m) vloeke(n)
-<I>c wane diin herte dat meent
+<I>c wane diin herte dat meent/
 <D>attu mi heues verbeent
 <I_2>acob dune salti niet v[er]gra(m)me(n)
 <I>c souts mi al mij(n) leue(n) scamen.
@@ -1496,7 +1500,7 @@ werelt yet la(n)ge stae(n)
 <M_2><E>rten merct in dinen sinne
 <G>od es een wese(n) vor al begi(n)ne
 <D>edelste bouen al
-<S>ijn wesen es als ic kinne
+<S>iin wesen es als ic kinne
 70 <D>upperste god dupperste minne
 <D>ie es oft wesen zal
 <S>iin werken dair me(n) kent inne
@@ -1510,14 +1514,14 @@ werelt yet la(n)ge stae(n)
 80 <G>od es boue(n) al siin wercke
 <E>nde onder alle siin dinc
 <H>ij es buten al hert nu mercke
-<E>n(de) binnen al dit hout wel sterke
+<E>n(de) binnen al/ dit hout wel sterke
 <H>ier vut niet en sprinc
 85 <O>ec zegge(n) ons die wijse clercke
 <H>ine es niet ghedeilt in perke
-<H>ier toe dijn herte dwinc
+<H>ier toe diin herte dwinc
 <M>aer gheheel in elke nu merke
 <B>ute(n) binne(n) in wate[r] in zwerke
-90 <H>ier toe dijn herte dwinc
+90 <H>ier toe diin herte dwinc
 
 &10vb&
 
@@ -1533,7 +1537,7 @@ werelt yet la(n)ge stae(n)
 100 <G>heen dinc cout no heet
 <B>inne(n) als die met sire leere
 <S>iin werc vervult m{et} sulk[er] eere
-<D>at eewelic steet
+<D>at eeuwelic steet
 <W>ient lief zij oft leet
 105 <B_2><O>ue(n) es god onghedragen
 <G>heen dinc mach hem beclagen
@@ -1609,19 +1613,19 @@ werelt yet la(n)ge stae(n)
 170 <D_2><E>se god dair wij af leeren
 <D>oet troon so(n)ne sterre keeren
 <E>n(de) al dat ruerende zij
-<S>ijn rusten es zo vol eeren
+<S>iin rusten es zo vol eeren
 <D>at hem niet en can ghederen
 175 <G>heen porren verre no bij
 <H>ij es daer hij was dats geen schere(n)
 <H>ine wilt minderen no meeren
 <H>ij es sijns selfs vry
 <H>ij doet hier alle dinc gheneren
-180 <S>ijn rijcheit mach nieme(n)t v[er]teren
+180 <S>iin rijcheit mach nieme(n)t v[er]teren
 <A>lle steden vervult hij/
 <D>us leert dat gheloeue mi
 <G_2><O>d en besluut ghene stede
 <M>aer alle stede(n) besluyt hi mede
-185 <I>n zijnre godlicheyt
+185 <I>n zijnre godlicheyt/
 <D>ie iare keert sine moghenthede
 <N>iet en es datten keeren dede
 <S>ine macht es zoe breyt
@@ -1640,7 +1644,7 @@ werelt yet la(n)ge stae(n)
 
 <M>[aer] alsmen vint van gode bescreuen
 200 <D>it wort heden/ esser aen bleuen
-<E>en eewelic omme ganc
+<E>en eeuwelic omme ganc
 <D>aer gheen eynde an mach cleue(n)
 <N>och beghin en wert v[er]heuen
 <S>iin wesen es soe stranc
@@ -1658,13 +1662,13 @@ werelt yet la(n)ge stae(n)
 <M>aer tgheloeue sonder hone
 <D>ies en twiuelt nye
 <W>at eeren hadde(n) wijs oft wat lone
-<D>at wij dij niet weert en sijn .j. bone
+<D>at wij dij niet weert en siin .j. bone
 220 <G>heloeue dat elc zie
 <M>et herten ende gye/
 <I_2>acob ic lye ten beghinne
 <D>at ic subtijlre woirt va(n) sinne
 <N>iet en hebbe ghehoirt/
-225 <D>an du mi maers hier inne
+225 <D>an du mi maecs hier inne
 <D>och proeuic wel ende kinne
 <T>e grondene dese wort/
 <D>aer es ons redene toe wel dinne
@@ -1699,7 +1703,7 @@ werelt yet la(n)ge stae(n)
 <E>n(de) moete claren en(de) wien
 255 <D>inen sin en(de) van sonden vryen 
 <D>at therte sij sonder winc 
-<V>an enegherande dorp{er}nyen
+<V>an enegherande dor{per}nyen
 <D>une moets mi oic niet tyen 
 <D>at ic dij te na ghinc
 260 <M>aer minen wille volbrinc
@@ -1726,7 +1730,7 @@ werelt yet la(n)ge stae(n)
 <O>nse vorders doen v[er]doeme(n)
 <E>nde zwaerlic gheschent
 280 <D>it was siin sonderlinge beroeme(n)
-<D>atti algader niet hem somen
+<D>atti algader niet hem zomen
 <T>folc heeft verblent/ 
 <D>us wilti uten hemel drome(n)
 <D>at ons die hemelsche bloeme(n)
@@ -1746,7 +1750,7 @@ werelt yet la(n)ge stae(n)
 <E>nde houden in haren scoot
 <D>ies haer niet en verdroot
 300 <A_2>l gheheel en(de) al te male
-<R>usti hi in die maghet smale
+<R>usti in die maghet smale
 <G>ods zone gods kint/
 <E>n(de) al gheheel en(de) oic alzo wale
 <R>usti in des vaders zale
@@ -1760,15 +1764,15 @@ werelt yet la(n)ge stae(n)
 <D>ie godheit en heeft geen pale
 310 <D>ie menscheit meent mijn tale
 <O>ntfinc god diet al mint
-<I>n hem dus eest bekent
+<I>n hem dus eest bekent/
 <E_2>ven gheweldich euen he[r]e
 <W>as hij en(de) es emmermeere
-315 <D>ie vader in die godheit
+315 <D>ie vader in die godheit/
 <M>eest datme(n) ter menscheit ke[r]e
 <S>oe was hij mind[er] vele meere
 <N>a die menschelicheyt
 <N>a die godheit spreect mij(n) le[r]e
-320 <S>o was onsterfelic zijn eere
+320 <S>o was onsterfelic ziin eere
 <D>its een bescheyt
 <D>ie me(n)scheit dogede als ic sprac e[r]e
 <G>heesele/ naghele/ en(de) dat spere
@@ -1776,17 +1780,17 @@ werelt yet la(n)ge stae(n)
 325 <O>nder der ioden pleyt
 <D_2>ie menscheit liet h[aer] besniden
 <D>open proeuen in dien tijden
-<V>ande(n) ouden viant
+<V>ande(n) ouden viant/
 <S>ij liet haer vaen en(de) beniden
 330 <D>oirboren hande voete zijde
 <S>ij sterf dus eest bekant
 <D>ie ziele wilde ter helle(n) tijde(n)
 <D>[aer] zij die ghene wilde verbliden
-<D>ie de duuel bant.
+<D>ie de duuel bant/.
 335 <A>y hoe zij gode benedyen
 <D>ie heilighe diene sage(n) striden
 <J>eghen des duuels brant
-<D>aer hijse vte prant.
+<D>aer hijse vte prant/.
 <D_2>ie godheit wecte va(n) dode te liue
 340 <T>vleesch datti va(n)de(n) reyne(n) wiue
 <V>rouwe marien nam
@@ -1823,11 +1827,11 @@ werelt yet la(n)ge stae(n)
 <W>ie dus alsulke haue becande
 370 <O>ft beter oft alsoe goet
 <A>y god nu breect onse bande.
-<E>n(de) vergheeft ons dijn ande
+<E>n(de) vergheeft ons diin ande
 <E>nde dinen euelen moet
 <D>at onse mont en(de) onse tande
 375 <S>maken moet sonder scande
-<D>ijn vleesch ende dijn bloet
+<D>iin vleesch ende diin bloet
 <D>at vut diinre zijden woet
 <V_1>vt desen sone vut dese(n) wonde(n)
 
@@ -1846,19 +1850,19 @@ werelt yet la(n)ge stae(n)
 <E>s hem altoes ghereet
 390 <O>p datmer in volsteet
 <I_2><A>cob du berecht mi scone
-<B>erecht mi vanden p{er}sone
-<D>iemen heyt heylich gheest
+<B>erecht mi vanden {per}sone
+<D>iemen heet heylich gheest
 <H>oe mij(n) geloeue sonder hone
 395 <T>e hem climme(n) en(de) wi(n)nen de crone
 <D>ie alder gauen es meest
 <W>ant vanden vader en(de) va(n)de(n) zone
 <H>eb ic ghehoirt dat v god lone
-<S>cone berecht verheest
+<S>cone berecht mi verheest
 400 <D>es danc ic marien sone
 <D>aer bouen inden trone
 <E>n(de) gheue dij volleest
 <D>atture comes onghevreest
-<M_2><E>rten ons leert die scrifture (r ertussen geschreven)
+<M_2><E>rten ons leert die scrifture r ertussen geschreven
 405 <D>at een god een natuere
 <E>mmer siin dese drie
 <A>ltoes euen na ghebuere
@@ -1867,7 +1871,7 @@ werelt yet la(n)ge stae(n)
 410 <V>ader kint verstant ter cuere
 <V>ut desen dubbelen gods duere
 <W>ie caent ghegronden wie
-<S>o comt di (doorstreept) die gheest die zuete gure
+<S>o comt di doorstreept die gheest die zuete gure
 <D>ie reyne godheyt entie puere.
 
 &13ra&
@@ -1886,14 +1890,14 @@ werelt yet la(n)ge stae(n)
 <D>ie ware god die alre meeste
 <W>ant ghee(n) vreese va(n) tempeeste
 <N>och gheenrehande fenijn
-<E>nde scade der zielen zijn
-430 <D_2>its vader en(de) tsoens gaue
+<E>n scade der zielen zijn
+430 <D_2>its vaders en(de) tsoens gaue
 <R>ijcheit die boue(n) alle haue
 <F>onteyne des leuens al
 <S>oe wie gheport w[er]t hier aue
 <W>at rijcheit men hem gaue
 <S>oude hem duncke(n) wesen smal
-<R>iicheit die coninc heeft oft g%ra%ue
+<R>ijcheit die coninc heeft oft g%ra%ue
 <E>n es tiendendeel niet va(n) eene(n) caue
 <G>hemaect yeghen dit gheual
 <J>h(es)us die ruste inden graue
@@ -1901,7 +1905,7 @@ werelt yet la(n)ge stae(n)
 <O>ns. alsmen rumen sal
 <D>it arme eertsche dal
 <D_2>its vaders en(de) soens mi(n)ne
-<E>nde karitate d[aer] altoes inne
+<D>it karitate d[aer] altoes inne
 445 <R>ust die triniteyt
 <D>its die der prophete(n) zinne
 <L>eerde ende maecte an inne
@@ -1931,7 +1935,7 @@ werelt yet la(n)ge stae(n)
 <D>at ne(m)mermeer te nieute gheit
 <W_2>at hulpt m[er]ten sin en(de) tale
 470 <D>ie begeuen mi alte male
-<M>eer te spreken voort
+<M>eer te spreken voort/
 <E>lc persone v[er]stant mi wale
 <E>s god dits ghene hale
 <V>an drien dairme(n) af hoort
@@ -1955,7 +1959,7 @@ werelt yet la(n)ge stae(n)
 <D>aer ic zie en(de) dair ic smake
 490 <D>ie godheit onghenoemt
 <S>one trect mi niet die helsche drake
-<M>et hem ter eeweliker wrake
+<M>et hem ter eeuweliker wrake
 <D>aer niemant vut en comt 
 <W>ient schaedt ofte vroemt.
 495 <A_2><M>en iacob lieue gheselle
@@ -1981,19 +1985,19 @@ deur <J>akob van meyrlant wijs van zinnen
 5 rethorizijn en poete groodt indt bekinnen
 rurende van goddelijckke zaeckken hoghe 
 *welckke* materie ende dicht vol minnen
-<I>s seer inkorrecdt gheworden int dinnen
+<I>s seer inkorreckdt gheworden int dinnen
 deur schrijuers simpel van vermoghe
 10 maer neerstichheijt seer kloeck int vinnen
 heuet gekorrigheert om deucht te winnen
 ende ghestelt in printe klaer int betoge
 om te verscherpen elcx sin en oghe..  
 
-hier is volleyndt ende medt groote
-dilighetie ghekorrigheerdt/ een zeer 
+hier is volleijndt ende medt groote
+dilighentie ghekorrigheerdt/ een zeer 
 notabel ende profijtelijck boeck/ dadt 
 ghemaeckdt is deur den grooten gheleer#
 den philozophe ende poeet <J>akob van 
-meyrlandt 
+meijrlandt 
 
 marcus van vaernewijck in zijn boeck 
 ghenaemt <B>elghica <H>istoria/ <I>n zijn derde
@@ -2002,10 +2006,10 @@ boeck int xxvi cappittel schrijft aldus va(n) deze(n) merlant
 te damme ee(n) kleyn stat in vlaendere(n) bij brugghe 
 leijt begrauen/ die konstige vlaemsche poete 
 en(de) retorizien <J>acob <V>an meerlant onder de clocke(n)
-wiens handen alle beyde euen dapper int schrijuen  
+wiens handen alle beijde euen dapper int schrijue(n)  
 waren/ en(de) heeft ond[er] onder onder ander subtijle 
 wercken/ na ghesloten een boeck ghenoemt der nature(n)
-blomme/ daerin hij veel wonderlijckhede(n) der naturen 
+blomme/ daer in hij veel wonderlijckhede(n) der naturen 
 verhaelt/ welck boeck hier achter oock bij staedt 
 ende is bij auonturen va(n) hem zelf beschreuen 
 want het seer out is/ en(de) heeft oock ghemaeckt 

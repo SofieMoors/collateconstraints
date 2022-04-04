@@ -1425,7 +1425,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 [In de rechtermarge is met bruine inkt in een kleine cursieve letter de representant van het opschrift geschreven: dit es de derde M[. Door het afsnijden van de bladrand zijn de laatste letters verloren gegaan. Tussen de regels 32-33 bevinden zich geen witregels.]
 
 <D><I><T> <E><S> <D><E> <D><E><R><D><E> <M><A><R><T><I><J><N>
-<1> <I_4><C> mane manne(n) mette(n) wiue(n)
+1 <I_4><C> mane manne(n) mette(n) wiue(n)
 <D>ie dit sulle(n) lesen of scriue(n)
 <V>pte(n) hoghesten ban
 
