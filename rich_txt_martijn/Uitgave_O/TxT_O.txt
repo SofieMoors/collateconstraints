@@ -88,8 +88,8 @@ den dorpere. ende den wijsen dan
 <E>nde zij trac die scalke naer
 70 <D>ie raden nu hier nu daer
 <E>nde niet en scelden den he[er]e
-<S>o es edelheyt worde(n) zo zwaer
-<D>at zoe te cle(m)ene heeft o(n)maer
+<S>o es edelheit worde(n) zo zwaer
+<D>at zoe te cle(m)mene heeft o(n)maer
 <E>nde danct zo lanc zo meere
 75 <D>its nu alder werelt claer
 <E>nde den ghesinde(n) openbaer
@@ -143,27 +143,30 @@ den dorpere. ende den wijsen dan
 115 <D>ie scalke tsinen rade las 
 <H>ien moste int eynde sneuen:
 <E>nde sulck sijns lants verdreuen
-<M_1>artijn du berechtes mij wel.
-<H>ier by sijn die herten fel
-120 <E>nde wankel in die tale.
-<I>c en weter wat toe segghen el 
-<D>ie scalke hout boesheyt ouer spel
-<H>i pijnt hoe hi die doghet versmale
-<C>aym versloech den goeden abel/
+
+&23v&
+
+<M_2>artin du berechts mi wel
+<H>ier bi zijn die he[er]en fel
+120 <E>nde wandel in de taele
+<I>n weeter wat toe segghen el 
+<D>e scalke hout boesheit ou[er] spel
+<E>n(de) pijnt hoe hi die duecht u[er]smaele
+<C>ayn slouch doot de(n) edel abel.
 
 &24r&
 
-125 <D>us soeckt die scalk sijns herte(n) wel
-<H>oe hi hem trect te dale
-<G>ode die ons noch doemen sel
-<H>em bid ick dat hi den duuel
-<I>nden laesten male
-130 <M>et sulcke scalcken betale:
-<M_1>artijn nv berecht mi dies
-<B>erecht een god die nye en wies
-<A>llen creatueren
-<T>wi heeft die quade sinen kies
-135 <E>nde die goede valt int verlies/
+125 <D>us souct de scalke sijns he[er]en vel
+<H>oe hine mach trecke(n) te daele
+<G>od die ons noch domen zel
+<B>idde ic dat hi den duuel
+<I>n den lesten maele
+130 <M>etten scalken betaele
+<M_2>artin nu berecht my dies
+<R>egiert een god die noyt en wies
+<A>lle die creaturen
+<T>wi heeft dan die quade den kies
+135 <E>nde die goede valt int verlies
 
 &24v&
 
@@ -216,7 +219,7 @@ den dorpere. ende den wijsen dan
 <A>ls men gheen mesdoen en spaert
 <E>nde men noch daer toe verswaert
 175 <D>e ziele met laste ghebonde(n)
-<E>nde dan ghesciet dat me(n) begaert
+<E>nde al ghesciet dat me(n) begaert
 <E>nde niet en rouke wie mesbaert
 <N>u noch te ghenen stonden
 <S>o comt die doot diet al v[er]swaert
@@ -251,7 +254,7 @@ den dorpere. ende den wijsen dan
 <W>a(n)t gheen zo(n)dare in zonde(n) steet
 <L>angher dan zijn lijf es breet
 <T>wij torment hijne met slaghen
-205 <E>uwelijc sonder versceet
+205 <E>uwelijke sonder versceet
 <D>it scijnt te pointe niet gheleet
 <T>oordeel dorstics ghewaghen
 <A>l wetens wij wien claghen
@@ -275,7 +278,7 @@ den dorpere. ende den wijsen dan
 &28r&
 
 <M_2><A>rtin du segghes wel en(de) waer
-<D>ine reden die es claer
+<D>ine redene die es claer
 <E>nde licht oec te verstane
 225 <A>lle ghepeys es openbaer
 <D>oor hem die tellet alle thaer
@@ -322,7 +325,7 @@ den dorpere. ende den wijsen dan
 
 <W>aphe van dien honden
 260 <N>u ende tallen stonden
-<W_2><A>ne(n) zij die woord(n) zaen
+<W_2><A>ne(n) zij die woorde(n) zaen
 <D>aer die wortele(n) ane staen
 <G>heplant in hemelrijke
 <V>ele zij iaeghen lettel zij vaen
@@ -353,7 +356,7 @@ den dorpere. ende den wijsen dan
 <V>an gode gheloont die noyt hal
 <W>at men wel dede of stal
 285 <G>herechtichede zoude scaden
-<E>n hoorde god niet die baden
+<E>n hoorde god niet de baden
 <H_2><E>t segghet dat gheloue mijn
 <G>od moet in hem zelue(n) zijn
 <H>ij en mach el niewer weesen
@@ -364,7 +367,7 @@ den dorpere. ende den wijsen dan
 &31r&
 
 <D>ie van de(n) watre maecte wijn
-<E>n es sijns selfs eyghin
+<E>n es sijns selfs niet eyghin
 295 <W>at zij die zotten leesen
 <J>acob hout dat tgheloue dijn
 <H>ets menich onbesceide(n) zwijn
@@ -489,11 +492,11 @@ den dorpere. ende den wijsen dan
 <D>aer noyt ma(n) met o(m)me ghinc 
 <H>ine was van reinen aerde
 <B>estu oudt of ionghelinc
-395 <D>oet altoos wel en(de) dwijnc
+395 <D>oet altoos wel ende dwijnc
 <D>ijnre herten houaerde
 <P>rijs die in lodders tonghe(n) hinc
 <E>n was noyt een oeghewijnc
-<O>nder die goede waerde.
+<O>nder die goede waerde
 400 <O>nwerden lof vlie en(de) ontsprijnc
 <D>ie menighe(n) vaet en(de) wile(n) vinc
 <D>ie dat woort begaerde
@@ -507,7 +510,7 @@ den dorpere. ende den wijsen dan
 <M>aer goets minne maect. ee(n) gat
 <D>at nemmermeer mach w[er]den zat
 <A>l wilde ment haer al gheuen
-410 <M>inne van goede is ghehadt
+410 <M>inne van goede es ghehadt
 <V>oor gode in de hoghe stat 
 <D>aer die inghelen beuen
 <D>ese scuwen der eeren pat
@@ -532,7 +535,7 @@ den dorpere. ende den wijsen dan
 &36v&
 
 <M>aect zine zinne(n) clare
-<E>n hi en es gheen futselare
+<E>n(de) hi en es gheen futselare
 430 <M_2>inne es also me(n) bescreue(n) vint
 <C>racht die twe herte(n) tsame(n) bint
 <I>n enen reynen wane
@@ -548,7 +551,7 @@ den dorpere. ende den wijsen dan
 <I>c wane men also vele vint
 440 <M>innaers in trauwe(n) ghehint
 <A>ls men doet zwarter zwanen
-<D>us laet haer mi(n)ne af plane(n)
+<D>us laet haer mi(n)ne af plame(n)
 <M_2><A>rtin du heues mi berecht
 <H>et seght he[er]e ende knecht
 445 <V>rauwen ende ioncfrauwen
@@ -559,12 +562,12 @@ den dorpere. ende den wijsen dan
 
 &37v&
 
-450 <J>eghen der reynder minne(n) plecht
+450 <J>eghen der reyner minne(n) plecht
 <E>nde volghen der ontrouwe(n)
 <M>enich seit nu ende echt
 <M>ijn zin es an v ghehecht
 <S>o zeere ic wane bedouwen
-455 <A>chter maken zij de mouwe(n)
+455 <A>chter maken zij de mouwe(n).
 <I_2>acob du hebs my gheuraecht 
 <I>c andwoort en(de) verdraecht
 <N>u wille ic martin vraeghen
@@ -582,7 +585,7 @@ den dorpere. ende den wijsen dan
 <D>at hi dij moete behaeghen
 <I>c wille dandwoorde waeghen.
 <I_2><A>cob nu berecht my
-470 <O>f dat volc al co(m)e(n) zi
+470 <O>f dat volc al co(m)me(n) zi
 <V>an den eersten adaeme.
 
 &38v&
@@ -590,7 +593,7 @@ den dorpere. ende den wijsen dan
 <T>wi es deen edel dander vry
 <D>e derde eyghin man daer by
 <W>ane quamen dese name
-475 <T>wi seit men de(n) dorp{er} spi
+475 <T>wi seit men de(n) dor{per} spi
 <G>anc wech god onneere di
 <D>u best der weerelt scame
 <D>ie edel heuet al tghecri
@@ -600,14 +603,14 @@ den dorpere. ende den wijsen dan
 
 &39r&
 
-<M_2><A>rtin menich dinc es bedect [dinc met een verwijzingsteken aan de kant bijgevoegd] 
+<M_2><A>rtin menich dinc es bedect dinc met een verwijzingsteken aan de kant bijgevoegd 
 <E>nde dijnct he(m) groot d[aer] hi vp mect
 <M>aer du sprekes wel verre
 485 <A>l heeft een persemier gheplect
 <E>nde den lieden thare ontrect
 <H>ij wille zonder merre
 <O>nder die edele zijn ghetrect
-<A>l wa[er]e hi dusentuout beulect
+<A>l wa[er]e hij dusentuout beulect
 490 <T>ghelt claertene van der terre
 <D>it dijnc alzo de lieden wect
 <D>at menich tsine te wi(n)nene trect
@@ -620,9 +623,9 @@ den dorpere. ende den wijsen dan
 <D>it es al lueghene martijn
 500 <B>y redene die ic telle
 <W>ant al dat gheslachte zijn
-<S>criuet ons die bible fijn
+<S>criuet ons de bible fijn
 <V>erdranc die diluuie felle
-<M>aer dat dorp{er}lic venijn
+<M>aer dat dor{per}lic venijn
 505 <D>at cayn drouch es noch anschijn
 <A>n so mighen die ic spelle
 <V>an herten sijn gheselle.
@@ -714,7 +717,7 @@ den dorpere. ende den wijsen dan
 575 <V>ul gherechter waerheden
 <A>l spreect in sine(n) bouc alaen
 <D>at edelheit qua(m) zonder waen
-<V>an ouderouder rijcheden
+<V>an ouer ouder rijcheden
 <Z>ulke edelheit mach me(n) of dwaen
 580 <W>ort men aerme so eist ghedaen
 <M>en valt in doude steeden
@@ -774,7 +777,7 @@ den dorpere. ende den wijsen dan
 <E>nde doet al achter bliuen
 <E>nde ander loy bescriuen.
 625 <G_2><O>g diet al by redene doet
-<G>af dat wandel eertsche goet
+<G>af dit wandel eertsche goet
 <D>en menschen al ghemeene
 
 &45r&
@@ -783,9 +786,9 @@ den dorpere. ende den wijsen dan
 <E>nde ghecleet ende ghescoet
 630 <E>nde soude leuen reene
 <N>u es ghiericheit zo v[er]woet
-<D>at elc ny zijnen voet
+<D>at elc nu set zijnen voet
 <O>mme al te hebbene alleene
-<H>ier o(m)me stortmen sme(n)sche(n) bloet
+<H>ier o(m)me sturtmen sme(n)sche(n) bloet
 635 <H>ier o(m)me stichtmen metter spoet
 <B>urghen en(de) hoghe steene
 <D>en menighen te weene
@@ -799,7 +802,7 @@ den dorpere. ende den wijsen dan
 <I>nt ghemeene ende hem ontfaen
 <D>ie aerme worden vonden
 <S>o viele alle orloghe zaen
-645 <E>n(de) me(n) mochte de ziele dwaen
+645 <E>nde me(n) mochte de ziele dwaen
 <E>nde claren van sonden
 <M>iltheit heeft haer macht ghedaen 
 <V>recheit leert de weerelt vlaen
@@ -816,10 +819,13 @@ den dorpere. ende den wijsen dan
 <D>it euel ten beghinne
 <I>c liet my costen wel een pont
 <D>at icx vroet ware te deser stont
-<M>aect [d doorstreept] my dies te binne
+<M>aect d doorstreept my dies te binne
 660 <M>ine herte bliues onghesont
 <M>y en besceede daer af dijn mont 
 <W>iens wijsheit niet es dinne
+
+&46v&
+
 <N>a dat ic redene kinne
 <M_2><A>rtin du best een vry druut
 665 <D>u spreecs als een vriese ruut
@@ -827,7 +833,7 @@ den dorpere. ende den wijsen dan
 <A>lderhande edel fruut
 <C>o(m)met van der minne(n) vut
 <D>at noyt dorper bekinde
-670 <H>em en mach helpen ander cruyt
+670 <H>em en helpt gheen and[er] cruut
 671 <D>ie stille mint oft ouer luut
 <D>an hem deuel toe sinde
 <D>er herten en(de) der oeghen virtuut
@@ -839,9 +845,9 @@ den dorpere. ende den wijsen dan
 
 <E_2>en zwaer oerloghe en(de) .j. strijt
 <E>nde daer toe een ewich nijt
-<E>s tussche(n) d[er] herten en(de) oeghen
+<E>s tussche(n) d[er] herten en(de) den oeghen
 680 <T>herte den oeghen verwijt 
-<D>u zijs die my niet vermijt
+<D>u zijs die my niet en vermijt
 <B>y di bem ic doruloghen
 <D>u best opene ende wijt
 <E>lker zonden die voor di lijt
@@ -869,7 +875,7 @@ den dorpere. ende den wijsen dan
 
 &48r&
 
-<T_2>herte zwech en(de) de oeghe [e ertussen geschreven] sprac 
+<T_2>herte zwech en(de) de e ertussen geschreven oeghe sprac 
 <M>y dijnct dat di zins ghebrac
 705 <V>rauwe coninghinne
 <D>at ghi my tiet v onghemac
@@ -889,7 +895,7 @@ den dorpere. ende den wijsen dan
 <D>at ghi ouer my ghebiet 
 <A>ls ouer alle uwe leede
 <M>en conste v ghescaden niet
-720 <W>aert zo dat ghi van v [tijt doorstreept] stiet
+720 <W>aert zo dat ghi van v tijt doorstreept stiet
 <A>lle dorperhede
 <M>aer als ghi by mi bespiet
 <D>inghen die ghi aan v tiet
@@ -933,9 +939,9 @@ den dorpere. ende den wijsen dan
 <D>e oghe moet lyen en(de) ghien
 <D>aer duere quam gheuloghen
 <M>inne int vertoeghen
-755 <I_2>acob dijne redene es claer
+755 <I_2><A>cob dijne redene es claer
 <A>l dijnct zoe den ghene(n) zwaer
-<D>ie leitel gheuroeden
+<D>ie lettel gheuroeden
 <I>c weet wel zeker ouer waer
 <D>atter zielen wa[r]e gheen vaer
 760 <D>ie hem wilde hoeden
@@ -963,7 +969,7 @@ den dorpere. ende den wijsen dan
 <V>oor rouers zonder hoede
 <D>och minne(n) zij voor wat[er] smout
 <E>nde scuwe(n) hongher en(de) cout
-<E>ist zo ic my beuroede
+<E>ist zo ic my vermoede
 780 <Z>o dolen dese vroede.
 <M_2><A>rtin ic mete vul dij(n) vat
 <V>p den stoel daer moyses zat
@@ -990,7 +996,7 @@ den dorpere. ende den wijsen dan
 <D>ie den eertschen goede ontgaen
 <E>nde aermoede ontfaen
 <B>y helighen engiene
-800 <S>i late(n) he(m) bleuwe(n) en(de) slaen
+800 <S>i laten he(m) bleuwe(n) en(de) slaen
 <T>ormenteren ende vaen
 <O>mme die helle tontvliene
 <H>ier inne waert zekerst vulstaen
@@ -1019,7 +1025,7 @@ den dorpere. ende den wijsen dan
 820 <W_2><A>enstu martin weeldich en(de) vet
 <E>nde ghecleet zo lanc zo bet
 <V>aeren int ewich leuen
-<E>n(de) ih{esu}s hinc int bloet besmet 
+<E>n(de) ih[esu]s hinc int bloet besmet 
 <Z>ij(n) rechter zijde was ghesplet
 825 <E>n(de) was an thout verheuen
 <O>f dat hooft van onser wet
@@ -1028,7 +1034,7 @@ den dorpere. ende den wijsen dan
 <E>ist dattu zijn wils zijn let
 830 <M>agherlijke drijnc ende et
 <L>eere weelde begheuen
-<O>f du zuls swaerlijc sneue(n)
+<O>f du zuls zwaerlijc sneue(n)
 
 &53v&
 
@@ -1065,18 +1071,18 @@ den dorpere. ende den wijsen dan
 &54v&
 
 <D_2><E> wech es nauwe en(de) hoech
-860 <D>aer ih{esu}s bi ten hemel vloech
-<D>ats [s ertussen geschreven] passie ende aermoede
+860 <D>aer ih[esu]s bi ten hemel vloech
+<D>ats s ertussen geschreven passie ende aermoede
 <O>ftu meer hebs dan di doech
 <O>m die gods hulde poech
 <D>eele van dinen goede
 865 <D>ine fiere herte boech
 <D>en aermen ende toech
-<O>ntfaermicheyt va(n) moede
+<O>ntfaermicheit va(n) moede
 <G>od selue die noyt en loech
 <E>n(de) den milde(n) nye en bedroech
 870 <S>ette di in sijnre hoede
-<B>uten die vianden roede
+<B>uten der vianden roede
 
 &55r&
 
@@ -1111,13 +1117,13 @@ den dorpere. ende den wijsen dan
 &56r&
 
 <M>en zalt claghen spade
-<D>at ic my verlade
+<D>at ic my verlade.
 <S_2>ulke tyent de(n) vrauwe(n) vpsien
 <D>at zij hem therte onthien
 900 <A>ls die steen de naelde
 <H>y dijnct my mesdoen in dien
 <W>ilde hy der waerheit ghien
-<D>at hi daer toe taelde
+<W>ie dat daer toe taelde
 <W>at moghens vrouwe(n) dat ma(n)ne(n) plyen
 905 <S>o nauwe vp haer scoenheit zien
 <W>ie waest dieser toe haelde
@@ -1144,7 +1150,7 @@ den dorpere. ende den wijsen dan
 <N>u werden zij va(n) mi(n)ne(n) v[er]woet
 <D>iere dommelijke toe tijden
 <D>it doet vrauwen benijden
-<D_2><A>tmen lettel trauwe(n) kint
+<D_2><A>t men lettel trauwe(n) kint
 925 <A>n vrauwe(n) dat en claeghic twint
 <B>y eenre manieren
 <W>ant wat men zo vele vint
@@ -1203,7 +1209,7 @@ den dorpere. ende den wijsen dan
 <O>m die vrauwe hoeghe
 <D>aer ons af qua(m) ons behout
 970 <G>hedanct zij zoe dusentvout
-<D>at zijne vp hilt met zoeghe
+<D>at zijne vphilt met zoeghe
 <D>ie ons benam dat helsche cout
 <I>n haer be(n) ic te hendene bout
 <O>nse dyaloghe
@@ -1211,7 +1217,7 @@ den dorpere. ende den wijsen dan
 
 &59v&
 
-<E>xplicit liber primu{us}
+<E>xplicit liber prim{us}
 <I>ncipit liber secund{us}
 1 <M_3><A>rtin slaepstu slaept dij(n) zin
 <S>prec hebstu ghee(n) spreke(n) jn
@@ -1245,10 +1251,10 @@ den dorpere. ende den wijsen dan
 
 &60v&
 
-<M_2><A>rtin vriend heb ie messeit
+<M_2><A>rtin vriend heb ic messeit
 <T>e beterene be(n) icx bereit
 <J>c wils al vp di bliuen
-30<M>aer v[er]stant my en(de) ontbeit
+30 <M>aer v[er]stant my en(de) ontbeit
 <E>ene dijnc die my vp therte leit
 <W>ille ic di bescriuen
 <D>aer haer die weerelt mede meyt
@@ -1264,7 +1270,7 @@ den dorpere. ende den wijsen dan
 40 <I_2><A>cob dit was oyt dij(n) doen
 <V>an vrouwen dij(n) sermoen
 <B>eghinnen ofte henden
-<W>aerstu een dorp{er} du spraecs va(n) coen
+<W>aerstu een dor{per} du spraecs va(n) coen
 <N>u es dijn herte dies ontfloen
 45 <D>och wille icx my ghenenden
 <E>nde steken af mine(n) caproen
@@ -1277,7 +1283,7 @@ den dorpere. ende den wijsen dan
 
 &61v&
 
-<M_2><A>rtin du zuls my v[er]staan
+<M_2><A>rtin du zuls my v[er]staen
 <E>ene vrauwe wel ghedaen
 55 <H>eeft my gheuaen met minne(n)
 <A>l dat gode es onderdaen
@@ -1301,7 +1307,7 @@ den dorpere. ende den wijsen dan
 <E>nde speghel van alle(n) vrauwen
 <N>u es mijn herte zo hart een vlint
 <D>at het daer toe hem yet verbint
-<D>at [spatie] haer wille scauwen
+<D>at    haer wille scauwen
 
 &62v&
 
@@ -1312,30 +1318,30 @@ den dorpere. ende den wijsen dan
 <M_2><A>rtin nu hore en(de) v[er]stant
 80 <D>e twe zijn in een v[er]bant
 <D>at costen moet der eenre leuen
-<N>u hebbic de nacht in mine hant
+<N>u hebbic de macht in mine hant
 <W>elker ic wille breke ic den bant
 <E>nde macht haer al vergheuen
-85 <E>mmer noet de eene gheniete(n) de(n) pant
+85 <E>mmer moet de eene gheniete(n) de(n) pant
 
 &63r&
 
 <D>en hartsten die god ye gheuant
-<H>ier toe zijn zij verdreue(n)
+<H>ier toe zijn zij verdreuen
 <E>n liecht my niet als een truant
 <M>aer seght my an welken cant
-90 <D>ijne herte ea bleuen
+90 <D>ijne herte es bleuen
 <E>nde welke du liets leuen
 <I_2><A>cob dit en es ghee(n)s vraghe(n)s wert
 <D>ie de waerheit niet en spaert
 <H>eeft dit zaen ontbonden
 95 <H>et es emmer der herten aert
-<D>at zoe daervaert tiet en(de) vaert
+<D>at zoe daerwaert tiet en(de) vaert
 
 &63v&
 
-<D>aenen haer quam[e](n) de wonden
+<D>aenen haer quam(en) de wonden
 <A>l sout al varen hinderuaert
-<W>at dat veluaerens begaert
+<W>at dat weluaerens begaert
 100 <N>u ende tallen stonden
 <J>c verleeste die my therte bezwaert
 <S>oudic haer late(n) smake(n) tzwaert
@@ -1380,15 +1386,15 @@ den dorpere. ende den wijsen dan
 <D>ie met my zoude(n) lyen al
 <D>at ic haer tleuen gaue
 <D>ie mi therte roofde en(de) stal
-<J>acop en maect ons ghee(n) ghescal
+135 <J>acop en maect ons ghee(n) ghescal
 <H>ier met en scede icx niet aue
 <A>l tvolc dat woent zond[er] ghetal
-10 <B>ede vp berch en(de) int dal
+<B>ede vp berch en(de) int dal
 <E>ist coninc ofte graue
-<D>ijn prouue(n) wert hier ieghe(n) smal
+140 <D>ijn prouue(n) wert hier ieghe(n) smal
 <E>n zal el niet zij(n) dan een bal
 <G>heuult met soghten caue
-15 <A>lzo helpe my sente baue.
+<A>lzo helpe my sente baue.
 
 &65v&
 
@@ -1415,7 +1421,7 @@ den dorpere. ende den wijsen dan
 <E>n(de) hem narchisus v[er]smoort
 <D>its minne van sottien
 <D>it woort mi(n)ne en(de) datt[er] toe hoort
-<E>n was net zonde(n) nie begoort
+<E>n was met zonde(n) nie begoort
 165 <N>och met raboudien
 <W>ien dat reine mi(n)ne becoort
 <H>ine mach niet zijn v[er]doort
@@ -1464,7 +1470,7 @@ den dorpere. ende den wijsen dan
 <M>i ian vrouch en(de) spade
 <M>i dijnke dat ic meer sculdich bin
 <H>aer die mi coes int beghin
-[D in E veranderd] <E>nde an my blijft ghestaede
+D in E veranderd <E>nde an my blijft ghestaede
 205 <D>an haer die fierlic haren kin
 <T>e mywaert draecht en(de) haer ghespin
 <V>an minne(n) elder dragh{et} te zade
@@ -1494,7 +1500,7 @@ den dorpere. ende den wijsen dan
 <D>aer en es ieghe(n) gheen doen
 <S>orobabel in zijn sermoen
 <D>oet ons wel bekinne(n)
-<W>ien dat vrauwe mi(n)ne ontspoen [ont erboven geschreven]
+<W>ien dat vrauwe mi(n)ne ontspoen ont erboven geschreven
 <H>i en mochte niet gheroen
 <J>n zijn herte binnen
 
@@ -1516,7 +1522,7 @@ den dorpere. ende den wijsen dan
 
 <P>orringhe die die den zin wech tiet
 <D>er minne(n) cracht daer inne
-<D>ie redene te ghemoete(n) pliet [regel hier ingevoegd met verwijzingsteken]
+<D>ie redene te ghemoete(n) pliet regel hier ingevoegd met verwijzingsteken
 245 <A>ldus ontbant my en(de) bes*t/c*iet
 <M>ijn meester alzo ict kinne
 <O>f mijn verstaen es dinne
@@ -1550,8 +1556,8 @@ den dorpere. ende den wijsen dan
 <J>c zweert dy bi marien
 270 <D>at ic di noch hede(n) ghien
 <O>f du best een payen
-<O>ste in frenesien
-<O>fte van sviants p{er}tien
+<O>fte in frenesien
+<O>fte van sviants {per}tien
 
 &71r&
 
@@ -1668,7 +1674,7 @@ den dorpere. ende den wijsen dan
 
 &33r&
 
-25 <W>ant hogher dinck en es gheen
+25 <W>ant hogher dijnc en es gheen
 <N>u antwoort ons tween
 <M_2><A>rtin du vraghes te hoghe
 <A>l vloghe ic boue(n) d[er] inghele(n) vloghe
@@ -1677,7 +1683,7 @@ den dorpere. ende den wijsen dan
 <B>erechten dat te vullen doeghe
 <M>et woorden hier af
 <A>lle zinne zijn te droeghe
-<V>an alle creaturen hoe soeme(n) poeghe
+<V>an creaturen hoe soeme(n) poeghe
 35 <E>n doghen niet een caf
 
 &75r&
@@ -1704,7 +1710,7 @@ den dorpere. ende den wijsen dan
 <D>attu my heues verbeent
 <I_2>acob du ne souts di niet v[er]grame(n)
 <I>c souts my al mijn leue(n) scame(n)
-55 <H>adde ic ye ghedocht
+55 <H>adde ic yet ghedocht
 
 &76r&
 
@@ -1731,8 +1737,8 @@ den dorpere. ende den wijsen dan
 <Z>ijn so groot dat zij zijn dinne
 <D>iet bekenne(n) ende smal
 75 <S>ine wijshede es coninghinne
-<B>ouen andere(n) ghewinne
-<E>nde bouen al gheual
+<B>ouen al andere(n) ghewinne
+<E>nde bouen alle gheual
 <D>aer bouen en(de) hier int dal
 <D_2><E>n hemel en(de) de(n) troen die merke
 80 <G>od es al bouen zijne ghew[er]ke
@@ -1741,7 +1747,7 @@ den dorpere. ende den wijsen dan
 <E>nde binne(n) dit hout sterke
 <H>ier vute niet en sprinc
 85 <O>ec segghen de wise clerke
-<H>ij en es niet ghedeelt in p{er}ke
+<H>ij en es niet ghedeelt in {per}ke
 <H>ier toe dijne herte dwijnc
 <M>aer gheheel in elke(n) merke
 <B>ute(n) binne(n) in wat[er]e in zwerke
@@ -1795,10 +1801,13 @@ den dorpere. ende den wijsen dan
 <D>at hier in doelt hi moet beweene(n)
 <E>nde ewelike zijn gheureest
 130 <I>n den helschen tempeest
+
+&79r&
+
 <W_2>ij setten den vad[er] voren
 <O>nghewonne(n) en(de) ongheboren
 <E>nde voor alle beghin
-<D>aer na den zone vutu[er]coren
+<D>aer na den zone vute u[er]coren
 135 <V>an desen ghewo(n)ne(n) als wijt horen
 <E>er ye beghin ghinc jn
 <D>en heilighe(n) gheest leere wi den dore(n)
@@ -1809,7 +1818,7 @@ den dorpere. ende den wijsen dan
 <S>o ne condement om gheen ghewin
 <G>hegronderen meer no min
 
-&79r&
+&79v&
 
 <E_2>er achter tijt ofte stonde
 145 <D>at verstaet va(n) mine(n) mo(n)de
@@ -1827,11 +1836,11 @@ den dorpere. ende den wijsen dan
 
 &80r&
 
-<N_2>iement en es wille hy iet make(n)
+<N_2>iement en es. wille hy iet make(n)
 <H>y en moet in selue(n) smaken
 <E>enigherande triniteit
 160 <W>ant hi moet d[er] dijnc ghenaken
-<E>n(de) hem daer pine(n) te gheraken
+<E>nde hem daer pine(n) te gheraken
 <O>fte het es hem al ontseit
 <O>ec moet hi bi wile(n) daero(m)me wake(n)
 <M>ach. const. wille. dese drie zaken
@@ -1839,7 +1848,7 @@ den dorpere. ende den wijsen dan
 <D>ie dese note wel can crake
 <H>y en darf beiden ofte hake
 <H>y en vint in een godheit
-<D>rie p{er}sone gheseit.
+<D>rie {per}sone gheseit.
 
 &80v&
 
@@ -1857,7 +1866,7 @@ den dorpere. ende den wijsen dan
 
 &81r&
 
-(178) <E>nde maecter af gheen ghecry
+178 <E>nde maecter af gheen ghecry
 182 <D>it gheloue es vaste in my
 <G_2><O>d en besluut ne ghene stede
 <M>aer alle steden besluut hij mede
@@ -1900,7 +1909,7 @@ den dorpere. ende den wijsen dan
 &82v&
 
 <Z>ijn dese enighe drie
-215 <R>edene en dracht [t erboven geschreven] hier niet crone
+215 <R>edene en dracht t erboven geschreven hier niet de crone
 <M>aer tgheloue zonder hoene
 <D>ies en twiuel ic nye
 <W>at eeren hadde(n) wij of wat loene
@@ -1926,7 +1935,7 @@ den dorpere. ende den wijsen dan
 
 &83v&
 
-235 <I_2><N>den he[er]e van hemelrijke
+235 <I_2><N> den he[er]e van hemelrijke
 <I>n den zoene der ghelijke
 <E>nde in den heilighen gheest
 <E>s mijn gheloue also rijke
@@ -2067,11 +2076,11 @@ den dorpere. ende den wijsen dan
 <D>ie ieghen dit gheloue kiue
 350 <V>p hem zal themelsche lam
 <T>en ionxsten werden gram
-<I_2><N>den hemel es hi gheuare(n)
+<I_2><N> den hemel es hi gheuare(n)
 <D>aert de zine saeghe(n) te waren
 <T>e des vaders rechter hant
 355 <D>aer hij altoos sonder sparen
-<D>en vader bidt voer sine caren
+<D>en vader bidt voor sine caren
 <D>ie hem hier zijn becant
 <N>och zal hi he(m) hier co(m)me(n) v[er]baren
 
@@ -2119,7 +2128,7 @@ den dorpere. ende den wijsen dan
 &90r&
 
 <I_2><A>cob du berechts mi scoene
-<B>erecht my van den p{er}soene
+<B>erecht my van den {per}soene
 <D>ie me(n) heet heilich gheest
 <D>at mijn gheloue zij zond[er] hoene
 395 <T>e hem cle(m)me(n) en(de) winne(n) de croene
@@ -2166,7 +2175,7 @@ den dorpere. ende den wijsen dan
 
 &91v&
 
-430 <D_2>its svaders en(de) soens [er erboven geschreven] gaue
+430 <D_2>its svaders en(de) soens e erboven geschreven gaue
 <R>icheit boue(n) alle haue
 <F>onteyne des leuens al
 <W>ie zo gheporret wert hier aue
@@ -2185,7 +2194,7 @@ den dorpere. ende den wijsen dan
 <D_2>its svaders en(de) soens mi(n)ne
 <D>its caritate daer altoos jnne
 445 <R>ust die triniteit
-<D>its die der p{ro}pheten zinne
+<D>its die der {pro}pheten zinne
 <L>eerde en(de) macte in jnne
 <D>es godsoens menschelicheit
 <E>n es coninc no coninghi(n)ne
@@ -2248,7 +2257,7 @@ den dorpere. ende den wijsen dan
 <W>ien dat scaet of vroemt
 495 <A_2>men iacob lieue ghezelle
 <M>i dijnke dat ic di ze[er]e quelle
-<D>och had icx grooten noot
+<D>och hadde icx grooten noot
 <A>ls ic dit lese ende spelle
 <M>ach icker bi leeren als ict u[er]telle
 500 <M>ijn gheloue al bloot
