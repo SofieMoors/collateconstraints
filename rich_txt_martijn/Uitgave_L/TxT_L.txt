@@ -101,14 +101,14 @@ lange stae(n)
 [...] *ane* hecht			
 [...]*...*lheit v[er]plecht		
 90 [...] *et* ghed*ueren*		
-[...] *d*en scalke *sueren*	
+[...] *d*e(n) scalke *sueren*	
 [...]*nt* scalke droeghe(n) ou[er]een	
 [...]ee(n) *...* en(de) ia neen	
 [...] dat wijsheit dochte 		
 95 [...]lheit d[aer] o(m)me *gr*een	
 [...]t *w*asdom wt scheen	
 [...] d{at} come(n) mochte		
-[...]del%heit% werde(n) steen 		
+[...]delh%eit% werde(n) steen 		
 [...] ontfermt dinc gheen 		
 100	[...]*men* tgelt wt knochte 	
 [...]eue he(m) den langhe(n) wee(n)	
@@ -186,7 +186,7 @@ lange stae(n)
 170	<D_2><E>n rechten wech ter helle(n) waert    
 <E>ntie ald[er] corste vaert		
 <D>ats gheluuc in sonden 		
-<A>ls men gheen mesdoe(n) en spaert
+<A>ls me(n) gheen mesdoe(n) en spaert
 <E>*nde* [...]			
 175 [...]	
  

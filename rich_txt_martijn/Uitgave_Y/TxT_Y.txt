@@ -26,12 +26,12 @@ mijn vrouwe eere saen
 <H>ets getrouwe als die zide		
 <R>echt man deluet sond[er] spit		
 <H>ine heeft poente niet gehit		
-25 <I>n *…* baelgye				
-<*>…*et dat ic waer lye			
+25 <I>n *...* baelgye				
+*...*et dat ic waer lye			
 <L_2>aet ons martijn ouer een		
 <H>ier af spreken ond[er] ons twee(n)	
 <I>n desen dyaloghe			
-30 <W>anen quam ons deser ween		
+30 <W>anen quam ons desen ween		
 <D>ie wilen soe onwert scheen		
 <E>n(de) nv sit soe hoeghe		
 <I>c sal vrage(n) ende vleen		
@@ -74,21 +74,21 @@ man te verheffen bouen man
 <S>int dat edelheit hadde vaer	
 <T>e pinen om die eere			
 <E>n(de) so trac den scalke nare	
-70 *…* rade nv hier*…*			
+70 *...* rade nv hier*...*			
 <E>n(de) niet en scelden den heere	
 <S>oe es edelheit worden swaer	
-<D>{at} si *…* clemme(n) heeft o(m)maer	
-<E>nde daelt int lanc *…* meere	
+<D>{at} si *...* clemme(n) heeft o(m)maer	
+<E>nde daelt int lanc *...* meere	
 75 <D>ats nv alder werelt claer		
-<E>n(de) *…*siene openbaer		
+<E>n(de) *...*siene openbaer		
 <D>{at} dus es v[er]bannen eere		
 <E>nde wed[er] stae(n) ten keere 		
 <N_2>v merct bider sonne(n) lecht		
 80 <D>at alder werelt ogen berecht	
 <B>i hare edelre naturen		
 <A>ls dat swerc daer yege(n) vecht	
-<E>ntie neuel met sijnre drecht [correctieteken omgekeerde volgorde]	
-<S>one ca(n) si te diere vren		
+<S>one ca(n) si te diere vren correctieteken omgekeerde volgorde	
+<E>ntie neuel met sijnre drecht	
 85 <N>iet getoghen h[aer] scoenheit echt	
 <A>ldus verdonckert die scalke knecht	
 <D>ie edele creaturen			
@@ -120,7 +120,7 @@ man te verheffen bouen man
 110 <O>ft ee(n) vriese bescreue		
 <T>rouwe es broescer da(n) gelas	
 <D>ie wilen soe starc was		
-<E>s nv te broke(n) bleue(n)		
+<E>s nv te broken bleuen		
 <I>c waens noyt he[er]e genas		
 115 <D>ie scalke tsine(n) rade las		
 <H>ine moeste in dinde sneue(n)		
@@ -130,7 +130,7 @@ man te verheffen bouen man
 120 <E>n(de) wandele(n) inde tale		
 <I>n weeter wat toe segge(n) el		
 <D>ie scalke hout boesheit ou[er] spel
-<H>i pijnt hoet hi doget versmale	
+<H>i pijnt hoet hi doget v[er]smale	
 <C>aym sloech den edele(n) abel		
 125 <D>us soect die scalke sijns heere(n) vel 
 <H>oe hine trect te dale		
@@ -144,10 +144,10 @@ man te verheffen bouen man
 
 &1vb&	
 
-<D>an heeft die quade de kies	
+<D>an heeft die quade de(n) kies	
 135 <E>ntie goede valt int v[er]lies	
 <W>ie sal dit voer recht cure(n)	
-<M>ijn sin seit nv als een ries	
+<M>ijn sin seit mi als een ries	
 <H>i die adame dlijf in blies		
 <D>ie meester der naturen		
 140 <H>eeft beuolen merct en besies	
@@ -177,7 +177,7 @@ man te verheffen bouen man
 <D>attie quade gewint scat		
 165 <E>n(de) men heet den vroede(n)		
 <S>oe hi hoger sit opt rat		
-<S>oe meere val soe diep[er] plat	
+<S>oe meere val soe die{per} plat	
 <I>nd[er] helscer gloeden			
 <O>nder die duuele roede		
 170 <D_2>en rechten wech ter helle(n) wt
@@ -193,7 +193,7 @@ man te verheffen bouen man
 &2ra&	
 
 <O>nder der <I>oden pleyt		
-<D><I>ie mensheit liet haer besnide(n)	
+<D_2><I>ie mensheit liet haer besnide(n)	
 <D>oepe(n) ende proeue(n) in die(n) tide(n)	
 <V>anden ouden viant			
 <S>i liet h[aer] vaen en(de) beniden	
@@ -240,69 +240,69 @@ man te verheffen bouen man
 
 &2rb& 
 
-<O>ft beter oft alsoe […]		
-<A>y god nv brect on[…]			
-<E>nde v[er]geeft ons di[…]		
-<E>n(de) dinen euele(n) mo[…]		
-<D>{at} onse mont en(de) o[…]		
-375 <S>make(n) moet sond[…]		
-<S>ine vleesch en(de) sijn[…]	
-<D>at vut sijnre zide(n) […]	
-<U_2>vt desen sone vu[…]		
-<W>ies godheit ny[…]		
-380 <N>och wies mensch[…]		
-<S>oe vloyden ende b[…]		
-<D>ie sacramente(n) t[…]		
-<E>n(de) alle salicheit […]		
-<N>v hebbic di tgelo[…]		
-385 <S>oe ic naest hebbe[…]		
-<N>a mijnre mogent[…]		
-<D>ie dit geloue vast […]		
-<A>flaet va(n) hare(n) zon[…]		
+<O>ft beter oft alsoe [...]		
+<A>y god nv brect on[...]			
+<E>nde v[er]geeft ons di[...]		
+<E>n(de) dinen euele(n) mo[...]		
+<D>{at} onse mont en(de) o[...]		
+375 <S>make(n) moet sond[...]		
+<S>ine vleesch en(de) sijn[...]	
+<D>at vut sijnre zide(n) [...]	
+<U_2>vt desen sone vu[...]		
+<W>ies godheit ny[...]		
+380 <N>och wies mensch[...]		
+<S>oe vloyden ende b[...]		
+<D>ie sacramente(n) t[...]		
+<E>n(de) alle salicheit [...]		
+<N>v hebbic di tgelo[...]		
+385 <S>oe ic naest hebbe[...]		
+<N>a mijnre mogent[...]		
+<D>ie dit geloue vast [...]		
+<A>flaet va(n) hare(n) zon[...]		
 <E>s he(m) altoes gereit		
-390 <O>pdat mer in vols[…]		
-<I_2>acob du berecht m[…]		
-<B>erecht mi vand[…]		
-<D>ie me(n) heet heilic[…]		
-<H>oe men tgeloue son[…]		
-395 <T>e hem clemme(n) en(de) […]		
-<D>ie alder gaue(n) es […]		
-<W>ant vande(n) vader […]		
-<H>ebbic di bediet d{at} […]	
-<S>cone berecht vulle[…]		
-400 <D>es danck d[er] martel[…]		
-<D>[aer] bove(n) inden hoge(n) […]	
-<E>n(de) gheue di vullees[…]	
-*…*ende wa[…]			
-<M_2>artijn ons leert die […]	
-405 <D>at een god en(de) .i[…]		
-<E>mmer sijn dese *…* […]		
-<A>ltoes eue(n) na geb[…]		
-<E>n(de) versciede(n) te g*h*e[…]	
-<N>och en verscieden […]		
-410 <V>ader kint v[er]stant […]		
-<V>ut dese*n* dobbele(n) g[…]	
-<W>ie cant gegronde(n) w[…]		
-<D>a(n) coomt die geest […]		
-<D>ie reine godheit en[…]		
+390 <O>pdat mer in vols[...]		
+<I_2>acob du berecht m[...]		
+<B>erecht mi vand[...]		
+<D>ie me(n) heet heilic[...]		
+<H>oe me(n) tgeloue son[...]		
+395 <T>e hem clemme(n) en(de) [...]		
+<D>ie alder gaue(n) es [...]		
+<W>ant vande(n) vader [...]		
+<H>ebbic di bediet d{at} [...]	
+<S>cone berecht vulle[...]		
+400 <D>es danck d[er] martel[...]		
+<D>[aer] boue(n) inden hoge(n) [...]	
+<E>n(de) gheue di vullees[...]	
+*<D>ie* *...*t *w[er]t* en(de) wa[...]			
+<M_2>artijn ons leert die [...]	
+405 <D>at een god en(de) .i[...]		
+<E>mmer sijn dese *...* [...]		
+<A>ltoes eue(n) na geb[...]		
+<E>n(de) versciede(n) te g*h*e[...]	
+<N>och en verscieden [...]		
+410 <V>ader kint v[er]stant [...]		
+<V>ut desen dobbele(n) g[...]	
+<W>ie cant gegronde(n) w[...]		
+<D>a(n) comt die geest [...]		
+<D>ie reine godheit en[...]		
 
 &2va&	
 
-[…]proeft ende sie		
-[…]ten ende des gye		
-[…]troest dalder meeste		
-[…]dye arm sijn van geeste	
-[…]i blide sijn			
-420 […] pinen altoes feeste		
-[…] menege(n) die was beeste	
-[…]uer ende fijn			
-[…]ne god die dat verheeste	
-[…]n sinen volleeste		
-425 […]te een droepelkyn		
-[…]are gode dalre meeste	
-[…]geen vreese van tempeeste	
-[…]gheen venijn			
-[…]edde der zielen sijn		
+[...]proeft ende sie		
+[...]ten ende des gye		
+[...]troest dalder meeste		
+[...]dye arm sijn van geeste	
+[...]i blide sijn			
+420 [...] pinen altoes feeste		
+[...] menege(n) die was beeste	
+[...]uer ende fijn			
+[...]ne god die dat verheeste	
+[...]n sinen volleeste		
+425 [...]te een droepelkijn		
+[...]are gode dalre meeste	
+[...]geen vreese van tempeeste	
+[...]gheen venijn			
+[...]edde der zielen sijn		
 430 Ø					
 Ø					
 Ø					
@@ -316,32 +316,32 @@ man te verheffen bouen man
 440 Ø					
 Ø					
 Ø					
-[…]vaders ende tsoens minne		
-[…]s caritate daer altoes inne	
-445 […]die triniteyt 			      
-[…] die der prophete(n) <S>inne		
-[…]e en(de) maecte .<I>. inne		
-[…]soens menschelicheit		      
-[…]s coninc noch coningin(n)e		
-450 […]emmermeer aflaet gewinne(n)	      
-[…]sijnre onsalicheit			
-[…] hebbe een traen al w[aer]t dinne	
-[…] desen dauwe tsine beginne		
-[…]*w*eluare(n) es hem ontseit		
-455 […]r dese sijn ongereyt			
-[…]se leerde den apostele(n) twaren	
-[…]lle tongen die doe(n) waren		
-[…]ese werelt breyt			
-[…] gaf den martelaren			
-460 […]t si conden sond[er] sparen		
-[…]gen menich leyt			
-[…]se can die sinne v[er]claren		
-[…]e hem met sonden v[er]sware(n)	      
-[…] dat coude maken heit		
-465 […]nen lieuen sine(n) caren		
-[…]lt hi stille al sond[er] spare(n)	
-[…]at godlike cleet			
-[…] ewelike steet			      
+[...]vaders ende tsoens minne		
+[...]s caritate daer altoes inne	
+445 [...]die triniteyt 			      
+[...] die der prophete(n) <S>inne		
+[...]e en(de) maecte .<I>. inne		
+[...]soens menschelicheit		      
+[...]s coninc noch coningin(n)e		
+450 [...]emmermeer aflaet gewinne(n)	      
+[...]sijnre onsalicheit			
+[...] hebbe een traen al w[aer]t dinne	
+[...] desen dauwe tsine beginne		
+[...]*w*eluare(n) es hem ontseit		
+455 [...]r dese sijn ongereyt			
+[...]se leerde den apostele(n) twaren	
+[...]lle tongen die doe(n) waren		
+[...]ese werelt breyt			
+[...] gaf den martelaren			
+460 [...]t si conden sond[er] sparen		
+[...]gen menich leyt			
+[...]se can die sinne v[er]claren		
+[...]e hem met sonden v[er]sware(n)	      
+[...] dat coude maken heit		
+465 [...]nen lieuen sine(n) caren		
+[...]lt hi stille al sond[er] spare(n)	
+[...]at godlike cleet			
+[...] ewelike steet			      
 
 &2vb&
 
@@ -357,7 +357,7 @@ man te verheffen bouen man
 <N>e ganc niet ouer dese pale		
 <H>out in dijnre herten sale		
 480 <S>o en waerstu niet versmoert		
-<Y>nder helscer poert			
+<I>nder helscer poert			
 <W_2>aer yement die wed[er] sprake		
 <D>it gheloue en(de) dese sake		
 <D>ie ware ewelijc verdoemt		
@@ -369,14 +369,14 @@ man te verheffen bouen man
 490 <D>ie godheit ongenoemt			
 <S>one trect mi niet die helsce drake	
 <M>{et} hem ter eweliker wrake 		
-<W>aer niemen vut en comt		
-<W>ie dat scaet oft vroemt		
-495 <A_2>men <I>acob *…* geselle		
-<M>i dunct dat ic v zeere quelle	
+<D>aer niemen vut en comt		
+<W>ien dat scaet oft vroemt		
+495 <A_2>men <I>acob *lieue* geselle		
+<M>i dunct d{at} ic v zeere quelle	
 <D>och haddics groten noet		
 <A>lsic dit lese ende spelle		
 <M>agic leeren alsic vertelle		
-500 <M>ijn gheloue al bloet			
+500 <M>ijn gheleue al bloet			
 <D>aer ic bi scuwe(n) mach die helle	
 <O>p*dat* mi daer toe versnelle		
 <T>e doene dat god gheboet		
