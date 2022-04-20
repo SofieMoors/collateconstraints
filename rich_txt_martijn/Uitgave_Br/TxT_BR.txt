@@ -86,7 +86,7 @@
 <*D*>auontuere wast en(de) smelt
 <M>enighen te vromen
 <*E*>n(de) tonneren he(m) somen
-<*G_2*><O>d ghedoget dor ons misdaet
+<G_2><O>d ghedoget dor ons misdaet
 535 <D>{at} een geslechte ond[er]gaet
 <E>n(de) een ander riset
 <W>ie mach weten sinen raet
@@ -388,7 +388,7 @@
 140 <D>ij(n) proeuen w[aer] hier iegen smal
 <E>n sal di niet w[aer]t sij(n) een bal
 <G>euult met caue
-<A>lsoe hulpe mi <S>{inte} baue
+<A>lsoe hulpe mi <S>[inte] baue
 <M_2><E>rten du best een stout seriant
 145 <D>ats een vast cnoop en(de) bant
 <D>ie niemant en ca(n) ontbinde(n)
