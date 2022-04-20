@@ -94,8 +94,6 @@
 *<H>et seit heere ende knecht*
 *<V>rouwen ende ioncvrouwen*
 
-[Op het einde van fol. 1, col. 2, staat er een regel met de woorden 'Vrouwen ende ioncvrouwen’.]
-
 &2ra&
 
 445 <V>rouwe(n) en(de) joffrouwe(n)	
@@ -497,7 +495,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <A>l w[er]t d{at} alle di(n)gle q%ua%me(n)	
 60 <S>ij co(n)de(n) de godh%eit% n{iet} gehame(n)
 <D>its al af gecnocht	
-<M>[aer] le[er]e mine(n) c%ran%cke(n) sin lame(n)
+<M>[aer] le[er]e mine(n) c%ra%cke(n) sin lame(n)
 <G>ewo(n)t m{et}t[er] sonde(n) brame(n)	
 <V>an dattu vermocht
 65 <S>oe es mine(n) wil volbrocht

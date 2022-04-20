@@ -889,7 +889,7 @@ werelt yet la(n)ge stae(n)
 820 <W_2><A>enstu merte(n) weeldich en(de) vet
 <C>hierlic gecleet nu wel nu bet/
 <E>nde varen int langhe leuen.
-<E>nde ih{es}us naect met bloede besmet 
+<E>nde ih(esu)s naect met bloede besmet 
 <E>n(de) ziin rechter zijde ghesplet/
 825 <A>ent cruce was verheuen.
 <O>p dat hoot va(n) onser wet
@@ -929,7 +929,7 @@ werelt yet la(n)ge stae(n)
 <D>aer dij god sal besteden
 <M>et sinen lieuen leden
 <E_2>s die wech nauwe en(de) hoech
-860 <D>aer ih{esus} bij te hemel vloech
+860 <D>aer ih(esu)s bij te hemel vloech
 <D>ats passie ende armoede
 <O>ftu meer heues dan dy doech
 <O>m die gods hulde poech/
