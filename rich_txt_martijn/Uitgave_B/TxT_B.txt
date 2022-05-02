@@ -880,7 +880,7 @@ gaen doorstreept <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 
 <S>ijn ghecleet nv wel nv bet
 <E>nde varen int langhe leue(n)
-<E>nde ih{es}us hinc naect int bloet be#«smet» 
+<E>nde ih[es]us hinc naect int bloet be#«smet» 
 <E>nde zine recht[re] zide ghesplet
 825 <D>air hi an thout was v[er]heue(n)
 <O>f dat hooft van ons[er] wet
@@ -917,7 +917,7 @@ gaen doorstreept <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <D>at di god sal besteiden
 <M>et sine(n) lieue(n) lede(n)
 <E_1>s die wech nauwe en(de) hooch
-860 <D>air ih{es}us bi ten hemel vlooch
+860 <D>air ih[es]us bi ten hemel vlooch
 
 &146rb&
 
@@ -1016,9 +1016,9 @@ gaen doorstreept <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 960 <D>ie ziele(n) int helsche dal
 <D>ies lucifer ghebiede
 <E>n(de) al sine mesniede
-<W_1>at mochts vrau eua dat adam
-<D>oir hare(n) wille de(n) appel nam
-<D>at wi noch alle besterue(n)
+937 <W_1>at mochts vrau eua dat adam
+938 <D>oir hare(n) wille de(n) appel nam
+939 <D>at wi noch alle besterue(n)
 940 <I>c waenre ons voordeel of qua(m)
 <H>ier om w[er]t man themelsche lam
 <T>e ons[er] alre bederue
@@ -1029,8 +1029,8 @@ gaen doorstreept <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <D>an dat de maghet maecte gode so tam
 <D>at hi he(m) ene w[er]uen
 <D>oir ons liet bederue(n)
-<I_1>acop du best de(n) v%ra%uwe(n) houdt
-Ø 
+963 <I_1>acop du best de(n) v%ra%uwe(n) houdt
+964 Ø 
 965 <I>c wane ic best ghedoghe
 <I>c v[er]gheue al ongedout
 <A>lle(n) v%ra%uwe(n) jonc en(de) out

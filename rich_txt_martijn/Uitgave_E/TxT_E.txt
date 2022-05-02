@@ -1,6 +1,6 @@
 &1ra& 
 
-<W>a(n)t tie <R>[idder] niet en doet
+371 <W>a(n)t tie <R>[idder] niet en doet
 <H>ine v[er]slit vleesch en(de) bloet
 <O>p d{at} sij(n) prijs mere
 <D>and[er] al wa[r]e al ghelt die vloet
@@ -58,10 +58,10 @@
 423 <D>ieme(n) vint t[er] we[re]lt wijt
 424 <W>a(n)t si tald[er] tijt v[er]blijt
 422 <E>n(de) me(n) t[ro]uwe heuet ma[er]e
-<D>ie ald{us} sij(n) lijf v[er]slijt
-<H>a[er] hope ne(m)mermeer glijt
-<M>[aer] maect sij(n) si(n)ne clare
-<E>n(de) en es ghee(n) futselare
+427 <D>ie ald{us} sij(n) lijf v[er]slijt
+426 <H>a[er] hope ne(m)mermeer glijt
+428 <M>[aer] maect sij(n) si(n)ne clare
+429 <E>n(de) en es ghee(n) futselare
 430 <M_2>i(n)ne es alsme(n) bescreue(n) vint
 <C>racht die II. h[er]te(n) tsame(n) bint
 <I>n ene(n) reyne(n) wane
@@ -196,7 +196,7 @@
 
 &2ra& 
 
-<D>es die me(n)sche heuet noot
+314 <D>es die me(n)sche heuet noot
 315 <D>it proeftme(n) met si(n)ne
 <H>i storte doer o(n)s sij(n) bloet root
 <E>n(de) geeft o(n)s themelsce broot
@@ -245,7 +245,7 @@
 
 &2vb&
 
-<B>i(n)ne(n) v[er]hoedt hijt ieghe(n) plaghe(n)
+114 <B>i(n)ne(n) v[er]hoedt hijt ieghe(n) plaghe(n)
 115 <D>{at} sij(n) di(n)c m{et} ghene(n) vlaghe(n)
 <N>iet en si ongherast
 <N>och ghequest ee(n) bast
@@ -292,207 +292,3 @@
 <H>ine moet i(n) he(m) selue(n) wake(n)
 <E>end[er] and *...* triniteit
 
-&4a& 
-
-160 want hi moet der dinc geraken 
-Ø 
-oft hets hem al ontseit
-oec moet hi wîlen daer om waken
-macht const wille dese III zaken
-165 vint men in der menschelijcheit.
-die dese note wel can cnaken
-hi ne derf beyden no haken
-hi ne vint in een godheit
-drie persone ghereit.
-170 Dese god daer wi af leren
-doet crone sonne sterren keren
-ende al dat ruerende sy:
-sijn rusten es al vul eren
-dat hem niet en can ghederen
-175 gheen porren verre no by.
-hi es dat hi was da-n es gheen sceren
-hi ne wilde mindren no meren
-hi es sijns selfs so vry
-hi doet alle dinc gheneren
-180 sine rijcheit can niemen verteren
-maer alle steden vervult hy 
-dus leret tgelôve my.
-God vervult ghêne stede
-maer alle steden besluut hi mede
-185 met sîre godlijcheit:
-<d>ie iaren keren sîne mogenthêde
-<e>ns niet datten keren dede
-<s>ine macht es so breit.
-<c>racht noot no ghênen onvrede
-190 <m>aect hem doen onsedichede
-<h>oe so die zake gheit:
-<s>oe gestade es god in de lede
-<d>atten cracht no ghênen onvrede
-<u>ut sînen poere en leit;
-195 <d>its al waer gheseit.
-<H>eden gistren es ons leven
-<e>nde daer es een einde an gedregen
-<h>et si cort oft lanc
-200 <d>it wort heden esser an bleven:
-199 <m>aer soe ment vint van gode bescreven
-<e>en ewelijc ommeganc
-<d>aer gheen einde an mach cleven
-<n>och beghin wert verheven
-<w>ies wesen es so stranc
-205 <s>ijnder ieghenwaerdicheit es beven
-<d>at es ende was dus eest bescreven
-
-&4b& 
-
-<e>nde nu es ghemanc
-<i>n dese werelt stranc.
-<M>erten en claegt niet ....
-210 <d>its een god in i ... 
-<d>aer wi af lesen d ...
-<e>ven geweldich even ...
-<e>ven gelijc in werelt n ...
-<s>ijn dese êneghe drîe
-215 <r>edene dragt haer al ...
-<m>aer tgelôve sonder hope
-<d>es en twîvelt nye
-<w>at eren hadden wijs ...
-220 <g>heloven dat elc siere ...
-<n>u antwort my ende ghye
-<J>acop ic lie ten beg ...
-<d>at ic subtijlder woerden ...
-<n>iet en hebbe gehort
-225 <d>an du my maecs ....
-<d>och proevic wel ....
-<t>e gronde dese wort
-<d>aer es ons redene t . . . .
-<o>ns en trecke tgelôve ....
-230 <o>p waert ter hemelscer port
-<d>aet god es loen boven ....
-<e>nde dart tgelôve e . . . .
-<n>u antwort my bat .... 
-<o>ft icx niet hebbe doe ...
-235 <A>en den vader van hemelrijc
-<e>nde an den sone des gelijc
-<e>nde an den heyleghen gheest
-<e>s mijn gelóve also rijc
-<d>at een god es ende ic ...
-240 <h>oe ic werde ghevreest:
-<m>aer segt my claer d . . . .
-<h>oe die sone die e . . . .
-<d>en vader es alder neest
-<m>enscheit ontfienc van e . . . .
-245 <b>idt datti v niet bet . . .
-<e>nde hi di gheve v . . . .
-<d>ie minst was ende w . . .
-
-[strofe 20 ontbr.]
-
-<M>erten die val van Lucifere
-<d>er hoverden ende de.....
-<d>at vele inglen ontg . . .
-265 die met hem waren . . .
-Ø 
-ende vielen in de doot ....
-doen dede god daer.....
-
-&4c&
-
-... e sciep om dat hi lere
-te doene dat god geboot
-270 ... dat emmermere
-. . . ênen stoel met groter ere
-. . . tten themelsce broot
-sonder êneghen weder stoot
-.... heeft die duvel vernomen
-275 .... es toter menscheit comen
-..... ende int serpent
-... et tonser onvromen ..........
-... orders doen verdoemen
-... lijc ghescent
-280 .... l sijn sonderlijc beroemen
-...  algader niet hem somen
-... ons hevet verblint
-... ti ûten hemel dromen
-... dat ons die hemelsce bloemen
-285 ... erden ombekent
-... te was gewent.
-Gods sone sach den man verladen
-den vîant vul van overdaden
-... eme groot
-290 ... wildi hem staen in staden
-... bi zîere ghenaden
-... dat ontboot
-... en saen wert geladen
-.... t oft poent van scaden
-295 ... eneghen stoot
-... me soghen ende baden
-... dinc can verzaden
-... den in haren scoot
-... er niet en verdroot
-300 ... heel ende altemale
-... in der maget sale
-... gods sone gods kint
-... algeheel also wale
-... des vaders sale
-305... twivelt twint
-... menscheit dats geen hale
-... got niet in desen dale
-... heit die-t al bint
-Ø 
-310 Ø 
-Ø 
-... mij eest bekint
-God es geweldich ende here
-... ende es emmermere
-315 ... godheit
-... men ter menscheit kere
-
-&4d& 
-
-so es hi vele minder zere
-na der menschelijcheit
-na der godheit sprect mijn lere
-320 es hi ontsterfelijc emmermere
-dit es een besceit.
-die menscheit doeghde 
-alsic sprac ere
-ghêsele nagle ende dat spere
-die doot ende ander leit
-325 enter Joden ghepleit.
-Dit menscheit liet haer besnîden
-dorperen proeven in dien tîden
-van den ouden vîant
-sie liet haer vaen ende binden
-330 doerboren voete handen sîden
-hi sterf dus eest becant:
-die ziele wilde ter hellen tîden
-daer sie die ghene wilde verblîden
-die de duvel bant.
-335 ay hoe si gode benedîden
-die heyleghen die-ne sagen strîden
-ieghen des duvels brant
-daer hise uut prant.
-Die godheit leechde van doden te lîve
-340 tfleesch dat hi van den reinen wîve
-vrouwen Marien nam.
-hi troeste sîne lieve keytîve
-hier ij higr iij hier iiij hier vîve
-met hem hi eten quam.
-345 dus es die gods sone alsic scrîve
-god ende mensce; elc man blîve
-hier in ghehoorsam.
-waere oec ênich man so stîve
-die ieghen dit gelôve kîve
-350 op hem sal themelsce lam
-<t>e ionxsten werden gram.
-<I>n den hemel es hi gevaren
-<d>aer die sîne waren
-<t>es vaders rechter hant
-355 <d>aer hi altoes sondcr sparen
-<d>en vader bidt voer sîne caren
-<d>ie hem bier sijn becant:
-<n>ochtan sal hi hem verbaren
-<d>oemen die werelt met sînen scaren
-360 <e>nten helscen vîant
-<s>onne ende mane sal hi verclaren
-<d>i bi Adame verdonkert waren.

@@ -192,7 +192,7 @@ man te verheffen bouen man
       
 &2ra&	
 
-<O>nder der <I>oden pleyt		
+325 <O>nder der <I>oden pleyt		
 <D_2><I>ie mensheit liet haer besnide(n)	
 <D>oepe(n) ende proeue(n) in die(n) tide(n)	
 <V>anden ouden viant			
@@ -240,7 +240,7 @@ man te verheffen bouen man
 
 &2rb& 
 
-<O>ft beter oft alsoe [...]		
+370 <O>ft beter oft alsoe [...]		
 <A>y god nv brect on[...]			
 <E>nde v[er]geeft ons di[...]		
 <E>n(de) dinen euele(n) mo[...]		
@@ -288,7 +288,7 @@ man te verheffen bouen man
 
 &2va&	
 
-[...]proeft ende sie		
+415 [...]proeft ende sie		
 [...]ten ende des gye		
 [...]troest dalder meeste		
 [...]dye arm sijn van geeste	

@@ -192,10 +192,10 @@ lange stae(n)
  
 &2ra&	
 
-<M_2><E>rct vrouwe en(de) besiet  	
-<W>at ghi ouer mi ghebiet 		
-<A>ls ouer al v lede		
-<M>en conde v gescaede(n) niet 	
+716 <M_2><E>rct vrouwe en(de) besiet  	
+717 <W>at ghi ouer mi ghebiet 		
+718 <A>ls ouer al v lede		
+719 <M>en conde v gescaede(n) niet 	
 720	<W>aert soe d{at} ghi va(n) v sciet 	
 <A>lle dorperhede			
 <M>[aer] alse ghi bi mi bespiet	
@@ -223,9 +223,9 @@ lange stae(n)
 744 <S>oe therte die oegen 		
 746 <O>m(m)e niet eest dattie oege(n) spie(n)
 745	<A>lse therte wilde vlien	
-<D>[aer] en es gheen ghedoegen	
-<M>[aer] hets der herten plien 	
-<A>ls doghe siet desen oft dien 	
+747 <D>[aer] en es gheen ghedoegen	
+748 <M>[aer] hets der herten plien 	
+749 <A>ls doghe siet desen oft dien 	
 750 <D>[aer] hem toe wille boegen  	
 <S>oe moet al hare(n) wille gescien 	
 <D>ie ogen moete(n) lien en(de) ghien	
@@ -285,24 +285,25 @@ lange stae(n)
 <H>ier in waert sekerst *...*[...]	
 <D>ie he(m) int doe*psel* [...]	
 805	[...]				
-	 
+806 [...]	 
+
 &2va&	
 
-[...] gods sone toget ons dat 	
-<D>ie euen gheweldich sit en(de) sat	
-[...]en vader inden rike		
+807 [...] gods sone toget ons dat 	
+808 <D>ie euen gheweldich sit en(de) sat	
+809 [...]en vader inden rike		
 810	[...] beete ind[er] maget vat	 
 813	[...]*i* *cu*me oeyt soges was sat 	
 812	[...]de oetmoedelike 		
 811	[...]d[er] reind[er] maget scat 	 
 814	[...] gedoegede menege(n) hadt	
 815	[...]n sine(n) ongeliken		
-[...]moede es een pat		
-[...] doer den hemel maecte <I> gat
-[...]*i* niet en beswike		 
-[...]h[are] met trouwen wike	
-820	[...]enstu merte(n) weldich vet	
-[...]ijn gecleet nv wel nv bet	
+816 [...]moede es een pat		
+817 [...] doer den hemel maecte <I> gat
+818 [...]*i* niet en beswike		 
+819 [...]h[are] met trouwen wike	
+820	[...]enstu merte(n) weldich vet
+[...]ijn gecleet nv wel nv bet
 [...] vaeren int langhe leue(n) 	
 [...]sus naect m{et} bloede besmet	
 [...] rechte side doer splet	
@@ -432,7 +433,7 @@ lange stae(n)
 
 &3rb&	
 
-<E>n(de) men copet ondiere 		
+929 <E>n(de) men copet ondiere 		
 930	<M>anne sijn loeser da(n) die wint 	
 931	<H>aer scoen claege(n) vrouwe(n) v[er]blint
 932	<W>ant si sijn goeder tieren 	
@@ -456,10 +457,10 @@ lange stae(n)
 963	<I_2><A>cop du best de(n) vrouwe(n) hout	
 964	<D>u gheues de(n) ma(n)ne alle die scout 
 965	<I>c waene ict best gedoeghe 	
-<I>c vergeue al ongedout 		
-<A>llen vrouwe(n) ionc en(de) out	
-<O>m(m)e die vrouwe hoege		
-<D>[aer] ons af quae(m) ons behout 	
+966 <I>c vergeue al ongedout 		
+967 <A>llen vrouwe(n) ionc en(de) out	
+968 <O>m(m)e die vrouwe hoege		
+969 <D>[aer] ons af quae(m) ons behout 	
 970	<G>edanct si si menichfout 	 
 <D>at sine op hilt met soege	
 <D>ie ons benae(m) thelsche(n) cout 	
@@ -577,11 +578,11 @@ lange stae(n)
 					
 &4ra&	
 
-<T>fleeschs datti van de(n) reine(n) wiue
-<V>rouwen marien nam		 
-<H>i troeste sine lieue keytiue 	
-*<H>ier* ij. h[ier] iij h[ier] iiij. hier viue 
-<M>et hem hi eten quaem 		
+340 <T>fleeschs datti van de(n) reine(n) wiue
+341 <V>rouwen marien nam		 
+342 <H>i troeste sine lieue keytiue 	
+343 *<H>ier* ij. h[ier] iij h[ier] iiij. hier viue 
+344 <M>et hem hi eten quaem 		
 345	<D>us es die gods sone alsic *scriue*
 <G>od en(de) mensche elc ma(n) bliue 	
 <H>ier in gehoersam 		

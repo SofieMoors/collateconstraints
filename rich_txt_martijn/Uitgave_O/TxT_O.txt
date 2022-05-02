@@ -1,17 +1,17 @@
 &19r&
 
 1 <W_7><A>phene martin 
-hoe salt gaen <S>al 
+hoe salt gaen 2 <S>al 
 dese weerelt yet
-langhe staen. <I>n 
+langhe staen. 3 <I>n 
 dus cranken loue
-<S>o zal mijn vrau 
-we eere zaen 5 <S>on#
-der twifel en(de) waen <R>ume(n) der heere(n) houe
-<I>c sie den scalke wel ontfaen
-<D>ie de heeren connen dwaen
-10 <E>nde plocken van den stoue
-<I>c zie die gherechte slaen
+4 <S>o zal mijn vrau 
+we eere zaen 5 <S>on
+der twifel en(de) waen 6 <R>ume(n) der heere(n) houe
+7 <I>c sie den scalke wel ontfaen
+8 <D>ie de heeren connen dwaen
+9 <E>nde plocken van den stoue
+10 <I>c zie die gherechte slaen
 <B>ede bescatten ende vaen
 <A>lse die meese in de cloue
 <R>echt oftene god verscoue.
@@ -728,23 +728,23 @@ den dorpere. ende den wijsen dan
 
 <M>aer god vut zijnre milthede(n) 
 585 <D>ie gheefse dor smensche(n) beede 
-<I_2><A>cob ic hore an dijn woort
-<D>at alle me(n)schelijc gheboort
-<A>n adaeme eerst begonde
-<H>oe es dit maechscap dus v[er]stoort
+586 <I_2><A>cob ic hore an dijn woort
+587 <D>at alle me(n)schelijc gheboort
+588 <A>n adaeme eerst begonde
+589 <H>oe es dit maechscap dus v[er]stoort
 591 <D>its iammer ende zonde
 590 <D>at deene dandre dus v[er]moort 
-<N>ijt es weder ende voort
-<M>eest vpt land en(de) in de poort
-<T>volc es worden honden
+592 <N>ijt es weder ende voort
+593 <M>eest vpt land en(de) in de poort
+594 <T>volc es worden honden
 
 &43v&
 
 596 <T>e vraghene bem ic becoort
 595 <S>eght my als diet gheerne hoort
-<E>nde gheerne onderuonde
-<V>an beghinne ten gronde
-<M_2><A>rtin houerde en(de) nijt
+597 <E>nde gheerne onderuonde
+598 <V>an beghinne ten gronde
+599 <M_2><A>rtin houerde en(de) nijt
 600 <E>nde die alder eerste strijt
 <B>egonste in hemelrijke
 <A>ls lucifer tot zijnre ontijt
@@ -834,7 +834,7 @@ den dorpere. ende den wijsen dan
 <C>o(m)met van der minne(n) vut
 <D>at noyt dorper bekinde
 670 <H>em en helpt gheen and[er] cruut
-671 <D>ie stille mint oft ouer luut
+<D>ie stille mint oft ouer luut
 <D>an hem deuel toe sinde
 <D>er herten en(de) der oeghen virtuut
 <W>illic dat hier by zij(n) beduut
@@ -977,16 +977,16 @@ den dorpere. ende den wijsen dan
 
 &51v&
 
-<D>at zij wijsen doet al dat
+784 <D>at zij wijsen doet al dat
 785 <Z>ij wijsen di den rechte(n) pat
-<W>el he(m) dier he(m) toe keerde
+786 <W>el he(m) dier he(m) toe keerde
 788 <S>ij heeten vaste(n) zij zij(n) zat
 787 <I>n weldoene zijn zij seere lat
-<E>n volght niet zulke heerde
+789 <E>n volght niet zulke heerde
 791 <H>aer handt es altoos zo(n)d[er] gat
 790 <S>i en mi(n)ne(n) niet voor de(n) scat
-<N>oyt was volc boue(n) d'eerde
-<D>at meer scats begheerde.
+792 <N>oyt was volc boue(n) d'eerde
+793 <D>at meer scats begheerde.
 
 &52r&
 
@@ -1497,12 +1497,12 @@ D in E veranderd <E>nde an my blijft ghestaede
 <W_2><A>t machte hadde sa(m)pson
 <D>auid of salomon
 <J>eghen de cracht va(n) minne(n)
-<D>aer en es ieghe(n) gheen doen
+225 <D>aer en es ieghe(n) gheen doen
 <S>orobabel in zijn sermoen
 <D>oet ons wel bekinne(n)
 <W>ien dat vrauwe mi(n)ne ontspoen ont erboven geschreven
 <H>i en mochte niet gheroen
-<J>n zijn herte binnen
+230 <J>n zijn herte binnen
 
 &69r&
 
@@ -1815,8 +1815,8 @@ D in E veranderd <E>nde an my blijft ghestaede
 <E>lken mensche ende zijne(n) zin
 141 <W>ant al hadt de werelt ghezwore(n)
 140 <D>aero(m)me en latet niet te storen
-<S>o ne condement om gheen ghewin
-<G>hegronderen meer no min
+142 <S>o ne condement om gheen ghewin
+143 <G>hegronderen meer no min
 
 &79v&
 
@@ -1858,7 +1858,7 @@ D in E veranderd <E>nde an my blijft ghestaede
 <N>ochta(n) zijn rusten es zo vul eeren
 <D>at hem niet en can ghedeeren
 175 <G>heen porren verre no by
-<H>ij es daer hij dijns gheen sceeren
+176 <H>ij es daer hij dijns gheen sceeren
 179 <H>ij doet hier alre dijnc gheneeren
 181 <A>lle steeden veruult hij
 180 <S>ine rijchede mach niement v[er]teeren

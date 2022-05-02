@@ -3,7 +3,7 @@
 1 <V_4>Vaphene m[ar]tin hoe salt gaen
 <S>al die w[eer]elt hiet la(n)ghe stae(n)
 <I>n dus crancke(n) loue
-<S>o moet v[ro]uwe v[er]eere saen
+<S>o moet v%ro%uwe v[er]eere saen
 5 Sond[er] twifel ende waen
 <R>umen he[er]en houe
 <I>c zie de(n) valsche(n) wel ontfaen
@@ -1055,8 +1055,8 @@
 
 In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *dand* martijn.
 
-1 <D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
-<M_3><A>rtijn slaepstu slaept dijn sin
+<D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
+1 <M_3><A>rtijn slaepstu slaept dijn sin
 <S>preect heuestu gheen spreke(n) in
 <D>u dinx mi al v[er]doren
 <D>une achtes meer no min
@@ -1102,7 +1102,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 <V>an vrouwe(n) moeste dijn sermoen
 <O>f beghinnen of enden
 <W>aerstu een dorp{er} du spraex va(n) coen
-<N>u es dine h[er]te dies ontfloen [o ertussen geschreven]
+<N>u es dine h[er]te dies ontfloen o ertussen geschreven
 45 <D>och willix mi ghenende(n)
 <E>n(de) steke(n) af mine(n) caproen
 <E>n(de) hore(n) watti hier toe spoen
@@ -1421,9 +1421,6 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 <M>inne niet en end h[aer] jaer
 <E>nten lesten stonden
 <V>rien met sine(n) wonden
-
-[In de rechtermarge is met bruine inkt in een kleine cursieve letter de representant van het opschrift geschreven: dit es de derde M[. Door het afsnijden van de bladrand zijn de laatste letters verloren gegaan. Tussen de regels 32-33 bevinden zich geen witregels.]
-
 <D><I><T> <E><S> <D><E> <D><E><R><D><E> <M><A><R><T><I><J><N>
 1 <I_4><C> mane manne(n) mette(n) wiue(n)
 <D>ie dit sulle(n) lesen of scriue(n)
@@ -1680,9 +1677,6 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 <E>n(de) d[aer] tgheloue es coninghi(n)ne
 <N>u antwort mi bet vort
 <O>f ics niet en hebbe v[er]bort
-
-(strofe 19 tot 22 ontbreken)
-
 <D_1><I>e gods sone sach de(n) ma(n) v[er]lade(n)
 <E>nte(n) viant va(n) ouerdaden
 <I>n roeme seere groot

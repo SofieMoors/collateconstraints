@@ -1,6 +1,6 @@
 &1r& 
 
-<I>c vergheuet al onghedo[...]
+966 <I>c vergheuet al onghedo[...]
 <A>lle vrouwe(n) ionc en(de) oud [...]
 <O>m eene vrouwe hogh[...]
 <D>aer ons afquam onse [...]
@@ -11,7 +11,7 @@
 <O>nser beider dyaloghe
 975 <I>c en vrage niet meer no[...]
 § <D>at ander de bo[...]
-<M_2><A>rtijn slaepty sla[...]
+1 <M_2><A>rtijn slaepty sla[...]
 <S>preect hebdy g[...]
 <G>hi duncket mi verdor[...]
 <G>hi en achtet meer noch[...]
@@ -105,9 +105,8 @@
 80 <D>ese twee sijn in een verbant
 <D>at costen moet der eenredle [...] 
 <N>v heb ic die macht in die ha[...]
-<W>elcker ic wille breken den [...]
+83 <W>elcker ic wille breken den [...]
 
-[...]
 
 &3v& 
 
@@ -120,30 +119,27 @@
 [...]e die mi therte beswaert
 [...]ick haer late(n) smake(n) tswaert
 [. . .]are dan ondervonden
-[...]ermoort dan sonden
-
-[...]
+104 [...]ermoort dan sonden
 
 &4r& 
 
-<H>i en konst hem niet bed*w*[...]
-<H>i en sterf bi desen dingen
-<M>edea toocht ons selue de [...]
-<D>ie roofde en(de) stal haers v[...]
+116 <H>i en konst hem niet bed*w*[...]
+117 <H>i en sterf bi desen dingen
+118 <M>edea toocht ons selue de [...]
+119 <D>ie roofde en(de) stal haers v[...]
 120 <E>n(de) versloech haren broed[...]
-<O>m iason dies haer cume[...]
-<L>iet sij conincrijc en*(de) s*tadt
-<V>ader suster en(de) m[...]
-<N>ochtans daer sij[...]e[...]
-<W>ijsde haer red*e*[...]
+121 <O>m iason dies haer cume[...]
+122 <L>iet sij conincrijc en*(de) s*tadt
+123 <V>ader suster en(de) m[...]
+124 <N>ochtans daer sij[...]e[...]
+125 <W>ijsde haer red*e*[...]
 
-[...]
 
 &4v& 
 
-[...]t woent sond[er] ghetal
-[...]berch en(de) in dal
-[...]c hertoge of graue
+137 [...]t woent sond[er] ghetal
+138 [...]berch en(de) in dal
+139 [...]c hertoge of graue
 140 [...]uen is hier tegen smal
 [...] niet weert sijn een bal
 [...]t met caue
@@ -152,12 +148,10 @@
 145 [...]n [...] op en(de) vast bant
 [...]n ontbinden
 
-[...]
-
 &5r& 
 
-<D>at ghi hier bringhet voort
-<M>et fabulen en(de) poeterijen
+158 <D>at ghi hier bringhet voort
+159 <M>et fabulen en(de) poeterijen
 160 <O>ft medea dede moort
 <E>n(de) he(m) <N>arcisius heeft v[er]smoort
 <D>its minne va(n) sottyen
@@ -166,11 +160,10 @@
 <N>och oec met rybaudien
 165 <W>ien dat reyne minne becoort
 <H>i en mach niet sijn verdoort
-[...]
 
 &5v& 
 
-<A>l dooch der die sulcke om torment
+179 <A>l dooch der die sulcke om torment
 180 <S>ulck als minne der doget sendt
 <W>ie was dier af messchiede
 <G>helijc den heydene(n) diede
@@ -180,7 +173,6 @@
 <D>aer en was geen houden an
 <H>i deedse wech / redene v[er]wan
 <S>ijn herte was vol trouwen
-[...]
 
 &6r& 
 
@@ -194,27 +186,25 @@
 <V>a(n) mij(n)der elder draecht te sade
 <E>n(de) dier ic om bade
 <J>acop oft ghi niet en acht
-[...]
 
 &6v& 
 
-<S>ijns willen ontbeeren
-§ <W>at macht hadde sampsoen
-<D>auid en(de) salomoen
-<T>eghen die cracht va(n) minnen
+221 <S>ijns willen ontbeeren
+222 § <W>at macht hadde sampsoen
+223 <D>auid en(de) salomoen
+224 <T>eghen die cracht va(n) minnen
 225 <D>aer en is tsegen geen doen
 <S>orobabel in sijn sermoen
 <D>oet ons wel bekenne(n) 
 <S>oe wie in vrouwe(n) minne(n) spoen
 <H>i en mach anders niet gheroen
 230 <I>n sijn herte binnen
-[...]
 
 &7r& 
 
-<P>orringhe die den sin wech thiet
-<D>ie zeere treect ten beghinne
-<D>ie de reden te ghemoete(n) pliet
+242 <P>orringhe die den sin wech thiet
+243 <D>ie zeere treect ten beghinne
+244 <D>ie de reden te ghemoete(n) pliet
 245 <D>us ontbant mi en(de) beschiet
 <M>ijn meester als ic kinne
 <O>ft mij(n) verstant is dinne
@@ -236,8 +226,8 @@
 
 &7v& 
 
-<D>ie de waerheit noode lijen
-<M>esdaden die de(n) wijsen gheschien
+263 <D>ie de waerheit noode lijen
+264 <M>esdaden die de(n) wijsen gheschien
 265 <E>n salmen niet in exemple(n) thijen
 <M>aer gode benedien
 <D>ie ons daer leert sond[er] vlyen

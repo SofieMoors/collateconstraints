@@ -639,15 +639,15 @@ werelt yet la(n)ge stae(n)
 <V>an adame begonde
 <T>wi es die maechscap d{us} v[er]stoort
 590 <D>at deen den andere(n) vermoort
-<D>its iammer ende sonde
-<N>ijt es weder ende voort
-<M>eest opt dlant en(de) in de poort
-<T>folc es worden honde
+591 <D>its iammer ende sonde
+592 <N>ijt es weder ende voort
+593 <M>eest opt dlant en(de) in de poort
+594 <T>folc es worden honde
 596 <T>e vraghe(n)ne ben ic becoort
 595 <B>erecht my als diet gh[er]ne hoort
-<E>nde gheerne ondervonde
-<V>an beghinne te(n) gronde
-<M_2><E>rten houerde en(de) nijt
+597 <E>nde gheerne ondervonde
+598 <V>an beghinne te(n) gronde
+599 <M_2><E>rten houerde en(de) nijt
 600 <E>ntie alder ierste strijt
 <B>eghan in hemelrike
 <A>ls lucifer te siere ontijt

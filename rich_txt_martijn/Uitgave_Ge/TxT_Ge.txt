@@ -1,6 +1,6 @@
 &1va&
 
-[...] dat torment
+834 [...] dat torment
 835 [...]en nutte te rechte
 [...]erst es te vlie(n) tserpent
 [...]n te wandelen d[aer] o(m)trent
@@ -154,7 +154,7 @@
 
 <D>en anderen merten
 
-<S_2><L>aeptu merte(n) slaept dij(n) sin
+1 <S_2><L>aeptu merte(n) slaept dij(n) sin
 <S>prect hebdi spreke(n) in
 <D>u dunckes mi verdoren
 <D>une achtes meer no min

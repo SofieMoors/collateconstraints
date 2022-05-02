@@ -624,15 +624,15 @@ dat alle menschelike gheboert
 van adaem begonde 
 twi is die manscap dus testoert
 590 dat deen den andren vermoert
-dits iamer en(de) zonde
-nijt is weder en(de) voert
-beide in die lande en(de) in die poert
-tuolc is worden honde
+591 dits iamer en(de) zonde
+592 nijt is weder en(de) voert
+593 beide in die lande en(de) in die poert
+594 tuolc is worden honde
 596 teuraghede ben ic becoert
 595 zegh mi als die gherne hoert
-en(de) diet gherne onderuonde 
-van beghinne tegronde. 
-<M_2>artijn houaerde en(de) nijt
+597 en(de) diet gherne onderuonde 
+598 van beghinne tegronde. 
+599 <M_2>artijn houaerde en(de) nijt
 600 en(de) die alre ierste strijt 
 begonst in hemelrike
 alse lucifer te zijnre ontijt
@@ -908,7 +908,7 @@ het wordt te ioncsten daghe claer
 datti god zal besteden 
 met zinen lieuen leden. 
 Is die wech nauwe en(de) hoech 
-860 daer ih{esus} bi tehemele vloech 
+860 daer ih{esus}c bi tehemele vloech 
 na passien en(de) aermoeden 
 om die gods hulde poech
 heefstu meer dan di doech 
@@ -1038,7 +1038,7 @@ onze dyaloghe
 
 Van der drieuoudicheide..
 
-<I_12>c mane den mannen metten wiuen 
+1 <I_12>c mane den mannen metten wiuen 
 die dit lesen zoelen ofte scriuen
 op den hoechsden ban
 dat zij dit dicht laten bliuen 
@@ -1088,7 +1088,7 @@ mit rime zonder valscheit van doeken
 is dit goet ic waene neent 
 du telles mi niet wisen cloeken 
 50 dorstic ic zouder di om vloeken 
-ic waen dijn herte meent. dat du nu heues ver#leent. (erboven geschreven) 
+ic waen dijn herte meent. dat du nu heues ver leent. erboven geschreven 
 
 &217rb&
 
@@ -1526,15 +1526,15 @@ die met zonden hem verswaren
 
 ende coude maken heet
 465 zinen lieuen zinen caren 
-gheeft hi zonder enich sparen
-dat godlijc cleet 
-dat nummermeer tegheet. 
+466 gheeft hi zonder enich sparen
+467 dat godlijc cleet 
+468 dat nummermeer tegheet. 
 
 strofe 37 ontbreekt
 
-<W_2>aer iement diet wedersprake 
-dese gheloue en(de) dese zake 
-die waer ewelijc verdoemt
+482 <W_2>aer iement diet wedersprake 
+483 dese gheloue en(de) dese zake 
+484 die waer ewelijc verdoemt
 485 recht waert dat men in den brant stake 
 en(de) hi daer na thelsche vier smake 
 daermen den duuel in droemt 

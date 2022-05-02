@@ -1,6 +1,6 @@
 &1ra&
 
-<W>aer hi daer mede gewont	
+356 <W>aer hi daer mede gewont	
 <H>ine w[aer] niet in elenden
 <M>[aer] god en wilde de(n) rike(n) vont	
 <G>hene(n) sondare gene(n) hont	
@@ -193,10 +193,10 @@ d{at} van ongerecht gewelt
 
 &4ra&
 
-<G>af dit wandel ertsche goet
-<D>er mensch%eit% ghemeene 
-<D>{at}ter mede waest geuoet
-<E>n(de) geel [...]
+626 <G>af dit wandel ertsche goet
+627 <D>er mensch%eit% ghemeene 
+628 <D>{at}ter mede waest geuoet
+629 <E>n(de) geel [...]
 630 <E>n(de) leue [...]
 <N>u es g*...* verwoet 
 <D>at elc set sine(n) moet	
@@ -289,7 +289,7 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 
 &5ra&
 
-<D>{at} he(m) ca(n) gehulpen iet
+114 <D>{at} he(m) ca(n) gehulpen iet
 115 <H>ine doelt alse hi wel ziet
 <S>ine conste sij(n) h[er]te bedwinge(n)
 <H>i sterf bi desen dingen
@@ -387,8 +387,8 @@ die sine amie v[er]heffe(n) bega(n)
 
 &7ra& 
 
-<D>{us} mach si[er]e naturen
-<G>hee(n) genade gebuere(n)
+298 <D>{us} mach si[er]e naturen
+299 <G>hee(n) genade gebuere(n)
 300 <D_2>{at}me(n) dit bi redene(n) weet
 d{at} god nieme(n) heu{et} leet
 <W>ie(n) geeft hi dlange leue(n)

@@ -102,47 +102,47 @@ loeue sp[re]ct so willickene hier setten
 
 &218va& 
 
-<A>lles dies nie(n) weet : 95 <O>nd[er] al als die in ertussen geschreven alle(n) keere
-<D>e di(n)c houdt moge(n)delec en(de) seere
-<J>ege(n) alle v[er]scheet : <B>ute(n) als die m{et} si[er]e w[er]e
-<S>ij(n) werc behuedt dat hem en dere
+94 <A>lles dies nie(n) weet : 95 <O>nd[er] al als die in ertussen geschreven alle(n) keere
+96 <D>e di(n)c houdt moge(n)delec en(de) seere
+97 <J>ege(n) alle v[er]scheet : 98 <B>ute(n) als die m{et} si[er]e w[er]e
+99 <S>ij(n) werc behuedt dat hem en dere
 100 <N>egeen dinc cout noch heet
-<B>innen als die m{et} siere leere
-<S>ijn werc v[er]uult met selker eere
-<D>at ewelike ste{et} : <W>ie(n)t lief si ofte leet
+101 <B>innen als die m{et} siere leere
+102 <S>ijn werc v[er]uult met selker eere
+103 <D>at ewelike ste{et} : 104 <W>ie(n)t lief si ofte leet
 105 <B_1>ouen al es god ongedraghen
 <N>egeen dinc en mach hem beclagen
 <D>at hise iet v[er]last
 <O>nder al sond[er] last va(n) waghen
 <W>ant hem en moeyt ruste(n) no iage(n) 
 110 <S>ijn wesen es soe vast
-<B>ute(n) al en(de) e(n) breidt nieweri(n)c sij(n) dage(n)
-<W>a(n)t hi es al so(n)d[er] v%ra%ge(n) : <W>e[er]t voecht en(de) n%iet% gast
-<B>inne(n) al en(de) veruullet iege(n) plagen
+111 <B>ute(n) al en(de) e(n) breidt nieweri(n)c sij(n) dage(n)
+112 <W>a(n)t hi es al so(n)d[er] v%ra%ge(n) : 113 <W>e[er]t voecht en(de) n%iet% gast
+114 <B>inne(n) al en(de) veruullet iege(n) plagen
 115 <D>at sine dinc met geenen vlagen
-<E>n si o(n)gerast : <N>o gequetst enen bast
-<U_1>an ene(n) god spreken wi van enen
-<D>ien wi vader en(de) sone meenen
+116 <E>n si o(n)gerast : 117 <N>o gequetst enen bast
+118 <U_1>an ene(n) god spreken wi van enen
+119 <D>ien wi vader en(de) sone meenen
 120 <E>nde den heileghe(n) gheest 
-<E>n(de) wet wel dat wiere negeenen
-<S>oe g%ro%t e(n) noeme(n) no so cleene(n) : <D>att[er] ieme(n) es «meest»
-<E>ne(n) god segge(n) wi ene(n) reenen
-125 <N>och vervoecht no verbeenen: <E>n esser +ane v[er]v[re]escht in linkermarge geschreven
-<D>ie sinen sin soe laet versteenen
-<D>at hi des loechent hi moet weenen
-<E>n(de) eweleke sij(n) gevreest : 130 <J>n de(n) helsche(n) te(m)peest
-<W_1>i setten den vader voren
-<O>ngewo(n)nen en(de) ongeboren : <E>n(de) vo[er] alle begin
-<D>aer na den sone wt vercoren
+121 <E>n(de) wet wel dat wiere negeenen
+122 <S>oe g%ro%t e(n) noeme(n) no so cleene(n) : 123 <D>att[er] ieme(n) es «meest»
+124 <E>ne(n) god segge(n) wi ene(n) reenen
+125 <N>och vervoecht no verbeenen: 126 <E>n esser +ane v[er]v[re]escht in linkermarge geschreven
+127 <D>ie sinen sin soe laet versteenen
+128 <D>at hi des loechent hi moet weenen
+129 <E>n(de) eweleke sij(n) gevreest : 130 <J>n de(n) helsche(n) te(m)peest
+131 <W_1>i setten den vader voren
+132 <O>ngewo(n)nen en(de) ongeboren : 133 <E>n(de) vo[er] alle begin
+134 <D>aer na den sone wt vercoren
 135 <V>a(n) hem gewo(n)nen also wijt horen
 <E>er noyt beghi(n) ghinc in
 <D>en heilegen gheest leere(n) wi de(n) dore(n)
 <W>t desen tween comende o(n)ttoe dij(n) ore(n)
 <E>lc mensche en(de) sinen sin
 140 <E>n latet tgeloeue niet te store(n)
-<W>a(n)t al hads die wereld gesworen
-<S>ie(n) co(n)ste(n) o(m) geen gewi(n) : <G>heg%ro%nde(n) me[er] no mi(n) erboven geschreven
-<E_1><E>r oft acht[er] tijt ofte stonde
+141 <W>a(n)t al hads die wereld gesworen
+142 <S>ie(n) co(n)ste(n) o(m) geen gewi(n) : 143 <G>heg%ro%nde(n) me[er] no mi(n) erboven geschreven
+144 <E_1><E>r oft acht[er] tijt ofte stonde
 145 <D>at verstaet wt minen monde 
 <E>n was noyt an dese drie
 <D>e(n) vader sette wi als te(n) gronde 
@@ -255,54 +255,54 @@ loeue sp[re]ct so willickene hier setten
 
 &219rb& 
 
-<E>n(de) maget bleef dies wi alle lien
-<D>aer wise o(m)me benedien : <D>{at} si gest[er]cke o(n)se di(n)c
-<E>n(de) moete clare(n) en(de) wie(n) : 255 <D>ine(n) sin en(de) va(n) so(n)de(n) v[ri]en
-<D>at th[er]te si sond[er] wi(n)c : <V>a(n) alre dorpernien
-<E>n(de) du e(n) moet mi oec n%iet% tien : <D>{at} ic di te na gi(n)c
+251 <E>n(de) maget bleef dies wi alle lien
+252 <D>aer wise o(m)me benedien : 253 <D>{at} si gest[er]cke o(n)se di(n)c
+254 <E>n(de) moete clare(n) en(de) wie(n) : 255 <D>ine(n) sin en(de) va(n) so(n)de(n) v[ri]en
+256 <D>at th[er]te si sond[er] wi(n)c : 257 <V>a(n) alre dorpernien
+258 <E>n(de) du e(n) moet mi oec n%iet% tien : 259 <D>{at} ic di te na gi(n)c
 260 <M>aer minen wille volbrinc
-<M_1><E>rte(n) die val va(n) luf[er]e : <D>[er] hou[er]de(n) en(de) des nijts h[er]e
-<D>ie was also g%ro%t : <D>{at} vele i(n)gele o(n)tgoude(n) sere
-265 <D>ie m{et} he(m) ware(n) vte(n) k[er]e : <E>n(de) viele(n) i(n) de doot
-<D>oe dede god den mensche die eere
-<D>at hine sciep op d{at} hi leere : <T>e doene d{at} god gebo{et} 
+261 <M_1><E>rte(n) die val va(n) luf[er]e : 262 <D>[er] hou[er]de(n) en(de) des nijts h[er]e
+263 <D>ie was also g%ro%t : 264 <D>{at} vele i(n)gele o(n)tgoude(n) sere
+265 <D>ie m{et} he(m) ware(n) vte(n) k[er]e : 266 <E>n(de) viele(n) i(n) de doot
+267 <D>oe dede god den mensche die eere
+268 <D>at hine sciep op d{at} hi leere : 269 <T>e doene d{at} god gebo{et} 
 270 <E>n(de) besitte(n) dan e(m)m[er]meere
-<D>er ingele stoel en(de) vort meere
-<N>utte(n) themelsche b[ro]et : <S>o(n)d[er] wed[er] stoet
-<D_1>it heeft de duuel vernomen
-275 <E>n(de) es tot[er] me(n)sch%eit% come(n) : <S>p[re]ke(n)de i(n) tserpe(n)t
-<E>n(de) heeft to(n)ser o(n)v[ro]me(n) : <O>nse vord[er]s doe(n) v[er]doeme(n)
-<E>n(de) swa[er]like gesce(n)t : 280 <D>it was sij(n) so(n)d[er]li(n)ge beroeme(n)
-<D>at hi algad[er] n%iet% hen soeme(n) : <D>{at} volc heeft v[er]ble(n)t
-<D>us wilde hi vte(n) hemele droeme(n) 
-<O>m d{at} ons die hemelsche bloemen
-285 <N>iet e(n) soude(n) w[er]de(n) beke(n)t : <D>a[er] hi af was otwe(n)t
-<D_1><E> gods sone sach de(n) ma(n) v[er]raden
-<E>n(de) den viant vol ouerdaden
-<J>n roeme soe g%ro%t : 290 <E>n(de) wilde he(m) stae(n) i(n) stade(n) 
-<S>o d{at} hi bi si[er]e genade(n) : <M>arie(n) d{at} o(n)tboet
-<D>ie saen m{et} he(m) w[er]t gheladen 
-<S>ond[er] last oft poent va(n) scaden
-295 <E>n(de) sond[er] enege no{et} : <M>oeste sine soege(n) en(de) bade(n) 
-<D>ie alle di(n)c mach versaden
-<E>n(de) houde(n) i(n) hare(n) scoet : <D>ats hare n%iet% e(n) v[er]d%ro%et
+271 <D>er ingele stoel en(de) vort meere
+272 <N>utte(n) themelsche b[ro]et : 273 <S>o(n)d[er] wed[er] stoet
+274 <D_1>it heeft de duuel vernomen
+275 <E>n(de) es tot[er] me(n)sch%eit% come(n) : 276 <S>p[re]ke(n)de i(n) tserpe(n)t
+277 <E>n(de) heeft to(n)ser o(n)v[ro]me(n) : 278 <O>nse vord[er]s doe(n) v[er]doeme(n)
+279 <E>n(de) swa[er]like gesce(n)t : 280 <D>it was sij(n) so(n)d[er]li(n)ge beroeme(n)
+281 <D>at hi algad[er] n%iet% hen soeme(n) : 282 <D>{at} volc heeft v[er]ble(n)t
+283 <D>us wilde hi vte(n) hemele droeme(n) 
+284 <O>m d{at} ons die hemelsche bloemen
+285 <N>iet e(n) soude(n) w[er]de(n) beke(n)t : 286 <D>a[er] hi af was otwe(n)t
+287 <D_1><E> gods sone sach de(n) ma(n) v[er]raden
+288 <E>n(de) den viant vol ouerdaden
+289 <J>n roeme soe g%ro%t : 290 <E>n(de) wilde he(m) stae(n) i(n) stade(n) 
+291 <S>o d{at} hi bi si[er]e genade(n) : 292 <M>arie(n) d{at} o(n)tboet
+293 <D>ie saen m{et} he(m) w[er]t gheladen 
+294 <S>ond[er] last oft poent va(n) scaden
+295 <E>n(de) sond[er] enege no{et} : 296 <M>oeste sine soege(n) en(de) bade(n) 
+297 <D>ie alle di(n)c mach versaden
+298 <E>n(de) houde(n) i(n) hare(n) scoet : 299 <D>ats hare n%iet% e(n) v[er]d%ro%et
 300 <A_1>lgeheel en(de) altemale 
-<R>uste i(n) d[er] mag{et} sale : <G>ods sone en(de) gods ki(n)t 
-<A>lgeheel oec also wale : <W>as hi i(n) des vad[er]s sale
+301 <R>uste i(n) d[er] mag{et} sale : 302 <G>ods sone en(de) gods ki(n)t 
+303 <A>lgeheel oec also wale : 304 <W>as hi i(n) des vad[er]s sale
 305 <M>et he(m) een i(n)twifels twi(n)t : 
-<D>ie menscheit dans gheene hale 
-<E>n(de) beslo{et} n%iet% i(n) in linkermarge bijgeschreven dese(n) dale : <D>ie godh%eit% diet al bi(n)t
-<D>ie godh%eit% e(n) heeft gheene pale
+306 <D>ie menscheit dans gheene hale 
+307 <E>n(de) beslo{et} n%iet% i(n) in linkermarge bijgeschreven dese(n) dale : 308 <D>ie godh%eit% diet al bi(n)t
+309 <D>ie godh%eit% e(n) heeft gheene pale
 310 <M>a[er] me(n)sch%eit% o(n)tfi(n)c hi[er] tale
-<G>od diet al mi(n)t : <J>n he(m) d{us} eest bekint
-<E_1>ue(n) geweldech en(de) here
-<W>as hi en(de) blijft e(m)m[er]meere : 315 <D>e vad[er] i(n)d[er] godh%eit% 
-<M>a[er] eest d{at} men ter mensch%eit% keere
-<S>o was hi mi(n)d[er] vele seere
-<N>a de me(n)schelech%eit% : <N>a die godh%eit% sp[re]ct mij(n) leere
-320 <S>o was onst[er]flec sij(n) ere : <D>it was een bescheit
-<D>e me(n)scheit doechde vele meere
-<G>heessele nagele en(de) ts{per}e : <D>e doot en(de) a(n)d[er] leit
+311 <G>od diet al mi(n)t : 312 <J>n he(m) d{us} eest bekint
+313 <E_1>ue(n) geweldech en(de) here
+314 <W>as hi en(de) blijft e(m)m[er]meere : 315 <D>e vad[er] i(n)d[er] godh%eit% 
+316 <M>a[er] eest d{at} men ter mensch%eit% keere
+317 <S>o was hi mi(n)d[er] vele seere
+318 <N>a de me(n)schelech%eit% : 319 <N>a die godh%eit% sp[re]ct mij(n) leere
+320 <S>o was onst[er]flec sij(n) ere : 321 <D>it was een bescheit
+322 <D>e me(n)scheit doechde vele meere
+323 <G>heessele nagele en(de) ts{per}e : 324 <D>e doot en(de) a(n)d[er] leit
 325 <T>cruce en(de) der ioden pleit
 
 &219va& 
@@ -317,9 +317,9 @@ loeue sp[re]ct so willickene hier setten
 <D>a[er] si die gene wilde v[er]blide(n)
 <D>ie de duuel bant
 335 <A>y hoe si gode benediden
-<D>e heilege(n) diene saghe(n) striden
-<J>ege(n) des duuels b%ra%nt t superscript toegevoegd : <D>a[er] hise vte gep%ra%nt
-<D_1>e godh%eit% wecte van doode te liue
+336 <D>e heilege(n) diene saghe(n) striden
+337 <J>ege(n) des duuels b%ra%nt t superscript toegevoegd : 338 <D>a[er] hise vte gep%ra%nt
+339 <D_1>e godh%eit% wecte van doode te liue
 340 <T>vleesch dat hi va(n) de(n) reine(n) wiue
 <V>rouwen marien nam
 <H>i t%ro%este sine lieue catiue
@@ -351,9 +351,9 @@ loeue sp[re]ct so willickene hier setten
 <T>e consacreerne i(n) priesters ha(n)de 
 <W>ie es dieselke gaue becande
 370 <O>cht betere ochte also goet
-<A>y god nu brec onse bande
-<E>n(de) v[er]gef o(n)s dine a(n)de : <E>n(de) dine(n) evele(n) mo{et}
-<D>at onse mo(n)t en(de) onse tande
+371 <A>y god nu brec onse bande
+372 <E>n(de) v[er]gef o(n)s dine a(n)de : 373 <E>n(de) dine(n) evele(n) mo{et}
+374 <D>at onse mo(n)t en(de) onse tande
 375 <S>make(n) moeten sond[er] scande
 <D>ij(n) vleesch en(de) dij(n) heilech bloet
 <D>at wt dijnre siden woet
@@ -363,13 +363,13 @@ loeue sp[re]ct so willickene hier setten
 <W_1>t dese(n) sone wt dese(n) wonden
 <W>ies godh%eit% nieme(n) e(n) ca(n) gegro(n)de(n)
 380 <N>och wies me(n)schelecheit
-<S>oe vloyen en(de) begonden
-<D>e sac%ra%me(n)te die sto(n)de(n) : <E>n(de) alle salech%eit% 
-<N>v hebbic v tgeloeue ontbo(n)de(n)
+381 <S>oe vloyen en(de) begonden
+382 <D>e sac%ra%me(n)te die sto(n)de(n) : 383 <E>n(de) alle salech%eit% 
+834 <N>v hebbic v tgeloeue ontbo(n)de(n)
 385 <S>o ic naest hebbe ondervo(n)de(n) 
-<N>a miere mogentheit
-<D>ie dit geloeue vaste ernaast geschreven orconden 
-<A>fla{et} g%ro%t va(n) hare(n) so(n)de : <E>s hen altoes «gereit» 
+386 <N>a miere mogentheit
+387 <D>ie dit geloeue vaste ernaast geschreven orconden 
+388 <A>fla{et} g%ro%t va(n) hare(n) so(n)de : 389 <E>s hen altoes «gereit» 
 390 <O>p dat me(n) da[er] i(n) volsteit 
 <I_1>acob du berechts mi scone
 <B>erecht mi ertussen geschreven nv vande(n) {per}sone
@@ -394,13 +394,13 @@ loeue sp[re]ct so willickene hier setten
 <W>ie caent gegronde(n) wie
 <C>o(m)t die geest die suete guere
 <D>ie reine godh%eit% en(de) die puere
-415 <H>i[er] op p[ro]eft en(de) sie : <M>{et} h[er]te(n) en(de) dies gie
-<D_1>its die t%ro%est die alre meeste
-<H>en die arm sij(n) va(n) geeste
-<L>e[er]t hi blide sij(n) : 420 <H>i es i(n) pine(n) altoes feeste
-<H>i do{et} menege(n) die was beeste
-<S>uu[er] wese(n) en(de) fij(n) : <W>ape(n) god die d{at} v[er]heeste
-<D>at hi va(n) sinen volleeste
+415 <H>i[er] op p[ro]eft en(de) sie : 416 <M>{et} h[er]te(n) en(de) dies gie
+417 <D_1>its die t%ro%est die alre meeste
+418 <H>en die arm sij(n) va(n) geeste
+419 <L>e[er]t hi blide sij(n) : 420 <H>i es i(n) pine(n) altoes feeste
+421 <H>i do{et} menege(n) die was beeste
+422 <S>uu[er] wese(n) en(de) fij(n) : 423 <W>ape(n) god die d{at} v[er]heeste
+424 <D>at hi va(n) sinen volleeste
 425 <G>hesmaecte een dropelkijn
 <D>ie ware gode dalre neeste
 <N>egeene vrese van te(m)peeste
@@ -424,39 +424,39 @@ loeue sp[re]ct so willickene hier setten
 <D>it arme erdsche dal
 <D_1>its svad[er]s en(de) des soens minne
 <D>its caritate daer altoes inne
-445 <R>ust de t%ri%niteit : <D>its die d[er] {pro}ph[et]en si(n)ne 
-<L>e[er]de en(de) maecte i(n) inne 
-<D>es gods soens menschelecheit
-<E>n es co(ninc) no co(nin)gi(n)ne : 450 <D>ie e(m)m[er]me[er] af la{et} «gewi(n)ne»
-<V>an siere onsalecheit
-<H>ine hebbe ene(n) trae(n) al ware hi di(n)ne
-<V>a(n) dese(n) dauwe tsine(n) beghinne
-<A>l wel varen es ontseit
+445 <R>ust de t%ri%niteit : 446 <D>its die d[er] {pro}ph[et]en si(n)ne 
+447 <L>e[er]de en(de) maecte i(n) inne 
+448 <D>es gods soens menschelecheit
+449 <E>n es co(ninc) no co(nin)gi(n)ne : 450 <D>ie e(m)m[er]me[er] af la{et} «gewi(n)ne»
+451 <V>an siere onsalecheit
+452 <H>ine hebbe ene(n) trae(n) al ware hi di(n)ne
+453 <V>a(n) dese(n) dauwe tsine(n) beghinne
+454 <A>l wel varen es ontseit
 455 <D>aer dese sijn ongereit
-<D_1>ese leerde den ap(oste)l(e)n te waren
-<A>lle tongen die doe waren
-<J>n de w[er]elt b[re]yt : <D>ese gaf de(n) m[ar]telare(n) 
+456 <D_1>ese leerde den ap(oste)l(e)n te waren
+457 <A>lle tongen die doe waren
+458 <J>n de w[er]elt b[re]yt : 459 <D>ese gaf de(n) m[ar]telare(n) 
 460 <D>at si co(n)ste(n) sonder mesbaren
-<D>oegen lief en(de) leit
-<D>ese ca(n) de si(n)ne v[er]clare(n) : <D>ie hen n superscript erbij geplaatst m{et} so(n)de(n) v[er]«vare(n)»
-<E>n(de) tcoude maken heit
+461 <D>oegen lief en(de) leit
+462 <D>ese ca(n) de si(n)ne v[er]clare(n) : 463 <D>ie hen n superscript erbij geplaatst m{et} so(n)de(n) v[er]«vare(n)»
+464 <E>n(de) tcoude maken heit
 465 <S>ine(n) lieuen sinen caren
-<D>eilt hi sonder enech sparen
-<D>at godleke cleit : <D>{at} ne(m)m[er]me[er] e(n) v[er]geit
-<W_1>at hulpt m[er]ten sin en(de) tale 
+466 <D>eilt hi sonder enech sparen
+467 <D>at godleke cleit : 468 <D>{at} ne(m)m[er]me[er] e(n) v[er]geit
+469 <W_1>at hulpt m[er]ten sin en(de) tale 
 470 <D>ie begeuen mi altemale 
-<M>eer te sprekene voert
-<E>lc {per}soen verstant mi wale
-<E>s selue god so(n)d[er] hale : <V>a(n) d[ri]en da[er] me(n) «af ho[er]t»
+471 <M>eer te sprekene voert
+472 <E>lc {per}soen verstant mi wale
+473 <E>s selue god so(n)d[er] hale : 474 <V>a(n) d[ri]en da[er] me(n) «af ho[er]t»
 475 <D>och e(n) eest m[er] .i. die b[er]ch en(de) dale in linkermarge geschreven
-<G>hesciep . daer bi g%roe%t en(de) smale
+476 <G>hesciep . daer bi g%roe%t en(de) smale
 <T>ellen hi[er] af en(de) alle woert
 <N>eganc n%iet% ou[er] dese pale
 <H>oudt dit i(n) dijnre herte(n) sale
-480 <S>o e(n) w[er]tstu n%iet% v[er]smo[er]t : <J>n de helsche po[er]t
-<W_1>are oec ieme(n) die wed[er] sprake
-<D>it geloeue en(de) dese sake
-<H>i ware eweleke verdoemt
+480 <S>o e(n) w[er]tstu n%iet% v[er]smo[er]t : 481 <J>n de helsche po[er]t
+482 <W_1>are oec ieme(n) die wed[er] sprake
+483 <D>it geloeue en(de) dese sake
+484 <H>i ware eweleke verdoemt
 485 <R>echt wa[er]t dat me(n)ne i(n) de(n) b%ra%nt stake
 <E>n(de) in thelsche vier da[er] na rake
 <D>aer me(n) de(n) duuel in droemt

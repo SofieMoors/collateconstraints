@@ -1067,13 +1067,13 @@
 <V>an menscheliken ghedieden
 <S>i is die roofde ende stal/
 960 <D>ie siele int helsche dal:
-<D>ies lucifer begiede
-<D>at was sine mesmiede
-<D_1>atmen luttel trouwen vint
+961 <D>ies lucifer begiede
+962 <D>at was sine mesmiede
+924 <D_1>atmen luttel trouwen vint
 925 <A>en vrouwen dat claghe ick twint
-<B>y eenre manieren
-<W>ant wes men vele vint/
-<E>s onwaert ende onghemint
+926 <B>y eenre manieren
+927 <W>ant wes men vele vint/
+928 <E>s onwaert ende onghemint
 
 &23v&
 
@@ -1094,15 +1094,15 @@
 <H>i versoende den vader gram
 <H>i wijsde ons den wech en ten dam
 945 <T>otter hoogher eruen
-<S>elsender dinc noyt man vernam
-<D>an een maget god maecte so tam
-<D>at hi hem eenweruen.
-<D>oer ons hier liet bederuen:
+946 <S>elsender dinc noyt man vernam
+947 <D>an een maget god maecte so tam
+948 <D>at hi hem eenweruen.
+949 <D>oer ons hier liet bederuen:
 
 &24r&
 
-<I_1>acop du bist den vrouwen hout
-<D>u gheues den mannen al de scout 
+963 <I_1>acop du bist den vrouwen hout
+964 <D>u gheues den mannen al de scout 
 965 <I>ck wane ict best ghedoghe
 <I>ck vergheue al onghedout
 <A>lle vrouwen ionck ende out

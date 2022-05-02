@@ -150,8 +150,8 @@
 <N>ijt es weder en(de) voort
 <M>eest opt lant en(de) inde poort
 <T>folc es worden honde
-595 <T>e vragene benic becoort
-596 <B>ericht mi als diet gh[er]ne hoort
+596 <T>e vragene benic becoort
+595 <B>ericht mi als diet gh[er]ne hoort
 <E>n(de) gherne ond[er]uonde
 <V>an beghin te(n) gronde
 <M_2><E>rten houerde en(de) nijt
@@ -328,10 +328,10 @@
 
 &4ra&
 
-*<D>en liefsten die ...*
-<H>iertoe sijn si verdreuen
-<L>iecht mi n{iet} als een truwant
-<M>[aer] sech mi an welken cant
+86 *<D>en liefsten die ...*
+87 <H>iertoe sijn si verdreuen
+88 <L>iecht mi n{iet} als een truwant
+89 <M>[aer] sech mi an welken cant
 90 <D>ijn h[er]te es bleuen
 <E>n(de) welke*r* du liets sneuen
 <I_2>a*cop* dits geens vragens w[aer]t
