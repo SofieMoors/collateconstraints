@@ -27,7 +27,7 @@
 021 Eest blau grau swert oft wit
 022 Hets ghetrouwe als die sie
 023 Recht mā deluet sondʼ spit
-024 Hine heeft te poentē n gehit
+024 Hine heeft te poentē nꝫ gehit
 025 In ne ghene baelgie
 026 Mi es leet dat ic waer lie
 027 LAet ons merten ouer een
@@ -107,7 +107,7 @@
 095 lheit dʼ ōme green
 096 t wasdom wt scheen
 097  dꝫ comē mochte
-098 delhᵗ werdē steen
+098 delhᵃ werdē steen
 099  ontfermt dinc gheen
 100 men tgelt wt knochte
 101 eue hē den langhē weē
@@ -166,7 +166,7 @@
 151 Dattu hels aent legher boort
 152 Die paepen sullent smaeken
 153 Waerstu vʼbrant ofte vʼsmoort
-154 En gaeue om̄e dine ziele n .I. oort
+154 En gaeue om̄e dine ziele nꝫ .I. oort
 155 Men mach met sulken saeken
 156 Gode niet ghenaeken
 157 GOd en was noeyt moede no mat
@@ -314,13 +314,13 @@
 830 erlikē drinct en̄ et
 831 t welde begheuen
 832 u moets sneuen
-833 t en seggic dꝫ rijchᵗ sent
+833 t en seggic dꝫ rijchᵃ sent
 834 ie ziele int torment
 835 atment nut mꝫ rechte
 836 erst es vlien tserpent
 837 te wandelen dʼ omtrent
 838 i niet en beulecte
-839 hᵗ maect menegē blint
+839 hᵃ maect menegē blint
 840 i gode niet en kent
 841 eet hi vandē lechte
 842 wort vā leuene .I. rent
@@ -392,7 +392,7 @@
 902 Wilde hi der waerheit ghien
 903 Van datti dʼ toe taelde
 904 Wꝫ mogē vrouwē dꝫ māne plien
-905 Soe nauwe op hʼ scoenhᵗ sien
+905 Soe nauwe op hʼ scoenhᵃ sien
 906 Wie es diese dʼ toe haelde
 907 Wilde die clager te tide vlien
 908 Sone mocht hē niet messchiē
@@ -532,7 +532,7 @@ Dander merten
 057 Lietic al om̄e hare gaen
 058 Mochticse gewinnē
 059 Nochtan wetic sondʼ waen
-060 Dat si mijns n en acht I spaen
+060 Dat si mijns nꝫ en acht I spaen
 061 Mijn sin doet mi bekinnen
 062 Al souder die werelt om̄e vʼgaen
 063 Si en soude mi niet ontfaen
@@ -565,7 +565,7 @@ Dander merten
 090 Dijn herte es bleuen
 091 En̄ welke du liets sneuen
 092 IAcop dit en es geēs vragēs waert
-093 Die de wʼheit n en spaert
+093 Die de wʼheit nꝫ en spaert
 094 Heeft dit saen ontbonden
 095 Hets ēmer dʼ hʼten aert
 096 Dat si daer waert tijt en̄ vaert
@@ -615,7 +615,7 @@ Dander merten
 376 V vleeschs en̄ v bloet
 377 Dat wt dijnre siden woet
 378 VT desen sone en̄ wonden
-379 Wies godhᵗ niemē ...nē gegrōdē
+379 Wies godhᵃ niemē ...nē gegrōdē
 380 Noch wies menschelijcheit
 381 Si vloeydē yerst en̄ begonde
 382 Die sacramente tien stonden
@@ -678,8 +678,8 @@ Dander merten
 433 Soe wie geproeft wʼt hier aue
 434 Wat rijchedē mē hē gaeue
 435 Soude hem duncken smal
-436 Rijchᵗ die cō heeft ofte graeue
-437 Es tiendendeel n vā enē caeue
+436 Rijchᵃ die cō heeft ofte graeue
+437 Es tiendendeel nꝫ vā enē caeue
 438 Jeghen dit gheual
 439 ... die rust inden graeue
 440 Met deser edelheit soe laeu
@@ -736,7 +736,7 @@ Dander merten
 488 Hulpt god dat ic dʼ geraeke
 489 Dʼ ic sie ende smaeke
 490 Die godheit ongenoemt
-491 Sone trect mi n die helsche draeke
+491 Sone trect mi nꝫ die helsche draeke
 492 Met hē ter euweliker wraeken
 493 Dʼ niement wt en comt
 494 Wient scaet ofte vroemt

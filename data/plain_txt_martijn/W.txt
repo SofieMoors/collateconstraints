@@ -1,12 +1,12 @@
 
-Hier willic settē dē dʼdē boec vā wapen
-mʼten die iacob vā marlāt maecte . ō dꝫ hi vā dē ge-
-loeue spʼct so willickene hier setten
+001 Hier willic settē dē dʼdē boec vā wapen
+002 mʼten die iacob vā marlāt maecte . ō dꝫ hi vā dē ge-
+003 loeue spʼct so willickene hier setten
 001 Ic mane mannen metten wiuen
 002 Die dit gedichte lesen en̄ scriuen
 003 Op ten hoechsten ban
 004 Dat sijt reene laten bliuen
-005 En̄ siere nᵗ in en driuen
+005 En̄ siere nᵃ in en driuen
 006 Woert lettere af ochte an
 007 Doen sijt oec hen sal becliuen
 008 Mijn ban en̄ si en selēne af wriuē
@@ -24,7 +24,7 @@ loeue spʼct so willickene hier setten
 020 Jc lese somwile en̄ singhe
 021 Dat gode te kīnēne bi sinen gehīge
 022 Es leuen sonder ween
-023 Dit es waerhᵗ claer en̄ ginge
+023 Dit es waerhᵃ claer en̄ ginge
 024 Subtijl ware thʼte diet bevīge
 025 Wāt hoegher dinc en es negeen
 026 Nu antwerdt mi tusschē ōs tween
@@ -57,14 +57,14 @@ loeue spʼct so willickene hier setten
 050 Waer tgoꝫ ic soudʼ +di in marge om vloekē
 051 Jc wane dine herte meent
 052 Dattu mi heefs verbeent
-053 Iacob dune souts di nᵗ vʼgramē
+053 Iacob dune souts di nᵃ vʼgramē
 054 Jc souts mi ī mij̄ herte scamen
 055 Haddict ye gedocht
 056 Oec lye ics met di te samen
 057 Dat die hoecheit dʼ hoegʼ namē
-058 Te vʼre nᵗ en doech gesocht
+058 Te vʼre nᵃ en doech gesocht
 059 Al waert dat alle dīge quamē
-060 Sine cōstē de godhᵗ niet geramē
+060 Sine cōstē de godhᵃ niet geramē
 061 Dits elken afgecnocht
 062 Maʼ leere minē crankē sin +minē lamē minen: Toegevoegd in rechtermage.
 063 Ghewōdt metter sondē bramen
@@ -116,7 +116,7 @@ loeue spʼct so willickene hier setten
 109 Want hem en moeyt rustē no iagē
 110 Sijn wesen es soe vast
 111 Butē al en̄ ē breidt niewerīc sij̄ dagē
-112 Wāt hi es al sōdʼ vᵘgē : 113 Weʼt voecht en̄ nᵗ gast
+112 Wāt hi es al sōdʼ vᵃgē : 113 Weʼt voecht en̄ nᵃ gast
 114 Binnē al en̄ veruullet iegē plagen
 115 Dat sine dinc met geenen vlagen
 116 En si ōgerast : 117 No gequetst enen bast
@@ -168,25 +168,25 @@ loeue spʼct so willickene hier setten
 165 Vīt mē ī die mēschelecheit
 166 Die dese note wel can craken
 167 Hine derft beidē no haken
-168 Hine vīt ī ene godhᵗ : Dʼe ꝑsone gereit
+168 Hine vīt ī ene godhᵃ : Dʼe ꝑsone gereit
 170 Dese god daer wi af leerē
 171 Doet thᵒen stʼren en̄ sōne keerē
 172 En̄ al dat ruerende si
 173 Nochtā sij̄ rustē es so vol eeren
-174 Dat hē nᵗ ē can gederen
+174 Dat hē nᵃ ē can gederen
 175 Gheen porrē vʼre ofte bi
 176 Hi es dat hi was dās gheen schʼen
 177 Hine mach mīdʼen no meerē
 178 Hi es sij̄s selues vri
 179 Hi doꝫ hare alle dīc generē
-180 Sine rijchᵗ en can niemē vʼteren
+180 Sine rijchᵃ en can niemē vʼteren
 181 Alle dīc vʼuult hi
 182 Dus leeret tgeloeue mi
 183 Gode ē beslut geene stede
 184 Maʼ alle stede beslut hi mede
 185 Jn sij̄re godlecheit
 186 De iare keʼt sij̄ mogenthede
-187 En̄ nᵗ en es dꝫ hē kerē dede
+187 En̄ nᵃ en es dꝫ hē kerē dede
 188 Sine macht es so breit
 189 Cracht noꝫ noch geen ōvʼde
 190 En mach hē doen ōledechede
@@ -216,11 +216,11 @@ loeue spʼct so willickene hier setten
 212 Es euen geweldech en̄ euē scone
 213 Euē gelijc in werelt in thᵒene
 214 Sijn dese enege drie
-215 Redene dᵘecht hier nᵗ die cᵒene
+215 Redene dᵃecht hier nᵃ die cᵒene
 216 Maʼ tgeloeue sonder hoenne
 217 Dat en twiuelde nie
 218 Wat eerē hadde wijs oft wat loēne
-219 Dat wi die nᵗ en dogen ene boēne
+219 Dat wi die nᵃ en dogen ene boēne
 220 Geloefde dꝫ elc sie : Nu ātwʼdt mi en̄ gie
 221 Iacob ic lie ten beghinne
 222 Dat ic subtijlre dinc vā sinne
@@ -258,7 +258,7 @@ loeue spʼct so willickene hier setten
 252 Daer wise ōme benedien : 253 Dꝫ si gestʼcke ōse dīc
 254 En̄ moete clarē en̄ wiē : 255 Dinē sin en̄ vā sōdē vʼen
 256 Dat thʼte si sondʼ wīc : 257 Vā alre dorpernien
-258 En̄ du ē moet mi oec nᵗ tien : 259 Dꝫ ic di te na gīc
+258 En̄ du ē moet mi oec nᵃ tien : 259 Dꝫ ic di te na gīc
 260 Maer minen wille volbrinc
 261 MErtē die val vā lufʼe : 262 Dʼ houʼdē en̄ des nijts hʼe
 263 Die was also gᵒt : 264 Dꝫ vele īgele ōtgoudē sere
@@ -269,10 +269,10 @@ loeue spʼct so willickene hier setten
 271 Der ingele stoel en̄ vort meere
 272 Nuttē themelsche bʼet : 273 Sōdʼ wedʼ stoet
 274 Dit heeft de duuel vernomen
-275 En̄ es totʼ mēschᵗ comē : 276 Spʼkēde ī tserpēt
+275 En̄ es totʼ mēschᵃ comē : 276 Spʼkēde ī tserpēt
 277 En̄ heeft tōser ōvʼmē : 278 Onse vordʼs doē vʼdoemē
 279 En̄ swaʼlike gescēt : 280 Dit was sij̄ sōdʼlīge beroemē
-281 Dat hi algadʼ nᵗ hen soemē : 282 Dꝫ volc heeft vʼblēt
+281 Dat hi algadʼ nᵃ hen soemē : 282 Dꝫ volc heeft vʼblēt
 283 Dus wilde hi vtē hemele droemē
 284 Om dꝫ ons die hemelsche bloemen
 285 Niet ē soudē wʼdē bekēt : 286 Daʼ hi af was otwēt
@@ -284,21 +284,21 @@ loeue spʼct so willickene hier setten
 294 Sondʼ last oft poent vā scaden
 295 En̄ sondʼ enege noꝫ : 296 Moeste sine soegē en̄ badē
 297 Die alle dīc mach versaden
-298 En̄ houdē ī harē scoet : 299 Dats hare nᵗ ē vʼdᵒet
+298 En̄ houdē ī harē scoet : 299 Dats hare nᵃ ē vʼdᵒet
 300 Algeheel en̄ altemale
 301 Ruste ī dʼ magꝫ sale : 302 Gods sone en̄ gods kīt
 303 Algeheel oec also wale : 304 Was hi ī des vadʼs sale
 305 Met hē een ītwifels twīt :
 306 Die menscheit dans gheene hale
-307 En̄ besloꝫ nᵗ ī in linkermarge bijgeschreven desē dale : 308 Die godhᵗ diet al bīt
-309 Die godhᵗ ē heeft gheene pale
-310 Maʼ mēschᵗ ōtfīc hiʼ tale
+307 En̄ besloꝫ nᵃ ī in linkermarge bijgeschreven desē dale : 308 Die godhᵃ diet al bīt
+309 Die godhᵃ ē heeft gheene pale
+310 Maʼ mēschᵃ ōtfīc hiʼ tale
 311 God diet al mīt : 312 Jn hē dꝰ eest bekint
 313 Euē geweldech en̄ here
-314 Was hi en̄ blijft ēmʼmeere : 315 De vadʼ īdʼ godhᵗ
-316 Maʼ eest dꝫ men ter menschᵗ keere
+314 Was hi en̄ blijft ēmʼmeere : 315 De vadʼ īdʼ godhᵃ
+316 Maʼ eest dꝫ men ter menschᵃ keere
 317 So was hi mīdʼ vele seere
-318 Na de mēschelechᵗ : 319 Na die godhᵗ spʼct mij̄ leere
+318 Na de mēschelechᵃ : 319 Na die godhᵃ spʼct mij̄ leere
 320 So was onstʼflec sij̄ ere : 321 Dit was een bescheit
 322 De mēscheit doechde vele meere
 323 Gheessele nagele en̄ tsꝑe : 324 De doot en̄ ādʼ leit
@@ -306,7 +306,7 @@ loeue spʼct so willickene hier setten
 
 
 
-326 De mēschᵗ liet hare besindē
+326 De mēschᵃ liet hare besindē
 327 Doepen proeuē ī dien tiden
 328 Van den ouden viant
 329 Si liet hare vaen en̄ beniden
@@ -317,8 +317,8 @@ loeue spʼct so willickene hier setten
 334 Die de duuel bant
 335 Ay hoe si gode benediden
 336 De heilegē diene saghē striden
-337 Jegē des duuels bᵘnt t superscript toegevoegd : 338 Daʼ hise vte gepᵘnt
-339 De godhᵗ wecte van doode te liue
+337 Jegē des duuels bᵃnt t superscript toegevoegd : 338 Daʼ hise vte gepᵃnt
+339 De godhᵃ wecte van doode te liue
 340 Tvleesch dat hi vā dē reinē wiue
 341 Vrouwen marien nam
 342 Hi tᵒeste sine lieue catiue
@@ -360,10 +360,10 @@ loeue spʼct so willickene hier setten
 
 
 378 Wt desē sone wt desē wonden
-379 Wies godhᵗ niemē ē cā gegrōdē
+379 Wies godhᵃ niemē ē cā gegrōdē
 380 Noch wies mēschelecheit
 381 Soe vloyen en̄ begonden
-382 De sacᵘmēte die stōdē : 383 En̄ alle salechᵗ
+382 De sacᵃmēte die stōdē : 383 En̄ alle salechᵃ
 834 Nv hebbic v tgeloeue ontbōdē
 385 So ic naest hebbe ondervōdē
 386 Na miere mogentheit
@@ -392,7 +392,7 @@ loeue spʼct so willickene hier setten
 411 Wt desen dobbelen gods dure
 412 Wie caent gegrondē wie
 413 Cōt die geest die suete guere
-414 Die reine godhᵗ en̄ die puere
+414 Die reine godhᵃ en̄ die puere
 415 Hiʼ op pʼeft en̄ sie : 416 Mꝫ hʼtē en̄ dies gie
 417 Dits die tᵒest die alre meeste
 418 Hen die arm sij̄ vā geeste
@@ -406,7 +406,7 @@ loeue spʼct so willickene hier setten
 428 Noch negeen venijn
 429 En scaedde dʼ sielen sijn
 430 Dits svadʼ en̄ tsoens gaue
-431 Rijchᵗ bouē alle haue
+431 Rijchᵃ bouē alle haue
 432 Fonteine des leuens al
 433 Wie dat geport wʼt hier aue
 
@@ -414,8 +414,8 @@ loeue spʼct so willickene hier setten
 
 434 Wat rijcheidē men hē gaue
 435 Souden hē duncken smal
-436 Rijcheit die conīc heeft of gᵘue
-437 En es tiendēdeel nᵗ vā enē caue
+436 Rijcheit die conīc heeft of gᵃue
+437 En es tiendēdeel nᵃ vā enē caue
 438 Gheprijst iegen dit geval
 439 Jhesus die ruste inden graue
 440 Met deser edelheit so laue
@@ -448,15 +448,15 @@ loeue spʼct so willickene hier setten
 472 Elc ꝑsoen verstant mi wale
 473 Es selue god sōdʼ hale : 474 Vā dʼen daʼ mē «af hoʼt»
 475 Doch ē eest mʼ .i. die bʼch en̄ dale in linkermarge geschreven
-476 Ghesciep . daer bi gt en̄ smale
+476 Ghesciep . daer bi gᵒt en̄ smale
 477 Tellen hiʼ af en̄ alle woert
-478 Neganc nᵗ ouʼ dese pale
+478 Neganc nᵃ ouʼ dese pale
 479 Houdt dit ī dijnre hertē sale
-480 So ē wʼtstu nᵗ vʼsmoʼt : 481 Jn de helsche poʼt
+480 So ē wʼtstu nᵃ vʼsmoʼt : 481 Jn de helsche poʼt
 482 Ware oec iemē die wedʼ sprake
 483 Dit geloeue en̄ dese sake
 484 Hi ware eweleke verdoemt
-485 Recht waʼt dat mēne ī dē bᵘnt stake
+485 Recht waʼt dat mēne ī dē bᵃnt stake
 486 En̄ in thelsche vier daʼ na rake
 487 Daer mē dē duuel in droemt
 488 Helpt mi god dꝫ ic daer gerake
@@ -465,7 +465,7 @@ loeue spʼct so willickene hier setten
 
 
 
-491 So ē tᵉct mi die helsche drake
+491 So ē tᵃct mi die helsche drake
 492 Niet ter eweliker wrake
 493 Daer niemen vte en coemt
 494 Wien dat scaedt ofte vroemt

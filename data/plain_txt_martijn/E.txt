@@ -14,19 +14,19 @@
 383 Pintti te doene datte
 384 Dꝫ hē lief es en̄ hi heet
 385 Wes vromich en̄ ō dogꝫ zweet
-386 Dꝫ men dy n en matte
+386 Dꝫ men dy nꝫ en matte
 387 Ondʼ der ydeldʼ gloriē cleet
 388 Daʼ die meneghe mꝫ ōme gheet
 389 Wāt haʼe tonghe platte
 390 Smeltē als snee clatte
 391 Ere te hebbē es ene dinc
 392 Daʼ noy hʼte mꝫ ōme ghinc
-393 Sine w vā reynē arde
+393 Sine wꝰ vā reynē arde
 394 Bestu out oft iongelinc
 395 Doet altoes wel dwinc
 396 Dij̄re hʼten houerde
 397 Prijs die in loddʼs tōghe hinc
-398 W noit wʼt eēdʼ oghēwinc
+398 Wꝰ noit wʼt eēdʼ oghēwinc
 399 Ondʼ die goede wʼde
 400 Onwʼdeghē lof vliet en̄ ōtsprīc
 401 Die meneghē vaet en̄ wilē vinc
@@ -44,12 +44,12 @@
 413 Dese scuwē dʼ erē pat
 414 Wāt so moet int helsce vat
 415 Salomoē heuet bescreuē
-416 En es n arghers bleuen
+416 En es nꝫ arghers bleuen
 
 
 
 417 DIe derde mīne eyscht dē tijt
-418 Alse bi naturen elc ontb
+418 Alse bi naturen elc ontbꝫ
 419 Die bloyende iare
 420 Dꝫs dꝫ edelste delijt
 421 Alse haʼ scamelheit besnijt
@@ -67,7 +67,7 @@
 433 Dattie mīne hetet blint
 434 Comt dꝫ menich es so kint
 435 Dꝫti hē laet vʼspanen
-436 Sine cōnē mīnē n eē twīt
+436 Sine cōnē mīnē nꝫ eē twīt
 437 Die wandel sij̄ als die wint
 438 Si rollē butē banen
 439 Ic wane mē also vele vint
@@ -114,7 +114,7 @@
 477 Dv best dʼ weʼlt scame
 478 Die edele heuet al tgecri
 479 Mē seit willecome ghy
-480 Dit doet dꝫ ic my vergᵘme
+480 Dit doet dꝫ ic my vergᵃme
 481 Wāt het dinct my ontame
 482 Mertē menich es bedect
 483 Die dīc daʼ sij̄ sin op mect
@@ -133,7 +133,7 @@
 496 Comē es vādē quadē caȳ
 497 Die vʼmorde abʼlle
 498 En̄ die god vʼdoēt hiet sij̄
-499 Dit nes n waʼ mertijn
+499 Dit nes nꝫ waʼ mertijn
 500 Bi rededenē die ic telle
 501 Wāt ōs seit die bibele fij̄
 502 Dꝫ al dꝫ gheslechte sij̄
@@ -217,7 +217,7 @@
 333 Redene heeft mine waē ōmaer
 334 Dꝫ hebbic ondervonden
 335 Nv moet ōs god brīghē daer
-336 Daʼ mīne n en int haʼ iaer
+336 Daʼ mīne nꝫ en int haʼ iaer
 337 Enten lesten stonden
 338 Vrien mꝫ sinē wonden
 339 Den derden bouc
@@ -225,7 +225,7 @@
 002 Die dit lesē oft scriuen
 003 Opten hoechsten ban
 004 Dꝫ sijt reine latē bliuē
-005 En̄ zieʼ n toe en driuen
+005 En̄ zieʼ nꝫ toe en driuen
 006 Wort lʼrē af noch an
 007 Doē sijt oec hē sal becliuē
 008 Minē ban sine selē af wriuē
@@ -252,7 +252,7 @@
 119 Diē wi vadʼ en̄ sone meenē
 120 Entē heyleghē gheest
 121 Wet wel dꝫ wine ghenē
-122 So gt noemē no so clenē
+122 So gᵒt noemē no so clenē
 123 Dꝫter ieghē es meest
 124 Enē god segghē wi enē renē
 125 Noch vʼuoegdē noch vʼbenē
@@ -271,17 +271,17 @@
 138 D...t desē comē ōtdoet dij̄ orē
 139 D...e mensche en̄ sinē sin
 141 Wāt al hadt die weʼlt gezworē
-140 En latet tgeloue n testoren
+140 En latet tgeloue nꝫ testoren
 141 Sine condē ō gheē ghewin
 142 Ghegrondē meer no min
 143 Eer achtʼ tijt oft stonde
 145 Dꝫ vʼstaet vut minē mōde
-146 En w noit an dese drie
+146 En wꝰ noit an dese drie
 147 Dē vadʼ settē wi als te grōde
 148 Daʼ alle doget vut begonde
 149 Diemē vʼsta oft sie
 150 Dē sone als wijsheit diet al cōde
-151 Des vadʼs claerhᵗ en̄ sij̄ orcōde
+151 Des vadʼs claerhᵃ en̄ sij̄ orcōde
 152 Die vā hē en sceeden nie
 153 Die vādē heyleghē geest ōtbōdē
 154 Haʼe beedʼ mīne hi daʼ ī vōden

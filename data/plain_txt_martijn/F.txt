@@ -142,7 +142,7 @@
 131 MErten nv berecht mi dies
 132 Berecht oft .I. god die nye en «wies»
 133 Maecte alle creatueren
-134 Twij heeft die qᵘde dan den kies
+134 Twij heeft die qᵃde dan den kies
 135 Entie goede valt int verlies
 136 Wie saelt voir recht cueren
 137 Mijn sin zeyt mi als een ries
@@ -220,7 +220,7 @@
 203 Langher dan siin lijf es breet
 204 Twij torment hine met slagen
 205 Eeuwelijc sonder verscheet
-206 Dit en schijnt te pointe n geleet
+206 Dit en schijnt te pointe nꝫ geleet
 207 Dordeel. dorst ics ghewagen
 208 Al en weet is wien claghen
 209 Iacob die alle herten kent
@@ -549,11 +549,11 @@
 505 Dat caym droech es noch aēschij̄
 506 Aen meneghen die ic telle
 507 Van herten siin gheselle
-508 SElc waent dat volc vādē qᵘdē cā
+508 SElc waent dat volc vādē qᵃdē cā
 509 Dies noe siin vader was grā
 510 Om dat hine niet en decte
 511 Dat eyghen volc van hem quam
-512 Wāt hem des tfuaders vloec mesqᵘm
+512 Wāt hem des tfuaders vloec mesqᵃm
 513 Hii doelde diere op mecte
 514 Al vintmen dattie goede ram
 515 Dicke wint dongaue lam
@@ -1487,8 +1487,8 @@ Hier begint den derden boeck.
 056 Oec ly ic metti te samen
 057 Dat die hoecheyt dʼ hoger namē
 058 Te verre en doech ghesocht
-059 Al waert dat alle dingen qᵘmen
-060 Sine conden die godheid n geha«mē»
+059 Al waert dat alle dingen qᵃmen
+060 Sine conden die godheid nꝫ geha«mē»
 061 Dits al aff gheknocht
 062 Maer leere minē cranckē sin lamē
 063 Ghewont metter sonden bramen
@@ -1837,7 +1837,7 @@ Hier begint den derden boeck.
 379 Wies godheyt niement can gegrondē
 380 Noch wies menschelicheyt
 381 Soe vloeyende begonde
-382 Die sacᵘmentē tien stonde
+382 Die sacᵃmentē tien stonde
 383 Ende alle zalicheyt
 384 Nu heb ic v tgheloeue ontbonden
 385 Soe ic naest hebbe ondervonden
@@ -1894,7 +1894,7 @@ Hier begint den derden boeck.
 433 Soe wie gheport wʼt hier aue
 434 Wat rijcheit men hem gaue
 435 Soude hem dunckē wesen smal
-436 Rijcheit die coninc heeft oft gᵘue
+436 Rijcheit die coninc heeft oft gᵃue
 437 En es tiendendeel niet vā eenē caue
 438 Ghemaect yeghen dit gheual
 439 Jh̄us die ruste inden graue

@@ -646,7 +646,7 @@
 
 
 565 Dese twee en hout niet voer scherē.
-566 Wes neerachtich. minne n dꝫ gout
+566 Wes neerachtich. minne nꝫ dꝫ gout
 567 Wes eerachtich menichfout
 568 Die sijn al vol eeren.
 569 Ten is oeck nyemant ionck of out.
@@ -1033,7 +1033,7 @@
 902 Wil hy der waerheyt ghien.
 903 Dat hi daer toe taelde/
 904 Wat mogens vrouwē dꝫ mānē pliē
-905 Soe nauwe om haer schoenh spiē.
+905 Soe nauwe om haer schoenhꝫ spiē.
 906 Wie is diese toe haelde
 907 Wilde die clagher te tijde vlien
 908 Soe en mocht hem niet misschien
