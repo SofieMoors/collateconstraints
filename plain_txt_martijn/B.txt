@@ -1,579 +1,1957 @@
 
-Waer hi daer mede gewont
-Hine wʼ niet in elenden
-Mʼ god en wilde dē rikē vont
-Ghenē sondare genē hont
-360 Nēmermeʼe toe sinden
-Dꝫ edele gaue dꝫ diʼe pont
-Smaect alleē dʼ vriēde mōt
-Mē mach hʼ lijf doē enden
-En̄ n de ziele scendē
-365 Dandʼ mīne es ōbehoet
-Wāt si staet na dertsche goet
-En̄ omder werelt eere.
-Dats de minne die dicke doet
-Riddʼscap wesen uʼwoet
-370 En̄ dē woekenere
-Wāt de riddʼ n roect
-Hine uʼslijt vleesch en̄ bloet
-Op dꝫ sijn prijs meere
-Dandʼ al wʼ gelt de vloet
-375 En̄ hē vloide indē mont
-Hē soude alsoe zeere
-Dorstē alst dede eere
-Dese heuꝫ ondʼsceet
-Vā hē die omde eʼe steet
-380 En̄ om dʼ wlt scatte
-Wiltu eʼe hebbē wes gereet
-Te latē dꝫ gode es leet
-Pijndi te doene datte
-Dꝫ hem lief es en̄ hi di heet
-385 Wes vrome om dogꝫ sweet
-Dꝫmē di niet en matte
-Ondʼ dʼ ydelre gloriē cleet
-Daer de menege mꝫ ōme geet
-Wāt haer tonge platte
-390 Smeltē alse sneeclatte
-Eere te pᶦsen es eē dinc
-Dʼ noit hʼte mꝫ ōme ginc
-Sine w van reynē ʼ
-Bestu man of iongelinc
-395 Doe altoes wel en̄ dwinc
-Dijnre hʼtē houerde
-Prijs die in loddʼs tonge hinc
-Was noit wert eenre ogen winc
-Onder die goede werde
-400 Ø
+001 Waphene martin hoe salt gaē
+002 Sal de weʼlt yet lang staen
+003 In dus cranckē loue
+004 So moet mijn vrauwe ere zaē
+005 Sondʼ twiuel en̄ waen
+006 Rumen heren houe
+007 Ic sie die valsche wel ontfaen
+008 Die de heren connē dʼstaen
+010 Ende plockē vandē stoue
+011 En̄ ic sie den rechten slaen
+012 Bede bespotten en̄ vaen
+013 Als die meze in de cloue
+014 Recht offen god vʼscoue
+015 Hoe lang sal hi doghen dit
+015 God die alle dinc besit
+016 In sijn heerscepie
+017 Dat die guede fleut en̄ bidt
+018 Ende hem dooch dat noch dit
+019 Dat hi yet ghedie
+020 Al wairtet indē helschē pit
+021 Eist graeu blaeu zwart off wit
+022 Tes ghetrauwe als die zie
+023 Recht als een man deluet sondʼ spit
+024 Hien heeft te punte niet ghehit
+025 Inne ghene talie
+026 Mi es leet dat ic wair lie
+027 Laet ons martijn ouer een
+028 Hier of spreken ondʼ ons tween
+029 In dit dyaloghe
+030 Wanē eerst quam dese ween
+031 Die wilen so ontwert sceen
+032 Ende nv sit so hoghe
+033 Ic sal di vraghen en̄ vleen
+034 Ende antwʼt mi ja of neen
+035 Van dat ic di betoghe
+036 Ledicheit es vrome ne gheen
+037 Arbeit vint vier indē steen
+038 Dair bi ontsteict dat droghe
+039 Nu spreect en̄ ic ghedoghe
+040 Sprekē iacop lieue cōpaen
+041 Wair soude ic dat hebbē vʼstaen
+042 Dat ic dair toe dochte
+043 Te vʼclarē dinē waen
 
 
 
-Die menege vaet en̄ wilē vine
-Die dat wort begherde
-En̄ dꝫ weldoē spaerde
-Goet te hebbē ende scat
-405 en̄ tamelijc te nuttē dat
-Dꝫs eē salich leuen
-Mʼ gods mīne maect eē gat
-Dꝫ nēmermeere mach wʼdē sat
-Al wilde mēt hʼ al geuē
-410 Mīne vā gode es gehadt
-Vor God inde hoghe stat
-Dʼ die ingele beuen
-Dese scuwē dʼ eʼen pat
-Wāt si moet int helsche vat
-415 Salamoē heuꝫ bescreuē
-En es n argers bleuen
-DIe dʼde mīne eyscht dē tijt
-Alse bi natuerē elc ōtbeit
-Die bloiende iare
-420 Dꝫs de edelste delijt
-Alse hʼ scamelhᵗ besnijt
-En̄ mē dogꝫ heuꝫ mare
-Diemē vint tʼ wlt wijt
-Wāt si taldʼ stont vʼblijt
-425 Ghelijc oft al hʼ ware
-Hʼ hope nēmermeʼe gelijdt
-Die aldꝰ sijn lijf vʼslijt
-Maect sine ziele clare
-En̄ en es geē futselare
-430 Minne es alsmē bescreuen vīt
-Cracht die .ij. hʼtē tsamē bīt
-In eenē reynē wane
-Dꝫte mīne hetet blint
-Cōt dꝫ menege es soe kīt
-435 Dꝫti hē laet uʼspanenē
-Sine cōnē mīnē n eē twīt
-Die wādel sij̄ als de wīt
-Si rollē buten banen
-Ic waē mʼ soe vele vīt
-440 Mīners in trouwen gehinct
-Alse doet zwart swanē
-Dus laet haer minne af planen
-Merten du heues berecht
-Het seit heere ende knecht
-Vrouwen ende ioncvrouwen
-ʼ het einde van fol. 1, col. 2, staat er een regel met de woorden 'Vrouwen ende ioncvrouwen’.
+044 Die mit twiuele ware beuaen
+045 Dats dat ic niet en vʼmochte
+046 Doch en wille ic niet ontgaen
+047 Ic en wille dine beide ontfaen
+048 Die dit ane mi besochte
+049 God sende my den hemelschē traen
+050 Ende moete mine zinnē dwaen
+051 Want hi my diere cochte
+052 Ende ict gairne volbrochte
+053 Martijn als de werelt began
+054 Man te vʼheffen bouē man
+055 So sciet mijn vrauwe ere
+056 Den dorpere en̄ wijsdem dē dan
+057 Dair trouwe en̄ doecht was an
+058 Dien hiet so sijn here
+059 Nu maken die herē ghespan
+060 Ende gheuē dʼ eren enē ban
+061 Ende en willen niet er tussen geschreven dat so kere
+062 Segt mi waen dit venijn ran
+063 Toicht mi redene dair van
+064 Want ic gairne lere
+065 Wies scout dattet were
+066 Iacop my dinct ouer wair
+067 Sint dat edelheit hadde vaer
+068 Te pijne om die ere
+069 Ende so trac de scalke naer
+070 Die raden nv hier nv dair
+071 Ende niet scelden den here
+072 So es edelheit worden so zwair
+073 Dat so tclemmē heeft ōmaer
+074 Ende daelt so lanc so mere
+075 Dats nv al ter werelt claer
+076 Ende oic zietment openbair
+077 Dus es vʼbannē die ere
+078 Ende wederstaen ten kere
+079 Nv merc bidʼ sonnē lecht
+080 Dat al dʼ weʼlt oghen berecht
+081 Bi sire edelre naturen
+082 Als dat zwerc dair ieghen vecht
+083 Ende die neuel mit sire drecht
+084 So en can so tier vren
+085 Niet toghen hairre scoonhᵗ echt
+086 Aldus vʼdonckert die scalcke knecht
 
 
 
-445 Vrouwē en̄ joffrouwē
-In sanghe in rime slecht
-Dꝫsi mꝫ mīnē sijn vʼplecht
-Ø
-Mi dunct dꝫ alde wlt vecht
-450 Iegē dʼ reindʼ mīnē plecht
-En̄ volgē dʼ ontrouwen
-Menich seit nv en̄ echt
-Mij̄ sin es aē v gehect
-Soe zeʼe ic waē bedouwē
-455 Achtʼ makē si de mouwē
-Merten du heues mi gevᵘgꝫ
-Ic antwʼde en̄ vʼdraget
-Ic wilt mʼtē vʼdragen
-Waēdi dꝫ mi wel behagꝫ
-460 Dꝫtu mi dꝰ heues geiagꝫ
-Neēt wistict wiē clagē
-Mʼtē vriēt wꝫ hulpt geclagꝫ
-Vragꝫ dꝫtu wils ic vʼdragꝫ
-Ic wilt al vʼdragen
-465 God hulpe mi wāt hi ver#macht ʼ geschreven
-Dꝫ mij̄ sin wʼde gevaget
-110 Dꝫ di moet behagen
-Ic wille danwʼde wagē
-Iacob nv berecht mi
-470 Oft dꝫ volc al comē si
-Vandē ierstē adame
-Twi es deen edel dandʼ vri
-Die dʼ eygē man daerbi
-Wanē quā ons desē name
-475 Twi seitmē totē dorp tfi
-Ganc wech god onneʼe di
-Dv best dʼ wlt scame
-Die edel heuet al tgrecri
-Mē seit willecome ghi
-480 Dꝫ doet dꝫ ic mi vʼgrame
-Wāt het dunct mi ōtame
-Mertē de menege es bedect
-Die dinc dʼ sijn sin op mect
-En̄ du vʼges wel verre
-485 Al heuꝫ eē psemʼ geplect
-En̄ dē thare ontrect
-Hi wilt sonder merre
-Ondʼ die edel zij̄ getrect
-Ø
-490 Tgelt claer vandē terre
+087 Die edele creaturē
+088 Als hi hem dair ane hecht
+089 Ende hare ydelheyt verplecht
+090 Dat so laet ghedueren
+091 By hare die scalcke zurē
+092 Sint scalkē droughē ouʼ een
+093 Dat neen was ja en̄ ja neen
+094 En̄ hem dat wijsheit dochte
+095 En̄ ydelheyt dʼ ōme green
+096 Wanter wasdom uut sceen
+097 Wanē soot comē mochte
+098 So is ydelheit worden steen
+099 Want hare ontfermt dinc ne gheē
+100 Dan dairmē ghelt wt knochte
+101 Ay god gheue hem dē langē ween
+102 Die te cnauwen gaf dit been
+103 Den ydelen gedochte
+104 Want hire mort an wrochte
+105 Wat zal seighel en̄ was
+106 En̄ brieuē die ghewaghē das
+107 Van dat lantsherē gheuē
+108 Hets al niet ende een ghedwas
+109 Also lief had mi een tsas doorgestreept tsas
+110 Off een vriese bescreuē
+111 Trouwe es broschʼ dan glas
+112 Die hier te voren so starc was
+113 So es nv te brocken bleuē
+114 Ic waens noyt lantsheʼ genas
+115 Die scalc mit hē te rade las
+116 Hien moste int eynde sneuē
+117 Ende zulc zijns lants vʼdreuē
+118 Mertijn du berechts mi wel
+119 Hier bi zijn die heʼn fel
+120 Ende wankele in de tale
+121 En wetʼ wat toe segghen el
+122 Die scalc hout boosheit ouʼ spel
+123 Hi pijnt hoe hi die doghet vʼsmale
+124 Caym sloich den edel abel
+125 Dus souct die scalc zijns heʼn vel
+126 Hoe hijt trect te dale
+127 Gode die ons domen sel
 
 
 
-Dits de dinc die liede wect
-Dꝫ menich tsine te wīne trect
-En̄ maect gode om erre
-En̄ die ziele in werre
-495 Selc waēt dat volc eygij̄
-Comē es vāden quadē caym
-Die vʼmorde abelle
-En̄ diē god vʼdoēt hiet sijn
-Dits niet waer mʼtijn
-500 Bi redenē die ic spelle
-Wāt ons scrijft die bibele fijn
-Dꝫ al dꝫ geslachtē sijn
-Vʼdranc die deluuie felle
-Mʼ dꝫ dorperlijc venijn
-505 Dꝫ caym droech es an scij̄
-Van menegē die ic spelle
-Van hʼten sine geselle
-Selc waēt dꝫ vandē quaden cam ʼ geschreven
-die noe sij̄ vadʼ w gram
-510 Dꝫ hine n ende decte
-Dꝫ eygē uolc van hē quā
-Wāt des vaders vloec mesqᵘm
-Hi doelde diʼe op mecte
-Al valt dꝫtie goede ram
-515 Dicke vint dongaue lam
-Dats dʼ rudarise secte
-Vandē edelē abraham
-Quā eygē uolc soe ic vʼnā
-Dꝫ oit ter eeren trecte
-520 En̄ hē noyt en beulecte
-Mertē tuusche loy vertelt
-dꝫ van ongerecht gewelt
-Eygēdom es comen
-Als eē pᶦnse wā wijch op tfelt
-525 Tfolc dꝫmē te liue helt
-Dedemē verdoemen
-En̄ vʼcopē om gelt
-Dꝫs volc dꝫmē eygē scelt
-En̄ scalc hoert noemē
-530 Natuʼe gaet harē telt
-Mʼ auētuʼe vast en̄ smelt
-Ø
-Tonneʼen hem somen
-God doget om ons mesdaet
-535 dꝫ eē geslachte tʼ nedʼ gaet
+128 Biddic dat hi den duuel
+129 Indē laetsten male
+130 Metten scalc betale
+131 Martijn nu berecht my dies
+132 Berecht een god die noyt ne wies
+133 Alle creaturē
+134 Twi heeft den quade den kies
+135 Ende de goede valt int vʼlies
+136 Wie sal voir recht curen
+137 Mijn sin seit mi als een ries
+138 Hi die adaem tlijf in blies
+139 Die meester dʼ naturē
+140 Heeft beuolen merc en̄ besies
+141 Dese dinc eist wair so ghies
+142 Der blindʼ auonture
+143 Die vʼkeert telkʼ vre
+144 Iacop segt bestu vʼdort
+145 Auonture es wair en wort
+146 Van ghepeynsden saken
+147 Brincstu ongheloue vort
+148 God siet alle dinc en̄ hort
+149 Wiltu den duuel makē
+150 Wat heeft dine hʼte becort
+151 Dattu helts an leggher boirt
+152 Die papen sullent smake
+153 So vʼt doorstreept wʼtstu vʼbrant of vʼsmoirt
+154 Inne en gaue om dijn ziel nᵗ I toirt
+155 Men mach mit sulken sakē
+156 Gode niet genakē
+157 God en was noyt moede no mat
+158 Int wout nes loof no blat
+159 Butē sine hoede
+160 Al dat es in elke stat
+161 Dat behoet hi en̄ besat
+162 Mit godlikē goede
+163 Al ghehinghet hi dan dit
+164 Dat die quade ghewint scat
+165 En̄ mē hē heet die vroedē
+166 So hogher sit opt rat
+167 So hogher val so hogher plat
+168 Indʼ hellen gloede
+169 Ondʼ der duuelē roede
 
 
 
-Gaf dit wandel ertsche goet
-Der menschᵗ ghemeene
-Dꝫter mede waest geuoet
-En̄ geel ʼ
-630 En̄ leue ʼ
-Nu es g... verwoet
-Dat elc set sinē moet
-Om te heb alleene
-Hʼ ō sturtmē smēschē bloet
-635 Hʼ ō stichtmē mꝫtʼ spoet
-Borge ende hoge steene
-Meneghē ten weene
-Iacop ic heb wel uʼstaen
-Dꝫ dit wʼ es sondʼ waen
-640 Dꝫtu heues ontbonden
-Goets es genoech lietmēt gaē
-Īt gemeē en̄ hē ōtfaen
-Die arme werden vonden
-Dꝰ viele al orloge zaen
-645 Dꝰ mochmen de ziele dwaē
-En̄ clarē vandē sonden
-Milthᵗ heuꝫ hʼ macht gedaē
-Vrechᵗ leert die wlt vlaē
-Dit proeuē ende orconden
-650 Die wīners vandē pondē
-Iacop eē dīc maect mi cōt
-Alse eē mēsche wʼt gewōt
-Van gerechter minnen
-Doet dʼ ogē wandel vont
-655 Oft comt vter hertē grōt
-Dit euel ten beghinne
-Ic liet mi costē wel eē pōt
-En̄ icts wijs wʼde desʼ stōt
-Maect mi des eē inne
-660 Mij̄ hʼte bliuet ongesont
-Mi en besceede dit dij̄ mōt
-Wāt en es n wijshᵗ dinne
-Na dꝫ ic redēne kinne
-Mertē dv best eē vrēt druut
-665 Du sprekes als eē vriese ruut
-Die noch noit en minde
-Aldʼhande edel fruut
-Cōt vā mīnē wt en̄ wt
-Dꝫ noit dorpʼ en kinde
-670 Hem mach hulpē geen cruut
+170 DIe rechtste wech tʼ hellē waert
+171 Ende die alre cortste vaert
+172 Dats gheluc in sonden
+173 Alsmen gheen mesdoen en spairt
+174 Ende mē emmʼ vort vʼzwairt
+175 Die ziele ghebondē
+176 Ende dan ghesciet alsmē gaert
+177 Ende niet en rouct wie misbairt
+178 Nu noch te ghenē stondē
+179 So comt die doot diet al vʼtairt
+180 Onuoirzien want hets her airt
+181 Panden van den ponden
+182 Die nyemē can ghegrondē
+183 Maertijn du hebs mi bekeert
+184 Ende ghewijst ende gheleert
+185 Van dat ic niet en wiste
+186 Al sie ic mee dē quadē gheeert
+187 Mine hʼte wʼdets niet vʼzeert
+188 Noch in ghenē twiste
+189 Al heeft hi meer dan hi vʼteert
+190 En̄ hi ghewint dat hi begheert
+191 Met scalcheden en̄ mit liste
+192 Ghindʼ wʼt hi ghedestrueert
+193 En̄ ghebondē en̄ ghemeert
+194 Sine kindeʼn gaen te quiste
+195 Ghelijc enē bosen miste
+196 Martijn wairstu niet so wreet
+197 Ene dinc die ic niet en weet
+198 Soude ic di gairne vraghen
+199 Twi sijn die sondē gode so leet
+200 Dat hi es den sondare so heet
+201 Met wraken en̄ mit plaghen
+202 Want gheen sondair in sondē ste# et
+203 Langhʼ dan sijn lijf es breet
+204 Twi tormentē hine met slaghē
+205 Ewelike sondʼ vʼsceet
+206 Dit schijnt te punte niet gheleet
+207 Tordeel dorste ics ghewaghen
+208 Alne weiten wi wiens claghen
+209 Iacop god die hertē kent
 
 
 
-Die stille mīt of ouʼ luut
-Dā hē deuel toe sinde
-Dʼ hʼtē entʼ ogen virtuut
-Willic dꝫ hʼ bi si beduut
-675 Proef hoe ic dit ontbinde
-En̄ te redene vinde
-Eē swʼ orloge en̄ eē zwʼ strijt
-En̄ dʼtoe eē ewelijc nijt
-Es tusschē thʼte en̄ oogen
-680 Thʼte dē ogē vʼwijt
-Dv best die mij̄s n vʼmijt
-Bedi benic bedrogen
-Dv best emmʼ opē wijt
-Elkʼ sondē die uore di lijt
-685 Bedi benic dorulogen
-Sluut v dore teneghʼ tijt
-Dʼ soe menich dief uore lijt
-Bedi ben ic bedroghen
-Dꝫ clagic minē ogen
-690 Wapē vriēdelijc viant
-Dor u dogic menegē pāt
-En̄ meneghe coude
-Wapē dꝫ natue di vant
-Wʼ di uʼbodē huus en̄ lant
-695 En̄ des menschē houde
-Sone bonde mi geē bant
-Lichtʼ wʼic dā een sant
-Algadʼ mine scoude
-Mē stake bat wt mꝫter hāt
-700 En̄ vʼsmorde sulkē pant
-Ondʼ donreyne moude
-Op dꝫ natuʼe woude
-Tthʼte sweech doge sprac
-Ic waē v sins gebrac
-705 Vrouwe conīghinne
-Dꝫ ghi mi tijt v ongemac
-Wāt mi noit tuwʼt lac
-Eē stof al quaēt mi inne
-Alsmē mi somtijt vte stac
-710 Wāt docht dʼna tsmēscē sac
-Sij̄ weluarē es dunne
-Sondʼ noet maecti gecrac
-En̄ wʼpt op mi uwē hac
-En̄ ic v uᵒuwe kinne
-715 En̄ mij̄ godinne
+210 Sent dē sondair menich tormēt
+211 Nadʼ hʼtē ghedochte
+212 Om dat hi wilde als een rent
+213 Altois leuē ende ongheent
+214 Op dat wesen mochte
+215 So is hi ter hellen ghesent
+216 Dair hi nēmermeer en went
+217 Want sijn wille dat wrochte
+218 Besie dijn hʼte al omtrent
+219 Dincti dese redene blent
+220 Die ic hier toe brochte
+221 Neen so diet wel besochte
+222 Maertijn du segs wel en̄ wair
+223 Ende dine redene es clair
+224 En̄ licht te vʼstaen
+225 Al ghepens es openbair
+226 Voir hem die telt alle hair
+227 Ende wat de hemel heeft ane
+228 Ia louerē gras dach en̄ jaer
+229 Dropele sant es hē niet zwair
+230 In telne te beuaen
+231 Hi heeft ypocrisie ōmaer
+232 En̄ leecht hē met wrakē naer
+233 Die in hare bane
+234 Pleghen ōme te gane
+235 Soete martijn mē leest dat
+236 Al gaue ic wech goet en̄ scat
+237 En̄ ghedoghede groot coude
+238 Wair ic in hooft sondē mat
+239 Het en holpe mi niet een blat
+240 Die nyewe wet seghet en̄ de oude
+241 Die ons dus nauwe maken dē pat
+242 Ten hemel wairt en̄ so glat
+243 Ic wilde god selue woude
+244 Dat si portiers warē ghesat
+245 Ter hellen si soudē tgat
+246 So s houden mit ghewoude
+247 Dattʼ comē yement in soude
+248 Iacop menich prouft en̄ coort
+249 Der heligher scrifturen woort
 
 
 
-Dꝫ hē cā gehulpen iet
-115 Hine doelt alse hi wel ziet
-Sine conste sij̄ hʼte bedwingē
-Hi sterf bi desen dingen
-Medea toēt ōs selue dat
-die rouede en̄ stal hʼs vadʼ ≤scat≥
-120 En̄ sloech hʼn broedʼ
-Ō nasoē dies hʼ cume bat
-Si liet cōrike en̄ st/cat
-Vadʼ sustʼ moeder
-Nochtā dʼ si alleene sat
-125 Wijsde hʼ redē dē rechtē pat
-Al volgde si dē loeder
-Mʼ thʼte was hʼ soe mat
-Dʼ mīne in maecte eē gat
-Wille hilt den roeder
-130 Al was redē vr.eder
-Exempel vindic ..ndʼ getal
-Die mꝫ mi soudē lien al
-Dꝫic hʼ dleuen gaue
-Die mi rouede en̄ stal
-135 Jacop maec geē gescal
-Hʼ sceedix m/niet aue
-Altfolc dꝫ woēt sondʼ getal
-Beide op berch en̄ int dal
-Cō hʼtoge graue
-140 Hʼ proeuē wʼt hʼ iegē smal
-Hine sal di n wʼ sijn eē bal
-Gheuult met caue
-Soe hulpe mi sente baue
-Mertē du best .j. stōt seriāt
-145 Dꝫs eē vast knoep en̄ bant
-Die niemē can ontbinden
-Die cnoep die alexādʼ vāt
-Ontknochte zij̄ swʼt ... hāt
-Alse hijs hē w...e bewīden
-150 Laet mi genakē uwē cāt
-Mē sal v wijshᵗ te hant
-Tellē mꝫten kinden
-Als̄ vele als diedē mach .j. sant ʼ geschreven
-Jegē casselbʼch in vlaēdʼlant
-155 Sal diedē hʼ v vinden
-Al waēdi mi vʼblinden
-Ghi wilt stʼkē uwe wort
-die gi mꝫ fauelē brinct vort
+250 Ende wanēse ghegrondē
+251 Dan clappen zijt lekē liedē voort
+252 Dat gheerne niewe dinghē hoort
+253 Wat si hebben vonden
+254 Selue en vʼstaen zijs niet en woirt
+255 Dits meerre misdaet dan moort
+256 Datsi gods woort dus wondē
+257 Hier naeyen zijt hier ist gescoirt
+258 Ø
+259 Waphene vandē hondē
+260 Nu en̄ te allen stondē
+261 Wanē si de woort gegᵒndē zaen
+262 Dair te wortelē alle of staen
+263 Gheplant in hemelrike
+264 Si iaghen vele maer clene si vaen
+265 Dan willen si te samē slaen
+266 Ghelike ende onghelike
+267 Dies latic dijn vraghen staen
+268 Want het dinct my best ghedaen
+269 Dat icker of wike
+270 Dan ic u viele in dōmē waen
+271 Nutter is dat hi vlie dē aen
+272 Dan hi te campe strike
+273 Jeghen den kempe eerlike
+274 Als god ten ionxtē daghe sal
+275 Ghepens en̄ wort berechtē al
+276 Dair wi ye in misdaden
+277 Soude hi als een onweert bal
+278 Weldaet wʼpen int helsche dal
+279 So ware hi sondʼ genaden
+280 Neen hi hets niet so smal
+281 Van weldaden dat ghetal
+282 Het wert van grade te gradē
+283 Van gode ghedanct die noyt en̄ al
+284 Datmē wel dede of stal
+285 Gherechtichede soude scadē
+286 Hoirde god niet de baden
+287 Dat seit dat gheloue mijn
+288 God moet in hem seluē zijn
+289 Hi en mach el niewer wesen
+290 God es gherechtich en̄ fijn
+291 Ende genadich dats aenscijn
 
 
 
-En̄ ...¨ poterien
-160 Oft m...ea dede mort
-En̄ hē narsisus heuꝫ vʼsmoort
-Dꝫs mīne van sottiē
-Minne en̄ dꝫtʼ toe hoert
-W met sonde noit becort
-165 Ø
-Ø
-Hine mach n sijn uʼdort
-Des selen mꝫ lien
-Die meesters vā clʼgien
-170 Les doude en̄ dnuwe testament
-en̄ besich al omtrint
-Alle die heilege liede
-Wie w mꝫ mīnē ie gescent
-Wie maecte oit mīne blēt
-175 Die dē gode giede
-Si mīne uwē wel bekint
-Scoē wijs op selc couent
-Dꝫhē god eerberiede
-Aldogedʼ omme selc tormēt
-180 Selc als mīne dʼ ioget toesint
-Wie waest diʼe af messciede
-Ghelijc heidenē diede
-Abʼham was uwe saren mā
-die sine amie vʼheffē begā
-185 Bouē siʼe vrouwen
-Dʼ was geē houdē an
-Hi dedese wech redē vʼwan
-En̄ volgde der ontrouwē
-Geē heylich wijf no/e mā en̄ can
+292 Hi es als een van desen
+293 Die van water maicte wijn
+294 Nes zijns selues niet eghijn
+295 Wat so die doren lesen
+296 Jacop hout tgheloue dijn
+297 Hets menich onbesceldich zwijn
+298 Te priesterscap gheresen
+299 Die niet mach ghenesen
+300 Martijn dijn gheloue es goet
+301 Dies bin ic seker en̄ vroet
+302 Weldaet wert niet vʼgheten
+303 Laet hem begaen diet gheldē moet
+304 Ende diet al bi redene doet
+305 Nēmer en willix wetē
+306 Hi es diet al maict en̄ hoet
+307 Also die hēne teye broet
+308 Heeft hijt al beseten
+309 Hi gheeft ons ziele vleesch en̄ bloet
+310 Hi hoet ons voir de helsche gloet
+311 Dat wi niet wʼdē vʼbeten
+312 Ten ionxtē daghe noch ghesletē
+313 Martijn die meneghe parlemēt
+314 Ende seit dat minne es blent
+315 Oic eest een woort ghemene
+316 Om dat ic ben een onwijs rent
+317 Maec mi deser dijn bekent
+318 Want ens wijshᵗ niet clene
+319 Es dat wair so es mīne tormēt
+320 Die hare volghede ware ghescent
+321 Ende onteert al rene
+322 Nu seit elc wise al omtrent
+323 Dat mīne tsoete instrument
+324 Jhesum vā nazarene
+325 Brochten in desen wene
+326 Iacop dijn vraghen es zwair
+327 Doch prouftmē mit redenen clair
+328 clair doorgestreept Drierande minne
+329 Deerste es caritate dats wair
+330 Die es sondʼ pine en̄ vaer
+331 Ende dair woent god inne
+332 Dandʼ truct de werelt naer
+333 Om ere om goet staet hair gaer
+
+
+
+334 Dits een bastaerdinne
+335 De derde mīne heescht de jaer
+336 Als bi naturē elc doet zijn paer
+337 Als noch sijn die dinne
+338 Die deiser volghen bi sinne
+339 Deerste mīne es so groot
+340 Dat allene dat god geboot
+341 Volprijsde mit hairre wairde
+342 Jane trac so themelsche broot
+343 Hier nedʼ indʼ maichden scoot
+344 Ondʼ dʼ ioden zwairde
+345 Minne es goet merc al bloot
+346 Wie mochte els bringhē inde no#ot
+347 Hem diet al vʼuairde
+348 Dat hi hem seluē dair in sloet
+349 Die dʼ mīē zijn bloet root
+350 Sturte op die airde
+351 En̄ mīne openbairde
+352 WIe so sulke mīne es cont
+353 Als caritate hi es ghesont
+354 Men machen niet vʼblendē
+355 Al ware hi indʼ hellen gront
+356 Ware hire mede ghewont
+357 Hien ware niet in ellendē
+358 Mar god wille niet dē rikē vont
+359 Ghenē sondair ghenē hont
+360 Nēmer toe senden
+361 Den edele haue tdiere pont
+362 Smaict allene de vremdē mont
+363 Men mach hair lijf doen eyndē
+364 Ende niet de ziele sceyndē
+365 Dandʼ mīne es onbehoet
+366 Want so staet na taertsche goet
+367 Off nadʼ weʼlt ere
+368 Dits die mīne die dickē doet
+369 Riddʼscap wesen vʼwoet
+370 Ende dē woukʼ eere
+371 Want die riddeʼ niet gheuroet
+372 Hi vʼsleet doorstreept verslijt vleesch en̄ bloet
+373 Vp dat zijn prijs niet mere
+
+
+
+374 Dandʼ al ware ghelt de vloet
+375 Ende hē vloeyende in sinē moet
+376 Hem soude noch also zeere
+377 Dorstē alst dede eerre
+378 Dese mīne heeft ondʼsceet
+379 Van hem die ōme die ere steet
+380 Ende die dient dē scatte
+381 Wiltu ere hebbē wes ghereet
+382 Te latene dat gode es leet
+383 Pijnt di te doen datte
+384 Dat hē lief sy en̄ hi di heet
+385 Wies vrome en̄ ōme de doecht zweet
+386 Datmē di niet matte
+387 Ondʼ dʼ ydelre gloriē cleet
+388 Dair ministraudie mede ōme gheet
+389 Want hare tonghe platte
+390 Smelten als snee clatten
+391 Eere te mīne dats een dinc
+392 Dair noyt hʼte mede ōmeghinc
+393 Soe en was van reynē airde
+394 Bistu out man of iongling
+395 Doe altois wel en̄ dwing
+396 Dire harte houarde
+397 Prijs die in lodders tonge hing
+398 Was noyt waert eens oghen winc
+399 Ondʼ die goedē waerde
+400 Onwerdē loof vlie en̄ ontsprinc
+401 Die meneghē vaet en̄ wilē vinc
+402 Die dat woirt begaerde
+403 Ende dat wel doen spaerde
+404 Goet te hebben en̄ scat
+405 Ende zalichlike te nuttē dat
+406 Dats een zalich leuē
+407 Mer gods mīne maict een gat
+408 Dat nēmermeer mach zij̄ zat
+409 Al wildement hē al gheuē
+410 Mīne van gode es ghehadt
+411 Voir gode in die hoghe stat
+412 Dair die inglen leuē
+413 Dese scuwet dʼ heʼn pat
+414 Want so moet jnt helsche bat
+
+
+
+415 Salomon heuet bescreuē
+416 Het is niet argher bleuē
+417 Die derde minne heescht te tijt
+418 Als die nature ombijt
+419 Die bloeyende jare
+420 Dats tedelste delijt
+421 Als hair scamelheit besnijt
+422 Ende men trauwe heeft mare
+423 Diemē vint tʼ werelt wijt
+424 Want so te alre stont vʼblijt
+425 Als of het al hare ware
+426 Hair hope nēmermeer te glijt
+427 Die aldus zijn lijf vʼslijt
+428 Maect sine zinne clare
+429 Men es ghene futselare
+430 MInne es alsmē bescreuē vint
+431 Cracht die twee hartē te gadʼ bint
+432 In enē reynē wane
+433 Dat de minne hetet blint
+434 Dat comt dat menich es so kint
+435 Dat hi hē laet ter spane
+436 Si en connē mīnē niet een twīt
+437 Die lozer zijn dan de wint
+438 Si rollen al buter bane
+439 Ic wane mʼ also vele vint
+440 Minres in trauwen ghehint
+441 Alsmē doet zwairter zwane
+442 Dus laet hare mīne off plane
+443 Martin ic bin wel berecht
+444 Het seit al here ende knecht
+445 Vrouwe ende joncfrouwen
+446 In sanghe ende in rime slecht
+447 Dat si sijn met mīnē vʼplecht
+448 Ende mē cant niet bescouwen
+449 Mi dinct dat al die weʼlt vecht
+450 Jeghen dʼ reynre mīnē lecht
+451 Ende volghen ontrouwen
+452 Menich seit nv en̄ echt
+453 Mijn sin is an v gheecht
+454 So sere ic wane bedauwē
+455 Van achtʼ maken si de mauwē
+
+
+
+456 Iacop du hebs mi gheuraecht
+457 Ende ic antworde ende vʼdraecht
+458 Nu willic martin vraghen
+459 Waenstu dat mi wel behaghet
+460 Dattu mi dus hebs gheiaghet
+461 Neen wistict wien claghen
+462 Martin wat helpt gheclaghet
+463 Vraech dattu wilt en̄ ic waghet
+464 Ic wille antwoirden waghen
+465 God helpe mi want hi vʼmaghet
+466 Dat mijn zin so wʼde veruaghet
+467 Dats di moete behaghen
+468 Ic wille de antwoorde waghen
+469 Soete iacop berecht my
+470 Off dat volc al comē si
+471 Vandē eersten adame
+472 Twi es deen eydel dandʼ vri
+473 De derde eghin man dair bi
+474 Wane quamē dese name
+475 Twi seitmē ten dorpre si
+476 Ganc wech god oneere di
+477 Du best dʼ weʼlt scame
+478 Die edele heeft al tghecri
+479 Me seit wel comē ghi
+480 Dit doet dat ic mi vʼgrame
+481 Want het dinct mi ontame
+482 Martin dē meneghen es bedect
+483 Dit dinc dair dijn sin op mect
+484 Ende du vraghes wel verre
+485 Want heeft een personier gheplect
+486 Ende dē liedē thare ontpect
+487 Hi wille sondʼ merre
+488 Ondʼ deydele sijn ghetrect
+489 Al ware hi m . vout beulect
+490 Tghelt claerstene vandē sterre
+491 Dits die dinc die liedē wect
+492 Dat menich zin te winne trect
+493 Ende maectʼ god mede erre
+494 Ende de ziele in werre
+495 Sulc waent dat volc eyghijn
+496 Comen es vandē quadē caym
+
+
+
+497 Die vʼmoirde abelle
+498 Dien god vʼdomt hiet sijn
+499 Dits niet wair martijn
+500 Bi redenē die ic telle
+501 Want dat gheslachte zijn
+502 Scriuet ons die bibele fijn
+503 Verdranc die diluuie felle
+504 Mer tvalsche dorperlike venijn
+505 Dat caym drouch es noch anschij̄
+506 Bi meneghen die ic telle
+507 Van hʼten sine gheselle
+508 Svlc waent dat vādē qᵘdē cam
+509 Doe noe sijn vadʼ was gram
+510 Omme dat hine niet decte
+511 Dat eyghen volc van hē quam
+512 Want hem svader vlouc mesquā
+513 Hi doelde diere op mecte
+514 Al vintmē dat de ongaue ram
+515 Dicken wint tongaue lam
+516 Dits der rudairsser secte
+517 Vandē eydelen abraham
+518 Quam eyghin volc als ict vʼnam
+519 Dat oyt ter eren trecte
+520 Ende noyt hē beulecte
+521 Martin thoude loy vʼtelt
+522 Dat van onrechtʼ ghewelt
+523 Eyghendom es comē
+524 Als een pʼnche wan wijch op tvelt
+525 Tvolc datmē te liue helt d doorstreept
+526 Dat deide hi vʼdomē
+527 Ende vʼcopen om ghelt
+528 Dits volc datmē eyghen scelt
+529 Ende men scalc hoirt nomen
+530 Nature gaet harē rechtē telt
+531 Mʼ auonture wast en̄ smelt
+532 Den meneghen te onvromē
+533 Ende te ōnerē hē somen
+534 God ghehinghet ōme de mis#daet
+535 Dat een gheslachte neidʼ gaet
+
+
+
+536 Ende een andʼ riset
+537 Wie mach weiten sinē raet
+538 Hi kent wiene mint of haet
+539 Die al die weʼlt spiset
+540 Die meest te sinē dienste staet
+541 Men ziet dat zijn hoir ende zij̄ saet
+542 Meest in die ere gheriset
+543 Ende als dit volc wert so quaet
+544 Dat het de wet gods vʼsmaet
+545 Wartet ten valle ghewiset
+546 Ende van nyemene ghepriset
+547 Mine rouct wiene drouch of wan
+548 Dair wijsheit en̄ doecht es an
+549 Ende reyne es van zeden
+550 Wt wat lande dat hi ran
+551 Dat is dien god dʼ namen jan
+552 Van rechtʼ edelheiden
+553 Al vʼcochtene sulke enē man
+554 Hens niemē die hē gherouē can
+555 Sire doechtachticheiden
+556 Mi dincke dat eydelhede began
+557 Ø
+558 Mit douchden besneiden
+559 Ø
+560 Martijn oftu clemmē wout
+561 Ter eydelheit drie pointē hout
+562 Die ic di sal lerē
+563 Wes nerachtich mīne niet tgout
+564 Wes erachtich menichuout
+565 Dese twe pointē niet voir sceren
+566 Wes werachtich en̄ stout
+567 Dese drie puntē des wes boud
+568 Die zijn al vul eren
+569 Het nes niemen ionc no out
+570 Dien du scalc dinckē sout
+571 Sondʼ weldaet deren
+572 Ende alle doecht vʼkerē
+573 Trauwē iacop ic heb vʼstaen
+574 Vte dinē monde woirdē gaen
+575 Vol gherechtʼ waerheiden
+576 Al spreect in sine boekē alane
+577 Dat edelheit quam sondʼ waene
+
+
+
+578 Van oudʼ rijcheden
+579 Die edelhede machmē of dwaen
+580 Wartmen arm so ist gedaen
+581 Men valt in de oude steiden
+582 Mer reyne eydelhede es een traen
+583 Die dorpers harte niet can ōtfaē
+584 Die gheeft dʼ smenschē beidē
+585 God in sire rijcheden
+586 Iacop ic hoire an dine woirt
+587 Dat alle menschelike gheboort
+588 Van adaem begonde
+589 Hoe es die maescop so te stoort
+590 Dat deen den andren vʼmoirt
+591 Dats jāmer ende sonde
+592 Nijt is wedʼ en̄ voort
+593 Meester in dorpe en̄ in poort
+594 Tuolc is wʼden honde
+595 Segt mi als diet gairne hoirt
+596 Te vraghene bin ic becoirt
+597 Als diet gairne ondʼvonde
+598 Van beghinne te gronde
+599 Martin houairde en̄ nijt
+600 Ende die alre eerste strijt
+601 Begonde in hemelrijke
+602 Als lucifer te sire ontijt
+603 Indē hemelschen delijt
+604 Wilde zijn gods gelike
+605 Dair viel hi int helsche bijt
+606 Dair hi nēmermeer vʼslijt
+607 Mʼ hi blijftʼ ewelike
+608 Nu zent hi doir die weʼlt wijt
+609 Sijn venijn en̄ zinē vlijt
+610 Ende wille dattet blike
+611 Alst doet jāmerlike
+612 Twee woirde in die weʼlt zij̄
+613 Dats allene mijn eynde dijn
+614 Mochtemē dese verdriuē
+615 Pays en̄ vrede bleue fijn
+616 Het wair al vri niemē eghijn
+617 Mannē metten wiuē
+618 Het ware ghemene tarwe en̄ wij̄
+619 Ouer zee ende opdē rijn
+
+
+
+620 Soudemē niemē ontliuē
+621 Nu beneyment dat venijn
+622 Van ghiericheden dit maertijn
+623 Ende doet al achtʼ bliuē
+624 En̄ andʼ loy bescriuē
+625 God diet al bi redenē doet
+626 Gaff dit wandel erdtsche goet
+627 Der menscheit ghemene
+628 Dattʼ de mensche mede ware gheuoet
+629 En̄ ghecleet ende ghescoet
+630 Ende leuē soude rene
+631 Mʼ nv es ghierichede so vʼwoet
+632 Dat elc stellet sinē moet
+633 Omme al te hebben allene
+634 Hier ōme steurt mē mēschē bloet
+635 Hier ōme so stichtmē metter spoet
+636 Borghen ende stene
+637 Den meneghē te wene
+638 Wairhede iacop ic heb vʼstaen
+639 Dattet wair is sondʼ waen
+640 Dattu hier heefs ontbonden
+641 Goets es genoich lietment gaē
+642 gaen doorstreept Int gheemeē en̄ hē ōtfaen
+643 Die airme worden vondē
+644 So vele alle oirloghe zaen
+645 So mochtmē de ziele dwaen
+646 En̄ claerse vandē zonden
+647 Miltheit heeft hare macht gedi/aen
+648 Vrecheit leert die weʼlt vlaen
+649 Dat prouen en̄ orconden
+650 Die minres vandē ponden
+651 Iacop ere dinc mac mi cont
+652 Als die minre wʼt ghewont
+653 Met gherechter minne
+654 Doet dʼ oghen wandele vont
+655 Of comtet vtʼ hʼten gront
+656 Dit euel tē beghinne
+657 Ic liet mi costen wel een pont
+658 Dat ics vroet ware te deser stont
+659 Maec mi des in jnne
+660 Mine redene blijft onghesont
+
+
+
+661 Mi en bescede dit dijn mont
+662 Hens wijsheit niet dinne
+663 Naer dat ic redene kinne
+664 Martijn du bist .j. vreēt druut
+665 Du spreicts als een vriese ruut
+666 Die noyt noch en minde
+667 Alrande edele fruut
+668 Comt vā mīnen vut en̄ vut
+669 Die noyt dorper kinde
+671 Die stille mint of ouʼ luut
+670 Hē en can ghehelpen andʼ cruut
+671 Dan die hem teuel toezinde
+672 Dʼ hʼtē en̄ dʼ oghen vʼtuut
+673 Willic dat hier mede si beduut
+675 Prouft off ic dit ombinde
+676 Ende die redene beuinde
+677 Een zwair oirloghe ende eē zwʼ «strijt»
+678 Ende dair toe een ewelic vʼwijt
+679 Es tusschen dʼ hʼten en̄ den oghen
+680 Therte den oghe altois vʼwijt
+681 Du beste die mīnens niet vʼmijt
+682 Bi di ben ic bedroghen
+683 Du beste ēmʼ hopē wijt
+684 Elkʼ sonde die voir di lijt
+685 Ende vrient dit nes niet ghelo#«ghē»
+686 Sluut dine dore tenighʼ tijt
+687 Dair so menich dief voir lijt
+688 Bi di ben ic doir vloghen
+689 Des claghe ic den oghen
+690 Wapen vriēdelic viant
+691 Doir di doghe ic menighē brāt
+692 Ende menich coude
+693 Wapene dat nature dit vant
+694 Wair di vʼboden huus en̄ lant
+695 Ende des smenschē houde
+696 So en bonde mi gheen bant
+697 Lichtʼ ware dan een zant
+698 Al gadʼ mine scoude
+699 Men stake best vte mittʼ hant
+700 End vʼsmoirde sulkē pant
+701 Ondʼ de reyne moude
+
+
+
+702 Op dat nature woude
+703 Therte zweech die toghe spᵘc
+704 Mi dincke dat v sin ghebrac
+705 Vrouwe coninginne
+706 Dat ghi mi tiet v onghemac
+707 Want noyt vā mi te v wʼt lac
+708 Een stof al quaemt mi jnne
+709 Alsmē mi sōwile vte stac
+710 Wat doochde dair na smēsthē zac
+711 Sijn wel varen es dine
+712 Sondʼ noot maict ghi ghecrac
+713 Ende werpt vp mi uwē hack
+714 En̄ ic v vrouwe kīne
+715 Ouer mine godinne
+716 Merct vrouwe en̄ besiet
+717 Dat ghi ouer mi ghebiet
+718 Als ouer alle leyde
+719 Men conde v ghescadē niet
+720 Wairt so dat ghi vā v schiet
+721 Alle dorperheide
+722 Mar als ghi bi mi bespiet
+723 Dinc die ghi mi ane tyet
+724 Volghedijs gairne meide
+725 Ghi sijt recht als cranc riet
+726 Dat dē winde volghet en̄ vliet
+727 Dwu onghestadicheide
+728 Maict v dē onvreide
+729 Dit oirloghe heeft gheuelt
+730 Alsmē hare dē twist telt
+731 Vrouwe redene bi besceide
+732 Bede te gadʼ soese scelt
+733 Elke deelt so dair zijn ghelt
+734 Niet ghelike bede
+735 Baensculdich so de hʼte stelt
+736 Als diese ouer voeghet helt
+737 Ende vrouwe bi harē ede
+738 Mʼ des gheualles ghewelt
+739 Dat bi sine thʼte ghe doorstreept dwelt
+740 Tiet so des oghen ghelede
+741 Dus deelt so de vede
+742 Martijn hier bi moghestu zien
+
+
+
+743 Wedʼ die oghen dʼ hʼten tien
+744 So die hʼten de oghen
+745 Als thʼte de oghen wille vlien
+746 Omme niet die oghen spien
+747 Dair nes gheen ghedoghen
+748 Mer hets dʼ hʼten plien
+749 Alst doghen doirsien desen of dien
+750 Dair so hare toe wille boghen
+751 So moet al hare wille ghescien
+752 Toghe moet lyen en ghien
+753 Dair soe quam gheuloghen
+754 Minne int bertoghen
+755 Iacop dine redene is clair
+756 Al dinct so den oghen zwaer
+757 Die littel gheuroeden
+758 Ic weet dat wel ouer waer
+759 Dat het ware dʼ zielen gaer
+760 Dat wi ons wilden hoeden
+761 Wilde therte makē onmair
+762 Dat hem de oghen zendē naer
+763 Hine dorste hem niet vʼmoedē
+764 Dat hi leuen soude dair
+765 Dair god sal domen openbair
+766 Ende wisen ten gloeden
+767 Die hier ten sondē spoedē
+768 Berecht mi iacop oftu wout
+769 Wedʼ sekerst est int behout
+770 Rijcheit so armoede
+771 Eist clerc leec ionc of oudt
+772 Al dinct mi wesen gadʼ gout
+773 Al staet naden goede
+774 Armoede prisic menichuout
+775 Men seit so es sekerst int behout
+776 Voir rouers sondʼ hoede
+777 Doch mīnē si voir twatʼ tsmout
+778 Si scuwen honghʼ en̄ coudt
+779 Est als ic mi bemoede
+780 So dolen dese vroede
+781 Mairtijn ic mete di vol dij̄ vat
+
+
+
+782 Biden stoel dair moyses sat
+783 Dair saten die gheleerde
+784 Dat si di raden doe al dat
+785 Si wisen di den rechtē pat
+786 Wel hem dier hem an keerde
+787 Mʼ in weeldoene sijn si lac
+788 Si heten vastē en̄ si sijn sadt
+789 Ne volghe niet sulkē heerde
+790 Sien mīnē niet voirdē scat
+791 Hair hant es altois sondʼ gat
+792 Noyt was volc bouē d'eerde
+793 Dat meer tgoet begheerde
+794 DIe meeste menichte es dustaen
+795 Doch so vintmʼ sondʼ waen
+796 Al sijn si selsiene
+797 Die den airtschen goede ontgaē
+798 Ende armoede ontfaen
+799 Bi heleghe engiene
+800 Si laten hem blouwē en̄ slaen
+801 Tormētierē en̄ vaen
+802 Om die helle te ontvliene
+803 Hier in est zekerst volstaen
+804 Want die hem in dit doopsel dwaē
+805 Sijn seker gode te siene
+806 Ende hē niet te messciene
+807 DIe gods sone toghꝫ ons dat
+808 Die enen gheweldich sit en̄ sat
+809 Den vadʼ indē rijke
+810 Hi beete in dese arme stat
+811 Indʼ reynre maghedē vat
+812 Harde oitmoedelike
+813 Dair hi cume oyt zoghes was zat
+814 Ende doghede meneghen godsat
+815 Van sinē onghelike
+816 Die armoede es een pat
+817 Die doir dē hemel maict een gadt
+818 Ende zoene niet bezwike
+819 Die hare mit hʼtē wike
+820 Waenstu martijn weeldich vet
+
+
+
+821 Sijn ghecleet nv wel nv bet
+822 Ende varen int langhe leuē
+823 Ende ihʼus hinc naect int bloet be#«smet»
+824 Ende zine rechtʼ zide ghesplet
+825 Dair hi an thout was vʼheuē
+826 Of dat hooft van onsʼ wet
+827 Met scarpē doirnē was beset
+828 Alst noch es bescreuē
+829 Eist dattu weisen wils zij̄ let
+830 Maghʼlike drinc en̄ et
+831 Lere weelde begheuē
+832 Oftu moets zwaire sneuē
+833 Niet segghic dat rijchᵗ zent
+834 Die ziele indē torment
+835 Op dat ment nutte mꝫ rechte
+836 Mer zekerst ist vlien tserpent
+837 Dan wandelen dʼ omtrent
+838 Dattet niet enbeulecte
+839 Want rijchᵗ maect dē menighē so «blēt»
+840 Dat hi gode niet en kent
+841 Dair sceet hi vandē lechte
+842 En̄ wert van leuene een rent
+843 Dair na valt hi in helsche cōuent
+844 Dair brenghet v die hechte
+845 Die duuel sine knechte
+846 Iacop du segs wel en̄ wair
+847 Die wech es nauwe en̄ zwair
+848 Ende zere onghetreden
+849 Met armoede te clēmene dair
+850 Dairmē leuet sondʼ vaer
+851 Mit ewelikʼ vreden
+852 Martin so trec dē armē naer
+853 Ende deel hē stille en̄ openbair
+854 Van dire weldicheden
+855 Eere die kercke en̄ die outair
+856 Het wert ten jonxsten daghe clair
+857 Dat di god sal besteiden
+858 Met sinē lieuē ledē
+859 Es die wech nauwe en̄ hooch
+860 Dair ihʼus bi ten hemel vlooch
+
+
+
+861 Dats passie en̄ armoede
+862 Off du meer heefs dan di dooch
+863 Om gods hulpe pooch
+864 Dele van dinē goede
+865 Dine fiere hʼte tooch
+866 Ten armē en̄ tooch
+867 Ontfarmichᵗ vā moede
+868 God selue die noyt ne looch
+869 Ende dē mildē noyt bedroich
+870 Sette di in sire hoede
+871 Buten dʼ duuelē roede
+872 Iacop die weʼlt maict ghescal
+873 Ende tyent dē vrouwē al
+874 Dat wi in sondē sneuē
+875 Want eua viel dē eerstē val
+876 Dair wi ōme int erdsche dal
+877 Noch alle zijn vʼdreuē
+878 So segghen si dat groot en̄ smal
+879 Dat so adaem thʼte stal die doorstreept
+880 Die hē hare liet vʼgheuē
+881 Segt my wiement tyen sal
+882 Dit vʼlies sondʼ getal
+883 Dair wi ōme moetē sneuē
+884 Als endē sal dit leuē
+885 Martin hi es nᵗ wel vroet
+886 Die andren tiet dan hi misdoet
+887 Kent hi vrome of scade
+888 Ic zie die zee ic zie die vloet
+889 Ic settʼ willens in dē voet
+890 Bi enē dōmen rade
+891 Wien mach ics draghē euelmoet
+892 Of mi de stroom mit grotʼ spoet
+893 Draghet in die ghewade
+894 Off ic quaet can en̄ goet
+895 Ende ic mi veynse verwoet
+896 Men salt claghen spade
+897 Dat ic mi vʼlade
+898 SVlc tyet dʼ vᵘuwē opzien
+899 Dat si hem dat hʼte ontyen
+900 Als die steen de naelde
+
+
+
+901 Hi dinct mi mesdoen in dien
+902 Wilde hi dʼ wairhᵗ lien
+903 Van dat hi dair toe taelde
+904 Wat moghens dat mānē plien
+905 So nauwe om hare scoonhᵗ spien
+906 Wie was diese dair toe haelde
+907 Wilde die clagher te tijt vlien
+908 So en mochte hē niet meschiē
+909 Ø
+910 Eer hē thʼte daelde
+911 VRouwē zij̄ bi naturē goet
+912 Si slachtē dē winē en̄ dʼ gloet
+913 Die de weʼlt vʼblidē
+914 Die te vele des wijns in doet
+915 En̄ te naer dē viere stelt dē voet
+916 Hi en cant niet gheliden
+917 Wair een man so behoet
+918 Dat hire hʼte sin en̄ moet
+919 Wel conste besniden
+920 So ware vᵘuwē mīne spoet
+921 Nu wʼdē si vā mīnē vʼwoet
+922 Diere dōmlike toe tiden
+923 Dit doet vrouwē benidē
+924 Datmē luttel tᵘuwē vint
+925 An vᵘuwē dat ne claghic twint
+926 Bi eenre maniere
+927 Want so watmē vele vint
+928 Es onwairt en̄ onghemint
+929 Ende men coept ondiere
+930 Mānē zij̄ lozer dā die wijnt
+931 Hare scone claghē vᵘuwē vʼblīt
+932 Want si sijn goedʼtiere
+933 Grotʼ zondē hi hē bewijnt
+934 Die valsche wordē vᵘuwē toezint
+935 God die moeten sciere
+936 Sendē tē helschē viere
+950 Wat makē qᵘet sprekers gescal
+951 Vrouwē dadent wel naer al
+952 Dat dat wonder ghesciede
+953 Al dat was es en̄ wesen sal
+954 En̄ oyt was sondʼ getal
+
+
+
+955 Inglen en̄ alle liede
+956 Benedien groot en̄ smal
+957 Maria die ghenas dē val
+958 Van misselikē diede
+959 So es die rouede en̄ stal
+960 Die zielē int helsche dal
+961 Dies lucifer ghebiede
+962 En̄ al sine mesniede
+937 Wat mochts vrau eua dat adam
+938 Doir harē wille dē appel nam
+939 Dat wi noch alle besteruē
+940 Ic waenre ons voordeel of quā
+941 Hier om wʼt man themelsche lam
+942 Te onsʼ alre bederue
+943 Hi vʼsoende dē vadʼ gram
+944 En̄ wijsde ons dē wech en̄ dē dam
+945 Ter vpperstʼ erue
+946 Selsenre dinc noyt man vʼnā
+947 Dan dat de maghet maecte gode so tam
+948 Dat hi hē ene wʼuen
+949 Doir ons liet bederuē
+963 Iacop du best dē vᵘuwē houdt
+964 Ø
+965 Ic wane ic best ghedoghe
+966 Ic vʼgheue al ongedout
+967 Allē vᵘuwē jonc en̄ out
+968 Doir die vrouwe hoghe
+969 Dair ons of quam onse behout
+970 Gheloeft so sie dusentichuout
+971 Dat si hē op helt mit zoghe
+972 Die ons benam dat helsche cout
+973 In hare ben ic te endene bout
+974 Onse dyaloghe
+975 Ic en vraghe nēmer no toghe
+in latere hand II in middenmarge
+001 II Maertijn slaepstu slaep dijn zin
+002 Sprec hebstu gheen sprekē jn
+003 Du dincts mi vʼdorē
+004 Du en achts anders meer no min
+005 Dan weelde en̄ ghewin
+006 Wiltu di dus vʼsmoren
+007 Wair al di dat comt int zwin
+008 Goud suluer loot en̄ tin
+
+
+
+009 So bleuestu vʼlorē
+010 Daetstu ter doghet gheen beghin
+011 Hef op dijn hooft en̄ dinē kin
+012 Tontijt waerstu gheborē
+013 Hebstu dichtens vʼzworē
+014 Iacop du woens in dē dam
+015 Ende ic tutrecht dies bin ic grā
+016 Dat wi dus zijn vʼsceden
+017 Weetstu wat my meest misquā
+018 Dats dat ic noyt bate vʼnam
+019 An dichten van ons beden
+020 So es mi de zin wʼden so lam
+021 Dat ickʼ node wedʼ anquā
+022 Dat deit mi vʼleden
+023 Du weex mi als een slotel ram
+024 Al bistu wilt du warts noch tam
+025 Lere dijn worden cleden
+026 Soetelike ende ghereden
+027 Mairtin vrient heb ic messeit
+028 Jc bens te beter ghereit
+029 Jc wils al op di bliuē
+030 Mʼ vʼstaet mi en̄ onbeyt
+031 Een dinc die mi jnt hʼte leit
+032 Willic die bescriuē
+033 Dair hair die weʼlt mede meit
+034 Ne wair ooc dat. lief wair leit
+035 Ende dats mīne van wiuē
+036 Wat dat es in die weʼlt breit
+037 Steden burghen busschen preit
+038 Soudemē vʼdriuē
+039 Wildemē mīnē ontliuē
+040 Iacop dit was oyt dijn doen
+041 Van vrauwē moetstu dij̄ sʼmoen
+042 Altois begonnē of eynden
+043 Wairstu een dorper du spraex vā «koen»
+044 Nu es dine hʼte dies ontuloen
+045 Doch wil ics mi ghenēden
+046 En̄ wille of steken mijn caproē
+047 En̄ wat di hier toe spoen
+048 Dattu dē onbekenden
+
+
+
+049 Maertin niet laets geroen
+050 Al haddic an twe yseren scoen
+051 En mochte di niet ontwendē
+052 Nu vrach ic sal onbenden
+053 Mairtijn du salt mi vʼstaen
+054 Ene vrouwe wel gedaen
+055 Heeft mi beuaen mit mīnen
+056 Al dat goede es en̄ daen
+057 Lietic om hare gaen
+058 Mochte icse ghewinnē
+059 Nochtan wetic sondʼ waen
+060 Dat si mijns niet acht een spaen
+061 Mine harte doet mi bekennē
+062 Alle zoudʼ ōme die weʼlt vʼgaen
+063 Dat soe mi niet soude ontfaen
+064 Jn hare harte binnē
+065 Hier toe nes gheen vʼwinnē
+066 Een andʼ vrauwe es die mi mint
+067 Bouē al dat soe leuende kint
+068 Mit ghestader trouwe
+069 Die in my gheprijst es niet j. twint
+070 Mar de scoenste diemē vint
+071 En̄ blome bouē allen vrouwē
+072 Nu es mij̄ hʼte so hart j. blint
+073 Dat so hair dair toe yet vʼbint
+074 Dat soese yet wille scouwen
+075 Hoe lieff zoe mi toezint
+076 Het dinct mire hʼten zij̄ al wint
+077 Soe liet hair eer in stucken houwē
+078 Eer soer ōme quame in rauwē
+079 Mairtin nu hore en̄ vʼstant
+080 Dese twe zijn in een bewant
+081 Dat costen moet des eens leuē
+082 Nu hebbic de macht in mine hāt
+083 Welkʼ ic vrede den bant
+084 En̄ mach hare al vʼgheuē
+085 Emmʼ moet dene geuē dē pant
+086 Den liefste die god yet vant
+087 Hier toe zijn zij bedreuē
+
+
+
+088 En liegh mi niet als een truwāt
+089 Mʼ segt mi an welkʼ cant
+090 Dine hʼte es bleuē
+091 En̄ welke du liets sneiuē
+092 Iacop dits gheen vᵘghēs wairt
+093 Die de wairheit niet en spairt
+094 Heeft dit zaen ontbonden
+095 Het is emmʼ dʼ hʼten aert
+096 Dat so dair wʼt tijt en̄ vairt
+097 Danen hare quamē die wondē
+098 Al soudt al varē indʼ vaert
+099 So wat dat wel varēs begairt
+100 Nu en̄ te allen stondē
+101 Jc lossede die mi thʼte vʼzwairt
+102 Soude ic hare laten smakē tzwrt
+103 Dat ware ondʼuonden
+104 Meerre mort dāne zondē
+105 Tonge liecht mʼ thʼte niet
+106 Wāt so wat thʼte ghebiet
+107 Wille mē emmʼ volbringhē
+108 Wat es nairchisuse ghesciet
+109 Die sine vorme spieghelt en̄ siet
+110 Jnt watʼ sondʼ minghen
+111 Hant en̄ mont hi dair wt bovengeschreven r achter t biet
+112 Hi bid hi claghet zijn vʼdriet
+113 Nature en wils ghehinghen
+114 Dat hem can ghehelpen yet
+115 Hi doolt als hi wel selue ghiet
+116 Hi en conste sijn hʼte dwinghē
+117 Hi starf van desen dinghē
+118 MEdea toocht ons selue dat
+119 Die rouede en̄ stal hairs vadʼs scat
+120 En̄ vʼslouch harē broeder
+121 Om jazōne dies hair cume bat
+122 Si liet conīcrike en̄ stat
+123 Vadʼ zuster en̄ moeder
+124 Nochtanne dair so allene zat
+125 Wijsde hair redene den rechtē «pat»
+126 Al volghede so dē loeder.
+
+
+
+127 Mʼ thʼte was hare so mat
+128 Dair mīne in hadde gemaict j. gat
+129 Wille helt den roeder
+130 Al was die redene vroeder
+131 EXempelē vindic sondʼ getal
+132 Die mit mi souden lien al
+133 Dat ic hare tleuē gaue
+134 Die mi tharte rouede en̄ stal
+135 Jacop maec mi gheen gescal
+136 Hier sceidics niet aue
+137 Al tvolc dat woent sondʼ getal
+138 Bede op berg en̄ in dal
+139 Jst coninc ist graue
+140 Dijn prouē wart hier jegē smal
+141 Hen sal niet wairt zijn een bal
+142 Gheuollet mit draue
+143 Also help mi sinte baue
+144 Martin du best een stout seriant
+145 Dats een vaste knoop en̄ j. vaste bāt
+146 Die niemā en can ontbinden
+147 Die knoop die alexander vant
+148 Ontknochte zij̄ zwairt nᵗ zij̄ hāt
+149 Als hijs hē wilde bewinden
+150 Laet mi ghenakē an dinē cant
+151 Ghi sult noch vʼste vroescap te hāt
+152 Tellen mitten kinden
+153 Also vele als diedē mach een zant
+154 Jeghen cassenberch in vlaendʼlant
+155 Sal dieden hier v binden
+156 Al waendi mi vʼblinden
+157 Ghi wilt starcken uwe woirt
+158 Die ghi ons hier bringhet voirt
+159 Mit trufen en̄ mit poetrien
+160 Of hem merchisus heeft vʼsmoirt
+161 En̄ medea dede die moort
+162 Dits mīne van zottien
+163 Dit woort mīne en̄ dattʼ toehoirt
+164 Ne was noyt mit sondē begoort
+165 Noch mit ribaeudien
+
+
+
+166 Wien so reyne mīne becoort
+167 Die en mach niet zij̄ vʼdoort
+168 Dies sullen mit mi lien
+169 Die meesters van clergien
+170 Leest toude en̄ tniewe testamēt
+171 Ende besie wel al omtrent
+172 Alle die heilighe liede
+173 Wie was vā mīnē oyt ghescent
+174 Wiē maicte die mīne ye blint
+175 Die an gode ghiede
+176 Si mindē vrauwē wel bekent
+177 Scone en̄ wijs op zulc couent
+178 Dat hem god oyt beriede
+179 Al dogheder ōme menich torment
+180 Sulc als mīne dʼ ioghet toezent
+181 Wie waest diere of messciede
+182 Ghelijc hedinē diede
+183 Abrahā was vᵘuwē zara man
+184 Doe zijn amie vʼheffen began
+185 Hare bouē harer vrouwē
+186 Dair ne was gheen houdē aen
+187 Hi deedse wech vʼre van dan
+188 Sine hʼte was vol trauwē
+189 Gheen heilich man no wijf ne can
 190 Minnē sondʼ redene dan
-Dit ma...̄ wel bescouwē
-Selke mī...r. geuic dē ban
-Die mꝫtʼ mīnē makē gespan
-196 Dʼ e.mīne vol rouwen
-195 Dese mīne.. willī blouwē
-Of ic dan sette minē sin
-Dʼ ic en̄ mach meer no min
-Aē winnē dan scade
-En̄ mi eē andʼ heuet in
-200 Dꝫ hʼ seluē en̄ hʼ gespin
-Mi an vroech ende spade
-Mi dunc dꝫ ic m... sculdich bin
-Hʼ di mi coes int beghin
-En̄ ane mi blijft gestade
-205 Dā hʼ die fierlijc harē kin
+191 Dit machmē wel bescauwē
+192 Sulcke minres gheiftmē dē ban
+193 Die mittʼ misdaet makē ghespan
+194 Dits mīne vul rauwē
+195 Die minres willic blauwē
+196 Of ic dan sette minē zin
+197 Dair ic ne mach meer no min
+198 An winnē dan scade
+199 Ende mi ene andre so heeft jn
+200 Dat so hair seluē en̄ al ghewin
+201 Mi ian vro en̄ spade
+202 Mi dincke dat ic meest sculdich bin
+203 Hare die my coos jnt beghin
+204 Ende an my bliuet ghestade
+205 Dan hare die fierlike haren kin
+206 Te my wart draecht en̄ hare ghespin
 
 
 
-Dꝰ mach siʼe naturen
-Gheē genade gebuerē
-300 Dꝫmē dit bi redenē weet
-dꝫ god niemē heuꝫ leet
-Wiē geeft hi dlange leuē
-Soe dē genē die gereet
-305 En̄ ondʼdaē es bleuen
-Jc dʼ seggē op minē eet
-Sij̄ houeschᵗ es ōgecleet
-Lieti dē genē sneuen
-Die te sinē diēste steet
-310 Des gelijc willic gereet
-Dē loen hʼ wedʼ geuen
-Die dore mi lust te leuē
-God heuꝫ al cleyn en̄ groet
-dꝫ de mēsche heuet noet
-315 Dit proeftmē mꝫ sinne
-Hi storte dor ōs bloot roet
-En̄ geeft ōs themessche ≤broet≥
-Op dꝫmē wedʼ mīne
-Om genē wedʼ stoet
-320 Dʼ ōs nie sonde mede scoet
-Ne laet hi ons dʼ inne
-Leggē wi thouꝫ īdē scoet
-En̄ smakē dā de doot
-Die ic mi soe hout kīne
-325 Oft mij̄ vʼstaē es dūne
-Waerhᵗ iacop dits al wʼ
-Mʼ mi w te vindē zwʼ
-Dꝫtu hʼ heues ontbōdē
-Jc lie uʼwōnē opēbaer
-330 Mij̄ mīne es zielē
-En̄ besmet mꝫ sondē
-Du seges dʼ an wel en̄ wʼ
-Redē heuꝫ mij̄ waē ōmʼ
-Dꝫ hebbic ondʼuondē
-335 Nv moet ōs god brīgē dʼ
-Mīne n ent hʼ iaer
-Entē lestē stonden
-Vriē mꝫ hʼn wonden
-Die dʼde merten boec
-1 Ic mane māne mꝫten wi#≤uē≥
-die dit lesē of scriuē
-Opdē hoechten ban
-Ø
+207 Vā mīnen elder draecht de stade
+208 Ende die dicker om niet bade
+209 Iacop of ghi niet en acht
+210 Exempele die ic voirt heb bracht
+211 Jc wille ter bible keren
+212 De mīne had op adaem macht
+213 So vʼwan mit harer cracht
+214 Den vroetsten alre heren
+215 Van hem zijn wi alle ghewracht
+216 So est recht dat hē elc mā slacht
+217 Elc macht wel doen mit eren
+218 Mīne ouer redene vʼnacht
+219 Wier sore ōme weent of lacht
+220 Vrauwe yeue mosten leren
+221 Sijns willen ontberen
+222 Wat machtē so hadde sampsoen
+223 Of dauid of zalomoen
+224 Jeghen die cracht vā mīnē
+225 Dair nes ieghen cracht gheē doen
+226 Zorobabel in zijn sermoen
+227 Doet ons wel bekinnē
+228 Dat wien so vrauwē mīne ontspoen
+229 Hien mochten nēmermeer gheroen
+230 Jn zijn harte binnē
+231 Hien moste al sine zīnē ondoen
+232 Ende volghen hare die hē ware ōtfloen
+233 Of hē seluē ontsinnē
+234 Hier ieghen nes gheen vʼwinnē
+235 Iacop segt vʼstaestu niet
+236 Wat dit woort amor bediet
+237 Dat in dietsche luut mīne
+238 Elc letterkin diet wel besiet
+239 Hout j. woort jn d en̄ bespiet
+240 Dʼ mīnen cracht dair jnne
+241 Aldus ontbint tlatijnsche diet
+242 Porringhe die den zin ontyet
+243 Ende tseer trect ten beghinne
+244 Ende redene ghemoeten pliet
+245 Aldus onttant my en̄ besciet
+246 Mijn meester als ic kinne
 
 
 
-5 En̄ sieʼ n in en driuen
-Wort lettʼe af no an
-Doē sijt oec hē sal becliuē
-Minē ban sine zelē afwriuen
-Niet mogē nochtā
-10 Dits geē spot vā ketiuē
-Hꝫs dʼ ic mi om liet ōtliuē
-Eer ickʼ sciede van
-Nv leʼe die leerē can
-Iacop wi hebbē ondʼlinge
-15 gehandelt messelike dinge
-Nv antwʼt mi op een
-Leʼe mi eer ic di ōspringe
-Hoe ic mij̄ hʼte dʼ toe dwīge
-Hē te kīnen die wi vleē
-20 Ic lese somtijt en̄ singe
-Gode te kīnen bi sinē gehinge
-Es leuē sondʼ ween
-Dꝫs wʼheyt claer en̄ gehinge
-Suptijl wʼ thʼte diet beuīge
-25 Wāt hogʼ dinc nes gheē
-Antwert tusschē ōs tweē
-Mertē du vrages te hoge
-al vlogic bouē dʼ inglen vʼ
-Bouē cerub en̄ ceraph
-30 So wetic wel dꝫ ic en moge
-Berechtē dꝫ te vollen doge
-Mꝫ wʼdē n hʼ af
-Alle sinne sijn te droge
-Alle naturē hoemēt poge
-35 Ne dogē n eē caf
-Dꝫ hʼ enich te vollē doghe
-Mʼ vʼscarp dij̄s sins oge
-Hort wꝫ natuʼe di gaf
-Horet in diʼe hʼtē graf
-40 Moyses spᵉct in sinē boeken
-Beestē die dē berch besoekeʼ
-Moetē sijn gescent
-Beeste es hi de wille roekē
-Te nauwe om de godhᵗ loeʼ
-45 Hets recht dꝫ hijt beweēt
-Du sout mi in allē hoeken
-Mꝫ rine sondʼ valsch vā doekʼ
-Ø
-Es dit goet ic wane neent
+247 Of mijn vʼstaen es dinne
+248 Of dit mīne es als het es
+249 Dies sijt zeker en̄ ghewes
+250 Jc volghe mīne eerstē woorde
+251 Ouer wairheit lye ic des
+252 Soene smaictʼ zwart no mes
+253 Die mi thʼte doir boorde
+254 Herte nēmʼmeer ghenes
+255 Noch gheruste noch ghesces
+256 Lieghic van enē woirde
+257 Prouf dattu wils iacop en̄ les
+258 Dies es mine hʼte wel gheles
+259 Dat ic mi eer vʼsmoirde
+260 Eer icse steruē hoirde
+261 Maertijn ruud gramarien
+262 Du pleechs dat rude p liedē plien
+263 Die tware niet willen lyen
+264 Mesdaden die dē wisen ghescien
+265 Salmē niet in exemplen tyen
+266 Mʼ gode benedien
+267 Die ons dair bi leert zondē vlien
+268 En̄ op rechte mīne zien
+269 Des hopic an marien
+270 Dat ic doe noch heyden ghien
+271 Met mi of du best een payen
+272 Of in heresien
+273 Of vans duuels partien
+274 Hore na mi en̄ vʼstant
+275 Wie was die eerst die mīne vant
+276 Dan god zelue die es minne
+277 Al dat oyt maicte zine hant
+278 Dat mint sire harten bant
+279 Mit bescedenē zinne
+280 Ja lucifaer dē viant
+281 Ne haet hi niet dats becant
+282 No ne deide van beghinne
+283 Dat hi sit indʼ hellen brant
+284 Dat doet dʼ houairde bant
+285 Dʼ helscher coninginne
+286 Dair bliuet hi altois jnne
 
 
 
-50 Wʼt goet ic soudʼ di om vloeken
-Ic wane dij̄ herte meent
-Dꝫtu mi heues verbeent
-Iacop dune salti n vʼgramen
-Ic souts mi in mi selven scamen
-55 Haddict oit gedocht
-Oec lie ic mꝫti te samen
-Dat de hoecheit der hoger namen
-N te vʼre doech gesocht
-Al wʼt dꝫ alle dīgle qᵘmen
-60 Sij cōdē de godhᵗ n gehamen
-Dits al af gecnocht
-Mʼ leʼe minē cckē sin lamen
-Gewōt mꝫtʼ sondē bramen
-Van dattu vermocht
-65 Soe es minē wil volbrocht
-MErtē mʼct in dinē sinne
-God es wesē vor al beginne
-Dedelste bouē al
-Sijn wesen es alsic kinne
-70 Dupperste god duppste minne
-Die es oft wesen sal
-Sij̄ wʼkē dʼmē kint inne
-Sij̄ so gᵒt dꝫsi sij̄ dunne
-Diet kīnē gᵒt en̄ smal
-75 Sijn wesē es conīginne
-Bouē aldʼhande gewinne
-Ende bouē alle geual
-Dʼ bouē en̄ int dal
-DĒ hemel en̄ tē troē mʼke
-80 God es bouē zij̄ wʼke
-En̄ ondʼ al sij̄ dinc
-Hi es butē als in herke
-En̄ bīnē dꝫ hout sterke
-Hʼ ute n en sprinc
-85 Oec seggen ons wise clerke
-Hi nes n gedeilt in perke
-Hʼtoe dijn herte dwinc
-Mʼ geheel nu merke
-Butē binnē in watʼ in swʼke
-90 Hʼ in dij̄ hertte dwinc
-Sondʼ lose winc
-Boven es god als heere
-Die besitter es emmermeere
-Alles dies men weet
+287 Dat dit wair es proef ic wel dat
+288 Wair enighe dinc van gode ghehat
+289 Soe en mochte niet gheduren
+290 Die onghetellede godsat
+291 Ne was noyt te ontfarmene mat
+292 Sijnre creaturē
+293 Op datmē hem mit hartē badt
+294 Mʼ lucifaer zit en̄ zat
+295 Nu en̄ telker vren
+296 Jndʼ fierer houardē stat
+297 Ende nēmermeer wʼt hijs zat
+298 Dus ne mach siere naturē
+299 Ghene ghenade gheburē
+300 Na datmē bi redenē weet
+301 Dat god niemene heeft leet
+302 Wien gheeft hi tlanghe leuē
+303 So den ghenē die hē es wreet
+304 So die hē niet mīnē heet
+305 Onderdaen es bleuē
+306 Jc dart wel segghē vp minē eet
+307 Sine houescheit ware onghecleet
+308 doorgehaalde letteraanzet Liete hi dē gonē sneuē
+309 Die al te zinē dienste steet
+310 Des ghelijcs wil ic ghereet
+311 Den loon hair wedʼ gheuē
+312 Die doir mi lust leuē
+313 GOd gheuꝫ al clene en̄ groot
+314 Dies de mensche heuꝫ noot
+315 Dit prouftmē mit zinne
+316 Hi storte doir ons zijn bloet root
+317 Ende gheeft ons dat hemelsche broot
+318 Op datmē wedʼ minne
+319 Doir ghene wederstoot
+320 Dair ons sonde oyt mede scoot
+321 Sone laet hi ons dair jnne
+322 Legghen wi thooft in zinē scoot
+323 Soude so smakē dan den doot
+324 Die ic mi so hout kinne
+325 So ware mijn vroede dinne
+326 Waerhede iacop dits al claer
+327 Mer het was mi te vindē zwair
 
 
 
-95 Onder als in elkē keʼe
-Sij̄ dinc hout mogēde zeʼe
-Jegē alle vʼsceet
-Butē als die mꝫ siʼe were
-Sij̄ were behōt dꝫ hē en dere
-100 Gheē dinc cout no heet
-Binnē als de mꝫ siʼe leere
-Sij̄ wʼc uʼwlt mꝫ selkʼ eʼe
-Dꝫ ewelijc steet
-Wiēt lief si ofte leet
-105 Bouē es god algedragē
-Geē dinc mach hē beclagē
-Dꝫ hise iet vʼlast
-Ondʼ sondʼ last van wagē
-Wāt hē mach rustē no iagē
-110 Sij̄ wesē es soe vast
-Butē breet hi niewʼ sij̄ dagē
-Wāt hi es sondʼ vragen
-Wʼt uogꝫ en̄ niet gast
-Bīnē uʼwlt hijt iegē plagē
-115 Dꝫ sij̄ dinc mꝫ geēre vlagē
-Ne si ongerast
-Noch gequests eē bast
-Vā eenē god spʼkē wi vā enē
-Die wi vadʼ en̄ sone menē
-120 En̄ tē heilegē geest
-Wꝫ wel dꝫ wi ne ghenē
-So gᵒt noemē no soe cleenē
-Dꝫtʼ enich es meest
-Eenē god seggē wi enē reenē ʼ geschreven
-125 Noch vʼmogēdʼ no vʼbenen
-Ne wʼtʼ aē vereest
-Die sinē sin soe laet vʼstenē
-Dꝫti des loechent hi moet ≤wenē≥
-En̄ sij̄ geureest
-130 Indē helschē tēpeest
-Wi settē dē vadʼ voren
-Ongewōnē en̄ ongeborē
-En̄ voor al beghin
-Dʼna dē sone wt uercorē
-135 Vā hē gewōnē alst wi horē
-Eer begin ghinc in
-Dē heilegen geest lere wi den dorē ʼ geschreven
-Uut desen comende ontdoe dijn oren
-Elc mēsche en̄ sinē sin
+328 Dattu hier helts ontbonden
+329 Jc lye verwōnē openbair
+330 Mine mīne dats zielē vaer
+331 Ende besmit met zondē
+332 Du segs wel en̄ wair
+333 Redene heit minē waen ōmaer
+334 Dit hebbic ondʼuondē
+335 Nu moete ons god bringhē dair
+336 Dair mīne nᵗ ent haer jaer
+337 En̄ ten laetsten stondē
+338 Vrien mit zinē wondē
+in latere hand III
+001 IC mane mānē mittē wiuē
+002 Die dit dicht sullē lesen of scriuē
+003 Op den hoichstē ban
+004 Dat si dit dicht latē bliuē
+005 Feine dat sire niet in driuē
+006 Woort no lettere of no an
+007 Doen sijt ooc hem sal becliuē
+008 Mijn ban en̄ si ne sulne of wriuē
+009 Niet moghen nochtan
+010 Het nes gheen spot vā keytiuē
+011 Hets dair ic mi ōme liete ōtliuē
+012 Eer ickʼ scede van
+013 Nu hore die leren can
+014 Iacop wi hebben ondʼlinghe
+015 Ghehandelt misselike dinghe
+016 Nu antwoirt mi op een
+017 Lere mi eer ic di ontspringhe
+018 Hoe ic mine hʼte dair toe dwīge
+019 Te kēnene hē diē wi vleen
+020 Ic leise somwile en̄ singhe
+021 Dat gode te kēne bi sinē ghehīge
+022 Es leuē sondʼ ween.
+023 Dits wʼheit claer en̄ ghinghe
+024 Subtijl wair thʼte diet bevīghe
+025 Want hogher dinc es gheen
+026 Nu antwoort tusschen ons tweē
+027 Martijn du vraghes te hoghe
+028 Al vloghic bouē d'englen vloghe
+029 Bouē cherub en̄ seraph
+
+
+
+030 Soe wetic wel dat ic ne moghe
+031 Berechten dat di te vullē doghe
+032 Met reden hier af
+033 Alle zinnē zijn te droghe
+034 Alle creaturē hoe so mē poghe
+035 Ne doghen niet een caf
+036 Hi Dat hair enich te vullē toghe
+037 Mer vʼscep dijns zins oghe
+038 Hore wat scrifture mi gaf
+039 Hout in dire hʼtē graf
+040 MOyses sprect in sine boekē
+041 Die beeste die de berghen soekē
+042 Moeten zijn ghesteent
+043 Beeste es die mēsche die wille besoukē
+044 Te nauwe en̄ om die godhᵗ loukē
+045 Hets recht dat hijt beweent
+046 Du soucts mi in allē houkē
+047 Met rimē sondʼ valsch vā doukē
+048 Eist goet ic wane neent
+049 Du telts mi mettē wisen cloukē
+050 Wairtt goet ic soudʼ di om vloukē
+051 Ic wane dine harte meent
+052 Dattu mi hebs vʼbeent
+053 Iacop du en zouts di nᵗ vʼgᵘmen
+054 Ic souts mi in mij̄ seluē scamē
+055 Had ict oyt ghedocht
+056 Oic lye ics metti te samē
+057 Dat de hoichᵗ dʼ hoghʼ namē
+058 Te vʼre niet docht ghesocht
+059 Al wairt dat alle die enghelē qᵘmē
+060 Si en conden die godhᵗ ghehamē
+061 Dits al of ghecnocht
+062 Mʼ lere minē zin dein lamen
+063 Ghewont mittʼ zondē blamē
+064 Van datti vʼmocht
+065 So es mijn wille volbrocht
+066 Mairtijn nv merct in dinē zinne
+067 God es een wisen doorstreept wesē vor alle begīne
+068 Tedelste bouē al
+069 Sijn wesen es als ict bekinne
+
+
+
+070 Tupperste goet de opperste mīne
+071 Dat es off wesen sal
+072 Sine ghewerke dairment kent jnne
+073 Es so groott dat si sijn dinne
+074 Diet kēnen en̄ smal
+075 Sine wijshede es coninginne
+076 Bouē alrande ghewinne
+077 Ende bouē al gheual
+078 Dair bouē of hier int dal
+079 Den hemel en̄ den troon gemʼcke
+080 God es bouē al sinē ghewercke
+081 Ende onder al zine dinc
+082 Hi es butē al nv mercke
+083 En̄ binnē al dit hout starcke
+084 Hier vte niet en sprinc
+085 Ooc segghen ons die wise clerke
+086 Hi es niet gedeilt in parke
+087 Hier toe dine hʼte dwinc
+088 Mʼ gheheel in elkē nv mʼcke
+089 Buten binnē in watre in zwʼke
+090 Hier in dine harte brinc
+091 Sondʼ losen winc
+092 Bouē al es god als here
+093 Die besitteʼ es emmʼmere
+094 Alles datmē weet
+095 Ondʼ als die niet allen kere
+096 Die dinc hout mogēdelic zere
+097 Jeghen al weersteet
+098 Butē als die mit sire were
+099 Sijn werc hoet dat hē ne dere
+100 Ghene dinc cout no heet
+101 Binnē als die met sire lere
+102 Sijn werc vʼuolt mit sulkʼ ere
+103 Dat ewelike steet
+104 Wient lief si of leet
+105 BOuen al es god onghedraghē
+106 Ghene dinc mach gheclaghē
+107 Dat hise vʼlast
+108 Ondʼ zondʼ van waghen
+109 Want hē ne moeyt rustē no ja#«ghen.»
+
+
+
+110 Sijn wesen es so vast
+111 Butē ne breet nauwʼ sine daghē
+112 Want hi es altois sondʼ vraghen
+113 Werdt g doorgestreept voghet en̄ met gast
+114 Binnē vʼuolt hijt jeghen plaghē
+115 Dat zijn werc met ghenē vlaghē
+116 Ne sijn ongherast
+117 Noch ghequetst een bast
+118 Van enē god sprekē wi dan vā enē
+119 Dien wi vadʼ ende sone menē
+120 Ende den heilighen gheest
+121 En̄ weet wel dat wi ghenē
+122 So groot nomē no so clenē
+123 Dattet enich es meest
+124 Enen god segghen wienē renē
+125 Noch vʼuogheden noch vʼlenē
+126 Esser an vʼheest
+127 Die sinē sin so laet vʼstenē
+128 Dat hi dies lochent hi moet wenē
+129 En̄ ewelike zij̄ ghevreest
+130 Indē helschen tempeest
+131 WI settē dē vadʼ voren
+132 Onghewonnē en̄ ongheborē
+133 En̄ voir al beghin
+134 Dair na dē zone wtuʼcorē
+135 Van hē ghewonnē als wijt horē
+136 Eer oyt beghin ghinc jn
+137 Den heilighen gheest lerē wi de doren
+138 Wte desen comēde ondoe sine oren
+139 Elc mensche zine doorstreept en̄ zinē sin
+140 En̄ latet gheloue niet te storen
+141 Want al hadt alde weʼlt ghezworē
+142 So en conde ōme gheen ghewin
+143 Ghegronden meer of min
+144 Eer of achtʼ tijt of stonde
+145 Dat vʼstaet vā minē monde
+146 Was noyt an dese drie
+147 Den vader setten wi als te gronde
+148 Dair alle duecht af begonde
+149 Diemē vʼstaet of zie
+
+
+
+150 Den zone als wijsheit diet al cōde
+151 Des vadʼ clairheit en̄ zine orconde
+152 Die van hem ne saeden nie
+153 Die den heilighē gheest ontbonde
+154 Hairer beder mīne hi dair ī vonde
+155 Dese drie warē oyt en̄ ye
+156 Een god ghelouets mie
+157 DIemē es wille hi yet makē
+158 Hi en moet in hē seluē smakē
+159 Enigherhandʼ triniteyt
+160 Wāt hi moet erboven geschreven moeghē dʼ dinc genakē
+161 En̄ hi moet kōnē die dinc gerakē
+162 Of hets hē al ontseit
+163 Ooc moet hi wilē dair om wakē
+164 Macht conste wille dese drie zakē
+165 Vintmē in die menschelicheit
+166 Die dese note wel can craken
+167 Hi en darf beiden no hakē
+168 Hine vint in ene godheit
+169 Drie ꝑsone gheseit
+170 Dese god dair wi erboven geschreven of leren
+171 Doet troon son̄e mane stʼrē kerē
+172 En̄ al dat roerende sij
+173 Sine ruste es nochtan so vul erē
+174 Dat hē niet en can ghederē
+175 Gheen porrē vʼre of by
+176 Hi es dʼ hi was dit nes gheē scerē
+177 Hine willē mindrē no meerē
+178 Hi es sijns selfs vri
+179 Hi doet hair alle dinc ghenerē
+180 Sine rijchᵗ en mach niemē vʼteʼn
+181 Alle steiden vʼuolt hi
+182 Dus leret gheloue my
+183 God ne sluut ne ghene stede
+184 Mer alle steden beluuct hi mede
+185 In sine godlicheit
+186 Die jarē keert sine moghēthede
+187 Ende niet es dattē kerē dede
+188 Sine macht es so breyt
+
+
+
+189 Cracht no noot no ghene beide
+190 Ne mach hem doen onleidicheide
+191 Hoe soe die zake gheyt
+192 So ghestade es god in sine seide
+193 Datten cracht no ghene onvrede
+194 Wt sinē wille en leyt
+195 Dits al wair gheseit
+196 Huden ghistre en̄ onse leuē
+197 Ende dair es en̄ an ghegeuē
+198 Si het cort of lanc
+199 Mʼ alsmē vint vā gode bescreuē
+200 Dit woort hudē so esser an bleuē
+201 Een ewelike ōmegang
+202 Dair gheen eynde an mach cleuē
+203 Noch gheen beghin wʼter vʼheuē
+204 Sijn wesen es so strang
+205 Sine ieghen woirdichᵗ es beneuē
+206 Dat was en̄ wʼt dus est bescreuē
+207 En̄ nv es gemanc
+208 In dese weʼlt cranc
+209 Martin nv en claech no croen
+210 Dits een god in drien ꝑsone
+211 Dair ic of spreke die
+212 Euen gheweldich euen scone
+213 Euē ghelijc in weʼlt in throne
+214 ne doorstreept Sijn dese enighe drie
+215 Redene en draecht hier nᵗ de crone
+216 Mʼ tgheloue sondʼ hone
+217 Des en twifele nie
+218 Wat erē haddē wijs of wat lone
+219 Of wi die doghē ene tone
+220 Ghelouē dat elc zie
+221 Nu antwoirt mi en̄ ghie
+222 Iacop ic lye ten beghinne
+223 Dat ic subtijlre wort van zinne
+224 Niet en heb ghehoirt
+225 Dan du my hier maects an jnne
+226 Doch proue ic wel en̄ kinne
+227 Te grondene dese woort
+
+
+
+228 Dair es onse redene toe wel dinne
+229 Ons en trucke gheloue en̄ mīne
+230 Vpwairt ter hemelscher poirt
+231 Dair god es loon bouē ghewīne
+232 Ende dair tgeloue es conīginne
+233 Nu antwoirt mi bet voirt
+234 Of ict niet heb vʼboort
+235 Andē vadʼ vā hemelrike
+236 En̄ andē zone dies ghelike
+237 En̄ andē heilighē gheest
+238 So es mijn geloue also rijke
+239 Dat een god is en̄ ics ne wike
+240 Hoe so ic worde gheureest
+241 Mʼ segt mi so claer dat blike
+242 Hoe die zone die ewelike
+243 Den vadʼ es alre neest
+244 Mensceyt ontfinc vā onsē gelike
+245 Dat di god niet bezwike
+246 En̄ hi di gheue volleest
+247 Die minst was en̄ wort meest
+248 En̄ ōme dat dit moete gedien
+249 So biddē wi dʼ maghet marien
+250 Diene maghet ontfinc
+251 En̄ maghet ghenas des wi al lyen
+252 Dair wise alle ōme benedien
+253 Datsi starcke onse dinc
+254 En̄ moete claersen en̄ wien
+255 Dinē zin en̄ van zondē vrien
+256 Dat hʼte si sondʼ winc
+257 Van alrehande dorpernien
+258 Du en moets mi oec niet tyen
+259 Dat ic di te naer ghinc
+260 Mʼ minē wille volbring
+261 Mairtin die val vā lucifaer
+262 Der houairden en̄ des nijts here
+263 Die was also groot
+264 Dat vele englen ontgoldē zere
+265 Dies met hē ware vten kere
+266 En̄ vielē in de doot
+267 Doe dede god dē mēsche die ere
+
+
+
+268 Dat hine ghesciep om dat hi lere
+269 Te doene dat god gheboot
+270 En̄ te besittē dan ēmʼmere
+271 Dier inglen stoel ter harer ōnere
+272 En̄ nutte themelsche broot
+273 Sondʼ wedʼstoot
+274 Die heeft die duuel vʼnomē
+275 En̄ es tottʼ menschᵗ comē
+276 Sprekende int serpent
+277 Ende heuet tonser vromē
+278 Onse vorders gedaen vʼdomē
+279 En̄ zwairlike ghescent
+280 Dit was zijn sondʼlange beromē
+281 Dat hi al gadʼ met hē zomē
+282 Tuolc heeft vʼblent
+283 Dus wille hi vtē hemel dromē
+284 Ons dat ons die hemel blomē
+285 Niet en wordē bekent
+286 Dair hi of was ontwent
+287 Die gods zone sach dē mā vʼradē
+288 Ende dē viant vā ouʼdaden
+289 In rome zere groot
+290 En̄ wilde hē staen in staden
+291 So dat hi bi zire ghenadē
+292 Marien dat ontboot
+293 Die mit hē zaen wʼt geladen
+294 Sondʼ last of point van scadē
+295 Ende zondʼ enighe noot
+296 Moeste soene zoghē en̄ baden
+297 Die alle dinc mach vʼzadē
+298 En̄ houdē in hare scoot
+299 Dies hare niet verdroot
+300 Al gheheel en̄ alte male
+301 Rustede indʼ maghet smale
+302 Die gods zone gods kint
+303 Ende al gheheel ooc also wale
+304 Was hi in des vaders zale
+305 Mit hē ne twifelts twint
+306 Die menscheit dies nes ghene hale
+307 En besloet niet in desen dale
+308 Die godheit diet al bint
+
+
+
+309 Die godheit heeft ghene pale
+310 Die menscheit meent mine tale
+311 Ontfinc god diet al mint
+312 In hem dus est bekent
+313 Euen gheweldich en̄ here
+314 Es hi en̄ wʼt ēmʼmere
+315 Den vadʼ in die godheit
+316 Mʼ est datmēt tʼ mēschᵗ kere
+317 So was hi vele mindʼ zere
+318 Na die menschelijcheit
+319 Na die godheit spreect onse lere
+320 Was ontsterflijc onse here
+321 Dit es een besceyt
+322 Die mēsche doghede als ic spᵘc ere
+323 Gheselen naghelen en̄ dat spere
+324 Die doot en̄ andʼ leit
+325 Ende dʼ ioden pleit
+326 Die mēscheit liet hair besnidē
+327 Dopē prouuen in dien tydē
+328 Vandē helschē viant
+329 So liet hi hare vaen en̄ beniden
+330 Doirborē handē en̄ v doorstreept voetē en zidē
+331 So starf dus est becant
+332 Die ziele wilde tʼ hellē tiden
+333 Dair ze de gone wilde vʼblidē
+334 Die de duuel bant
+335 Ay hoe si gode benedidē
+336 Die heilighē diene zaghē stridē
+337 Jeghens des duuels brant
+338 Dair hise jnne vant
+339 Die godheit wecte vā dode te liue
+340 Tvleesch dat hi vandē reyne wiue
+341 Vrouwe marien nam
+342 Hy troiste sine lieue keytiue
+343 Hier .ij. hier .iij hier iiij hier v
+344 Mit hem hi eten quam
+345 Dus es die gods zone als ic scriue
+346 God en̄ mensche elc man bliue
+347 Hier in ghehoirsaem
+348 Es ooc enich sin so stiue
+349 Die jeghen dit gheloue kiue
+
+
+
+350 Hem sal themelsche lam
+351 Ten jonxstē daghe wʼdē gram
+352 Indē hemel es hi gheuaren
+353 Daert de zine ane zaghē te warē
+354 Tes vaders rechtʼ hant
+355 Dair hi altois sondʼ sparen
+356 Den vadʼ vor sine caren
+357 Die hē hier zijn becant
+358 Noch comt hi hē hier vʼbaren
+359 Dienē die weʼlt mit sinē scarē
+360 En̄ dē helschē viant
+361 Zonne en̄ mane sal hi vʼclaren
+362 Die bi adame vʼdonckert warē
+363 Watʼ lucht en̄ lant
+364 Sal purgieren een brant
+365 Al est dat hi dus oprande
+366 Hi liet dē sinē hier te pande
+367 Sijn vleesch en̄ zijn bloet
+368 Te consacreren in priestʼs hande
+369 Wie es die sulke haue becande
+370 Of betere of also goet
+371 Ay god nv breect onse bande
+372 En̄ vʼghef ons dine hande
+373 En̄ dinē euelmoet
+374 Dat onse mont en̄ onse tande
+375 Smakē moetē sondʼ scande
+376 Dijn vleesch en̄ dijn bloet
+377 Dat vte dire siden woet
+378 Vte desen zone vte desen wonde
+379 Wies godheit niemē en cā gegrondē
+380 Nu wies menschelicheit
+381 So vloeyende eerst en̄ begondē
+382 Die sacramentē te dien stondē
+383 Ende alle zalicheit
+384 Nu hebbic di tgheloue ontbondē
+385 So ict naest hebbe ondʼvondē
+386 Na mire moghentheit
+387 Die dit gheloue vaste orcondē
+388 Oflaet groot van harē sonden
+389 Es hem altois ghereit
+
+
+
+390 Op datmer jn vulsteyt
+391 Iacop du berechts my scone
+392 Berecht mi vandē persone
+393 Diemē heet heilich gheest
+394 Hoe mijn gheloue sondʼ hone
+395 Te hem clēme en̄ winne die crone
+396 Die alre hauē es meest
+397 Wāt vandē vadʼ en̄ vandē zone
+398 Hebbe ic bedi dat di god lone
+399 Scone berecht vʼheest
+400 Dies dancke di dʼ martelarē vrome
+401 Dair bouē indē hoghē trone
+402 En̄ gheue di vulleest
+403 Datture coms onghevreest
+404 Mairtin ons leert die scrifture
+405 Dat een god en̄ een nature
+406 Emmer sijn dese drie
+407 Altois euē na ghebure
+408 En̄ vʼscedē te ghere vre
+409 Noch en scedē nie
+410 Vadʼ kint vʼstant ter cure
+411 Vte deser dobelre gods dure
+412 Wie cant ghegrondē wie
+413 So comt die gheest die zoete ghure
+414 Die fine godheit en̄ die pure
+415 Hier op prouf en̄ zie
+416 Met hartē en̄ dies ghie
+417 Dits die troest die alre neeste
+418 Hem die aerm sijn van gheeste
+419 Leert hi blide zijn
+420 Hi es in pinē altois feeste
+421 Hi doet meneghen die was beeste
+422 Sijn zuuer en̄ fijn
+423 Waphene god die dat doorstreept vʼheeste
+424 Dat hi van sinē vulleeste
+425 Smaicte een dropelkijn
+426 Hi ware gode die alre neeste
+427 Want ghene vrese vā tempeeste
+428 Noch gheen venijn
+429 En scadet dʼ zielen sijn
+
+
+
+430 its des vadʼs en̄ des zoens gaue
+431 Rijcheit bouē alre haue
+432 Fonteyne des leuens al
+433 Wie so gheporret wʼt hier aue
+434 Wat rijcheit so mē hē els gaue
+435 Soude hē dinckē smal
+436 Rijcheit die coninc heift of graue
+437 Nes tienste deel niet van enē caue
+438 Te mickene jeghen dit gheual
+439 Ihesus die rustes indē graue
+440 Mit deser eydelheit so laue
+441 Ons alsmē rumē sal
+442 Dit arme airtsche dal
+443 Dits des vaders en̄ des zoens mīne
+444 Dits caritate dair altois jnne
+445 Rust die triniteit
+446 Hi es die ꝓpheten zinne
+447 Leerde en̄ makede in jnne
+448 Des gods soens mēschelichᵗ
+449 Hens coninc no coningīne
+450 Die ēmʼmeer of laet ghewīne
+451 Van sire onsalicheit
+452 Hi en hebbe een traen al wʼt oic dīne
+453 Van desen dauwe te sinē beghīne
+454 Al weluarē es ontseit
+455 Dair dese es onghereyt
+456 Dese leerde te apostelē te waren
+457 Alle tonghen die ye warē
+458 In dese werelt breet
+459 Dese gaf dē martelarē
+460 Datsi condē sondʼ mesbarē
+461 Ghedoghen menich leet
+462 Dese can die zinnē vʼclarē
+463 Die mit sondē hē vʼzwarē
+464 En̄ tcoude makē heet
+465 Sinē lieuē sinē caren
+466 Deelt hi al sondʼ enich sparē
+467 Dat godlike cleet
+468 Dat nēmermeer te gheet
+469 Wat helpt martin sin en̄ tale
+470 Die begheuē my al te male
+
+
+
+471 Meer te spreken voort
+472 Elc persoen vʼstant my wale
+473 Es god en̄ dies nes ghene hale
+474 Van drien dairmen of hoert
+475 Doch en eist wair J. die berg en̄ dale
+476 Sciep en̄ al dat grote en̄ al dat smale
+477 Dair of sprekē alle woirt
+478 En ganc niet ouʼ dese pale
+479 Mʼ hout dit in dire hʼtē zale
+480 So en wʼtstu niet vʼsmoort
+481 In de helsche moort
+482 Ware ooc yemēt die wedʼsprake
+483 Dit gheloue en̄ dese sake
+484 Hi ware ewelike vʼdomt
+485 Recht waert datmē indē brāt stake
+486 En̄ hi dair na thelsche vier smake
+487 Dairmē dē duuel in droomt
+488 Help god dat ic dair gherake
+489 Dair ic zie en̄ dair ic smake
+490 Die godheit onghenoomt
+491 So en trect my nᵗ die helsche drake
+492 Met hē tʼ ewelike wrake
+493 Dair niemē vte comt
+494 Wien soot scaet of vroemt
+495 Amen iacop lieue gheselle
+496 Mi dincke dat ic di zere quelle
+497 Doch haddics gᵒte noot
+498 Als ic dit lese ende spelle
+499 Mach ic leren als ic vʼtelle
+500 Mijn geloue al bloot
+501 Dair ic bi scuwē mach die helle
+502 Op dat ic mi dair toe vʼsnelle
+503 Te doene dat god geboot
+504 En̄ die doot wraec vā abelle
+505 Bringhe ons noch tʼ hoghʼ celle
+506 Dats in abrahams scoot
+507 Na dese corte doot . Amen .
+508 Et sic eʼ finis sit laus et glʼa tʼnis
                     
