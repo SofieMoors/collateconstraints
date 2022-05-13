@@ -1,10 +1,10 @@
 &1ra&
 
 1 <W_4><A>pene merten hoe 
-saelt gaen.<S>al dese 
+saelt gaen. 2 <S>al dese 
 werelt yet la(n)ge stae(n)
-<I>n dus crancke(n) geloue.
-<S>oe sal mijn vrouwe va(n) eere(n) saen
+3 <I>n dus crancke(n) geloue.
+4 <S>oe sal mijn vrouwe va(n) eere(n) saen
 5 <S>onder twiuel ende waen
 <R>umen der heeren houe.
 <I>c zie den scalke(n) wel ontfaen

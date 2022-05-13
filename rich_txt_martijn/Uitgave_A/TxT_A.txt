@@ -152,6 +152,7 @@
 <H>i die adame tlijf in blies
 <D>ie meester der natueren
 140 <H>euet beuole(n) merc en(de) besies
+141 Ø
 <D>er blend[er] auentueren
 <D>ie v[er]keert telker vren
 <I_1>acop sech bestu v[er]dort
@@ -750,12 +751,12 @@
 <E>n(de) meneghe coude
 <W>ach datti nature oit vant
 <W>aerdi v[er]bode(n) huus en(de) lant
-700 <E>n(de) des mei(n)schen houde
+695 <E>n(de) des mei(n)schen houde
 <S>one bonde mi gheen bant
 <L>ichtre ware dan een zant
 <A>l gader mine scoude
 <M>en stake bet vut mett[er] hant
-<7>00 En(de) v[er]smorde sulke(n) pant
+700 <E>n(de) v[er]smorde sulke(n) pant
 <O>nder donreene moude
 <V>p dat nature woude
 <T_1>herte zweech en(de) toghe sprac

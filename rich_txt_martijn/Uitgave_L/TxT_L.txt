@@ -4,11 +4,11 @@
 m*e*rten
 hoe saelt 
 gaen
-<S>al dese 			
+2 <S>al dese 			
 werelt 
 lange stae(n)
-<I>n dus crancken loeue		
-<S>oe sal mijn vrouwe vere(n) saen
+3 <I>n dus crancken loeue		
+4 <S>oe sal mijn vrouwe vere(n) saen
 5 <S>onder twiuel ende waen			
 <R>umen der heren houe		
 <I>c sie den scalcke(n) wel ontfaen 	

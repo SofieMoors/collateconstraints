@@ -118,7 +118,7 @@
 <I>c wilt al v[er]dragen	
 465 <G>od hulpe mi wa(n)t hi ver#macht erboven geschreven	
 <D>{at} mij(n) sin w[er]de gevaget
-110 <D>{at} di moet behagen	
+<D>{at} di moet behagen	
 <I>c wille danw[er]de wage(n)
 <I>acob nv berecht mi	
 470 <O>ft d{at} uolc al come(n) si	
@@ -328,7 +328,7 @@ die rouede en(de) stal h[aer]s vad[er] «scat»
 150 <L>aet mi genake(n) uwe(n) ca(n)t
 <M>e(n) sal v wijsh%eit% te hant
 <T>elle(n) m{et}ten kinden
-<A>ls(oe) vele als diede(n) mach .j.// //sant erboven geschreven
+<A>ls*oe* vele als diede(n) mach .j.// //sant erboven geschreven
 <J>ege(n) casselb[er]ch in vlae(n)d[er]lant
 155 <S>al diede(n) h[ier] v vinden
 <A>l wae(n)di mi v[er]blinden

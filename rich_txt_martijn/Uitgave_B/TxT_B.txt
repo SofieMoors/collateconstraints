@@ -8,8 +8,8 @@
 <R>umen heren houe
 <I>c sie die valsche wel ontfaen
 <D>ie de heren conne(n) d[oer]staen
-10 <E>nde plocke(n) vande(n) stoue
-<E>n(de) ic sie den rechten slaen
+<E>nde plocke(n) vande(n) stoue
+10 <E>n(de) ic sie den rechten slaen
 <B>ede bespotten en(de) vaen
 <A>ls die meze in de cloue
 <R>echt offen god v[er]scoue
@@ -1863,7 +1863,7 @@ ne doorstreept <S>ijn dese enighe drie
 420 <H>i es in pine(n) altois feeste
 <H>i doet meneghen die was beeste
 <S>ijn zuuer en(de) fijn
-<W>aphene god die dat (b? doorstreept) v[er]heeste
+<W>aphene god die dat b? doorstreept v[er]heeste
 <D>at hi van sine(n) vulleeste
 425 <S>maicte een dropelkijn
 <H>i ware gode die alre neeste
