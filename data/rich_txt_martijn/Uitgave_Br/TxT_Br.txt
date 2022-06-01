@@ -112,7 +112,7 @@
 <W>t reynder h[er]ten dan
 <M>et doechden besneden
 <E>nde doet noch heden
-560 <*M*_2><E>rte(n) oftu clemme(n) wout
+560 *<M_2>*<E>rte(n) oftu clemme(n) wout
 <E>*..*edelheit drie poente(n) hout
 <D>ie ic di sal leren
 <W>es nerachtich mi(n)ne n{iet} gout
@@ -238,7 +238,7 @@
 <W>illic d{at} hier bi si beduut
 675 <P>roeft hoe ic dit ontbinde
 <E>ntie redene vinde
-<*.*_2><E>n swaer orloge een sw[aer] strijt
+*<._2>*<E>n swaer orloge een sw[aer] strijt
 <E>n(de) daer toe een ewelijc nijt
 <E>s tusschen th[er]te enten ogen
 680 <T>h[er]te den ogen v[er]wijt
@@ -254,7 +254,7 @@
 <D>[aer] soe menich dief voer lijt
 <B>edi benic bedrogen
 <D>{at} clagic den o*gen*
-690 <*V*_2>vapine vriendel*ij*c viant
+690 *<V_2>*vapine vriendel*ij*c viant
 <D>oer di dogic menige(n) pant
 <E>n(de) menich coude
 <W>apine d{at} natuere di vant
@@ -267,7 +267,7 @@
 700 <E>n(de) versmoorde sulke(n) pant
 <O>nder donreyne moude
 <O>p d{at} natuere woude
-<*T*_2>herte sweech doge sprac
+*<T_2>*herte sweech doge sprac
 <J>c wane d{at} v sms gebrac
 705 <V>rouwe coninghinne
 <D>{at} ghi mi tijt v ongemac
@@ -296,7 +296,7 @@
 <D>{at} metten winde volcht en(de) vliet
 <V> onghestadichede
 <M>aect v den onurede
-<*D*_2>it orloghe heeft beuelt
+*<D_2>*it orloghe heeft beuelt
 730 <A>ls men h[aer]den of herden twist v[er]telt
 <V>rouwe redene bi bescede
 <B>eide gader sise scelt
@@ -411,8 +411,8 @@
 &4va&
 
 [...]
-<*M*>inne en(de) datter toehoort
-<*W*>as m{et} sonden nie becoort
+*<M>*inne en(de) datter toehoort
+*<W>*as m{et} sonden nie becoort
 165 <O>ft met ribaudien
 <W>*ie* soe reyne mi(n)ne becoort
 <H>ine mach n{iet} sijn v[er]do*o*rt
