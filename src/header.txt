@@ -27,8 +27,5 @@
             </handNotes>
         </profileDesc>
     </teiHeader>
-    <text xml:id="sig">
+    <text xml:id="Martijn">
         <group>
-            <text n="1" xml:id="sig1">
-                <body>
-                    <p>
