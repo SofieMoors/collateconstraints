@@ -1,5 +1,5 @@
 &1ra&
-
+_M1_
 1 <W_7><A>phene 			
 m*e*rten
 hoe saelt 
@@ -467,7 +467,8 @@ lange stae(n)
 <I>n haer benic tinden bout 	
 <O>nse dyaloeghe 			
 975	<E>n vraege ne(m)meer no en toege
-
+____
+_M2_
 *Dander merten*	
 1 <S_2><L>aepstu merte(n) slaept dij(n) sin 	
 <S>preke(n) en heeft geen spreke(n) in 
@@ -575,9 +576,9 @@ lange stae(n)
 <A>l sout al v*aeren* hind[er]waert 	
 <A>l dat *weluarens begaert*	
 100	[...]				 
-					
+____					
 &4ra&	
-
+_M3_
 340 <T>fleeschs datti van de(n) reine(n) wiue
 341 <V>rouwen marien nam		 
 342 <H>i troeste sine lieue keytiue 	
@@ -757,7 +758,7 @@ lange stae(n)
 <N>a dese corte doot 		
 
 <A>men
-
+____
 
 
 

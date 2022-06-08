@@ -1,5 +1,5 @@
 &1ra&
-
+_M1_
 1 <W_4><A>pene merten hoe 
 saelt gaen. 2 <S>al dese 
 werelt yet la(n)ge stae(n)
@@ -74,7 +74,7 @@ werelt yet la(n)ge stae(n)
 <T>e pinen om die eere
 <E>n(de) zij trac den scalken naer
 70 <D>ie raden nu hier nv daer
-<E>n(de) niet en ertussen geschreven scelden den heere.
+<E>n(de) niet en scelden den heere.
 
 &1va&
 
@@ -303,7 +303,7 @@ werelt yet la(n)ge stae(n)
 <S>oe waer hij sonder genaden
 280 <N>een hij ne es niet soe smal
 <V>an weldaden dat ghetal
-<E>n(de) wort van grade r erboven geschreven te grade
+<E>n(de) wort van grade te grade
 <V>an gode ghedanct die nie en hal
 <D>atmen weldede ofte stal
 285 <G>herechticheyt soude scaden
@@ -448,7 +448,7 @@ werelt yet la(n)ge stae(n)
 <D>aer die enghele beuen
 <D>ese scuwen der eeren pat
 <W>ant sij moete(n) int helsche bat
-415 <S>alomon heuet bescreuen salomon rood onderlijnd
+415 <S>alomon heuet bescreuen
 <W>ant ten es niet arghers bleuen
 <D_2>ie derde mi(n)ne eyscht den tijt
 <A>ls bij natueren elc ontbijt
@@ -868,7 +868,7 @@ werelt yet la(n)ge stae(n)
 <B>ij heylighen engyene
 800 <S>ij lieten hem blouwe(n) en(de) slaen
 <T>ormenten ende vlaen
-<O>m die helle tontvliene i erboven geschreven
+<O>m die helle tontvliene 
 <H>ier in waert tsekerst te volstaen
 <W>ant die hem in dit doopsel dwae(n)
 805 <S>iin seker gode te siene
@@ -1057,6 +1057,8 @@ werelt yet la(n)ge stae(n)
 <I>n haer bin ic tendene bout
 <O>nse dyaloghe.
 975 <E>n vraghe ne(m)meer no en toghe.
+____
+_M2_
 <H>ier begint den anderen boeck
 1 <S_2>laepstu m[er]te(n) slaept diin sin
 <S>prect hebdi ghee(n) spreke(n) in
@@ -1412,7 +1414,7 @@ werelt yet la(n)ge stae(n)
 <D>ie ic mi soe hout kinne
 325 <S>oe ware mijn vroeden dinne
 <W_2>aerheit iacob dits al claer
-<M>[aer] w doorstreept mi was te vinde(n)ne zwaer
+<M>[aer] w mi was te vinde(n)ne zwaer
 <D>attu mi hier heues ontbonden
 <I>c lye verwonnen openbaer
 330 <M>ine mi(n)ne es zielen vaer
@@ -1424,7 +1426,8 @@ werelt yet la(n)ge stae(n)
 <D>aer minne niet en ent h[aer] iaer
 <N>u enten lesten stonden
 <V>ryen met sinen wonden
-
+____
+_M3_
 <H>ier begint den derden boeck.
 1 <I_9><C> mane ma(n)nen metten wiue(n)
 <D>ie dit dicht lesen ofte scriuen
@@ -1477,7 +1480,7 @@ werelt yet la(n)ge stae(n)
 <D>u soecs mi in allen hoeken
 <M>et rime sond[er] valsch va(n) doeke(n)
 <E>s dit goet ic wane neent/
-<D>u telles mi mette wisen ertussen geschreven cloeken
+<D>u telles mi mette wisen cloeken
 50 <W>aert goet ic soud[er] dy o(m) vloeke(n)
 <I>c wane diin herte dat meent/
 <D>attu mi heues verbeent
@@ -1862,7 +1865,7 @@ werelt yet la(n)ge stae(n)
 <D>aer bouen inden trone
 <E>n(de) gheue dij volleest
 <D>atture comes onghevreest
-<M_2><E>rten ons leert die scrifture r ertussen geschreven
+<M_2><E>rten ons leert die scrifture r 
 405 <D>at een god een natuere
 <E>mmer siin dese drie
 <A>ltoes euen na ghebuere
@@ -1871,7 +1874,7 @@ werelt yet la(n)ge stae(n)
 410 <V>ader kint verstant ter cuere
 <V>ut desen dubbelen gods duere
 <W>ie caent ghegronden wie
-<S>o comt di doorstreept die gheest die zuete gure
+<S>o comt di die gheest die zuete gure
 <D>ie reyne godheyt entie puere.
 
 &13ra&
@@ -1976,6 +1979,8 @@ werelt yet la(n)ge stae(n)
 <D>ats in abrahams scoot
 <N>a dese corte doot. 
 ¶ <A_1><M_1><E_1><N_1>.
+____
+_Colofon_
 
 conclusie
 1 <M_1>erckt gheleerde bekent van binnen
@@ -2017,3 +2022,4 @@ dit voorgaende boeck/ dwelck ick oock inde(n) druck
 ghegadt hebbe in quarto en(de) oock in octauo 
 en(de) dit boeck dat hier na volcht den duytsschen 
 doctrinael <I>s oock ghedruckt in quarto 
+____

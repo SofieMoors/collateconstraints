@@ -1,5 +1,5 @@
 &1r&
-
+_M1_
  ¶ <D>it <I>s <W>apene <M>artijn
 1 <W_3><A>pen martijn hoe salt gae(n)
 <S>al dese werelt lange staen
@@ -1114,7 +1114,8 @@
 <I>n haer ben ick te eynden bout:
 <O>nser beyder dyaloghe
 975 <I>ck en vrage niet meer noch en toge
-
+____
+_M2_
 
 ¶ <D>at <A>nderde <B>oeck. 
 
@@ -1504,7 +1505,8 @@ du wrecs mi als een ghestoten ram
 <D>aer mi(n)me niet en ey(n)det haer iaer
 <E>n(de) ten leste(n) stonde(n).
 <V>rye(n) met sinen wo(n)de(n):
-
+____
+_M3_
  
 ¶ <D>at <D>erde <B>oeck/
 1 <I_2><C>k mane ma(n)ne(n) mette(n) wiuen.
@@ -2088,7 +2090,9 @@ du wrecs mi als een ghestoten ram
 <D>ats in abrahams schoot.
 <N>a dese corte doot/ 
 <A_1><M><E><N>:
+____
 
+_Colofon_
 ¶ <H>ier es voleyndt. en(de) m{et} groter di#
 ligencien ghecorrigeert een seer no#
 tabel en(de) profitelic boecxken gemaect
@@ -2114,4 +2118,5 @@ dach in augusto.
 <D>och naersticheyt cloeck int innen:
 <H>eu{et} gecorrigeert o(m) duechs gewi(n)ne(n)
 <E>n(de) in pre(n)te gestelt claer int betoghe
-<O>m te verscherpen elcx sin en(de) oghe  
+<O>m te verscherpen elcx sin en(de) oghe 
+____ 

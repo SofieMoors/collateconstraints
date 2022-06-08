@@ -1,4 +1,5 @@
-&1ra& 
+&1ra&
+_M1_ 
 
 371 <W>a(n)t tie <R>[idder] niet en doet
 <H>ine v[er]slit vleesch en(de) bloet
@@ -193,9 +194,10 @@
 <D>and[er] edelheden
 <A>l v[er]cocht me(n) sulke(n) ma(n)
 <E>ns nieme(n) diene geroue(n) can
+____
 
 &2ra& 
-
+_M2_
 314 <D>es die me(n)sche heuet noot
 315 <D>it proeftme(n) met si(n)ne
 <H>i storte doer o(n)s sij(n) bloet root
@@ -221,6 +223,8 @@
 <D>a[er] mi(n)ne n{iet} en int ha[er] iaer
 <E>nten lesten stonden
 <V>rien m{et} sine(n) wonden
+____
+_M3_
 <D_1>en derden bouc
 1 <I_7><C> mane ma(n)ne m{et}te(n) wiuen
 <D>ie dit lese(n) oft scriuen
@@ -291,4 +295,4 @@
 <N_2>ieme(n) es wilt hi yet make(n)
 <H>ine moet i(n) he(m) selue(n) wake(n)
 <E>end[er] and *...* triniteit
-
+____

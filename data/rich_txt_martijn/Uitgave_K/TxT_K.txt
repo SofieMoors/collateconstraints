@@ -1,5 +1,5 @@
 &173ra&	
-
+_M1_
 768 <B>erecht mi jacob oftu wout
 769 wed[er] sekerst is int behout	 
 770 rijcheit of armoede
@@ -70,4 +70,5 @@ leere weelde begheue(n)
 of du moets zware sneue(n)	 
 <N>iet en seggic dat rijch%eit% sent	 
 dus	 
+____
 

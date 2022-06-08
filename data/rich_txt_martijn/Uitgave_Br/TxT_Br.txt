@@ -1,4 +1,5 @@
 &1ra&
+_M1_
 
 <S>oe sere ic wane beduwen
 455 <A>chter maken si die mouwe(n)
@@ -146,15 +147,15 @@
 <V>an adame begonde
 <H>oe es die maechscap d[us] te stoort
 590 <D>{at} deen den anderen v[er]moert
-<D>its iammer en(de) sonde
-<N>ijt es weder en(de) voort
-<M>eest opt lant en(de) inde poort
-<T>folc es worden honde
+591 <D>its iammer en(de) sonde
+592 <N>ijt es weder en(de) voort
+593 <M>eest opt lant en(de) inde poort
+594 <T>folc es worden honde
 596 <T>e vragene benic becoort
 595 <B>ericht mi als diet gh[er]ne hoort
-<E>n(de) gherne ond[er]uonde
-<V>an beghin te(n) gronde
-<M_2><E>rten houerde en(de) nijt
+597 <E>n(de) gherne ond[er]uonde
+598 <V>an beghin te(n) gronde
+599 <M_2><E>rten houerde en(de) nijt
 600 <E>ntie ald[er] ierste strijt
 <B>egan in hemelrike
 <A>ls lucifer tsine onttijt
@@ -310,7 +311,7 @@
 740 <T>ijt si des ogen *ge*leede
 <D>us deilt si die vrede
 <M_2><E>rten h[ier] bi machtu sien
-<W>ed[er] die ogen th[er]te on*schrapping streepje m*tien
+<W>ed[er] die ogen th[er]te ontien
 <S>oe th[er]te die ogen
 745 <A>ls d{at} herte wille vlien
 <O>m n{iet} die ogen spien
@@ -323,11 +324,12 @@
 Ø 
 <M>inne int vertogen
 755 <I_2>acop dine redene es claer
-<A>l dunct si den ghene(n) swaer
-<D>ie luttel geuroeden
+756 <A>l dunct si den ghene(n) swaer
+757 <D>ie luttel geuroeden
+____
 
 &4ra&
-
+_M2_
 86 *<D>en liefsten die ...*
 87 <H>iertoe sijn si verdreuen
 88 <L>iecht mi n{iet} als een truwant
@@ -599,6 +601,9 @@
 <D>[aer] minne n{iet} en int h[aer] iaer
 <E>nten lesten stonden
 <V>rien m{et} sinen wonde(n)
+____
+
+_M3_
 *...* es den derden boeck
 1 <J_10><C> mane manne m{et}ten wiuen
 <D>ie dit lesen ofte scriuen
@@ -653,3 +658,4 @@
 <E>s dit goet ic wane neent
 <D>u telles mi m{et}te(n) wise(n) cloeke(n)
 50 <W>[aer]t goet ic soud[er] di om vloeke(n)
+____

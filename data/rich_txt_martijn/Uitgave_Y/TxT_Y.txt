@@ -1,5 +1,5 @@
 &1ra&	
-
+_M1_
 1 <W_6><A>phene martijn			 
 hoe saelt gaen 2 <S>al 			
 dese weerelt langhe 			
@@ -87,7 +87,7 @@ man te verheffen bouen man
 80 <D>at alder werelt ogen berecht	
 <B>i hare edelre naturen		
 <A>ls dat swerc daer yege(n) vecht	
-<S>one ca(n) si te diere vren correctieteken omgekeerde volgorde	
+<S>one ca(n) si te diere vren
 <E>ntie neuel met sijnre drecht	
 85 <N>iet getoghen h[aer] scoenheit echt	
 <A>ldus verdonckert die scalke knecht	
@@ -189,9 +189,9 @@ man te verheffen bouen man
 <E>n(de) dan gesciet soe me(n) begaert	
 <E>n(de) men niet en roect wie mes*u*[aer]t	
 <N>v noch te ghene(n) stonden		
-      
+____      
 &2ra&	
-
+_M3_
 325 <O>nder der <I>oden pleyt		
 <D_2><I>ie mensheit liet haer besnide(n)	
 <D>oepe(n) ende proeue(n) in die(n) tide(n)	
@@ -383,4 +383,5 @@ man te verheffen bouen man
 <G>od dye de doot wrac van abelle	
 505 <H>i bringe ons ter hoger selle		
 <D>ats in abrahams schoet		      
-<N>a dese corte doot			
+<N>a dese corte doot
+____			
