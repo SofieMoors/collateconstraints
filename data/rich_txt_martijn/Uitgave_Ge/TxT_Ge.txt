@@ -1,5 +1,5 @@
 &1va&
-
+_M1_
 834 [...] dat torment
 835 [...]en nutte te rechte
 [...]erst es te vlie(n) tserpent
@@ -151,7 +151,8 @@
 <I>n haer benic tende(n) bout
 <I>n onsen dyaloge
 975 <E>n vrage no en toghe
-
+____
+_M2_
 <D>en anderen merten
 
 1 <S_2><L>aeptu merte(n) slaept dij(n) sin
@@ -163,3 +164,4 @@
 <A>lwaert dij(n) d{at} comt i(n)t tswi(n)
 <G>out siluer loed iser tin
 [...]
+____

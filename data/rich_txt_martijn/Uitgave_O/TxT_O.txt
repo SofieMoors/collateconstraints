@@ -1,5 +1,5 @@
 &19r&
-
+_M1_
 1 <W_7><A>phene martin 
 hoe salt gaen 2 <S>al 
 dese weerelt yet
@@ -603,7 +603,7 @@ den dorpere. ende den wijsen dan
 
 &39r&
 
-<M_2><A>rtin menich dinc es bedect dinc met een verwijzingsteken aan de kant bijgevoegd 
+<M_2><A>rtin menich dinc es bedect dinc 
 <E>nde dijnct he(m) groot d[aer] hi vp mect
 <M>aer du sprekes wel verre
 485 <A>l heeft een persemier gheplect
@@ -875,7 +875,7 @@ den dorpere. ende den wijsen dan
 
 &48r&
 
-<T_2>herte zwech en(de) de e ertussen geschreven oeghe sprac 
+<T_2>herte zwech en(de) de oeghe sprac 
 <M>y dijnct dat di zins ghebrac
 705 <V>rauwe coninghinne
 <D>at ghi my tiet v onghemac
@@ -895,7 +895,7 @@ den dorpere. ende den wijsen dan
 <D>at ghi ouer my ghebiet 
 <A>ls ouer alle uwe leede
 <M>en conste v ghescaden niet
-720 <W>aert zo dat ghi van v tijt doorstreept stiet
+720 <W>aert zo dat ghi van v tijt stiet
 <A>lle dorperhede
 <M>aer als ghi by mi bespiet
 <D>inghen die ghi aan v tiet
@@ -1072,7 +1072,7 @@ den dorpere. ende den wijsen dan
 
 <D_2><E> wech es nauwe en(de) hoech
 860 <D>aer ih[esu]s bi ten hemel vloech
-<D>ats s ertussen geschreven passie ende aermoede
+<D>ats passie ende aermoede
 <O>ftu meer hebs dan di doech
 <O>m die gods hulde poech
 <D>eele van dinen goede
@@ -1218,6 +1218,8 @@ den dorpere. ende den wijsen dan
 &59v&
 
 <E>xplicit liber prim{us}
+____
+_M2_
 <I>ncipit liber secund{us}
 1 <M_3><A>rtin slaepstu slaept dij(n) zin
 <S>prec hebstu ghee(n) spreke(n) jn
@@ -1500,7 +1502,7 @@ D in E veranderd <E>nde an my blijft ghestaede
 225 <D>aer en es ieghe(n) gheen doen
 <S>orobabel in zijn sermoen
 <D>oet ons wel bekinne(n)
-<W>ien dat vrauwe mi(n)ne ontspoen ont erboven geschreven
+<W>ien dat vrauwe mi(n)ne ontspoen ont 
 <H>i en mochte niet gheroen
 230 <J>n zijn herte binnen
 
@@ -1522,7 +1524,7 @@ D in E veranderd <E>nde an my blijft ghestaede
 
 <P>orringhe die die den zin wech tiet
 <D>er minne(n) cracht daer inne
-<D>ie redene te ghemoete(n) pliet regel hier ingevoegd met verwijzingsteken
+<D>ie redene te ghemoete(n) pliet 
 245 <A>ldus ontbant my en(de) bes*t/c*iet
 <M>ijn meester alzo ict kinne
 <O>f mijn verstaen es dinne
@@ -1642,6 +1644,8 @@ D in E veranderd <E>nde an my blijft ghestaede
 &73v&
 
 <E>xplicit secund{us} liber
+____
+_M3_
 <I>ncipit tertius.
 
 1 <I_4><C> mane ma(n)nen mette(n) wiue(n)
@@ -1909,7 +1913,7 @@ D in E veranderd <E>nde an my blijft ghestaede
 &82v&
 
 <Z>ijn dese enighe drie
-215 <R>edene en dracht t erboven geschreven hier niet de crone
+215 <R>edene en dracht hier niet de crone
 <M>aer tgheloue zonder hoene
 <D>ies en twiuel ic nye
 <W>at eeren hadde(n) wij of wat loene
@@ -2175,7 +2179,7 @@ D in E veranderd <E>nde an my blijft ghestaede
 
 &91v&
 
-430 <D_2>its svaders en(de) soens e erboven geschreven gaue
+430 <D_2>its svaders en(de) soens gaue
 <R>icheit boue(n) alle haue
 <F>onteyne des leuens al
 <W>ie zo gheporret wert hier aue
@@ -2273,5 +2277,5 @@ D in E veranderd <E>nde an my blijft ghestaede
 <N>a deese corte doot
 
 <E>xplicit. <D>eo gras.
-
+____
 

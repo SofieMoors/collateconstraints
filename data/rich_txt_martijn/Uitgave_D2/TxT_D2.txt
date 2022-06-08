@@ -1,4 +1,5 @@
 &1r& 
+_M1_
 
 966 <I>c vergheuet al onghedo[...]
 <A>lle vrouwe(n) ionc en(de) oud [...]
@@ -10,6 +11,8 @@
 <I>n haer ben ic te eynde(n) b[...]
 <O>nser beider dyaloghe
 975 <I>c en vrage niet meer no[...]
+____
+_M2_
 § <D>at ander de bo[...]
 1 <M_2><A>rtijn slaepty sla[...]
 <S>preect hebdy g[...]
@@ -295,3 +298,4 @@
 <S>oude hi smaken dan die doot
 <D>ie ic mi so hout kinne
 325 <S>oe waer mij(n) vroedom dinne
+____

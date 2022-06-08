@@ -1,4 +1,5 @@
 &112rb&
+_M1_
 
 1 <V_4>Vaphene m[ar]tin hoe salt gaen
 <S>al die w[eer]elt hiet la(n)ghe stae(n)
@@ -409,7 +410,7 @@
 <D>orste(n) dant dede eere
 <D_1>ese minne heeft ond[er]sceet
 <V>a(n) he(m) die om die om die e[er]e steet
-<3>80 Entie pijnt omde(n) scatte
+380 <E>ntie pijnt omde(n) scatte
 <W>iltu eere hebbe(n) wes ghereet
 
 &115ra&
@@ -1019,7 +1020,7 @@
 <W>art me(n)sche tonser bederue
 <H>i v[er]soende den vader gram
 <E>n(de) wijsde de(n) wech enten dam
-<9>45 Toter hogher heruen
+945 <T>oter hogher heruen
 <S>elsienre dinc noit man v[er]nam
 <D>a(n) die maghet gode maecte so tam
 <D>at hi eene weruen
@@ -1037,7 +1038,7 @@
 &119ra&
 
 <S>oe was die rouede en(de) stal
-<9>60 Die zielen int helsche dal
+960 <D>ie zielen int helsche dal
 <D>ies lucifer beghiede
 <W>a(n)t het was sine meiseniede
 <I_1>acop du best de(n) v%ro%uwe(n) hout
@@ -1053,9 +1054,9 @@
 <I>n hare bem ic te hendene bout
 <O>nse dyaloghe
 975 <I>n vraghe ne(m)meer no ne toghe
+____
 
-In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *dand* martijn.
-
+_M2_
 <D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
 1 <M_3><A>rtijn slaepstu slaept dijn sin
 <S>preect heuestu gheen spreke(n) in
@@ -1103,7 +1104,7 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 <V>an vrouwe(n) moeste dijn sermoen
 <O>f beghinnen of enden
 <W>aerstu een dorp{er} du spraex va(n) coen
-<N>u es dine h[er]te dies ontfloen o ertussen geschreven
+<N>u es dine h[er]te dies ontfloen 
 45 <D>och willix mi ghenende(n)
 <E>n(de) steke(n) af mine(n) caproen
 <E>n(de) hore(n) watti hier toe spoen
@@ -1422,6 +1423,9 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 <M>inne niet en end h[aer] jaer
 <E>nten lesten stonden
 <V>rien met sine(n) wonden
+____
+
+_M3_
 <D><I><T> <E><S> <D><E> <D><E><R><D><E> <M><A><R><T><I><J><N>
 1 <I_4><C> mane manne(n) mette(n) wiue(n)
 <D>ie dit sulle(n) lesen of scriue(n)
@@ -1674,13 +1678,13 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 <D>aers onse redene toe wel dinne
 <O>ns en trecke tgheloue en(de) mi(n)ne
 230 <V>pwaert ter hemelscher poort
-<D>[aer] god es loen boue(n) al ghewinne
-<E>n(de) d[aer] tgheloue es coninghi(n)ne
-<N>u antwort mi bet vort
-<O>f ics niet en hebbe v[er]bort
-<D_1><I>e gods sone sach de(n) ma(n) v[er]lade(n)
-<E>nte(n) viant va(n) ouerdaden
-<I>n roeme seere groot
+231 <D>[aer] god es loen boue(n) al ghewinne
+232 <E>n(de) d[aer] tgheloue es coninghi(n)ne
+233 <N>u antwort mi bet vort
+234 <O>f ics niet en hebbe v[er]bort
+287 <D_1><I>e gods sone sach de(n) ma(n) v[er]lade(n)
+288 <E>nte(n) viant va(n) ouerdaden
+289 <I>n roeme seere groot
 290 <E>n(de) wildem staen in staden
 <S>o dat hi bi sire ghenaden
 <M>arien dat ontboot
@@ -1917,3 +1921,4 @@ In de linkermarge is met bruine inkt in een kleine cursieve letter geschreven: *
 505 <B>ringhe ons noch ter hogh[er] celle
 <D>ats in abrahams scoot
 <N>aer dese corte doot . Amen .
+____

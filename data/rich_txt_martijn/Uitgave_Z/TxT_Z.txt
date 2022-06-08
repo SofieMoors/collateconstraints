@@ -1,5 +1,5 @@
 &1ra&
-
+_M1_
 356 <W>aer hi daer mede gewont	
 <H>ine w[aer] niet in elenden
 <M>[aer] god en wilde de(n) rike(n) vont	
@@ -116,7 +116,7 @@
 <M>[er]te(n) vrie(n)t w{at} hulpt geclag{et}
 <V>rag{et} d{at}tu wils ic v[er]drag{et}	
 <I>c wilt al v[er]dragen	
-465 <G>od hulpe mi wa(n)t hi ver#macht erboven geschreven	
+465 <G>od hulpe mi wa(n)t hi ver#macht 
 <D>{at} mij(n) sin w[er]de gevaget
 <D>{at} di moet behagen	
 <I>c wille danw[er]de wage(n)
@@ -162,7 +162,7 @@
 505 <D>{at} caym droech es an scij(n)	
 <V>an menege(n) die ic spelle	
 <V>an h[er]ten sine geselle
-<S_2>elc wae(n)t d{at} vande(n) quaden// //cam erboven geschreven
+<S_2>elc wae(n)t d{at} vande(n) quaden// //cam 
 die noe sij(n) vad[er] w{as} gram	
 510 <D>{at} hine n{iet} ende decte	
 <D>{at} eyge(n) uolc van he(m) qua(m)	
@@ -286,9 +286,9 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 <E>n(de) w[er]pt op mi uwe(n) hac	
 <E>n(de) ic v u%ro%uwe kinne	
 715 <E>n(de) mij(n) godinne
-
+____
 &5ra&
-
+_M2_
 114 <D>{at} he(m) ca(n) gehulpen iet
 115 <H>ine doelt alse hi wel ziet
 <S>ine conste sij(n) h[er]te bedwinge(n)
@@ -328,7 +328,7 @@ die rouede en(de) stal h[aer]s vad[er] «scat»
 150 <L>aet mi genake(n) uwe(n) ca(n)t
 <M>e(n) sal v wijsh%eit% te hant
 <T>elle(n) m{et}ten kinden
-<A>ls*oe* vele als diede(n) mach .j.// //sant erboven geschreven
+<A>ls*oe* vele als diede(n) mach .j.// //sant 
 <J>ege(n) casselb[er]ch in vlae(n)d[er]lant
 155 <S>al diede(n) h[ier] v vinden
 <A>l wae(n)di mi v[er]blinden
@@ -372,7 +372,7 @@ die sine amie v[er]heffe(n) bega(n)
 <D>it m*a...*(n) wel bescouwe(n)
 <S>elke *mi(n)...r...* geuic de(n) ban
 <D>ie m{et}t[er] mi(n)ne(n) make(n) gespan
-196 <D>[aer] e*...m*i(n)ne vol rouwen
+<D>[aer] e*...m*i(n)ne vol rouwen
 195 <D>ese mi(n)*ne... wil*li(c) blouwe(n)
 <O_2>f *ic d*an s*et*te mine(n) sin
 <D>[aer] ic en(de) mach meer no min
@@ -427,6 +427,8 @@ d{at} de me(n)sche heuet noet
 <M>i(n)ne n{iet} ent h[aer] iaer
 <E>nte(n) leste(n) stonden
 <V>rie(n) m{et} h[are]n wonden
+____
+_M3_
 <D>ie d[er]de merten boec	 
 1 <I_2>c mane ma(n)ne m{et}ten wi«ue(n)»
 die dit lese(n) of scriue(n)	
@@ -560,7 +562,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <W>{et} wel d{at} wi ne ghene(n)	
 <S>o g%ro%t noeme(n) no soe cleene(n)	
 <D>{at}t[er] enich es meest
-<E>ene(n) god segge(n) wi ene(n) reene(n) erboven geschreven
+<E>ene(n) god segge(n) wi ene(n) reene(n) 
 125 <N>och v[er]moge(n)d[er] no v[er]benen	
 <N>e w[er]t[er] ae(n) vereest	
 <D>ie sine(n) sin soe laet v[er]stene(n)	
@@ -573,6 +575,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <D>[aer]na de(n) sone wt uercore(n)	
 135 <V>a(n) he(m) gewo(n)ne(n) alst wi hore(n)	
 <E>er begin ghinc in 	
-<D>e(n) *heilegen geest lere wi den* dore(n) erboven geschreven
+<D>e(n) *heilegen geest lere wi den* dore(n) 
 *<U>ut desen comende ontdoe dijn oren*	
 <E>lc me(n)sche en(de) sine(n) sin
+____
