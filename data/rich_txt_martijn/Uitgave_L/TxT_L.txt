@@ -41,7 +41,7 @@ lange stae(n)
 <A>ntwoort mi ia ofte neen		
 35 <V>an dat ic di betoeghe
 <L>edicheit es vroeme gheen			
-<A>erbeit vint vier in den sten
+<A>erbeit vint vier in den st*e*en
 *D*[...] *droeghe* 	
 *...*
 40 [...]				
@@ -199,7 +199,7 @@ lange stae(n)
 720	<W>aert soe d{at} ghi va(n) v sciet 	
 <A>lle dorperhede			
 <M>[aer] alse ghi bi mi bespiet	
-<D>inghe(n) die ghi ane u tiet
+<D>inghe(n) die ghi ane v tiet
 <V>olghics gherne mede 		
 725 <G>hi sijt als d{at} crancke riet 	
 <D>at mette(n) winde waeyt en(de) vliet
