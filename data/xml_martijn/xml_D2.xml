@@ -50,7 +50,7 @@
 
 <text n="Tweede Martijn" xml:id="M2">
 <body>
-<p><lb n="11" xml:id="D2f1r.11"/><l n="976">ง <hi rend="capitalsize1">D</hi>at ander de bo<damage><gap></gap></damage></l>
+<p><lb n="11" xml:id="D2f1r.11"/><l n="976">ยง <hi rend="capitalsize1">D</hi>at ander de bo<damage><gap></gap></damage></l>
 <lb n="12" xml:id="D2f1r.12"/><l n="001"><hi rend="capitalsize2">M</hi>Artijn slaepty sla<damage><gap></gap></damage></l>
 <lb n="13" xml:id="D2f1r.13"/><l n="002"><hi rend="capitalsize1">S</hi>preect hebdy g<damage><gap></gap></damage></l>
 <lb n="14" xml:id="D2f1r.14"/><l n="003"><hi rend="capitalsize1">G</hi>hi duncket mi verdor<damage><gap></gap></damage></l>
@@ -228,7 +228,7 @@
 
 <pb xml:id="D2.f6v" n="6v"/>
 <lb n="1" xml:id="D2f6v.1"/><l n="221"><hi rend="capitalsize1">S</hi>ijns willen ontbeeren</l>
-<lb n="2" xml:id="D2f6v.2"/><l n="222">ง <hi rend="capitalsize1">W</hi>at macht hadde sampsoen</l>
+<lb n="2" xml:id="D2f6v.2"/><l n="222">ยง <hi rend="capitalsize1">W</hi>at macht hadde sampsoen</l>
 <lb n="3" xml:id="D2f6v.3"/><l n="223"><hi rend="capitalsize1">D</hi>auid <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> salomoen</l>
 <lb n="4" xml:id="D2f6v.4"/><l n="224"><hi rend="capitalsize1">T</hi>eghen die cracht <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> minnen</l>
 <lb n="5" xml:id="D2f6v.5"/><l n="225"><hi rend="capitalsize1">D</hi>aer en is tsegen geen doen</l>
@@ -320,7 +320,7 @@
 <lb n="6" xml:id="D2f8v.6"/><l n="310"><hi rend="capitalsize1">D</hi>iens ghelijcke wil ic ghereet</l>
 <lb n="7" xml:id="D2f8v.7"/><l n="311"><hi rend="capitalsize1">D</hi>en toon haer <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice></l>
 <lb n="8" xml:id="D2f8v.8"/><l n="312"><hi rend="capitalsize1">D</hi>ie voer mi luste te <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
-<lb n="9" xml:id="D2f8v.9"/><l n="313">ง <hi rend="capitalsize1">G</hi>od gheeftet al clein <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot</l>
+<lb n="9" xml:id="D2f8v.9"/><l n="313">ยง <hi rend="capitalsize1">G</hi>od gheeftet al clein <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot</l>
 <lb n="10" xml:id="D2f8v.10"/><l n="314"><hi rend="capitalsize1">D</hi>ies die mensche heuet noot</l>
 <lb n="11" xml:id="D2f8v.11"/><l n="315"><hi rend="capitalsize1">D</hi>it proeftmen met sinne</l>
 <lb n="12" xml:id="D2f8v.12"/><l n="316"><hi rend="capitalsize1">H</hi>i stortte voer ons sijn bloet root</l>
