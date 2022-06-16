@@ -27,308 +27,315 @@
             </handNotes>
         </profileDesc>
     </teiHeader>
-    <text xml:id="sig">
-        <group>
-            <text n="1" xml:id="sig1">
-                <body>
-                    <p><pb xml:id="D2.f1r" n="1r"/>
-<lb n="1" xml:id="D2f1r.1"/><l>966 <hi rend="capitalsize1">I</hi>c vergheuet al onghedo<damage><gap></gap></damage></l>
-<lb n="2" xml:id="D2f1r.2"/><l>967 <hi rend="capitalsize1">A</hi>lle <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> ionc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oud <damage><gap></gap></damage></l>
-<lb n="3" xml:id="D2f1r.3"/><l>968 <hi rend="capitalsize1">O</hi>m eene vrouwe hogh<damage><gap></gap></damage></l>
-<lb n="4" xml:id="D2f1r.4"/><l>969 <hi rend="capitalsize1">D</hi>aer ons afquam onse <damage><gap></gap></damage></l>
-<lb n="5" xml:id="D2f1r.5"/><l>970 <hi rend="capitalsize1">G</hi>hedanct si die dusentfo<damage><gap></gap></damage></l>
-<lb n="6" xml:id="D2f1r.6"/><l>971 <hi rend="capitalsize1">D</hi>atse hem op hielt met <damage><gap></gap></damage></l>
-<lb n="7" xml:id="D2f1r.7"/><l>972 <hi rend="capitalsize1">D</hi>ie ons benam thelsch <damage><gap></gap></damage></l>
-<lb n="8" xml:id="D2f1r.8"/><l>973 <hi rend="capitalsize1">I</hi>n haer ben ic te <choice><abbr>eynde<g ref="#bar"/></abbr><expan>eynde<ex>n</ex></expan></choice> b<damage><gap></gap></damage></l>
-<lb n="9" xml:id="D2f1r.9"/><l>974 <hi rend="capitalsize1">O</hi>nser beider dyaloghe</l>
-<lb n="10" xml:id="D2f1r.10"/><l>975 <hi rend="capitalsize1">I</hi>c en vrage niet meer no<damage><gap></gap></damage></l>
-<lb n="11" xml:id="D2f1r.11"/><l>ยง <hi rend="capitalsize1">D</hi>at ander de bo<damage><gap></gap></damage></l>
-<lb n="12" xml:id="D2f1r.12"/><l>001 <hi rend="capitalsize2">M</hi>Artijn slaepty sla<damage><gap></gap></damage></l>
-<lb n="13" xml:id="D2f1r.13"/><l>002 <hi rend="capitalsize1">S</hi>preect hebdy g<damage><gap></gap></damage></l>
-<lb n="14" xml:id="D2f1r.14"/><l>003 <hi rend="capitalsize1">G</hi>hi duncket mi verdor<damage><gap></gap></damage></l>
-<lb n="15" xml:id="D2f1r.15"/><l>004 <hi rend="capitalsize1">G</hi>hi en achtet meer noch<damage><gap></gap></damage></l>
-<lb n="16" xml:id="D2f1r.16"/><l>005 <hi rend="capitalsize1">D</hi>an op weelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghe <damage><gap></gap></damage></l>
-<lb n="17" xml:id="D2f1r.17"/><l>006 <hi rend="capitalsize1">W</hi>ildi v dus versmoren <damage><gap></gap></damage></l>
-<lb n="18" xml:id="D2f1r.18"/><l>007 <hi rend="capitalsize1">A</hi>l waert al uwe dat coe<damage><gap></gap></damage></l>
-<lb n="19" xml:id="D2f1r.19"/><l>008 <hi rend="capitalsize1">G</hi>out silner loot stael ys<damage><gap></gap></damage></l>
-<lb n="20" xml:id="D2f1r.20"/><l>009 <hi rend="capitalsize1">N</hi>ochtan bleeft ghi verl<damage><gap></gap></damage></l>
-<lb n="21" xml:id="D2f1r.21"/><l>010 <hi rend="capitalsize1">D</hi>aerstu <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> duecht <choice><abbr>gee<g ref="#bar"/></abbr><expan>gee<ex>n</ex></expan></choice> be<damage><gap></gap></damage></l>
+    <text xml:id="Martijn">
+        <group><pb xml:id="D2.f1r" n="1r"/>
+
+
+<text n="Eerste Martijn" xml:id="M1">
+<body>
+<p><lb n="1" xml:id="D2f1r.1"/><l n="966"><hi rend="capitalsize1">I</hi>c vergheuet al onghedo<damage><gap></gap></damage></l>
+<lb n="2" xml:id="D2f1r.2"/><l n="967"><hi rend="capitalsize1">A</hi>lle <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> ionc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oud <damage><gap></gap></damage></l>
+<lb n="3" xml:id="D2f1r.3"/><l n="968"><hi rend="capitalsize1">O</hi>m eene vrouwe hogh<damage><gap></gap></damage></l>
+<lb n="4" xml:id="D2f1r.4"/><l n="969"><hi rend="capitalsize1">D</hi>aer ons afquam onse <damage><gap></gap></damage></l>
+<lb n="5" xml:id="D2f1r.5"/><l n="970"><hi rend="capitalsize1">G</hi>hedanct si die dusentfo<damage><gap></gap></damage></l>
+<lb n="6" xml:id="D2f1r.6"/><l n="971"><hi rend="capitalsize1">D</hi>atse hem op hielt met <damage><gap></gap></damage></l>
+<lb n="7" xml:id="D2f1r.7"/><l n="972"><hi rend="capitalsize1">D</hi>ie ons benam thelsch <damage><gap></gap></damage></l>
+<lb n="8" xml:id="D2f1r.8"/><l n="973"><hi rend="capitalsize1">I</hi>n haer ben ic te <choice><abbr>eynde<g ref="#bar"/></abbr><expan>eynde<ex>n</ex></expan></choice> b<damage><gap></gap></damage></l>
+<lb n="9" xml:id="D2f1r.9"/><l n="974"><hi rend="capitalsize1">O</hi>nser beider dyaloghe</l>
+<lb n="10" xml:id="D2f1r.10"/><l n="975"><hi rend="capitalsize1">I</hi>c en vrage niet meer no<damage><gap></gap></damage></l>
+</p>
+</body>
+</text>
+
+
+<text n="Tweede Martijn" xml:id="M2">
+<body>
+<p><lb n="11" xml:id="D2f1r.11"/><l n="976">ง <hi rend="capitalsize1">D</hi>at ander de bo<damage><gap></gap></damage></l>
+<lb n="12" xml:id="D2f1r.12"/><l n="001"><hi rend="capitalsize2">M</hi>Artijn slaepty sla<damage><gap></gap></damage></l>
+<lb n="13" xml:id="D2f1r.13"/><l n="002"><hi rend="capitalsize1">S</hi>preect hebdy g<damage><gap></gap></damage></l>
+<lb n="14" xml:id="D2f1r.14"/><l n="003"><hi rend="capitalsize1">G</hi>hi duncket mi verdor<damage><gap></gap></damage></l>
+<lb n="15" xml:id="D2f1r.15"/><l n="004"><hi rend="capitalsize1">G</hi>hi en achtet meer noch<damage><gap></gap></damage></l>
+<lb n="16" xml:id="D2f1r.16"/><l n="005"><hi rend="capitalsize1">D</hi>an op weelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghe <damage><gap></gap></damage></l>
+<lb n="17" xml:id="D2f1r.17"/><l n="006"><hi rend="capitalsize1">W</hi>ildi v dus versmoren <damage><gap></gap></damage></l>
+<lb n="18" xml:id="D2f1r.18"/><l n="007"><hi rend="capitalsize1">A</hi>l waert al uwe dat coe<damage><gap></gap></damage></l>
+<lb n="19" xml:id="D2f1r.19"/><l n="008"><hi rend="capitalsize1">G</hi>out silner loot stael ys<damage><gap></gap></damage></l>
+<lb n="20" xml:id="D2f1r.20"/><l n="009"><hi rend="capitalsize1">N</hi>ochtan bleeft ghi verl<damage><gap></gap></damage></l>
+<lb n="21" xml:id="D2f1r.21"/><l n="010"><hi rend="capitalsize1">D</hi>aerstu <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> duecht <choice><abbr>gee<g ref="#bar"/></abbr><expan>gee<ex>n</ex></expan></choice> be<damage><gap></gap></damage></l>
 
 
 <pb xml:id="D2.f1v" n="1v"/>
-<lb n="1" xml:id="D2f1v.1"/><l>011 <damage><gap></gap></damage> hooft <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> uwen sin</l>
-<lb n="2" xml:id="D2f1v.2"/><l>012 <damage><gap></gap></damage> waerstu geboren</l>
-<lb n="3" xml:id="D2f1v.3"/><l>013 <damage><gap></gap></damage>chtens versworen</l>
-<lb n="4" xml:id="D2f1v.4"/><l>014 <damage><gap></gap></damage>ghi woent in den dam</l>
-<lb n="5" xml:id="D2f1v.5"/><l>015 <damage><gap></gap></damage> echt dies ben ic gram</l>
-<lb n="6" xml:id="D2f1v.6"/><l>016 <damage><gap></gap></damage>s sijn verscheeden</l>
-<lb n="7" xml:id="D2f1v.7"/><l>017 <damage><gap></gap></damage>at mi meest mesquam</l>
-<lb n="8" xml:id="D2f1v.8"/><l>018 <damage><gap></gap></damage>t bate en vernam</l>
-<lb n="9" xml:id="D2f1v.9"/><l>019 <damage><gap></gap></damage> en <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> ons beeden</l>
-<lb n="10" xml:id="D2f1v.10"/><l>020 <damage><gap></gap></damage>en sin gheworden so lam</l>
-<lb n="11" xml:id="D2f1v.11"/><l>021 <damage><gap></gap></damage>node <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> ane quam</l>
-<lb n="12" xml:id="D2f1v.12"/><l>022 <damage><gap></gap></damage> mi verleeden</l>
-<lb n="13" xml:id="D2f1v.13"/><l>023 <damage><gap></gap></damage> mi als een gestoten ram</l>
-<lb n="14" xml:id="D2f1v.14"/><l>024 <damage><gap></gap></damage> ghi wort noch tam</l>
-<lb n="15" xml:id="D2f1v.15"/><l>025 <damage><gap></gap></damage> woorden cleeden</l>
-<lb n="16" xml:id="D2f1v.16"/><l>026 <damage><gap></gap></damage> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> met reden</l>
-<lb n="17" xml:id="D2f1v.17"/><l>027 <damage><gap></gap></damage> vrient heb ic messeyt</l>
-<lb n="18" xml:id="D2f1v.18"/><l>028 <damage><gap></gap></damage>eteren bereyt</l>
-<lb n="19" xml:id="D2f1v.19"/><l>029 <damage><gap></gap></damage> v bliuen</l>
-<lb n="20" xml:id="D2f1v.20"/><l>030 <damage><gap></gap></damage> et mi <choice><abbr>eu<g ref="#bar"/></abbr><expan>eu<ex>de</ex></expan></choice> ontbeyt</l>
-<lb n="21" xml:id="D2f1v.21"/><l>031 <damage><gap></gap></damage>mi opt he<unclear>r</unclear>tte leyt</l>
+<lb n="1" xml:id="D2f1v.1"/><l n="011"><damage><gap></gap></damage> hooft <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> uwen sin</l>
+<lb n="2" xml:id="D2f1v.2"/><l n="012"><damage><gap></gap></damage> waerstu geboren</l>
+<lb n="3" xml:id="D2f1v.3"/><l n="013"><damage><gap></gap></damage>chtens versworen</l>
+<lb n="4" xml:id="D2f1v.4"/><l n="014"><damage><gap></gap></damage>ghi woent in den dam</l>
+<lb n="5" xml:id="D2f1v.5"/><l n="015"><damage><gap></gap></damage> echt dies ben ic gram</l>
+<lb n="6" xml:id="D2f1v.6"/><l n="016"><damage><gap></gap></damage>s sijn verscheeden</l>
+<lb n="7" xml:id="D2f1v.7"/><l n="017"><damage><gap></gap></damage>at mi meest mesquam</l>
+<lb n="8" xml:id="D2f1v.8"/><l n="018"><damage><gap></gap></damage>t bate en vernam</l>
+<lb n="9" xml:id="D2f1v.9"/><l n="019"><damage><gap></gap></damage> en <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> ons beeden</l>
+<lb n="10" xml:id="D2f1v.10"/><l n="020"><damage><gap></gap></damage>en sin gheworden so lam</l>
+<lb n="11" xml:id="D2f1v.11"/><l n="021"><damage><gap></gap></damage>node <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> ane quam</l>
+<lb n="12" xml:id="D2f1v.12"/><l n="022"><damage><gap></gap></damage> mi verleeden</l>
+<lb n="13" xml:id="D2f1v.13"/><l n="023"><damage><gap></gap></damage> mi als een gestoten ram</l>
+<lb n="14" xml:id="D2f1v.14"/><l n="024"><damage><gap></gap></damage> ghi wort noch tam</l>
+<lb n="15" xml:id="D2f1v.15"/><l n="025"><damage><gap></gap></damage> woorden cleeden</l>
+<lb n="16" xml:id="D2f1v.16"/><l n="026"><damage><gap></gap></damage> <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> met reden</l>
+<lb n="17" xml:id="D2f1v.17"/><l n="027"><damage><gap></gap></damage> vrient heb ic messeyt</l>
+<lb n="18" xml:id="D2f1v.18"/><l n="028"><damage><gap></gap></damage>eteren bereyt</l>
+<lb n="19" xml:id="D2f1v.19"/><l n="029"><damage><gap></gap></damage> v bliuen</l>
+<lb n="20" xml:id="D2f1v.20"/><l n="030"><damage><gap></gap></damage> et mi <choice><abbr>eu<g ref="#bar"/></abbr><expan>eu<ex>de</ex></expan></choice> ontbeyt</l>
+<lb n="21" xml:id="D2f1v.21"/><l n="031"><damage><gap></gap></damage>mi opt he<unclear>r</unclear>tte leyt</l>
 
 
 <pb xml:id="D2.f2r" n="2r"/>
-<lb n="1" xml:id="D2f2r.1"/><l>032 <hi rend="capitalsize1">D</hi>at wil ic v bescriuen</l>
-<lb n="2" xml:id="D2f2r.2"/><l>033 <hi rend="capitalsize1">D</hi>aer haer die werelt mede m<damage><gap></gap></damage></l>
-<lb n="3" xml:id="D2f2r.3"/><l>034 <hi rend="capitalsize1">E</hi>nde dade dat lief ware leyt</l>
-<lb n="4" xml:id="D2f2r.4"/><l>035 <hi rend="capitalsize1">D</hi>ats minne <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> wiuen</l>
-<lb n="5" xml:id="D2f2r.5"/><l>036 <hi rend="capitalsize1">A</hi>l dat is inde werelt breyt</l>
-<lb n="6" xml:id="D2f2r.6"/><l>037 <choice><abbr><hi rend="capitalsize1">S</hi>teden/borge<g ref="#bar"/>/bossce<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>teden/borge<ex>n</ex>/bossce<ex>n</ex></expan></choice> preyt</l>
-<lb n="7" xml:id="D2f2r.7"/><l>038 <hi rend="capitalsize1">S</hi>oudemen verdriuen</l>
-<lb n="8" xml:id="D2f2r.8"/><l>039 <hi rend="capitalsize1">W</hi>ildemen minne ontlijuen</l>
-<lb n="9" xml:id="D2f2r.9"/><l>040 <hi rend="capitalsize1">I</hi>acop dit was oyt dijn doen</l>
-<lb n="10" xml:id="D2f2r.10"/><l>041 <hi rend="capitalsize1">D</hi>at van vrouwen v sermoen</l>
-<lb n="11" xml:id="D2f2r.11"/><l>042 <hi rend="capitalsize1">B</hi>eghinnen moet oft eynden</l>
-<lb n="12" xml:id="D2f2r.12"/><l>043 <hi rend="capitalsize1">W</hi>aerdi een dorper ghi spraec <damage><gap></gap></damage></l>
-<lb n="13" xml:id="D2f2r.13"/><l>044 <hi rend="capitalsize1">N</hi>v es v herte dus ontuloen</l>
-<lb n="14" xml:id="D2f2r.14"/><l>045 <hi rend="capitalsize1">D</hi>och wil icx mi ghenenden</l>
-<lb n="15" xml:id="D2f2r.15"/><l>046 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> strijcken af minen caproen</l>
-<lb n="16" xml:id="D2f2r.16"/><l>047 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> horen wat v hier toe mach <damage><gap></gap></damage></l>
-<lb n="17" xml:id="D2f2r.17"/><l>048 <hi rend="capitalsize1">D</hi>at ghi den onbekenden</l>
-<lb n="18" xml:id="D2f2r.18"/><l>049 <hi rend="capitalsize1">M</hi>artijn niet en laet gheuroen</l>
-<lb n="19" xml:id="D2f2r.19"/><l>050 <hi rend="capitalsize1">A</hi>l hadt ic aen twee yseren scho<damage><gap></gap></damage></l>
-<lb n="20" xml:id="D2f2r.20"/><l>051 <hi rend="capitalsize1">I</hi>c en mocht v niet ontwenden</l>
-<lb n="21" xml:id="D2f2r.21"/><l>052 <hi rend="capitalsize1">N</hi>v vraecht ic sal <choice><abbr>ontbende<g ref="#bar"/></abbr><expan>ontbende<ex>n</ex></expan></choice></l>
+<lb n="1" xml:id="D2f2r.1"/><l n="032"><hi rend="capitalsize1">D</hi>at wil ic v bescriuen</l>
+<lb n="2" xml:id="D2f2r.2"/><l n="033"><hi rend="capitalsize1">D</hi>aer haer die werelt mede m<damage><gap></gap></damage></l>
+<lb n="3" xml:id="D2f2r.3"/><l n="034"><hi rend="capitalsize1">E</hi>nde dade dat lief ware leyt</l>
+<lb n="4" xml:id="D2f2r.4"/><l n="035"><hi rend="capitalsize1">D</hi>ats minne <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> wiuen</l>
+<lb n="5" xml:id="D2f2r.5"/><l n="036"><hi rend="capitalsize1">A</hi>l dat is inde werelt breyt</l>
+<lb n="6" xml:id="D2f2r.6"/><l n="037"><choice><abbr><hi rend="capitalsize1">S</hi>teden/borge<g ref="#bar"/>/bossce<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>teden/borge<ex>n</ex>/bossce<ex>n</ex></expan></choice> preyt</l>
+<lb n="7" xml:id="D2f2r.7"/><l n="038"><hi rend="capitalsize1">S</hi>oudemen verdriuen</l>
+<lb n="8" xml:id="D2f2r.8"/><l n="039"><hi rend="capitalsize1">W</hi>ildemen minne ontlijuen</l>
+<lb n="9" xml:id="D2f2r.9"/><l n="040"><hi rend="capitalsize1">I</hi>acop dit was oyt dijn doen</l>
+<lb n="10" xml:id="D2f2r.10"/><l n="041"><hi rend="capitalsize1">D</hi>at van vrouwen v sermoen</l>
+<lb n="11" xml:id="D2f2r.11"/><l n="042"><hi rend="capitalsize1">B</hi>eghinnen moet oft eynden</l>
+<lb n="12" xml:id="D2f2r.12"/><l n="043"><hi rend="capitalsize1">W</hi>aerdi een dorper ghi spraec <damage><gap></gap></damage></l>
+<lb n="13" xml:id="D2f2r.13"/><l n="044"><hi rend="capitalsize1">N</hi>v es v herte dus ontuloen</l>
+<lb n="14" xml:id="D2f2r.14"/><l n="045"><hi rend="capitalsize1">D</hi>och wil icx mi ghenenden</l>
+<lb n="15" xml:id="D2f2r.15"/><l n="046"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> strijcken af minen caproen</l>
+<lb n="16" xml:id="D2f2r.16"/><l n="047"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> horen wat v hier toe mach <damage><gap></gap></damage></l>
+<lb n="17" xml:id="D2f2r.17"/><l n="048"><hi rend="capitalsize1">D</hi>at ghi den onbekenden</l>
+<lb n="18" xml:id="D2f2r.18"/><l n="049"><hi rend="capitalsize1">M</hi>artijn niet en laet gheuroen</l>
+<lb n="19" xml:id="D2f2r.19"/><l n="050"><hi rend="capitalsize1">A</hi>l hadt ic aen twee yseren scho<damage><gap></gap></damage></l>
+<lb n="20" xml:id="D2f2r.20"/><l n="051"><hi rend="capitalsize1">I</hi>c en mocht v niet ontwenden</l>
+<lb n="21" xml:id="D2f2r.21"/><l n="052"><hi rend="capitalsize1">N</hi>v vraecht ic sal <choice><abbr>ontbende<g ref="#bar"/></abbr><expan>ontbende<ex>n</ex></expan></choice></l>
 
 
 <pb xml:id="D2.f2v" n="2v"/>
-<lb n="1" xml:id="D2f2v.1"/><l>053 <damage><gap></gap></damage>rtijn ghi sult mi verstaen</l>
-<lb n="2" xml:id="D2f2v.2"/><l>054 <damage><gap></gap></damage> vrouwe wel ghedaen</l>
-<lb n="3" xml:id="D2f2v.3"/><l>055 <damage><gap></gap></damage>t mi beuaen met minnen</l>
-<lb n="4" xml:id="D2f2v.4"/><l>056 <damage><gap></gap></damage>t gode is onderdaen</l>
-<lb n="5" xml:id="D2f2v.5"/><l>057 <damage><gap></gap></damage> om haren wille gaen</l>
-<lb n="6" xml:id="D2f2v.6"/><l>058 <damage><gap></gap></damage>ht icse ghewinnen</l>
-<lb n="7" xml:id="D2f2v.7"/><l>059 <damage><gap></gap></damage>tan weetic <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> waen</l>
-<lb n="8" xml:id="D2f2v.8"/><l>060 <damage><gap></gap></damage>ij <choice><abbr>mij<g ref="#bar"/>s</abbr><expan>mij<ex>n</ex>s</expan></choice> niet en acht een spaen</l>
-<lb n="9" xml:id="D2f2v.9"/><l>061 <damage><gap></gap></damage>n hert doet mi bekennen</l>
-<lb n="10" xml:id="D2f2v.10"/><l>062 <damage><gap></gap></damage>uder die werelt om vergaen</l>
-<lb n="11" xml:id="D2f2v.11"/><l>063 <damage><gap></gap></damage> si mi niet en sonde ontfaen</l>
-<lb n="12" xml:id="D2f2v.12"/><l>064 <damage><gap></gap></damage>aer herte binnen</l>
-<lb n="13" xml:id="D2f2v.13"/><l>065 <damage><gap></gap></damage>etoe en is geen versinnen</l>
-<lb n="14" xml:id="D2f2v.14"/><l>066 <damage><gap></gap></damage>n <choice><abbr>and<g ref="#apomod"/></abbr><expan>and<ex>er</ex></expan></choice> vrouwe die mi bemint</l>
-<lb n="15" xml:id="D2f2v.15"/><l>067 <damage><gap></gap></damage>en al dat sij leuende kint</l>
-<lb n="16" xml:id="D2f2v.16"/><l>068 <damage><gap></gap></damage> ghestadiger trouwen</l>
-<lb n="17" xml:id="D2f2v.17"/><l>069 <damage><gap></gap></damage>in mi gheprijst es twint</l>
-<lb n="18" xml:id="D2f2v.18"/><l>070 <damage><gap></gap></damage>er si is die scoonste <choice><abbr>dieme<g ref="#bar"/></abbr><expan>dieme<ex>n</ex></expan></choice> vindt</l>
-<lb n="19" xml:id="D2f2v.19"/><l>071 <damage><gap></gap></damage><unclear>b</unclear>loeme bouen alle <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice></l>
-<lb n="20" xml:id="D2f2v.20"/><l>072 <damage><gap></gap></damage>es <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> herte soe verblint</l>
-<lb n="21" xml:id="D2f2v.21"/><l>073 <damage><gap></gap></damage> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> daertoe niet en verbint</l>
+<lb n="1" xml:id="D2f2v.1"/><l n="053"><damage><gap></gap></damage>rtijn ghi sult mi verstaen</l>
+<lb n="2" xml:id="D2f2v.2"/><l n="054"><damage><gap></gap></damage> vrouwe wel ghedaen</l>
+<lb n="3" xml:id="D2f2v.3"/><l n="055"><damage><gap></gap></damage>t mi beuaen met minnen</l>
+<lb n="4" xml:id="D2f2v.4"/><l n="056"><damage><gap></gap></damage>t gode is onderdaen</l>
+<lb n="5" xml:id="D2f2v.5"/><l n="057"><damage><gap></gap></damage> om haren wille gaen</l>
+<lb n="6" xml:id="D2f2v.6"/><l n="058"><damage><gap></gap></damage>ht icse ghewinnen</l>
+<lb n="7" xml:id="D2f2v.7"/><l n="059"><damage><gap></gap></damage>tan weetic <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> waen</l>
+<lb n="8" xml:id="D2f2v.8"/><l n="060"><damage><gap></gap></damage>ij <choice><abbr>mij<g ref="#bar"/>s</abbr><expan>mij<ex>n</ex>s</expan></choice> niet en acht een spaen</l>
+<lb n="9" xml:id="D2f2v.9"/><l n="061"><damage><gap></gap></damage>n hert doet mi bekennen</l>
+<lb n="10" xml:id="D2f2v.10"/><l n="062"><damage><gap></gap></damage>uder die werelt om vergaen</l>
+<lb n="11" xml:id="D2f2v.11"/><l n="063"><damage><gap></gap></damage> si mi niet en sonde ontfaen</l>
+<lb n="12" xml:id="D2f2v.12"/><l n="064"><damage><gap></gap></damage>aer herte binnen</l>
+<lb n="13" xml:id="D2f2v.13"/><l n="065"><damage><gap></gap></damage>etoe en is geen versinnen</l>
+<lb n="14" xml:id="D2f2v.14"/><l n="066"><damage><gap></gap></damage>n <choice><abbr>and<g ref="#apomod"/></abbr><expan>and<ex>er</ex></expan></choice> vrouwe die mi bemint</l>
+<lb n="15" xml:id="D2f2v.15"/><l n="067"><damage><gap></gap></damage>en al dat sij leuende kint</l>
+<lb n="16" xml:id="D2f2v.16"/><l n="068"><damage><gap></gap></damage> ghestadiger trouwen</l>
+<lb n="17" xml:id="D2f2v.17"/><l n="069"><damage><gap></gap></damage>in mi gheprijst es twint</l>
+<lb n="18" xml:id="D2f2v.18"/><l n="070"><damage><gap></gap></damage>er si is die scoonste <choice><abbr>dieme<g ref="#bar"/></abbr><expan>dieme<ex>n</ex></expan></choice> vindt</l>
+<lb n="19" xml:id="D2f2v.19"/><l n="071"><damage><gap></gap></damage><unclear>b</unclear>loeme bouen alle <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice></l>
+<lb n="20" xml:id="D2f2v.20"/><l n="072"><damage><gap></gap></damage>es <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> herte soe verblint</l>
+<lb n="21" xml:id="D2f2v.21"/><l n="073"><damage><gap></gap></damage> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> daertoe niet en verbint</l>
 
 
 <pb xml:id="D2.f3r" n="3r"/>
-<lb n="1" xml:id="D2f3r.1"/><l>074 <hi rend="capitalsize1">D</hi>at icse yet wille scouwen</l>
-<lb n="2" xml:id="D2f3r.2"/><l>075 <hi rend="capitalsize1">H</hi>oe lie<unclear>f</unclear> opsien <pc>/</pc> si mi toe sindt</l>
-<lb n="3" xml:id="D2f3r.3"/><l>076 <hi rend="capitalsize1">H</hi>et dunct <choice><abbr>mijnd<g ref="#apomod"/></abbr><expan>mijnd<ex>er</ex></expan></choice> <choice><abbr>herte<g ref="#bar"/></abbr><expan>herte<ex>n</ex></expan></choice> alsen <damage><gap></gap></damage></l>
-<lb n="4" xml:id="D2f3r.4"/><l>077 <hi rend="capitalsize1">S</hi>ij liet h<unclear>a</unclear>er eer in stucken hou<damage><gap></gap></damage></l>
-<lb n="5" xml:id="D2f3r.5"/><l>078 <hi rend="capitalsize1">E</hi>er sij daer om quam in rouw<damage><gap></gap></damage></l>
-<lb n="6" xml:id="D2f3r.6"/><l>079 <hi rend="capitalsize1">M</hi>artijn hoort <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> verstant</l>
-<lb n="7" xml:id="D2f3r.7"/><l>080 <hi rend="capitalsize1">D</hi>ese twee sijn in een verbant</l>
-<lb n="8" xml:id="D2f3r.8"/><l>081 <hi rend="capitalsize1">D</hi>at costen moet der eenredle <damage><gap></gap></damage></l>
-<lb n="9" xml:id="D2f3r.9"/><l>082 <hi rend="capitalsize1">N</hi>v heb ic die macht in die ha<damage><gap></gap></damage></l>
-<lb n="10" xml:id="D2f3r.10"/><l>083 <hi rend="capitalsize1">W</hi>elcker ic wille breken den <damage><gap></gap></damage></l>
+<lb n="1" xml:id="D2f3r.1"/><l n="074"><hi rend="capitalsize1">D</hi>at icse yet wille scouwen</l>
+<lb n="2" xml:id="D2f3r.2"/><l n="075"><hi rend="capitalsize1">H</hi>oe lie<unclear>f</unclear> opsien <pc>/</pc> si mi toe sindt</l>
+<lb n="3" xml:id="D2f3r.3"/><l n="076"><hi rend="capitalsize1">H</hi>et dunct <choice><abbr>mijnd<g ref="#apomod"/></abbr><expan>mijnd<ex>er</ex></expan></choice> <choice><abbr>herte<g ref="#bar"/></abbr><expan>herte<ex>n</ex></expan></choice> alsen <damage><gap></gap></damage></l>
+<lb n="4" xml:id="D2f3r.4"/><l n="077"><hi rend="capitalsize1">S</hi>ij liet h<unclear>a</unclear>er eer in stucken hou<damage><gap></gap></damage></l>
+<lb n="5" xml:id="D2f3r.5"/><l n="078"><hi rend="capitalsize1">E</hi>er sij daer om quam in rouw<damage><gap></gap></damage></l>
+<lb n="6" xml:id="D2f3r.6"/><l n="079"><hi rend="capitalsize1">M</hi>artijn hoort <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> verstant</l>
+<lb n="7" xml:id="D2f3r.7"/><l n="080"><hi rend="capitalsize1">D</hi>ese twee sijn in een verbant</l>
+<lb n="8" xml:id="D2f3r.8"/><l n="081"><hi rend="capitalsize1">D</hi>at costen moet der eenredle <damage><gap></gap></damage></l>
+<lb n="9" xml:id="D2f3r.9"/><l n="082"><hi rend="capitalsize1">N</hi>v heb ic die macht in die ha<damage><gap></gap></damage></l>
+<lb n="10" xml:id="D2f3r.10"/><l n="083"><hi rend="capitalsize1">W</hi>elcker ic wille breken den <damage><gap></gap></damage></l>
 
 
 <pb xml:id="D2.f3v" n="3v"/>
-<lb n="1" xml:id="D2f3v.1"/><l>095 <damage><gap></gap></damage> ymmer der herten aert</l>
-<lb n="2" xml:id="D2f3v.2"/><l>096 <damage><gap></gap></damage>darwaerts tijdt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vaert</l>
-<lb n="3" xml:id="D2f3v.3"/><l>097 <damage><gap></gap></damage>aen haer <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> d<unclear>ie</unclear> wonden</l>
-<lb n="4" xml:id="D2f3v.4"/><l>098 <damage><gap></gap></damage>t al varen ghinder<unclear>w</unclear>aert</l>
-<lb n="5" xml:id="D2f3v.5"/><l>099 <damage><gap></gap></damage>el varens begaert</l>
-<lb n="6" xml:id="D2f3v.6"/><l>100 <damage><gap></gap></damage> tot allen stonden</l>
-<lb n="7" xml:id="D2f3v.7"/><l>101 <damage><gap></gap></damage>e die mi therte beswaert</l>
-<lb n="8" xml:id="D2f3v.8"/><l>102 <damage><gap></gap></damage>ick haer <choice><abbr>late<g ref="#bar"/></abbr><expan>late<ex>n</ex></expan></choice> <choice><abbr>smake<g ref="#bar"/></abbr><expan>smake<ex>n</ex></expan></choice> tswaert</l>
-<lb n="9" xml:id="D2f3v.9"/><l>103 <choice><abbr><g ref="#apomod"/></abbr><expan><ex>.</ex></expan></choice> <pc>.</pc> .are dan ondervonden</l>
-<lb n="10" xml:id="D2f3v.10"/><l>104 <damage><gap></gap></damage>ermoort dan sonden</l>
+<lb n="1" xml:id="D2f3v.1"/><l n="095"><damage><gap></gap></damage> ymmer der herten aert</l>
+<lb n="2" xml:id="D2f3v.2"/><l n="096"><damage><gap></gap></damage>darwaerts tijdt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vaert</l>
+<lb n="3" xml:id="D2f3v.3"/><l n="097"><damage><gap></gap></damage>aen haer <choice><abbr>quame<g ref="#bar"/></abbr><expan>quame<ex>n</ex></expan></choice> d<unclear>ie</unclear> wonden</l>
+<lb n="4" xml:id="D2f3v.4"/><l n="098"><damage><gap></gap></damage>t al varen ghinder<unclear>w</unclear>aert</l>
+<lb n="5" xml:id="D2f3v.5"/><l n="099"><damage><gap></gap></damage>el varens begaert</l>
+<lb n="6" xml:id="D2f3v.6"/><l n="100"><damage><gap></gap></damage> tot allen stonden</l>
+<lb n="7" xml:id="D2f3v.7"/><l n="101"><damage><gap></gap></damage>e die mi therte beswaert</l>
+<lb n="8" xml:id="D2f3v.8"/><l n="102"><damage><gap></gap></damage>ick haer <choice><abbr>late<g ref="#bar"/></abbr><expan>late<ex>n</ex></expan></choice> <choice><abbr>smake<g ref="#bar"/></abbr><expan>smake<ex>n</ex></expan></choice> tswaert</l>
+<lb n="9" xml:id="D2f3v.9"/><l n="103"><choice><abbr><g ref="#apomod"/></abbr><expan><ex>.</ex></expan></choice> <pc>.</pc> .are dan ondervonden</l>
+<lb n="10" xml:id="D2f3v.10"/><l n="104"><damage><gap></gap></damage>ermoort dan sonden</l>
 
 
 <pb xml:id="D2.f4r" n="4r"/>
-<lb n="1" xml:id="D2f4r.1"/><l>116 <hi rend="capitalsize1">H</hi>i en konst hem niet bed<unclear>w</unclear><damage><gap></gap></damage></l>
-<lb n="2" xml:id="D2f4r.2"/><l>117 <hi rend="capitalsize1">H</hi>i en sterf bi desen dingen</l>
-<lb n="3" xml:id="D2f4r.3"/><l>118 <hi rend="capitalsize1">M</hi>edea toocht ons selue de <damage><gap></gap></damage></l>
-<lb n="4" xml:id="D2f4r.4"/><l>119 <hi rend="capitalsize1">D</hi>ie roofde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stal haers v<damage><gap></gap></damage></l>
-<lb n="5" xml:id="D2f4r.5"/><l>120 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> versloech haren broed<damage><gap></gap></damage></l>
-<lb n="6" xml:id="D2f4r.6"/><l>121 <hi rend="capitalsize1">O</hi>m iason dies haer cume<damage><gap></gap></damage></l>
-<lb n="7" xml:id="D2f4r.7"/><l>122 <hi rend="capitalsize1">L</hi>iet sij conincrijc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> s<unclear>tadt</unclear></l>
-<lb n="8" xml:id="D2f4r.8"/><l>123 <hi rend="capitalsize1">V</hi>ader suster <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> m<damage><gap></gap></damage></l>
-<lb n="9" xml:id="D2f4r.9"/><l>124 <hi rend="capitalsize1">N</hi>ochtans daer sij<damage><gap></gap></damage>e<damage><gap></gap></damage></l>
-<lb n="10" xml:id="D2f4r.10"/><l>125 <hi rend="capitalsize1">W</hi>ijsde haer red<unclear>e</unclear><damage><gap></gap></damage></l>
+<lb n="1" xml:id="D2f4r.1"/><l n="116"><hi rend="capitalsize1">H</hi>i en konst hem niet bed<unclear>w</unclear><damage><gap></gap></damage></l>
+<lb n="2" xml:id="D2f4r.2"/><l n="117"><hi rend="capitalsize1">H</hi>i en sterf bi desen dingen</l>
+<lb n="3" xml:id="D2f4r.3"/><l n="118"><hi rend="capitalsize1">M</hi>edea toocht ons selue de <damage><gap></gap></damage></l>
+<lb n="4" xml:id="D2f4r.4"/><l n="119"><hi rend="capitalsize1">D</hi>ie roofde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> stal haers v<damage><gap></gap></damage></l>
+<lb n="5" xml:id="D2f4r.5"/><l n="120"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> versloech haren broed<damage><gap></gap></damage></l>
+<lb n="6" xml:id="D2f4r.6"/><l n="121"><hi rend="capitalsize1">O</hi>m iason dies haer cume<damage><gap></gap></damage></l>
+<lb n="7" xml:id="D2f4r.7"/><l n="122"><hi rend="capitalsize1">L</hi>iet sij conincrijc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> s<unclear>tadt</unclear></l>
+<lb n="8" xml:id="D2f4r.8"/><l n="123"><hi rend="capitalsize1">V</hi>ader suster <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> m<damage><gap></gap></damage></l>
+<lb n="9" xml:id="D2f4r.9"/><l n="124"><hi rend="capitalsize1">N</hi>ochtans daer sij<damage><gap></gap></damage>e<damage><gap></gap></damage></l>
+<lb n="10" xml:id="D2f4r.10"/><l n="125"><hi rend="capitalsize1">W</hi>ijsde haer red<unclear>e</unclear><damage><gap></gap></damage></l>
 
 
 <pb xml:id="D2.f4v" n="4v"/>
-<lb n="1" xml:id="D2f4v.1"/><l>137 <damage><gap></gap></damage>t woent <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> ghetal</l>
-<lb n="2" xml:id="D2f4v.2"/><l>138 <damage><gap></gap></damage>berch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in dal</l>
-<lb n="3" xml:id="D2f4v.3"/><l>139 <damage><gap></gap></damage>c hertoge of graue</l>
-<lb n="4" xml:id="D2f4v.4"/><l>140 <damage><gap></gap></damage>uen is hier tegen smal</l>
-<lb n="5" xml:id="D2f4v.5"/><l>141 <damage><gap></gap></damage> niet weert sijn een bal</l>
-<lb n="6" xml:id="D2f4v.6"/><l>142 <damage><gap></gap></damage>t met caue</l>
-<lb n="7" xml:id="D2f4v.7"/><l>143 <damage><gap></gap></damage>mi s<damage><gap></gap></damage>e baue</l>
-<lb n="8" xml:id="D2f4v.8"/><l>144 <damage><gap></gap></damage>gh <damage><gap></gap></damage>n stout sergiant</l>
-<lb n="9" xml:id="D2f4v.9"/><l>145 <damage><gap></gap></damage>n <damage><gap></gap></damage> op <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vast bant</l>
-<lb n="10" xml:id="D2f4v.10"/><l>146 <damage><gap></gap></damage>n ontbinden</l>
+<lb n="1" xml:id="D2f4v.1"/><l n="137"><damage><gap></gap></damage>t woent <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> ghetal</l>
+<lb n="2" xml:id="D2f4v.2"/><l n="138"><damage><gap></gap></damage>berch <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> in dal</l>
+<lb n="3" xml:id="D2f4v.3"/><l n="139"><damage><gap></gap></damage>c hertoge of graue</l>
+<lb n="4" xml:id="D2f4v.4"/><l n="140"><damage><gap></gap></damage>uen is hier tegen smal</l>
+<lb n="5" xml:id="D2f4v.5"/><l n="141"><damage><gap></gap></damage> niet weert sijn een bal</l>
+<lb n="6" xml:id="D2f4v.6"/><l n="142"><damage><gap></gap></damage>t met caue</l>
+<lb n="7" xml:id="D2f4v.7"/><l n="143"><damage><gap></gap></damage>mi s<damage><gap></gap></damage>e baue</l>
+<lb n="8" xml:id="D2f4v.8"/><l n="144"><damage><gap></gap></damage>gh <damage><gap></gap></damage>n stout sergiant</l>
+<lb n="9" xml:id="D2f4v.9"/><l n="145"><damage><gap></gap></damage>n <damage><gap></gap></damage> op <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> vast bant</l>
+<lb n="10" xml:id="D2f4v.10"/><l n="146"><damage><gap></gap></damage>n ontbinden</l>
 
 
 <pb xml:id="D2.f5r" n="5r"/>
-<lb n="1" xml:id="D2f5r.1"/><l>158 <hi rend="capitalsize1">D</hi>at ghi hier bringhet voort</l>
-<lb n="2" xml:id="D2f5r.2"/><l>159 <hi rend="capitalsize1">M</hi>et fabulen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> poeterijen</l>
-<lb n="3" xml:id="D2f5r.3"/><l>160 <hi rend="capitalsize1">O</hi>ft medea dede moort</l>
-<lb n="4" xml:id="D2f5r.4"/><l>161 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <hi rend="capitalsize1">N</hi>arcisius heeft <choice><abbr>v<g ref="#apomod"/>smoort</abbr><expan>v<ex>er</ex>smoort</expan></choice></l>
-<lb n="5" xml:id="D2f5r.5"/><l>162 <hi rend="capitalsize1">D</hi>its minne <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> sottyen</l>
-<lb n="6" xml:id="D2f5r.6"/><l>163 <hi rend="capitalsize1">M</hi>inne <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> datter toebehoort</l>
-<lb n="7" xml:id="D2f5r.7"/><l>164 <hi rend="capitalsize1">E</hi>n was met sonden nye betoort</l>
-<lb n="8" xml:id="D2f5r.8"/><l>165 <hi rend="capitalsize1">N</hi>och oec met rybaudien</l>
-<lb n="9" xml:id="D2f5r.9"/><l>165 <hi rend="capitalsize1">W</hi>ien dat reyne minne becoort</l>
-<lb n="10" xml:id="D2f5r.10"/><l>166 <hi rend="capitalsize1">H</hi>i en mach niet sijn verdoort</l>
-<lb n="11" xml:id="D2f5r.11"/><l>167 <damage><gap></gap></damage></l>
+<lb n="1" xml:id="D2f5r.1"/><l n="158"><hi rend="capitalsize1">D</hi>at ghi hier bringhet voort</l>
+<lb n="2" xml:id="D2f5r.2"/><l n="159"><hi rend="capitalsize1">M</hi>et fabulen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> poeterijen</l>
+<lb n="3" xml:id="D2f5r.3"/><l n="160"><hi rend="capitalsize1">O</hi>ft medea dede moort</l>
+<lb n="4" xml:id="D2f5r.4"/><l n="161"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <hi rend="capitalsize1">N</hi>arcisius heeft <choice><abbr>v<g ref="#apomod"/>smoort</abbr><expan>v<ex>er</ex>smoort</expan></choice></l>
+<lb n="5" xml:id="D2f5r.5"/><l n="162"><hi rend="capitalsize1">D</hi>its minne <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> sottyen</l>
+<lb n="6" xml:id="D2f5r.6"/><l n="163"><hi rend="capitalsize1">M</hi>inne <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> datter toebehoort</l>
+<lb n="7" xml:id="D2f5r.7"/><l n="164"><hi rend="capitalsize1">E</hi>n was met sonden nye betoort</l>
+<lb n="8" xml:id="D2f5r.8"/><l n="165"><hi rend="capitalsize1">N</hi>och oec met rybaudien</l>
+<lb n="9" xml:id="D2f5r.9"/><l n="165"><hi rend="capitalsize1">W</hi>ien dat reyne minne becoort</l>
+<lb n="10" xml:id="D2f5r.10"/><l n="166"><hi rend="capitalsize1">H</hi>i en mach niet sijn verdoort</l>
 
 
 <pb xml:id="D2.f5v" n="5v"/>
-<lb n="1" xml:id="D2f5v.1"/><l>179 <hi rend="capitalsize1">A</hi>l dooch der die sulcke om torment</l>
-<lb n="2" xml:id="D2f5v.2"/><l>180 <hi rend="capitalsize1">S</hi>ulck als minne der doget sendt</l>
-<lb n="3" xml:id="D2f5v.3"/><l>181 <hi rend="capitalsize1">W</hi>ie was dier af messchiede</l>
-<lb n="4" xml:id="D2f5v.4"/><l>182 <hi rend="capitalsize1">G</hi>helijc den <choice><abbr>heydene<g ref="#bar"/></abbr><expan>heydene<ex>n</ex></expan></choice> diede</l>
-<lb n="5" xml:id="D2f5v.5"/><l>183 <hi rend="capitalsize1">A</hi>braham was vrou sara man</l>
-<lb n="6" xml:id="D2f5v.6"/><l>184 <hi rend="capitalsize1">D</hi>oe hi sijn amye te <choice><abbr>v<g ref="#apomod"/>heffen</abbr><expan>v<ex>er</ex>heffen</expan></choice> <choice><abbr>bega<g ref="#bar"/></abbr><expan>bega<ex>n</ex></expan></choice></l>
-<lb n="7" xml:id="D2f5v.7"/><l>185 <hi rend="capitalsize1">B</hi>ouen sijn <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice></l>
-<lb n="8" xml:id="D2f5v.8"/><l>186 <hi rend="capitalsize1">D</hi>aer en was geen houden an</l>
-<lb n="9" xml:id="D2f5v.9"/><l>187 <hi rend="capitalsize1">H</hi>i deedse wech <pc>/</pc> redene <choice><abbr>v<g ref="#apomod"/>wan</abbr><expan>v<ex>er</ex>wan</expan></choice></l>
-<lb n="10" xml:id="D2f5v.10"/><l>188 <hi rend="capitalsize1">S</hi>ijn herte was vol trouwen</l>
+<lb n="1" xml:id="D2f5v.1"/><l n="179"><hi rend="capitalsize1">A</hi>l dooch der die sulcke om torment</l>
+<lb n="2" xml:id="D2f5v.2"/><l n="180"><hi rend="capitalsize1">S</hi>ulck als minne der doget sendt</l>
+<lb n="3" xml:id="D2f5v.3"/><l n="181"><hi rend="capitalsize1">W</hi>ie was dier af messchiede</l>
+<lb n="4" xml:id="D2f5v.4"/><l n="182"><hi rend="capitalsize1">G</hi>helijc den <choice><abbr>heydene<g ref="#bar"/></abbr><expan>heydene<ex>n</ex></expan></choice> diede</l>
+<lb n="5" xml:id="D2f5v.5"/><l n="183"><hi rend="capitalsize1">A</hi>braham was vrou sara man</l>
+<lb n="6" xml:id="D2f5v.6"/><l n="184"><hi rend="capitalsize1">D</hi>oe hi sijn amye te <choice><abbr>v<g ref="#apomod"/>heffen</abbr><expan>v<ex>er</ex>heffen</expan></choice> <choice><abbr>bega<g ref="#bar"/></abbr><expan>bega<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="D2f5v.7"/><l n="185"><hi rend="capitalsize1">B</hi>ouen sijn <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="D2f5v.8"/><l n="186"><hi rend="capitalsize1">D</hi>aer en was geen houden an</l>
+<lb n="9" xml:id="D2f5v.9"/><l n="187"><hi rend="capitalsize1">H</hi>i deedse wech <pc>/</pc> redene <choice><abbr>v<g ref="#apomod"/>wan</abbr><expan>v<ex>er</ex>wan</expan></choice></l>
+<lb n="10" xml:id="D2f5v.10"/><l n="188"><hi rend="capitalsize1">S</hi>ijn herte was vol trouwen</l>
 
 
 <pb xml:id="D2.f6r" n="6r"/>
-<lb n="1" xml:id="D2f6r.1"/><l>200 <hi rend="capitalsize1">D</hi>at si haer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer ghewin</l>
-<lb n="2" xml:id="D2f6r.2"/><l>201 <hi rend="capitalsize1">M</hi>i yondt vroech <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> spade</l>
-<lb n="3" xml:id="D2f6r.3"/><l>202 <hi rend="capitalsize1">M</hi>i dunct dat ic meer sculdich ben</l>
-<lb n="4" xml:id="D2f6r.4"/><l>203 <hi rend="capitalsize1">H</hi>aer di mi koos int begin</l>
-<lb n="5" xml:id="D2f6r.5"/><l>204 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> aen mi blijft gestade</l>
-<lb n="6" xml:id="D2f6r.6"/><l>205 <hi rend="capitalsize1">D</hi>an die fierlijc haren kin</l>
-<lb n="7" xml:id="D2f6r.7"/><l>206 <hi rend="capitalsize1">T</hi>e mi draecht. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer ghespin</l>
-<lb n="8" xml:id="D2f6r.8"/><l>207 <choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> <choice><abbr>mij<g ref="#bar"/>der</abbr><expan>mij<ex>n</ex>der</expan></choice> elder draecht te sade</l>
-<lb n="9" xml:id="D2f6r.9"/><l>208 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dier ic om bade</l>
-<lb n="10" xml:id="D2f6r.10"/><l>209 <hi rend="capitalsize1">J</hi>acop oft ghi niet en acht</l>
+<lb n="1" xml:id="D2f6r.1"/><l n="200"><hi rend="capitalsize1">D</hi>at si haer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer ghewin</l>
+<lb n="2" xml:id="D2f6r.2"/><l n="201"><hi rend="capitalsize1">M</hi>i yondt vroech <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> spade</l>
+<lb n="3" xml:id="D2f6r.3"/><l n="202"><hi rend="capitalsize1">M</hi>i dunct dat ic meer sculdich ben</l>
+<lb n="4" xml:id="D2f6r.4"/><l n="203"><hi rend="capitalsize1">H</hi>aer di mi koos int begin</l>
+<lb n="5" xml:id="D2f6r.5"/><l n="204"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> aen mi blijft gestade</l>
+<lb n="6" xml:id="D2f6r.6"/><l n="205"><hi rend="capitalsize1">D</hi>an die fierlijc haren kin</l>
+<lb n="7" xml:id="D2f6r.7"/><l n="206"><hi rend="capitalsize1">T</hi>e mi draecht. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> haer ghespin</l>
+<lb n="8" xml:id="D2f6r.8"/><l n="207"><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> <choice><abbr>mij<g ref="#bar"/>der</abbr><expan>mij<ex>n</ex>der</expan></choice> elder draecht te sade</l>
+<lb n="9" xml:id="D2f6r.9"/><l n="208"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> dier ic om bade</l>
+<lb n="10" xml:id="D2f6r.10"/><l n="209"><hi rend="capitalsize1">J</hi>acop oft ghi niet en acht</l>
 
 
 <pb xml:id="D2.f6v" n="6v"/>
-<lb n="1" xml:id="D2f6v.1"/><l>221 <hi rend="capitalsize1">S</hi>ijns willen ontbeeren</l>
-<lb n="2" xml:id="D2f6v.2"/><l>222 ยง <hi rend="capitalsize1">W</hi>at macht hadde sampsoen</l>
-<lb n="3" xml:id="D2f6v.3"/><l>223 <hi rend="capitalsize1">D</hi>auid <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> salomoen</l>
-<lb n="4" xml:id="D2f6v.4"/><l>224 <hi rend="capitalsize1">T</hi>eghen die cracht <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> minnen</l>
-<lb n="5" xml:id="D2f6v.5"/><l>225 <hi rend="capitalsize1">D</hi>aer en is tsegen geen doen</l>
-<lb n="6" xml:id="D2f6v.6"/><l>226 <hi rend="capitalsize1">S</hi>orobabel in sijn sermoen</l>
-<lb n="7" xml:id="D2f6v.7"/><l>227 <hi rend="capitalsize1">D</hi>oet ons wel <choice><abbr>bekenne<g ref="#bar"/></abbr><expan>bekenne<ex>n</ex></expan></choice></l>
-<lb n="8" xml:id="D2f6v.8"/><l>228 <hi rend="capitalsize1">S</hi>oe wie in <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> spoen</l>
-<lb n="9" xml:id="D2f6v.9"/><l>229 <hi rend="capitalsize1">H</hi>i en mach anders niet gheroen</l>
-<lb n="10" xml:id="D2f6v.10"/><l>230 <hi rend="capitalsize1">I</hi>n sijn herte binnen</l>
+<lb n="1" xml:id="D2f6v.1"/><l n="221"><hi rend="capitalsize1">S</hi>ijns willen ontbeeren</l>
+<lb n="2" xml:id="D2f6v.2"/><l n="222">ง <hi rend="capitalsize1">W</hi>at macht hadde sampsoen</l>
+<lb n="3" xml:id="D2f6v.3"/><l n="223"><hi rend="capitalsize1">D</hi>auid <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> salomoen</l>
+<lb n="4" xml:id="D2f6v.4"/><l n="224"><hi rend="capitalsize1">T</hi>eghen die cracht <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> minnen</l>
+<lb n="5" xml:id="D2f6v.5"/><l n="225"><hi rend="capitalsize1">D</hi>aer en is tsegen geen doen</l>
+<lb n="6" xml:id="D2f6v.6"/><l n="226"><hi rend="capitalsize1">S</hi>orobabel in sijn sermoen</l>
+<lb n="7" xml:id="D2f6v.7"/><l n="227"><hi rend="capitalsize1">D</hi>oet ons wel <choice><abbr>bekenne<g ref="#bar"/></abbr><expan>bekenne<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="D2f6v.8"/><l n="228"><hi rend="capitalsize1">S</hi>oe wie in <choice><abbr>vrouwe<g ref="#bar"/></abbr><expan>vrouwe<ex>n</ex></expan></choice> <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice> spoen</l>
+<lb n="9" xml:id="D2f6v.9"/><l n="229"><hi rend="capitalsize1">H</hi>i en mach anders niet gheroen</l>
+<lb n="10" xml:id="D2f6v.10"/><l n="230"><hi rend="capitalsize1">I</hi>n sijn herte binnen</l>
 
 
 <pb xml:id="D2.f7r" n="7r"/>
-<lb n="1" xml:id="D2f7r.1"/><l>242 <hi rend="capitalsize1">P</hi>orringhe die den sin wech thiet</l>
-<lb n="2" xml:id="D2f7r.2"/><l>243 <hi rend="capitalsize1">D</hi>ie zeere treect ten beghinne</l>
-<lb n="3" xml:id="D2f7r.3"/><l>244 <hi rend="capitalsize1">D</hi>ie de reden te <choice><abbr>ghemoete<g ref="#bar"/></abbr><expan>ghemoete<ex>n</ex></expan></choice> pliet</l>
-<lb n="4" xml:id="D2f7r.4"/><l>245 <hi rend="capitalsize1">D</hi>us ontbant mi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> beschiet</l>
-<lb n="5" xml:id="D2f7r.5"/><l>246 <hi rend="capitalsize1">M</hi>ijn meester als ic kinne</l>
-<lb n="6" xml:id="D2f7r.6"/><l>247 <hi rend="capitalsize1">O</hi>ft <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> verstant is dinne</l>
-<lb n="7" xml:id="D2f7r.7"/><l>248 <hi rend="capitalsize1">O</hi>ft die minne is alst es</l>
-<lb n="8" xml:id="D2f7r.8"/><l>249 <hi rend="capitalsize1">I</hi>c ben seker <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghewes</l>
-<lb n="9" xml:id="D2f7r.9"/><l>250 <hi rend="capitalsize1">I</hi>c volchs den iersten woorde</l>
-<lb n="10" xml:id="D2f7r.10"/><l>251 <hi rend="capitalsize1">D</hi>ie waerheit lide ic des</l>
-<lb n="11" xml:id="D2f7r.11"/><l>252 <hi rend="capitalsize1">S</hi>ij en smaecte swaert noch mes</l>
-<lb n="12" xml:id="D2f7r.12"/><l>253 <hi rend="capitalsize1">D</hi>ie mi therte doerboorde</l>
-<lb n="13" xml:id="D2f7r.13"/><l>254 <hi rend="capitalsize1">T</hi>hertte <choice><abbr>ne<g ref="#bar"/>mermeer</abbr><expan>ne<ex>m</ex>mermeer</expan></choice> ghenes</l>
-<lb n="14" xml:id="D2f7r.14"/><l>255 <hi rend="capitalsize1">N</hi>och gheruste noch ghetes</l>
-<lb n="15" xml:id="D2f7r.15"/><l>256 <hi rend="capitalsize1">L</hi>iech ic van <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> woerde</l>
-<lb n="16" xml:id="D2f7r.16"/><l>257 <hi rend="capitalsize1">J</hi>acop proeft wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> les</l>
-<lb n="17" xml:id="D2f7r.17"/><l>258 <hi rend="capitalsize1">D</hi>ies is <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> herte wel ghewes.</l>
-<lb n="18" xml:id="D2f7r.18"/><l>259 <hi rend="capitalsize1">D</hi>at ic mi eer versmoorde</l>
-<lb n="19" xml:id="D2f7r.19"/><l>260 <hi rend="capitalsize1">E</hi>er icse steruen hoorde</l>
-<lb n="20" xml:id="D2f7r.20"/><l>261 <hi rend="capitalsize1">M</hi>artijn ruyt <choice><abbr>gra<g ref="#bar"/>marijen</abbr><expan>gra<ex>m</ex>marijen</expan></choice></l>
-<lb n="21" xml:id="D2f7r.21"/><l>262 <hi rend="capitalsize1">D</hi>u pleges <unclear>d</unclear>es veel lieden plien</l>
+<lb n="1" xml:id="D2f7r.1"/><l n="242"><hi rend="capitalsize1">P</hi>orringhe die den sin wech thiet</l>
+<lb n="2" xml:id="D2f7r.2"/><l n="243"><hi rend="capitalsize1">D</hi>ie zeere treect ten beghinne</l>
+<lb n="3" xml:id="D2f7r.3"/><l n="244"><hi rend="capitalsize1">D</hi>ie de reden te <choice><abbr>ghemoete<g ref="#bar"/></abbr><expan>ghemoete<ex>n</ex></expan></choice> pliet</l>
+<lb n="4" xml:id="D2f7r.4"/><l n="245"><hi rend="capitalsize1">D</hi>us ontbant mi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> beschiet</l>
+<lb n="5" xml:id="D2f7r.5"/><l n="246"><hi rend="capitalsize1">M</hi>ijn meester als ic kinne</l>
+<lb n="6" xml:id="D2f7r.6"/><l n="247"><hi rend="capitalsize1">O</hi>ft <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> verstant is dinne</l>
+<lb n="7" xml:id="D2f7r.7"/><l n="248"><hi rend="capitalsize1">O</hi>ft die minne is alst es</l>
+<lb n="8" xml:id="D2f7r.8"/><l n="249"><hi rend="capitalsize1">I</hi>c ben seker <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ghewes</l>
+<lb n="9" xml:id="D2f7r.9"/><l n="250"><hi rend="capitalsize1">I</hi>c volchs den iersten woorde</l>
+<lb n="10" xml:id="D2f7r.10"/><l n="251"><hi rend="capitalsize1">D</hi>ie waerheit lide ic des</l>
+<lb n="11" xml:id="D2f7r.11"/><l n="252"><hi rend="capitalsize1">S</hi>ij en smaecte swaert noch mes</l>
+<lb n="12" xml:id="D2f7r.12"/><l n="253"><hi rend="capitalsize1">D</hi>ie mi therte doerboorde</l>
+<lb n="13" xml:id="D2f7r.13"/><l n="254"><hi rend="capitalsize1">T</hi>hertte <choice><abbr>ne<g ref="#bar"/>mermeer</abbr><expan>ne<ex>m</ex>mermeer</expan></choice> ghenes</l>
+<lb n="14" xml:id="D2f7r.14"/><l n="255"><hi rend="capitalsize1">N</hi>och gheruste noch ghetes</l>
+<lb n="15" xml:id="D2f7r.15"/><l n="256"><hi rend="capitalsize1">L</hi>iech ic van <choice><abbr>eene<g ref="#bar"/></abbr><expan>eene<ex>n</ex></expan></choice> woerde</l>
+<lb n="16" xml:id="D2f7r.16"/><l n="257"><hi rend="capitalsize1">J</hi>acop proeft wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> les</l>
+<lb n="17" xml:id="D2f7r.17"/><l n="258"><hi rend="capitalsize1">D</hi>ies is <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> herte wel ghewes.</l>
+<lb n="18" xml:id="D2f7r.18"/><l n="259"><hi rend="capitalsize1">D</hi>at ic mi eer versmoorde</l>
+<lb n="19" xml:id="D2f7r.19"/><l n="260"><hi rend="capitalsize1">E</hi>er icse steruen hoorde</l>
+<lb n="20" xml:id="D2f7r.20"/><l n="261"><hi rend="capitalsize1">M</hi>artijn ruyt <choice><abbr>gra<g ref="#bar"/>marijen</abbr><expan>gra<ex>m</ex>marijen</expan></choice></l>
+<lb n="21" xml:id="D2f7r.21"/><l n="262"><hi rend="capitalsize1">D</hi>u pleges <unclear>d</unclear>es veel lieden plien</l>
 
 
 <pb xml:id="D2.f7v" n="7v"/>
-<lb n="1" xml:id="D2f7v.1"/><l>263 <hi rend="capitalsize1">D</hi>ie de waerheit noode lijen</l>
-<lb n="2" xml:id="D2f7v.2"/><l>264 <hi rend="capitalsize1">M</hi>esdaden die <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> wijsen gheschien</l>
-<lb n="3" xml:id="D2f7v.3"/><l>265 <hi rend="capitalsize1">E</hi>n salmen niet in <choice><abbr>exemple<g ref="#bar"/></abbr><expan>exemple<ex>n</ex></expan></choice> thijen</l>
-<lb n="4" xml:id="D2f7v.4"/><l>266 <hi rend="capitalsize1">M</hi>aer gode benedien</l>
-<lb n="5" xml:id="D2f7v.5"/><l>267 <hi rend="capitalsize1">D</hi>ie ons daer leert <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> vlyen</l>
-<lb n="6" xml:id="D2f7v.6"/><l>268 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> op gherechte minne sien</l>
-<lb n="7" xml:id="D2f7v.7"/><l>269 <hi rend="capitalsize1">D</hi>es hopick aen marien</l>
-<lb n="8" xml:id="D2f7v.8"/><l>270 <hi rend="capitalsize1">D</hi>at ic die doe noch heden ghijen</l>
-<lb n="9" xml:id="D2f7v.9"/><l>271 <hi rend="capitalsize1">O</hi>ft ghi sijt een paijen</l>
-<lb n="10" xml:id="D2f7v.10"/><l>272 <hi rend="capitalsize1">O</hi>ft vol heresien</l>
-<lb n="11" xml:id="D2f7v.11"/><l>273 <hi rend="capitalsize1">O</hi>fte van sduuels partien</l>
-<lb n="12" xml:id="D2f7v.12"/><l>274 <hi rend="capitalsize1">M</hi>artijn hooret <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> verstant</l>
-<lb n="13" xml:id="D2f7v.13"/><l>275 <hi rend="capitalsize1">W</hi>ie wast die dierste minne vant</l>
-<lb n="14" xml:id="D2f7v.14"/><l>276 <hi rend="capitalsize1">D</hi>an god die selue is minne</l>
-<lb n="15" xml:id="D2f7v.15"/><l>277 <hi rend="capitalsize1">A</hi>l dat maecte ye sijn hant</l>
-<lb n="16" xml:id="D2f7v.16"/><l>278 <hi rend="capitalsize1">M</hi>innet sijnder herten bant</l>
-<lb n="17" xml:id="D2f7v.17"/><l>279 <hi rend="capitalsize1">M</hi>et ghestadigen sinne</l>
-<lb n="18" xml:id="D2f7v.18"/><l>280 <hi rend="capitalsize1">J</hi>a lucifer den helschen viant</l>
-<lb n="19" xml:id="D2f7v.19"/><l>281 <choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> haet hi niet dat es bekant</l>
-<lb n="20" xml:id="D2f7v.20"/><l>282 <hi rend="capitalsize1">N</hi>och en dede <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> beghinne</l>
-<lb n="21" xml:id="D2f7v.21"/><l>283 <hi rend="capitalsize1">D</hi>at hi sidt inden hels<unclear>c</unclear>hen brant</l>
+<lb n="1" xml:id="D2f7v.1"/><l n="263"><hi rend="capitalsize1">D</hi>ie de waerheit noode lijen</l>
+<lb n="2" xml:id="D2f7v.2"/><l n="264"><hi rend="capitalsize1">M</hi>esdaden die <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> wijsen gheschien</l>
+<lb n="3" xml:id="D2f7v.3"/><l n="265"><hi rend="capitalsize1">E</hi>n salmen niet in <choice><abbr>exemple<g ref="#bar"/></abbr><expan>exemple<ex>n</ex></expan></choice> thijen</l>
+<lb n="4" xml:id="D2f7v.4"/><l n="266"><hi rend="capitalsize1">M</hi>aer gode benedien</l>
+<lb n="5" xml:id="D2f7v.5"/><l n="267"><hi rend="capitalsize1">D</hi>ie ons daer leert <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> vlyen</l>
+<lb n="6" xml:id="D2f7v.6"/><l n="268"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> op gherechte minne sien</l>
+<lb n="7" xml:id="D2f7v.7"/><l n="269"><hi rend="capitalsize1">D</hi>es hopick aen marien</l>
+<lb n="8" xml:id="D2f7v.8"/><l n="270"><hi rend="capitalsize1">D</hi>at ic die doe noch heden ghijen</l>
+<lb n="9" xml:id="D2f7v.9"/><l n="271"><hi rend="capitalsize1">O</hi>ft ghi sijt een paijen</l>
+<lb n="10" xml:id="D2f7v.10"/><l n="272"><hi rend="capitalsize1">O</hi>ft vol heresien</l>
+<lb n="11" xml:id="D2f7v.11"/><l n="273"><hi rend="capitalsize1">O</hi>fte van sduuels partien</l>
+<lb n="12" xml:id="D2f7v.12"/><l n="274"><hi rend="capitalsize1">M</hi>artijn hooret <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> verstant</l>
+<lb n="13" xml:id="D2f7v.13"/><l n="275"><hi rend="capitalsize1">W</hi>ie wast die dierste minne vant</l>
+<lb n="14" xml:id="D2f7v.14"/><l n="276"><hi rend="capitalsize1">D</hi>an god die selue is minne</l>
+<lb n="15" xml:id="D2f7v.15"/><l n="277"><hi rend="capitalsize1">A</hi>l dat maecte ye sijn hant</l>
+<lb n="16" xml:id="D2f7v.16"/><l n="278"><hi rend="capitalsize1">M</hi>innet sijnder herten bant</l>
+<lb n="17" xml:id="D2f7v.17"/><l n="279"><hi rend="capitalsize1">M</hi>et ghestadigen sinne</l>
+<lb n="18" xml:id="D2f7v.18"/><l n="280"><hi rend="capitalsize1">J</hi>a lucifer den helschen viant</l>
+<lb n="19" xml:id="D2f7v.19"/><l n="281"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> haet hi niet dat es bekant</l>
+<lb n="20" xml:id="D2f7v.20"/><l n="282"><hi rend="capitalsize1">N</hi>och en dede <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> beghinne</l>
+<lb n="21" xml:id="D2f7v.21"/><l n="283"><hi rend="capitalsize1">D</hi>at hi sidt inden hels<unclear>c</unclear>hen brant</l>
 
 
 <pb xml:id="D2.f8r" n="8r"/>
-<lb n="1" xml:id="D2f8r.1"/><l>284 <hi rend="capitalsize1">D</hi>at doet der houerdien pant</l>
-<lb n="2" xml:id="D2f8r.2"/><l>285 <hi rend="capitalsize1">D</hi>ie helsche coninghinne</l>
-<lb n="3" xml:id="D2f8r.3"/><l>286 <hi rend="capitalsize1">D</hi>aer hi blijft altoes inne</l>
-<lb n="4" xml:id="D2f8r.4"/><l>287 <hi rend="capitalsize1">D</hi>at dit waer is proeft wel dat</l>
-<lb n="5" xml:id="D2f8r.5"/><l>288 <hi rend="capitalsize1">W</hi>aer eenich dinc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> gode ghehadt</l>
-<lb n="6" xml:id="D2f8r.6"/><l>289 <hi rend="capitalsize1">T</hi>en mochte niet ghedueren</l>
-<lb n="7" xml:id="D2f8r.7"/><l>290 <hi rend="capitalsize1">D</hi>en <choice><abbr>onghetelde<g ref="#bar"/></abbr><expan>onghetelde<ex>n</ex></expan></choice> god schat</l>
-<lb n="8" xml:id="D2f8r.8"/><l>291 <hi rend="capitalsize1">E</hi>n was noyt tontfermen sat</l>
-<lb n="9" xml:id="D2f8r.9"/><l>292 <hi rend="capitalsize1">A</hi>llen sijn creaturen</l>
-<lb n="10" xml:id="D2f8r.10"/><l>293 <hi rend="capitalsize1">O</hi>p datmen <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> met herten badt</l>
-<lb n="11" xml:id="D2f8r.11"/><l>294 <hi rend="capitalsize1">M</hi>aer lucifer sidt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sadt</l>
-<lb n="12" xml:id="D2f8r.12"/><l>295 <hi rend="capitalsize1">N</hi>v <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tallen hueren</l>
-<lb n="13" xml:id="D2f8r.13"/><l>296 <hi rend="capitalsize1">I</hi>n die fyere houerdien stadt</l>
-<lb n="14" xml:id="D2f8r.14"/><l>297 <choice><abbr><hi rend="capitalsize1">N</hi>e<g ref="#bar"/>mermeer</abbr><expan><hi rend="capitalsize1">N</hi>e<ex>m</ex>mermeer</expan></choice> en werdt hijs sadt</l>
-<lb n="15" xml:id="D2f8r.15"/><l>298 <hi rend="capitalsize1">D</hi>us en mach sijnre natueren</l>
-<lb n="16" xml:id="D2f8r.16"/><l>299 <hi rend="capitalsize1">G</hi>heen ghenade ghebueren</l>
-<lb n="17" xml:id="D2f8r.17"/><l>300 <hi rend="capitalsize1">O</hi>ft men dit bi reden weet</l>
-<lb n="18" xml:id="D2f8r.18"/><l>301 <hi rend="capitalsize1">D</hi>at god niemant en heeft leet</l>
-<lb n="19" xml:id="D2f8r.19"/><l>302 <hi rend="capitalsize1">W</hi>ien gheeft hi tlanghe leuen</l>
-<lb n="20" xml:id="D2f8r.20"/><l>303 <hi rend="capitalsize1">S</hi>o den ghenen die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> es wreet</l>
-<lb n="21" xml:id="D2f8r.21"/><l>304 <hi rend="capitalsize1">S</hi>o die hem me<unclear>t</unclear> <choice><abbr>m<unclear>linne</unclear><g ref="#bar"/></abbr><expan>m<unclear>linne</unclear><ex>n</ex></expan></choice> heet</l>
+<lb n="1" xml:id="D2f8r.1"/><l n="284"><hi rend="capitalsize1">D</hi>at doet der houerdien pant</l>
+<lb n="2" xml:id="D2f8r.2"/><l n="285"><hi rend="capitalsize1">D</hi>ie helsche coninghinne</l>
+<lb n="3" xml:id="D2f8r.3"/><l n="286"><hi rend="capitalsize1">D</hi>aer hi blijft altoes inne</l>
+<lb n="4" xml:id="D2f8r.4"/><l n="287"><hi rend="capitalsize1">D</hi>at dit waer is proeft wel dat</l>
+<lb n="5" xml:id="D2f8r.5"/><l n="288"><hi rend="capitalsize1">W</hi>aer eenich dinc <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> gode ghehadt</l>
+<lb n="6" xml:id="D2f8r.6"/><l n="289"><hi rend="capitalsize1">T</hi>en mochte niet ghedueren</l>
+<lb n="7" xml:id="D2f8r.7"/><l n="290"><hi rend="capitalsize1">D</hi>en <choice><abbr>onghetelde<g ref="#bar"/></abbr><expan>onghetelde<ex>n</ex></expan></choice> god schat</l>
+<lb n="8" xml:id="D2f8r.8"/><l n="291"><hi rend="capitalsize1">E</hi>n was noyt tontfermen sat</l>
+<lb n="9" xml:id="D2f8r.9"/><l n="292"><hi rend="capitalsize1">A</hi>llen sijn creaturen</l>
+<lb n="10" xml:id="D2f8r.10"/><l n="293"><hi rend="capitalsize1">O</hi>p datmen <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> met herten badt</l>
+<lb n="11" xml:id="D2f8r.11"/><l n="294"><hi rend="capitalsize1">M</hi>aer lucifer sidt <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> sadt</l>
+<lb n="12" xml:id="D2f8r.12"/><l n="295"><hi rend="capitalsize1">N</hi>v <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> tallen hueren</l>
+<lb n="13" xml:id="D2f8r.13"/><l n="296"><hi rend="capitalsize1">I</hi>n die fyere houerdien stadt</l>
+<lb n="14" xml:id="D2f8r.14"/><l n="297"><choice><abbr><hi rend="capitalsize1">N</hi>e<g ref="#bar"/>mermeer</abbr><expan><hi rend="capitalsize1">N</hi>e<ex>m</ex>mermeer</expan></choice> en werdt hijs sadt</l>
+<lb n="15" xml:id="D2f8r.15"/><l n="298"><hi rend="capitalsize1">D</hi>us en mach sijnre natueren</l>
+<lb n="16" xml:id="D2f8r.16"/><l n="299"><hi rend="capitalsize1">G</hi>heen ghenade ghebueren</l>
+<lb n="17" xml:id="D2f8r.17"/><l n="300"><hi rend="capitalsize1">O</hi>ft men dit bi reden weet</l>
+<lb n="18" xml:id="D2f8r.18"/><l n="301"><hi rend="capitalsize1">D</hi>at god niemant en heeft leet</l>
+<lb n="19" xml:id="D2f8r.19"/><l n="302"><hi rend="capitalsize1">W</hi>ien gheeft hi tlanghe leuen</l>
+<lb n="20" xml:id="D2f8r.20"/><l n="303"><hi rend="capitalsize1">S</hi>o den ghenen die <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> es wreet</l>
+<lb n="21" xml:id="D2f8r.21"/><l n="304"><hi rend="capitalsize1">S</hi>o die hem me<unclear>t</unclear> <choice><abbr>m<unclear>linne</unclear><g ref="#bar"/></abbr><expan>m<unclear>linne</unclear><ex>n</ex></expan></choice> heet</l>
 
 
 <pb xml:id="D2.f8v" n="8v"/>
-<lb n="1" xml:id="D2f8v.1"/><l>305 <hi rend="capitalsize1">O</hi>nderdaen is gebleuen</l>
-<lb n="2" xml:id="D2f8v.2"/><l>306 <hi rend="capitalsize1">I</hi>c derft wel seggen op <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> eedt</l>
-<lb n="3" xml:id="D2f8v.3"/><l>307 <hi rend="capitalsize1">S</hi>ijn huescheit waer onghecleet</l>
-<lb n="4" xml:id="D2f8v.4"/><l>308 <hi rend="capitalsize1">L</hi>iet hi den ghenen sneuen</l>
-<lb n="5" xml:id="D2f8v.5"/><l>309 <hi rend="capitalsize1">D</hi>ie al tsynen dienste steet</l>
-<lb n="6" xml:id="D2f8v.6"/><l>310 <hi rend="capitalsize1">D</hi>iens ghelijcke wil ic ghereet</l>
-<lb n="7" xml:id="D2f8v.7"/><l>311 <hi rend="capitalsize1">D</hi>en toon haer <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice></l>
-<lb n="8" xml:id="D2f8v.8"/><l>312 <hi rend="capitalsize1">D</hi>ie voer mi luste te <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
-<lb n="9" xml:id="D2f8v.9"/><l>313 ยง <hi rend="capitalsize1">G</hi>od gheeftet al clein <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot</l>
-<lb n="10" xml:id="D2f8v.10"/><l>314 <hi rend="capitalsize1">D</hi>ies die mensche heuet noot</l>
-<lb n="11" xml:id="D2f8v.11"/><l>315 <hi rend="capitalsize1">D</hi>it proeftmen met sinne</l>
-<lb n="12" xml:id="D2f8v.12"/><l>316 <hi rend="capitalsize1">H</hi>i stortte voer ons sijn bloet root</l>
-<lb n="13" xml:id="D2f8v.13"/><l>317 <hi rend="capitalsize1">H</hi>i gheeft ons themelsche broot</l>
-<lb n="14" xml:id="D2f8v.14"/><l>318 <hi rend="capitalsize1">O</hi>p datmen hem weer minne</l>
-<lb n="15" xml:id="D2f8v.15"/><l>319 <hi rend="capitalsize1">O</hi>ec om egheenen <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> stoot</l>
-<lb n="16" xml:id="D2f8v.16"/><l>320 <hi rend="capitalsize1">D</hi>aer ons sonde oyt mede schoot</l>
-<lb n="17" xml:id="D2f8v.17"/><l>321 <hi rend="capitalsize1">E</hi>n laet hi ons daer inne</l>
-<lb n="18" xml:id="D2f8v.18"/><l>322 <hi rend="capitalsize1">L</hi>egghen wi thooft in sinen schoot</l>
-<lb n="19" xml:id="D2f8v.19"/><l>323 <hi rend="capitalsize1">S</hi>oude hi smaken dan die doot</l>
-<lb n="20" xml:id="D2f8v.20"/><l>324 <hi rend="capitalsize1">D</hi>ie ic mi so hout kinne</l>
-<lb n="21" xml:id="D2f8v.21"/><l>325 <hi rend="capitalsize1">S</hi>oe waer <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> vroedom dinne</l>
-                    </p>
-                </body>
-            </text>
+<lb n="1" xml:id="D2f8v.1"/><l n="305"><hi rend="capitalsize1">O</hi>nderdaen is gebleuen</l>
+<lb n="2" xml:id="D2f8v.2"/><l n="306"><hi rend="capitalsize1">I</hi>c derft wel seggen op <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> eedt</l>
+<lb n="3" xml:id="D2f8v.3"/><l n="307"><hi rend="capitalsize1">S</hi>ijn huescheit waer onghecleet</l>
+<lb n="4" xml:id="D2f8v.4"/><l n="308"><hi rend="capitalsize1">L</hi>iet hi den ghenen sneuen</l>
+<lb n="5" xml:id="D2f8v.5"/><l n="309"><hi rend="capitalsize1">D</hi>ie al tsynen dienste steet</l>
+<lb n="6" xml:id="D2f8v.6"/><l n="310"><hi rend="capitalsize1">D</hi>iens ghelijcke wil ic ghereet</l>
+<lb n="7" xml:id="D2f8v.7"/><l n="311"><hi rend="capitalsize1">D</hi>en toon haer <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice></l>
+<lb n="8" xml:id="D2f8v.8"/><l n="312"><hi rend="capitalsize1">D</hi>ie voer mi luste te <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
+<lb n="9" xml:id="D2f8v.9"/><l n="313">ง <hi rend="capitalsize1">G</hi>od gheeftet al clein <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> groot</l>
+<lb n="10" xml:id="D2f8v.10"/><l n="314"><hi rend="capitalsize1">D</hi>ies die mensche heuet noot</l>
+<lb n="11" xml:id="D2f8v.11"/><l n="315"><hi rend="capitalsize1">D</hi>it proeftmen met sinne</l>
+<lb n="12" xml:id="D2f8v.12"/><l n="316"><hi rend="capitalsize1">H</hi>i stortte voer ons sijn bloet root</l>
+<lb n="13" xml:id="D2f8v.13"/><l n="317"><hi rend="capitalsize1">H</hi>i gheeft ons themelsche broot</l>
+<lb n="14" xml:id="D2f8v.14"/><l n="318"><hi rend="capitalsize1">O</hi>p datmen hem weer minne</l>
+<lb n="15" xml:id="D2f8v.15"/><l n="319"><hi rend="capitalsize1">O</hi>ec om egheenen <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> stoot</l>
+<lb n="16" xml:id="D2f8v.16"/><l n="320"><hi rend="capitalsize1">D</hi>aer ons sonde oyt mede schoot</l>
+<lb n="17" xml:id="D2f8v.17"/><l n="321"><hi rend="capitalsize1">E</hi>n laet hi ons daer inne</l>
+<lb n="18" xml:id="D2f8v.18"/><l n="322"><hi rend="capitalsize1">L</hi>egghen wi thooft in sinen schoot</l>
+<lb n="19" xml:id="D2f8v.19"/><l n="323"><hi rend="capitalsize1">S</hi>oude hi smaken dan die doot</l>
+<lb n="20" xml:id="D2f8v.20"/><l n="324"><hi rend="capitalsize1">D</hi>ie ic mi so hout kinne</l>
+<lb n="21" xml:id="D2f8v.21"/><l n="325"><hi rend="capitalsize1">S</hi>oe waer <choice><abbr>mij<g ref="#bar"/></abbr><expan>mij<ex>n</ex></expan></choice> vroedom dinne</l>
+</p>
+</body>
+</text>
         </group>
     </text>
  </MVN>
