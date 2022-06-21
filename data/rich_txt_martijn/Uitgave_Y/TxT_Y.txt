@@ -87,8 +87,8 @@ man te verheffen bouen man
 80 <D>at alder werelt ogen berecht	
 <B>i hare edelre naturen		
 <A>ls dat swerc daer yege(n) vecht	
-<S>one ca(n) si te diere vren
-<E>ntie neuel met sijnre drecht	
+84 <S>one ca(n) si te diere vren
+83 <E>ntie neuel met sijnre drecht	
 85 <N>iet getoghen h[aer] scoenheit echt	
 <A>ldus verdonckert die scalke knecht	
 <D>ie edele creaturen			
