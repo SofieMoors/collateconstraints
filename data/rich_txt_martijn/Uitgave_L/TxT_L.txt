@@ -1,12 +1,7 @@
 &1ra&
 _M1_
-1 <W_7><A>phene 			
-m*e*rten
-hoe saelt 
-gaen
-2 <S>al dese 			
-werelt 
-lange stae(n)
+1 <W_7><A>phene m*e*rten hoe saelt gaen
+2 <S>al dese werelt lange stae(n)
 3 <I>n dus crancken loeue		
 4 <S>oe sal mijn vrouwe vere(n) saen
 5 <S>onder twiuel ende waen			

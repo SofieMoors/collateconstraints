@@ -1,11 +1,9 @@
 &1ra&	
 _M1_
-1 <W_6><A>phene martijn			 
-hoe saelt gaen 2 <S>al 			
-dese weerelt langhe 			
-staen. 3 <I>n dus cranc			
-ken loue 4 <S>oe moet			
-mijn vrouwe eere saen
+1 <W_6><A>phene martijn	hoe saelt gaen 
+2 <S>al dese weerelt langhe staen. 
+3 <I>n dus crancken loue 
+4 <S>oe moet mijn vrouwe eere saen
 5 <Sonder twiuel ende waen		
 <R>ume(n) der heeren houe			
 <I>c sie de(n) scalcken wel ontfaen
