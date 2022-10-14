@@ -33,21 +33,20 @@
 
 <text n="Eerste Martijn" xml:id="M1">
 <body>
-<p><lb n="1" xml:id="Of19r.1"/><l n="001"><hi rend="capitalsize7">W</hi>Aphene martin</l>
-<lb n="2" xml:id="Of19r.2"/><l n="002">hoe salt gaen 2 <hi rend="capitalsize1">S</hi>al</l>
-<lb n="3" xml:id="Of19r.3"/><l n="003">dese weerelt yet</l>
-<lb n="4" xml:id="Of19r.4"/><l n="004">langhe staen. 3 <hi rend="capitalsize1">I</hi>n</l>
-<lb n="5" xml:id="Of19r.5"/><l n="005">dus cranken loue</l>
-<lb n="6" xml:id="Of19r.6"/><l n="004"><hi rend="capitalsize1">S</hi>o zal mijn vrau</l>
-<lb n="7" xml:id="Of19r.7"/><l n="005">we eere zaen 5 <hi rend="capitalsize1">S</hi>on</l>
-<lb n="8" xml:id="Of19r.8"/><l n="006">der twifel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waen 6 <choice><abbr><hi rend="capitalsize1">R</hi>ume<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">R</hi>ume<ex>n</ex></expan></choice> der <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> houe</l>
-<lb n="9" xml:id="Of19r.9"/><l n="007"><hi rend="capitalsize1">I</hi>c sie den scalke wel ontfaen</l>
-<lb n="10" xml:id="Of19r.10"/><l n="008"><hi rend="capitalsize1">D</hi>ie de heeren connen dwaen</l>
-<lb n="11" xml:id="Of19r.11"/><l n="009"><hi rend="capitalsize1">E</hi>nde plocken van den stoue</l>
-<lb n="12" xml:id="Of19r.12"/><l n="010"><hi rend="capitalsize1">I</hi>c zie die gherechte slaen</l>
-<lb n="13" xml:id="Of19r.13"/><l n="011"><hi rend="capitalsize1">B</hi>ede bescatten ende vaen</l>
-<lb n="14" xml:id="Of19r.14"/><l n="012"><hi rend="capitalsize1">A</hi>lse die meese in de cloue</l>
-<lb n="15" xml:id="Of19r.15"/><l n="013"><hi rend="capitalsize1">R</hi>echt oftene god verscoue.</l>
+<p><lb n="1" xml:id="Of19r.1"/><l n="001"><hi rend="capitalsize7">W</hi>Aphene martin hoe salt gaen</l>
+<lb n="2" xml:id="Of19r.2"/><l n="002"><hi rend="capitalsize1">S</hi>al dese weerelt yet</l>
+<lb n="3" xml:id="Of19r.3"/><l n="003">langhe staen.</l>
+<lb n="4" xml:id="Of19r.4"/><l n="003"><hi rend="capitalsize1">I</hi>n dus cranken loue</l>
+<lb n="5" xml:id="Of19r.5"/><l n="004"><hi rend="capitalsize1">S</hi>o zal mijn vrauwe eere zaen</l>
+<lb n="6" xml:id="Of19r.6"/><l n="005"><hi rend="capitalsize1">S</hi>onder twifel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waen</l>
+<lb n="7" xml:id="Of19r.7"/><l n="006"><choice><abbr><hi rend="capitalsize1">R</hi>ume<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">R</hi>ume<ex>n</ex></expan></choice> der <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> houe</l>
+<lb n="8" xml:id="Of19r.8"/><l n="007"><hi rend="capitalsize1">I</hi>c sie den scalke wel ontfaen</l>
+<lb n="9" xml:id="Of19r.9"/><l n="008"><hi rend="capitalsize1">D</hi>ie de heeren connen dwaen</l>
+<lb n="10" xml:id="Of19r.10"/><l n="009"><hi rend="capitalsize1">E</hi>nde plocken van den stoue</l>
+<lb n="11" xml:id="Of19r.11"/><l n="010"><hi rend="capitalsize1">I</hi>c zie die gherechte slaen</l>
+<lb n="12" xml:id="Of19r.12"/><l n="011"><hi rend="capitalsize1">B</hi>ede bescatten ende vaen</l>
+<lb n="13" xml:id="Of19r.13"/><l n="012"><hi rend="capitalsize1">A</hi>lse die meese in de cloue</l>
+<lb n="14" xml:id="Of19r.14"/><l n="013"><hi rend="capitalsize1">R</hi>echt oftene god verscoue.</l>
 
 
 <pb xml:id="O.f19v" n="19v"/>
