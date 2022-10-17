@@ -768,7 +768,7 @@ _M1_
 
 671 <D>ie stille mint oft ouer luyt
 670 <H>em en mach helpen ander cruyt.
-<D>an die hem deuel toe sende.
+672 <D>an die hem deuel toe sende.
 <D>er herten ende der hoger virtuyt
 <W>il ick dat hier by si beduyt.
 675 <P>roeft hoe ick dit ontbinde.
