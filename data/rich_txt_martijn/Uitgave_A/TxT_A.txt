@@ -482,9 +482,9 @@ _M1_
 <M_1>artin ic ben des wel berecht
 <H>et seghet al he[er]en en(de) knecht
 445 <V>rouwe(n) en(de) ioncvrouwen
-<D>at si met minne(n) sijn v[er]plecht
-<I>n sanghe en(de) in rime slecht
-<E>n(de) me(n) caens niet bescauwe(n)
+447 <D>at si met minne(n) sijn v[er]plecht
+446 <I>n sanghe en(de) in rime slecht
+448 <E>n(de) me(n) caens niet bescauwe(n)
 <M>i dincke dat al die w[eer]elt vecht
 450 <I>eghe(n) reenre minne(n) lecht
 <E>n(de) volghe(n) ontrouwe(n)
