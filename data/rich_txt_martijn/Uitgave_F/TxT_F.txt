@@ -8,8 +8,8 @@ _M1_
 <R>umen der heeren houe.
 <I>c zie den scalke(n) wel ontfaen
 <D>ie de heeren conne(n) dwaen
-10 <E>nde plucken vanden stoue
-<I>c zye den gherechten slaen
+<E>nde plucken vanden stoue
+10 <I>c zye den gherechten slaen
 <B>eyde bescatten en(de) vaen
 <A>lse die meese in die cloue
 <R>echt often god verscroue.
