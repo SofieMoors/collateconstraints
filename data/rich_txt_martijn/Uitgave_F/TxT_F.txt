@@ -140,7 +140,7 @@ _M1_
 <I>nden lesten male
 130 <M>etten scalken betale
 <M_2><E>rten nv berecht mi dies
-<B>erecht oft .I. god die nye en «wies»
+<B>erecht oft .I. god die nye en ≤wies≥
 <M>aecte alle creatueren
 <T>wij heeft die q%ua%de dan den kies
 135 <E>ntie goede valt int verlies
