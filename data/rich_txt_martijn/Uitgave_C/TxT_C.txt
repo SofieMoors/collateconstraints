@@ -551,10 +551,10 @@ zoe dat hi iet ghedie
 20 al gaet in den helschen pit
 21 eest blau eest grau eest swart eest wit
 22 hets ghetrouwe als die zye 
-mi is leet dat ic waer lye.
-<L_2>aet ons martijn over een 
-hier af spreken onder ons tween 
-in dit dyaloghe 
+26 mi is leet dat ic waer lye.
+27 <L_2>aet ons martijn over een 
+28 hier af spreken onder ons tween 
+29 in dit dyaloghe 
 30 wanne quam ons dese ween 
 dat die wilen zo onwaert sceen 
 nu zit also hoghe 
