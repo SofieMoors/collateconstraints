@@ -725,8 +725,8 @@ den dorpere. ende den wijsen dan
 
 &43r&
 
-<M>aer god vut zijnre milthede(n) 
-585 <D>ie gheefse dor smensche(n) beede 
+585 <M>aer god vut zijnre milthede(n) 
+584 <D>ie gheefse dor smensche(n) beede 
 586 <I_2><A>cob ic hore an dijn woort
 587 <D>at alle me(n)schelijc gheboort
 588 <A>n adaeme eerst begonde
