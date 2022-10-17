@@ -140,7 +140,7 @@ _M1_
 <I>nden lesten male
 130 <M>etten scalken betale
 <M_2><E>rten nv berecht mi dies
-<B>erecht oft .I. god die nye en ≤wies≥
+<B>erecht oft .I. god die nye en «wies»
 <M>aecte alle creatueren
 <T>wij heeft die q%ua%de dan den kies
 135 <E>ntie goede valt int verlies
@@ -361,7 +361,7 @@ _M1_
 ¶ <D>ander trect die werelt naer
 <O>m eere om goet staet al h[aer] gaer
 <D>at es eene bastaertdinne
-¶ 335 <D>ie derde mi(n)ne eyschen die iaer
+335 ¶ <D>ie derde mi(n)ne eyschen die iaer
 <A>ls bij natueren elc siin paer
 <A>l doch siin zij dinne.
 <D>ie deser volghe(n) met zinne
