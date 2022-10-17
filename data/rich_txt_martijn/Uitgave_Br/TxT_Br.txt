@@ -222,8 +222,8 @@ _M1_
 <J>c liet mi costen .j. pont
 <E>n(de) ics vroet ware teser stont
 <M>aect mi des an jnne
-<M>ijn h[er]te bliuet ongesont
-660 <M>ine besceede dit dij(n) mont
+660 <M>ijn h[er]te bliuet ongesont
+<M>ine besceede dit dij(n) mont
 <E>n es niet wijsheit dinne
 <N>a d{at} ic redene kinne
 <M_2><E>rten du best een vremt druut
