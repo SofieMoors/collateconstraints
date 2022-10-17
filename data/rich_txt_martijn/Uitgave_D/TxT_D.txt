@@ -724,9 +724,9 @@ _M1_
 <N>v is ghiericheyt soe verwoet.
 <D>at elc set sinen moet:
 <O>m al te hebben alleyne
-<H>ier om strijtmen metter spoet.
-635 <H>ier om stortmen smenschen bloet
-<B>orch ende hoghe steyne.
+635 <H>ier om strijtmen metter spoet.
+634 <H>ier om stortmen smenschen bloet
+636 <B>orch ende hoghe steyne.
 <B>ringhen te weyne:
 <I_1>acop ick heb wel verstaen
 <D>attet waer is sonder waen
