@@ -608,7 +608,7 @@ _M1_
 <T>er edelheit .iij. poente(n) hout
 <D>ie ic dij sal leeren.
 <W>es neerachtich menichfout
-<W>es eerachtich mi(n)ne met tgout
+<W>es eerachtich mi(n)ne niet tgout
 565 <D>ese .ij. hout niet voir scheren
 <W>es warsichtich ende stout 
 <D>ese drie poynten hout
