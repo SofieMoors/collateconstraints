@@ -51,10 +51,10 @@ _M1_
 <E>ntie god v[er]doemt hiet sij(n)
 <D>its n{iet} waer mertijn
 500 <B>i redenen die ic telle
-<W>ant ons scrij*f*t die bibel fij(n)
-<D>{at} al dat geslachte sijn
-<V>erdranc die luuie felle
-<M>[aer] tfalsche dor{per}lijc venijn
+502 <W>ant ons scrij*f*t die bibel fij(n)
+501 <D>{at} al dat geslachte sijn
+503 <V>erdranc die luuie felle
+504 <M>[aer] tfalsche dor{per}lijc venijn
 505 <D>{at} caym droech dats anscijn
 <A>en menigen die ic telle
 <V>an herten sijn geselle
