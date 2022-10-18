@@ -124,7 +124,8 @@ loeue sp[re]ct so willickene hier setten
 113 <W>e[er]t voecht en(de) n%iet% gast
 114 <B>inne(n) al en(de) veruullet iege(n) plagen
 115 <D>at sine dinc met geenen vlagen
-116 <E>n si o(n)gerast : 117 <N>o gequetst enen bast
+116 <E>n si o(n)gerast : 
+117 <N>o gequetst enen bast
 118 <U_1>an ene(n) god spreken wi van enen
 119 <D>ien wi vader en(de) sone meenen
 120 <E>nde den heileghe(n) gheest 
