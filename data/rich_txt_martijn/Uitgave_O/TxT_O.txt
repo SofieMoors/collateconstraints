@@ -1458,12 +1458,12 @@ _M2_
 <D>at mach men wel bescauwen
 <S>ulke minnaars verdiene(n) ban
 <D>ie metter mesdaet make(n) ghespan
-<D>at es minne vul rauwen
-195 <D>ie minnaars willic blauwen
+195 <D>at es minne vul rauwen
+194 <D>ie minnaars willic blauwen
 
 &67v&
 
-<O_2><F> ic dan zette mine(n) zin
+196 <O_2><F> ic dan zette mine(n) zin
 <D>aer ic en mach meer no min
 <A>ne winnen dan scade
 <E>nde my een eene andre zo heeft in
