@@ -1471,7 +1471,7 @@ _M2_
 <M>i ian vrouch en(de) spade
 <M>i dijnke dat ic meer sculdich bin
 <H>aer die mi coes int beghin
-D in E veranderd <E>nde an my blijft ghestaede
+<E>nde an my blijft ghestaede
 205 <D>an haer die fierlic haren kin
 <T>e mywaert draecht en(de) haer ghespin
 <V>an minne(n) elder dragh{et} te zade
