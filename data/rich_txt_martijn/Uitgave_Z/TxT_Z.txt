@@ -155,10 +155,10 @@ _M1_
 <E>n(de) die(n) god v[er]doe(m)t hiet sijn	
 <D>its niet waer m[er]tijn	
 500 <B>i redene(n) die ic spelle	
-<W>a(n)t ons scrijft de bibele fijn
-<D>{at} al d{at} geslachte(n) sijn	
-<V>[er]dranc die deluuie felle	
-<M>[aer] d{at} dorperlijc venijn	
+502 <W>a(n)t ons scrijft de bibele fijn
+501 <D>{at} al d{at} geslachte(n) sijn	
+503 <V>[er]dranc die deluuie felle	
+504 <M>[aer] d{at} dorperlijc venijn	
 505 <D>{at} caym droech es an scij(n)	
 <V>an menege(n) die ic spelle	
 <V>an h[er]ten sine geselle
