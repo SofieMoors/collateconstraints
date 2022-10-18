@@ -1302,8 +1302,8 @@ du wrecs mi als een ghestoten ram
 <G_1>hi wilt stercken uwe woert
 <D>ie ghi hier bringhet voert
 <M>et fabulen ende poetrien.
-<O>f medea dede moert
-160 <E>nde narciscus heeft versmoert
+160 <O>f medea dede moert
+<E>nde narciscus heeft versmoert
 <D>its minne van sottien.
 <M>inne ende datter toe behoert
 <E>n was met sonden nye begoert
@@ -2092,31 +2092,3 @@ _M3_
 <A_1><M><E><N>:
 ____
 
-_Colofon_
-¶ <H>ier es voleyndt. en(de) m{et} groter di#
-ligencien ghecorrigeert een seer no#
-tabel en(de) profitelic boecxken gemaect
-byden groten philozophe ende poe#
-te <I>acop van meerlant <G>heprendt
-in die stadt van <H>a(n)twerpen. <I>n die 
-camerstraet. naest den gulde(n) eenho#
-ren <B>y mi <H>enrick die letter snider
-<A>nno. .<M>.<C><C><C><C>.<X>cvi. den xxviij. 
-dach in augusto.  
-
-&44v&
-
-<M_1>erct gheleerde beke(n)t va(n) binne(n)
-<D>it notabel boeck int beghinne(n)
-<G>hemaect na mate der dyaloghe
-<B>y iacop meerlant wijs van sinne(n)
-<P>oete/ rethorisien groot int kinnen
-<R>uere(n)de van godliken saken hoge. 
-<W>elcke matery en(de) dicht vol minne(n)
-<E>nde correct geworden is int dinne(n)
-<B>y scriuers simpel van vermoghe
-<D>och naersticheyt cloeck int innen:
-<H>eu{et} gecorrigeert o(m) duechs gewi(n)ne(n)
-<E>n(de) in pre(n)te gestelt claer int betoghe
-<O>m te verscherpen elcx sin en(de) oghe 
-____ 
