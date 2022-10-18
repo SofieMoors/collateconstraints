@@ -1268,9 +1268,9 @@ _M2_
 <D>it machme(n) wel bescouwen
 <S>ulke minners gheuic den ban 
 <D>ie metter mesdaet make(n) ghespan
-<D>its minne vol rouwen
-195 <S>ulke mi(n)ners willic blouwen
-<O_2>ft ic dan sette minen sin
+195 <D>its minne vol rouwen
+194 <S>ulke mi(n)ners willic blouwen
+196 <O_2>ft ic dan sette minen sin
 <D>aer ic en mach meer no min
 <A>en winnen dan schade
 <E>n(de) mi een ander heuet in
