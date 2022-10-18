@@ -539,13 +539,13 @@ _M1_
 <E>ntie god v[er]doemt hiet ziin
 <D>its niet waer mertijn
 500 <B>ij redene die ic telle
-<W>ant ons scrijft die bybel fiin
-<D>at al dat gheslachte siin
-<V>erdranc die diluuie felle
+502 <W>ant ons scrijft die bybel fiin
+501 <D>at al dat gheslachte siin
+503 <V>erdranc die diluuie felle
 
 &4va&
 
-<M>aer tvalsche dorperlijc fenij(n)
+504 <M>aer tvalsche dorperlijc fenij(n)
 505 <D>at caym droech es noch ae(n)schij(n)
 <A>en meneghen die ic telle
 <V>an herten siin gheselle
@@ -1978,47 +1978,4 @@ _M3_
 <D>ats in abrahams scoot
 <N>a dese corte doot. 
 ¶ <A_1><M_1><E_1><N_1>.
-____
-_Colofon_
-
-conclusie
-1 <M_1>erckt gheleerde bekent van binnen
-dit notable boeck int beghinnen
-ghemaeckt naer mate van dialoghe
-deur <J>akob van meyrlant wijs van zinnen
-5 rethorizijn en poete groodt indt bekinnen
-rurende van goddelijckke zaeckken hoghe 
-*welckke* materie ende dicht vol minnen
-<I>s seer inkorreckdt gheworden int dinnen
-deur schrijuers simpel van vermoghe
-10 maer neerstichheijt seer kloeck int vinnen
-heuet gekorrigheert om deucht te winnen
-ende ghestelt in printe klaer int betoge
-om te verscherpen elcx sin en oghe..  
-
-hier is volleijndt ende medt groote
-dilighentie ghekorrigheerdt/ een zeer 
-notabel ende profijtelijck boeck/ dadt 
-ghemaeckdt is deur den grooten gheleer#
-den philozophe ende poeet <J>akob van 
-meijrlandt 
-
-marcus van vaernewijck in zijn boeck 
-ghenaemt <B>elghica <H>istoria/ <I>n zijn derde
-boeck int xxvi cappittel schrijft aldus va(n) deze(n) merlant 
-
-te damme ee(n) kleyn stat in vlaendere(n) bij brugghe 
-leijt begrauen/ die konstige vlaemsche poete 
-en(de) retorizien <J>acob <V>an meerlant onder de clocke(n)
-wiens handen alle beijde euen dapper int schrijue(n)  
-waren/ en(de) heeft ond[er] onder onder ander subtijle 
-wercken/ na ghesloten een boeck ghenoemt der nature(n)
-blomme/ daer in hij veel wonderlijckhede(n) der naturen 
-verhaelt/ welck boeck hier achter oock bij staedt 
-ende is bij auonturen va(n) hem zelf beschreuen 
-want het seer out is/ en(de) heeft oock ghemaeckt 
-dit voorgaende boeck/ dwelck ick oock inde(n) druck
-ghegadt hebbe in quarto en(de) oock in octauo 
-en(de) dit boeck dat hier na volcht den duytsschen 
-doctrinael <I>s oock ghedruckt in quarto 
 ____
