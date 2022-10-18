@@ -1254,9 +1254,9 @@ _M2_
 <D>it machme(n) wel bescauwe(n)
 <S>ulcke minres gheiftme(n) de(n) ban
 <D>ie mitt[er] misdaet make(n) ghespan
-<D>its mi(n)ne vul rauwe(n)
-195 <D>ie minres willic blauwe(n)
-<O_1>f ic dan sette mine(n) zin
+195 <D>its mi(n)ne vul rauwe(n)
+194 <D>ie minres willic blauwe(n)
+196 <O_1>f ic dan sette mine(n) zin
 <D>air ic ne mach meer no min
 <A>n winne(n) dan scade
 <E>nde mi ene andre so heeft jn
