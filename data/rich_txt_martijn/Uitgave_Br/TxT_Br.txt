@@ -446,7 +446,7 @@ _M2_
 <D>ie metter misdaet make(n) gespan
 195 <D>its mi(n)ne vol rouwen
 194 <S>ulke mi(n)ners willic blouwe(n)
-<O_2>ftic dan sette mine(n) sin
+196 <O_2>ftic dan sette mine(n) sin
 <D>[aer] ic en mach meer no mi(n)
 <A>ne winnen dan scade
 <E>n(de) mi een ander heeft in
