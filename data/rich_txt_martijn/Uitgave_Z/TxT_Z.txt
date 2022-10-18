@@ -372,9 +372,9 @@ die sine amie v[er]heffe(n) bega(n)
 <D>it m*a...*(n) wel bescouwe(n)
 <S>elke *mi(n)...r...* geuic de(n) ban
 <D>ie m{et}t[er] mi(n)ne(n) make(n) gespan
-<D>[aer] e*...m*i(n)ne vol rouwen
-195 <D>ese mi(n)*ne... wil*li(c) blouwe(n)
-<O_2>f *ic d*an s*et*te mine(n) sin
+195 <D>[aer] e*...m*i(n)ne vol rouwen
+194 <D>ese mi(n)*ne... wil*li(c) blouwe(n)
+196 <O_2>f *ic d*an s*et*te mine(n) sin
 <D>[aer] ic en(de) mach meer no min
 <A>e(n) winne(n) dan scade
 <E>n(de) mi ee(n) and[er] heuet in
