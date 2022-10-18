@@ -1339,12 +1339,12 @@ du wrecs mi als een ghestoten ram
 <D>it machmen wel bescouwen
 <S>ulcke minnaers geue ick de(n) ban:
 <D>ie metter mesdaet maken gespan
-<D>aer is minne vol rouwen
-195 <S>ulcke minnaers wil ick blouwen
+195 <D>aer is minne vol rouwen
+194 <S>ulcke minnaers wil ick blouwen
 
 &29r&
 
-<O_1>ft ick dan sette minen sin
+196 <O_1>ft ick dan sette minen sin
 <D>aer ick en mach meer noch min
 <A>en winnen dan scade.
 <E>nde mi een soe ander heeft in
