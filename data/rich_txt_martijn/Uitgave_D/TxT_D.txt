@@ -639,18 +639,18 @@ _M1_
 <M>et doechden besneden
 <E>nde doet noch heden
 560 <M_1>artijn oftu climmen wout.
-<D>er edelheyt drie puncten hout
-<D>ie ick v sal leeren.
-<W>es warachtich ende stout
-<D>ese twee puncten soe weest bout
+561 <D>er edelheyt drie puncten hout
+562 <D>ie ick v sal leeren.
+566 <W>es warachtich ende stout
+567 <D>ese twee puncten soe weest bout
 
 &14v&
 
 565 <D>ese twee en hout niet voer schere(n).
-<W>es neerachtich. minne n{iet} d{at} gout
-<W>es eerachtich menichfout
-<D>ie sijn al vol eeren.
-<T>en is oeck nyemant ionck of out.
+563 <W>es neerachtich. minne n{iet} d{at} gout
+564 <W>es eerachtich menichfout
+568 <D>ie sijn al vol eeren.
+569 <T>en is oeck nyemant ionck of out.
 570 <D>ien du scalck dincken sout
 <D>an die weldaet deeren.
 <E>nde doecht tot ondoechden keere(n):
