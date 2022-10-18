@@ -137,10 +137,10 @@ _M1_
 <E>n(de) die god v[er]doe(m)t hiet sij(n)
 <D>it nes n{iet} wa[er] mertijn
 500 <B>i rededene(n) die ic telle
-<W>a(n)t o(n)s seit die bibele fij(n)
-<D>{at} al d{at} gheslechte sij(n)
-<V>[er]dra(n)c i(n) die delouie felle
-<M>[aer] d{at} valsce dorp{er}lijc fenij(n)
+502 <W>a(n)t o(n)s seit die bibele fij(n)
+501 <D>{at} al d{at} gheslechte sij(n)
+503 <V>[er]dra(n)c i(n) die delouie felle
+504 <M>[aer] d{at} valsce dorp{er}lijc fenij(n)
 505 <D>{at} cay(n) droech d{at}s anschij(n)
 <A>n meneghe(n) die ic telle
 <V>a(n) h[er]ten sijn gheselle
