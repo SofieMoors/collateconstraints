@@ -277,7 +277,7 @@ _M3_
 *<D>...e* mensche en(de) sine(n) sin 
 141 <W>a(n)t al hadt die we[re]lt gezwore(n)
 140 <E>n latet tgeloue n{iet} *testoren*
-<S>ine conde(n) o(m) ghee(n) ghewin
+142 <S>ine conde(n) o(m) ghee(n) ghewin
 <G>hegronde(n) meer no min
 <E_2>er acht[er] tijt oft stonde
 145 <D>{at} v[er]staet vut mine(n) mo(n)de
