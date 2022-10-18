@@ -1217,9 +1217,9 @@ _M2_
 <G_1>hi wilt starcken uwe woirt
 <D>ie ghi ons hier bringhet voirt
 <M>it trufen en(de) mit poetrien
-160 <O>f hem merchisus heeft v[er]smoirt
-<E>n(de) medea dede die moort
-<D>its mi(n)ne van zottien
+161 <O>f hem merchisus heeft v[er]smoirt
+160 <E>n(de) medea dede die moort
+162 <D>its mi(n)ne van zottien
 <D>it woort mi(n)ne en(de) datt[er] toehoirt
 <N>e was noyt mit sonde(n) begoort
 165 <N>och mit ribaeudien
