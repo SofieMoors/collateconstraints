@@ -1230,8 +1230,8 @@ _M2_
 <G_2>hij wilt stercken uwe woirt
 <D>ie ghij met fabule(n) brinct voirt
 <O>ff met poeteryen/
-<O>ft medea dede moort
-160 <E>n(de) he(m) narciscus heeft v[er]smoort
+160 <O>ft medea dede moort
+<E>n(de) he(m) narciscus heeft v[er]smoort
 <D>ats minne van sottyen
 <M>inne / en(de) datter toebehoort
 <W>as met sonden niet becoort
