@@ -338,7 +338,7 @@ den dorpere. ende den wijsen dan
 
 <B>eter eist dat hij vliet die naen
 <D>an hij te campe strijke
-<J>eghen den kamp{er} eerlijke
+<J>eghen den kam{per} eerlijke
 <O_2>f god ten ionxte(n) daghe zal
 275 <G>hepeis en(de) woort berechte(n) al
 <D>aer wij ye in mesdaden
@@ -387,7 +387,7 @@ den dorpere. ende den wijsen dan
 310 <E>n(de) wacht ons voor die helsche gloet
 <D>at wi niet en worde(n) verbeten
 <T>en ionxsten noch doereten
-<M_2>artin menich maect pleme(n)t
+<M_2>artin menich maect {per}leme(n)t
 <E>nde segghet dat die mi(n)ne es ble(n)t
 
 &32r&
