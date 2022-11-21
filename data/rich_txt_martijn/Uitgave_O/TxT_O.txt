@@ -1593,9 +1593,9 @@ _M2_
 
 &72r&
 
-300 <O_2><F> god niemt heuet leet
-<D>at me(n) dat by redene weet
-<W>ien gheeft hi dlanghe leuen
+301 <O_2><F> god niemt heuet leet
+300 <D>at me(n) dat by redene weet
+302 <W>ien gheeft hi dlanghe leuen
 <S>o den ghene(n) die he(m) es wreet
 <Z>o die hem m{et} mi(n)ne(n) heet
 305 <O>nderdaen es bleuen
