@@ -131,7 +131,7 @@ loeue sp[re]ct so willickene hier setten
 120 <E>nde den heileghe(n) gheest 
 121 <E>n(de) wet wel dat wiere negeenen
 122 <S>oe g%ro%t e(n) noeme(n) no so cleene(n) : 
-123 <D>att[er] ieme(n) es «meest»
+123 <D>att[er] ieme(n) es meest
 124 <E>ne(n) god segge(n) wi ene(n) reenen
 125 <N>och vervoecht no verbeenen: 
 126 <E>n esser +ane v[er]v[re]escht 
@@ -412,7 +412,7 @@ loeue sp[re]ct so willickene hier setten
 386 <N>a miere mogentheit
 387 <D>ie dit geloeue vaste orconden 
 388 <A>fla{et} g%ro%t va(n) hare(n) so(n)de : 
-389 <E>s hen altoes «gereit» 
+389 <E>s hen altoes gereit 
 390 <O>p dat me(n) da[er] i(n) volsteit 
 <I_1>acob du berechts mi scone
 <B>erecht mi nv vande(n) {per}sone
@@ -430,7 +430,7 @@ loeue sp[re]ct so willickene hier setten
 <M_1><E>rte(n) o(n)s le[er]t de screfture
 405 <D>at een god en(de) een natuere
 <E>(m)mer sij(n) dese drie : 
-407 <A>ltoes eve(n) nage«buere»
+407 <A>ltoes eve(n) nagebuere
 <E>n(de) e(n) verscheede(n) te negee(n)re vre 
 <N>och e(n) verschieden nie
 410 <V>ader ki(n)t versta(n)t t[er] cure
@@ -476,7 +476,7 @@ loeue sp[re]ct so willickene hier setten
 447 <L>e[er]de en(de) maecte i(n) inne 
 448 <D>es gods soens menschelecheit
 449 <E>n es co(ninc) no co(nin)gi(n)ne : 
-450 <D>ie e(m)m[er]me[er] af la{et} «gewi(n)ne»
+450 <D>ie e(m)m[er]me[er] af la{et} gewi(n)ne
 451 <V>an siere onsalecheit
 452 <H>ine hebbe ene(n) trae(n) al ware hi di(n)ne
 453 <V>a(n) dese(n) dauwe tsine(n) beghinne
@@ -489,7 +489,7 @@ loeue sp[re]ct so willickene hier setten
 460 <D>at si co(n)ste(n) sonder mesbaren
 461 <D>oegen lief en(de) leit
 462 <D>ese ca(n) de si(n)ne v[er]clare(n) : 
-463 <D>ie hen m{et} so(n)de(n) v[er]«vare(n)»
+463 <D>ie hen m{et} so(n)de(n) v[er]vare(n)
 464 <E>n(de) tcoude maken heit
 465 <S>ine(n) lieuen sinen caren
 466 <D>eilt hi sonder enech sparen
@@ -500,7 +500,7 @@ loeue sp[re]ct so willickene hier setten
 471 <M>eer te sprekene voert
 472 <E>lc {per}soen verstant mi wale
 473 <E>s selue god so(n)d[er] hale : 
-474 <V>a(n) d[ri]en da[er] me(n) «af ho[er]t»
+474 <V>a(n) d[ri]en da[er] me(n) af ho[er]t
 475 <D>och e(n) eest m[er] .i. die b[er]ch en(de) dale 
 476 <G>hesciep . daer bi g%roe%t en(de) smale
 <T>ellen hi[er] af en(de) alle woert

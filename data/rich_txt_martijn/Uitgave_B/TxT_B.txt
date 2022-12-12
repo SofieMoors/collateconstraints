@@ -723,7 +723,7 @@ gaen <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <W>illic dat hier mede si beduut
 675 <P>rouft off ic dit ombinde
 <E>nde die redene beuinde
-<E_1>en zwair oirloghe ende ee(n) zw[aer] «strijt»
+<E_1>en zwair oirloghe ende ee(n) zw[aer] strijt
 <E>nde dair toe een ewelic v[er]wijt
 <E>s tusschen d[er] h[er]ten en(de) den oghen
 680 <T>herte den oghe altois v[er]wijt 
@@ -731,7 +731,7 @@ gaen <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <B>i di ben ic bedroghen
 <D>u beste e(m)m[er] hope(n) wijt
 <E>lk[er] sonde die voir di lijt
-685 <E>nde vrient dit nes niet ghelo#«ghe(n)»
+685 <E>nde vrient dit nes niet gheloghe(n)
 <S>luut dine dore tenigh[er] tijt
 <D>air so menich dief voir lijt
 <B>i di ben ic doir vloghen
@@ -881,7 +881,7 @@ gaen <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 
 <S>ijn ghecleet nv wel nv bet
 <E>nde varen int langhe leue(n)
-<E>nde ih[es]us hinc naect int bloet be#«smet» 
+<E>nde ih[es]us hinc naect int bloet besmet 
 <E>nde zine recht[re] zide ghesplet
 825 <D>air hi an thout was v[er]heue(n)
 <O>f dat hooft van ons[er] wet
@@ -897,7 +897,7 @@ gaen <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <M>er zekerst ist vlien tserpent
 <D>an wandelen d[aer] omtrent
 <D>attet niet enbeulecte
-<W>ant rijch%eit% maect de(n) menighe(n) so «ble(n)t» 
+<W>ant rijch%eit% maect de(n) menighe(n) so ble(n)t 
 840 <D>at hi gode niet en kent
 <D>air sceet hi vande(n) lechte
 <E>n(de) wert van leuene een rent
@@ -1043,10 +1043,12 @@ gaen <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <I>n hare ben ic te endene bout
 <O>nse dyaloghe
 975 <I>c en vraghe ne(m)mer no toghe
+
 ____
 
 _M2_
-1 II <M_1>aertijn slaepstu slaep dijn zin
+
+1 <M_1>aertijn slaepstu slaep dijn zin
 <S>prec hebstu gheen spreke(n) jn
 <D>u dincts mi v[er]dore(n)
 <D>u en achts anders meer no min
@@ -1091,7 +1093,7 @@ _M2_
 40 <I_1>acop dit was oyt dijn doen
 <V>an vrauwe(n) moetstu dij(n) s[er]moen
 <A>ltois begonne(n) of eynden
-<W>airstu een dorper du spraex va(n) «koen» 
+<W>airstu een dorper du spraex va(n) koen
 <N>u es dine h[er]te dies ontuloen
 45 <D>och wil ics mi ghene(n)den
 <E>n(de) wille of steken mijn caproe(n)
@@ -1179,7 +1181,7 @@ _M2_
 <S>i liet coni(n)crike en(de) stat
 <V>ad[er] zuster en(de) moeder
 <N>ochtanne dair so allene zat
-125 <W>ijsde hair redene den rechte(n) «pat» 
+125 <W>ijsde hair redene den rechte(n) pat 
 <A>l volghede so de(n) loeder. 
 
 &147vb&
@@ -1414,6 +1416,7 @@ _M2_
 ____
 
 _M3_
+
 1 <I_1><C> mane ma(n)ne(n) mitte(n) wiue(n)
 <D>ie dit dicht sulle(n) lesen of scriue(n)
 <O>p den hoichste(n) ban
@@ -1528,7 +1531,7 @@ _M3_
 <G>hene dinc mach gheclaghe(n)
 <D>at hise v[er]last
 <O>nd[er] zond[er] van waghen
-<W>ant he(m) ne moeyt ruste(n) no ja#«ghen.»
+<W>ant he(m) ne moeyt ruste(n) no jaghen.
 
 &149vb&
 

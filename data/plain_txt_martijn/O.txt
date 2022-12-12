@@ -725,8 +725,8 @@ der twifel en̄ waen 006 Rumē der heerē houe
 
 
 
-584 Maer god vut zijnre milthedē
-585 Die gheefse dor smenschē beede
+585 Maer god vut zijnre milthedē
+584 Die gheefse dor smenschē beede
 586 IAcob ic hore an dijn woort
 587 Dat alle mēschelijc gheboort
 588 An adaeme eerst begonde

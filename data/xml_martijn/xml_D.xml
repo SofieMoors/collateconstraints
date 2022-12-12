@@ -42,12 +42,12 @@
 <lb n="7" xml:id="Df1r.7"/><l n="006"><hi rend="capitalsize1">R</hi>umen der heren houe</l>
 <lb n="8" xml:id="Df1r.8"/><l n="007"><hi rend="capitalsize1">I</hi>ck sie den scalcken wel ontfaen</l>
 <lb n="9" xml:id="Df1r.9"/><l n="008"><hi rend="capitalsize1">D</hi>ie die heren connen dwaen</l>
-<lb n="10" xml:id="Df1r.10"/><l n="010"><hi rend="capitalsize1">E</hi>nde plucken vanden stoue:</l>
-<lb n="11" xml:id="Df1r.11"/><l n="011"><hi rend="capitalsize1">I</hi>ck sie den gherechten slaen.</l>
-<lb n="12" xml:id="Df1r.12"/><l n="012"><hi rend="capitalsize1">B</hi>eyde scatten ende vaen:</l>
-<lb n="13" xml:id="Df1r.13"/><l n="013"><hi rend="capitalsize1">A</hi>ls die meese inden cloue.</l>
-<lb n="14" xml:id="Df1r.14"/><l n="014"><hi rend="capitalsize1">R</hi>echt of hem god verscoue</l>
-<lb n="15" xml:id="Df1r.15"/><l n="015"><hi rend="capitalsize1">H</hi>oe langhe sal ghedoghen dit</l>
+<lb n="10" xml:id="Df1r.10"/><l n="009"><hi rend="capitalsize1">E</hi>nde plucken vanden stoue:</l>
+<lb n="11" xml:id="Df1r.11"/><l n="010"><hi rend="capitalsize1">I</hi>ck sie den gherechten slaen.</l>
+<lb n="12" xml:id="Df1r.12"/><l n="011"><hi rend="capitalsize1">B</hi>eyde scatten ende vaen:</l>
+<lb n="13" xml:id="Df1r.13"/><l n="012"><hi rend="capitalsize1">A</hi>ls die meese inden cloue.</l>
+<lb n="14" xml:id="Df1r.14"/><l n="013"><hi rend="capitalsize1">R</hi>echt of hem god verscoue</l>
+<lb n="15" xml:id="Df1r.15"/><l n="014"><hi rend="capitalsize1">H</hi>oe langhe sal ghedoghen dit</l>
 <lb n="16" xml:id="Df1r.16"/><l n="015"><hi rend="capitalsize1">G</hi>od die alle dinck besit</l>
 <lb n="17" xml:id="Df1r.17"/><l n="016"><hi rend="capitalsize1">I</hi>n sine heerscapie</l>
 <lb n="18" xml:id="Df1r.18"/><l n="017"><hi rend="capitalsize1">D</hi>at die goede smeect of bidt</l>
@@ -674,14 +674,14 @@
 <lb n="17" xml:id="Df14r.17"/><l n="560"><hi rend="capitalsize1">M</hi>artijn oftu climmen wout.</l>
 <lb n="18" xml:id="Df14r.18"/><l n="561"><hi rend="capitalsize1">D</hi>er edelheyt drie puncten hout</l>
 <lb n="19" xml:id="Df14r.19"/><l n="562"><hi rend="capitalsize1">D</hi>ie ick v sal leeren.</l>
-<lb n="20" xml:id="Df14r.20"/><l n="563"><hi rend="capitalsize1">W</hi>es warachtich ende stout</l>
-<lb n="21" xml:id="Df14r.21"/><l n="564"><hi rend="capitalsize1">D</hi>ese twee puncten soe weest bout</l>
+<lb n="20" xml:id="Df14r.20"/><l n="566"><hi rend="capitalsize1">W</hi>es warachtich ende stout</l>
+<lb n="21" xml:id="Df14r.21"/><l n="567"><hi rend="capitalsize1">D</hi>ese twee puncten soe weest bout</l>
 
 
 <pb xml:id="D.f14v" n="14v"/>
 <lb n="1" xml:id="Df14v.1"/><l n="565"><hi rend="capitalsize1">D</hi>ese twee en hout niet voer <choice><abbr>schere<g ref="#bar"/>.</abbr><expan>schere<ex>n</ex>.</expan></choice></l>
-<lb n="2" xml:id="Df14v.2"/><l n="566"><hi rend="capitalsize1">W</hi>es neerachtich. minne <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> gout</l>
-<lb n="3" xml:id="Df14v.3"/><l n="567"><hi rend="capitalsize1">W</hi>es eerachtich menichfout</l>
+<lb n="2" xml:id="Df14v.2"/><l n="563"><hi rend="capitalsize1">W</hi>es neerachtich. minne <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> gout</l>
+<lb n="3" xml:id="Df14v.3"/><l n="564"><hi rend="capitalsize1">W</hi>es eerachtich menichfout</l>
 <lb n="4" xml:id="Df14v.4"/><l n="568"><hi rend="capitalsize1">D</hi>ie sijn al vol eeren.</l>
 <lb n="5" xml:id="Df14v.5"/><l n="569"><hi rend="capitalsize1">T</hi>en is oeck nyemant ionck of out.</l>
 <lb n="6" xml:id="Df14v.6"/><l n="570"><hi rend="capitalsize1">D</hi>ien du scalck dincken sout</l>
@@ -757,8 +757,8 @@
 <lb n="4" xml:id="Df16r.4"/><l n="631"><hi rend="capitalsize1">N</hi>v is ghiericheyt soe verwoet.</l>
 <lb n="5" xml:id="Df16r.5"/><l n="632"><hi rend="capitalsize1">D</hi>at elc set sinen moet:</l>
 <lb n="6" xml:id="Df16r.6"/><l n="633"><hi rend="capitalsize1">O</hi>m al te hebben alleyne</l>
-<lb n="7" xml:id="Df16r.7"/><l n="634"><hi rend="capitalsize1">H</hi>ier om strijtmen metter spoet.</l>
-<lb n="8" xml:id="Df16r.8"/><l n="635"><hi rend="capitalsize1">H</hi>ier om stortmen smenschen bloet</l>
+<lb n="7" xml:id="Df16r.7"/><l n="635"><hi rend="capitalsize1">H</hi>ier om strijtmen metter spoet.</l>
+<lb n="8" xml:id="Df16r.8"/><l n="634"><hi rend="capitalsize1">H</hi>ier om stortmen smenschen bloet</l>
 <lb n="9" xml:id="Df16r.9"/><l n="636"><hi rend="capitalsize1">B</hi>orch ende hoghe steyne.</l>
 <lb n="10" xml:id="Df16r.10"/><l n="637"><hi rend="capitalsize1">B</hi>ringhen te weyne:</l>
 <lb n="11" xml:id="Df16r.11"/><l n="638"><hi rend="capitalsize1">I</hi>acop ick heb wel verstaen</l>
@@ -801,9 +801,9 @@
 <pb xml:id="D.f17r" n="17r"/>
 <lb n="1" xml:id="Df17r.1"/><l n="671"><hi rend="capitalsize1">D</hi>ie stille mint oft ouer luyt</l>
 <lb n="2" xml:id="Df17r.2"/><l n="670"><hi rend="capitalsize1">H</hi>em en mach helpen ander cruyt.</l>
-<lb n="3" xml:id="Df17r.3"/><l n="671"><hi rend="capitalsize1">D</hi>an die hem deuel toe sende.</l>
-<lb n="4" xml:id="Df17r.4"/><l n="672"><hi rend="capitalsize1">D</hi>er herten ende der hoger virtuyt</l>
-<lb n="5" xml:id="Df17r.5"/><l n="673"><hi rend="capitalsize1">W</hi>il ick dat hier by si beduyt.</l>
+<lb n="3" xml:id="Df17r.3"/><l n="672"><hi rend="capitalsize1">D</hi>an die hem deuel toe sende.</l>
+<lb n="4" xml:id="Df17r.4"/><l n="673"><hi rend="capitalsize1">D</hi>er herten ende der hoger virtuyt</l>
+<lb n="5" xml:id="Df17r.5"/><l n="674"><hi rend="capitalsize1">W</hi>il ick dat hier by si beduyt.</l>
 <lb n="6" xml:id="Df17r.6"/><l n="675"><hi rend="capitalsize1">P</hi>roeft hoe ick dit ontbinde.</l>
 <lb n="7" xml:id="Df17r.7"/><l n="676"><hi rend="capitalsize1">E</hi>nde die reden bewinde/</l>
 <lb n="8" xml:id="Df17r.8"/><l n="677"><hi rend="capitalsize1">E</hi>en swaer oerloghe ende strijt</l>
@@ -1156,7 +1156,7 @@
 <body>
 <p><lb n="14" xml:id="Df24r.14"/><l n="976">¶ <hi rend="capitalsize1">D</hi>at <hi rend="capitalsize1">A</hi>nderde <hi rend="capitalsize1">B</hi>oeck.</l>
 <lb n="15" xml:id="Df24r.15"/><l n="001"><hi rend="capitalsize3">M</hi>Artijn slaepstu slaept <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> sin</l>
-<lb n="16" xml:id="Df24r.16"/><l n="002"><hi rend="capitalsize1">S</hi>preect: hebstu <choice><abbr>gee<g ref="#bar"/></abbr><expan>gee<ex>n</ex></expan></choice> <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> «in»</l>
+<lb n="16" xml:id="Df24r.16"/><l n="002"><hi rend="capitalsize1">S</hi>preect: hebstu <choice><abbr>gee<g ref="#bar"/></abbr><expan>gee<ex>n</ex></expan></choice> <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> in</l>
 <lb n="17" xml:id="Df24r.17"/><l n="003"><hi rend="capitalsize1">D</hi>u <choice><abbr>du<g ref="#bar"/>ckes</abbr><expan>du<ex>n</ex>ckes</expan></choice> mi <choice><abbr>verdore<g ref="#bar"/></abbr><expan>verdore<ex>n</ex></expan></choice></l>
 <lb n="18" xml:id="Df24r.18"/><l n="004"><hi rend="capitalsize1">D</hi>u en achtes meer noch min.</l>
 <lb n="19" xml:id="Df24r.19"/><l n="005"><hi rend="capitalsize1">D</hi>an op weelde ende ghewin:</l>
@@ -1203,7 +1203,7 @@
 <lb n="12" xml:id="Df25r.12"/><l n="040"><hi rend="capitalsize1">I</hi>acop dit was oyt dijn doen.</l>
 <lb n="13" xml:id="Df25r.13"/><l n="041"><hi rend="capitalsize1">D</hi>attu van vrouwen dijn sermoen</l>
 <lb n="14" xml:id="Df25r.14"/><l n="042"><hi rend="capitalsize1">B</hi>eghinnen moets oft eynden</l>
-<lb n="15" xml:id="Df25r.15"/><l n="043"><hi rend="capitalsize1">W</hi>aerstu een dorper du spraecs <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>«coe<g ref="#bar"/>»</abbr><expan>«coe<ex>n</ex>»</expan></choice></l>
+<lb n="15" xml:id="Df25r.15"/><l n="043"><hi rend="capitalsize1">W</hi>aerstu een dorper du spraecs <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>coe<g ref="#bar"/></abbr><expan>coe<ex>n</ex></expan></choice></l>
 <lb n="16" xml:id="Df25r.16"/><l n="044"><hi rend="capitalsize1">N</hi>v is dijn herte des <choice><abbr>ontuloe<g ref="#bar"/></abbr><expan>ontuloe<ex>n</ex></expan></choice></l>
 <lb n="17" xml:id="Df25r.17"/><l n="045"><hi rend="capitalsize1">D</hi>och wil icx mi gheuenden</l>
 <lb n="18" xml:id="Df25r.18"/><l n="046"><hi rend="capitalsize1">E</hi>nde striken af minen caproen</l>
@@ -1339,10 +1339,10 @@
 <lb n="5" xml:id="Df28r.5"/><l n="158"><hi rend="capitalsize1">D</hi>ie ghi hier bringhet voert</l>
 <lb n="6" xml:id="Df28r.6"/><l n="159"><hi rend="capitalsize1">M</hi>et fabulen ende poetrien.</l>
 <lb n="7" xml:id="Df28r.7"/><l n="160"><hi rend="capitalsize1">O</hi>f medea dede moert</l>
-<lb n="8" xml:id="Df28r.8"/><l n="160"><hi rend="capitalsize1">E</hi>nde narciscus heeft versmoert</l>
-<lb n="9" xml:id="Df28r.9"/><l n="161"><hi rend="capitalsize1">D</hi>its minne van sottien.</l>
-<lb n="10" xml:id="Df28r.10"/><l n="162"><hi rend="capitalsize1">M</hi>inne ende datter toe behoert</l>
-<lb n="11" xml:id="Df28r.11"/><l n="163"><hi rend="capitalsize1">E</hi>n was met sonden nye begoert</l>
+<lb n="8" xml:id="Df28r.8"/><l n="161"><hi rend="capitalsize1">E</hi>nde narciscus heeft versmoert</l>
+<lb n="9" xml:id="Df28r.9"/><l n="162"><hi rend="capitalsize1">D</hi>its minne van sottien.</l>
+<lb n="10" xml:id="Df28r.10"/><l n="163"><hi rend="capitalsize1">M</hi>inne ende datter toe behoert</l>
+<lb n="11" xml:id="Df28r.11"/><l n="164"><hi rend="capitalsize1">E</hi>n was met sonden nye begoert</l>
 <lb n="12" xml:id="Df28r.12"/><l n="165"><hi rend="capitalsize1">N</hi>och oeck met ribaudien/</l>
 <lb n="13" xml:id="Df28r.13"/><l n="166"><hi rend="capitalsize1">W</hi>ient reyn minne becoert</l>
 <lb n="14" xml:id="Df28r.14"/><l n="167"><hi rend="capitalsize1">H</hi>i en mach niet sijn verdoert</l>
@@ -1375,8 +1375,8 @@
 <lb n="17" xml:id="Df28v.17"/><l n="191"><hi rend="capitalsize1">D</hi>it machmen wel bescouwen</l>
 <lb n="18" xml:id="Df28v.18"/><l n="192"><hi rend="capitalsize1">S</hi>ulcke minnaers geue ick <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> ban:</l>
 <lb n="19" xml:id="Df28v.19"/><l n="193"><hi rend="capitalsize1">D</hi>ie metter mesdaet maken gespan</l>
-<lb n="20" xml:id="Df28v.20"/><l n="194"><hi rend="capitalsize1">D</hi>aer is minne vol rouwen</l>
-<lb n="21" xml:id="Df28v.21"/><l n="195"><hi rend="capitalsize1">S</hi>ulcke minnaers wil ick blouwen</l>
+<lb n="20" xml:id="Df28v.20"/><l n="195"><hi rend="capitalsize1">D</hi>aer is minne vol rouwen</l>
+<lb n="21" xml:id="Df28v.21"/><l n="194"><hi rend="capitalsize1">S</hi>ulcke minnaers wil ick blouwen</l>
 
 
 <pb xml:id="D.f29r" n="29r"/>
@@ -2129,39 +2129,6 @@
 <lb n="9" xml:id="Df44r.9"/><l n="506"><hi rend="capitalsize1">D</hi>ats in abrahams schoot.</l>
 <lb n="10" xml:id="Df44r.10"/><l n="507"><hi rend="capitalsize1">N</hi>a dese corte doot/</l>
 <lb n="11" xml:id="Df44r.11"/><l n="508"><hi rend="capitalsize1">A</hi>MEN:</l>
-</p>
-</body>
-</text>
-
-
-<text n="Colofon" xml:id="Colofon">
-<body>
-<p><lb n="12" xml:id="Df44r.12"/><l n="509">¶ <hi rend="capitalsize1">H</hi>ier es voleyndt. <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> groter di<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
-<lb n="13" xml:id="Df44r.13"/><l n="510">ligencien ghecorrigeert een seer no<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
-<lb n="14" xml:id="Df44r.14"/><l n="511">tabel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> profitelic boecxken gemaect</l>
-<lb n="15" xml:id="Df44r.15"/><l n="512">byden groten philozophe ende poe<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
-<lb n="16" xml:id="Df44r.16"/><l n="513">te <hi rend="capitalsize1">I</hi>acop van meerlant <hi rend="capitalsize1">G</hi>heprendt</l>
-<lb n="17" xml:id="Df44r.17"/><l n="514">in die stadt van <choice><abbr><hi rend="capitalsize1">H</hi>a<g ref="#bar"/>twerpen.</abbr><expan><hi rend="capitalsize1">H</hi>a<ex>n</ex>twerpen.</expan></choice> <hi rend="capitalsize1">I</hi>n die</l>
-<lb n="18" xml:id="Df44r.18"/><l n="515">camerstraet. naest den <choice><abbr>gulde<g ref="#bar"/></abbr><expan>gulde<ex>n</ex></expan></choice> eenho<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
-<lb n="19" xml:id="Df44r.19"/><l n="516">ren <hi rend="capitalsize1">B</hi>y mi <hi rend="capitalsize1">H</hi>enrick die letter snider</l>
-<lb n="20" xml:id="Df44r.20"/><l n="517"><hi rend="capitalsize1">A</hi>nno. .<hi rend="capitalsize1">M</hi>.CCCC.Xcvi. den xxviij.</l>
-<lb n="21" xml:id="Df44r.21"/><l n="518">dach in augusto.</l>
-
-
-<pb xml:id="D.f44v" n="44v"/>
-<lb n="1" xml:id="Df44v.1"/><l n="519"><hi rend="capitalsize1">M</hi>erct gheleerde <choice><abbr>beke<g ref="#bar"/>t</abbr><expan>beke<ex>n</ex>t</expan></choice> <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>binne<g ref="#bar"/></abbr><expan>binne<ex>n</ex></expan></choice></l>
-<lb n="2" xml:id="Df44v.2"/><l n="520"><hi rend="capitalsize1">D</hi>it notabel boeck int <choice><abbr>beghinne<g ref="#bar"/></abbr><expan>beghinne<ex>n</ex></expan></choice></l>
-<lb n="3" xml:id="Df44v.3"/><l n="521"><hi rend="capitalsize1">G</hi>hemaect na mate der dyaloghe</l>
-<lb n="4" xml:id="Df44v.4"/><l n="522"><hi rend="capitalsize1">B</hi>y iacop meerlant wijs van <choice><abbr>sinne<g ref="#bar"/></abbr><expan>sinne<ex>n</ex></expan></choice></l>
-<lb n="5" xml:id="Df44v.5"/><l n="523"><hi rend="capitalsize1">P</hi>oete/ rethorisien groot int kinnen</l>
-<lb n="6" xml:id="Df44v.6"/><l n="524"><choice><abbr><hi rend="capitalsize1">R</hi>uere<g ref="#bar"/>de</abbr><expan><hi rend="capitalsize1">R</hi>uere<ex>n</ex>de</expan></choice> van godliken saken hoge.</l>
-<lb n="7" xml:id="Df44v.7"/><l n="525"><hi rend="capitalsize1">W</hi>elcke matery <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> dicht vol <choice><abbr>minne<g ref="#bar"/></abbr><expan>minne<ex>n</ex></expan></choice></l>
-<lb n="8" xml:id="Df44v.8"/><l n="526"><hi rend="capitalsize1">E</hi>nde correct geworden is int <choice><abbr>dinne<g ref="#bar"/></abbr><expan>dinne<ex>n</ex></expan></choice></l>
-<lb n="9" xml:id="Df44v.9"/><l n="527"><hi rend="capitalsize1">B</hi>y scriuers simpel van vermoghe</l>
-<lb n="10" xml:id="Df44v.10"/><l n="528"><hi rend="capitalsize1">D</hi>och naersticheyt cloeck int innen:</l>
-<lb n="11" xml:id="Df44v.11"/><l n="529"><choice><abbr><hi rend="capitalsize1">H</hi>eu<g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">H</hi>eu<ex>et</ex></expan></choice> gecorrigeert <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> duechs <choice><abbr>gewi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>gewi<ex>n</ex>ne<ex>n</ex></expan></choice></l>
-<lb n="12" xml:id="Df44v.12"/><l n="530"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> in <choice><abbr>pre<g ref="#bar"/>te</abbr><expan>pre<ex>n</ex>te</expan></choice> gestelt claer int betoghe</l>
-<lb n="13" xml:id="Df44v.13"/><l n="531"><hi rend="capitalsize1">O</hi>m te verscherpen elcx sin <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> oghe</l>
 </p>
 </body>
 </text>

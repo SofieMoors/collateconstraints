@@ -1120,7 +1120,7 @@ _M2_
 ¶ <D>at <A>nderde <B>oeck. 
 
 1 <M_3><A>rtijn slaepstu slaept dij(n) sin
-<S>preect: hebstu gee(n) spreke(n) «in»
+<S>preect: hebstu gee(n) spreke(n) in
 <D>u du(n)ckes mi verdore(n)
 <D>u en achtes meer noch min.
 5 <D>an op weelde ende ghewin:
@@ -1167,7 +1167,7 @@ du wrecs mi als een ghestoten ram
 40 <I_1>acop dit was oyt dijn doen.
 <D>attu van vrouwen dijn sermoen
 <B>eghinnen moets oft eynden
-<W>aerstu een dorper du spraecs va(n) «coe(n)» 
+<W>aerstu een dorper du spraecs va(n) coe(n) 
 <N>v is dijn herte des ontuloe(n)
 45 <D>och wil icx mi gheuenden
 <E>nde striken af minen caproen
