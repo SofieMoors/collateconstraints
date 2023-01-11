@@ -1057,7 +1057,7 @@ _M1_
 ____
 
 _M2_
-<D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
+0 <D_1><A><N><D><E><R> <M><A><R><T><I><J><N>	
 1 <M_3><A>rtijn slaepstu slaept dijn sin
 <S>preect heuestu gheen spreke(n) in
 <D>u dinx mi al v[er]doren
@@ -1426,7 +1426,7 @@ _M2_
 ____
 
 _M3_
-<D><I><T> <E><S> <D><E> <D><E><R><D><E> <M><A><R><T><I><J><N>
+0 <D><I><T> <E><S> <D><E> <D><E><R><D><E> <M><A><R><T><I><J><N>
 1 <I_4><C> mane manne(n) mette(n) wiue(n)
 <D>ie dit sulle(n) lesen of scriue(n)
 <V>pte(n) hoghesten ban
@@ -1920,5 +1920,5 @@ _M3_
 <G>od die de doot wrac va(n) abelle
 505 <B>ringhe ons noch ter hogh[er] celle
 <D>ats in abrahams scoot
-<N>aer dese corte doot . Amen .
+507 <N>aer dese corte doot. Amen.
 ____
