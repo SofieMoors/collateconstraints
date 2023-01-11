@@ -1,10 +1,9 @@
 &102r&
 _M1_
-<D>it es dierste boec va(n)de(n) wape(n) m[er]ten
-<D>it ierste boec heeft i(n) .lxxi. clauselen
+0 <D>it es dierste boec va(n)de(n) wape(n) m[er]ten <D>it ierste boec heeft i(n) .lxxi. clauselen
 1 <W_2>apen merten hoe saelt gaen: 
 2 <S>al dese werelt lange staen: 
-<J>n d{us} cra(n)cke(n) loue: 
+<J>n d{usu} cra(n)cke(n) loue: 
 <S>oe sal mij(n) v%ro%uwe(n) v[er]eere sae(n): 
 5 <S>o(n)d[er] twiuel en(de) waen:
 rumen h[er]en houe: 
