@@ -1,6 +1,6 @@
 &1r&
 _M1_
- ¶ <D>it <I>s <W>apene <M>artijn
+0 ¶ <D>it <I>s <W>apene <M>artijn
 1 <W_3><A>pen martijn hoe salt gae(n)
 <S>al dese werelt lange staen
 <I>n desen crancken gheloue
@@ -1117,7 +1117,7 @@ _M1_
 ____
 _M2_
 
-¶ <D>at <A>nderde <B>oeck. 
+0 ¶ <D>at <A>nderde <B>oeck. 
 
 1 <M_3><A>rtijn slaepstu slaept dij(n) sin
 <S>preect: hebstu gee(n) spreke(n) in
@@ -1508,7 +1508,7 @@ du wrecs mi als een ghestoten ram
 ____
 _M3_
  
-¶ <D>at <D>erde <B>oeck/
+0 ¶ <D>at <D>erde <B>oeck/
 1 <I_2><C>k mane ma(n)ne(n) mette(n) wiuen.
 <D>ie dit dicht lesen of schriuen
 <O>p den hoochsten ban.
