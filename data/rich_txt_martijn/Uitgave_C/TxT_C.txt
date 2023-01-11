@@ -1,7 +1,7 @@
 &217ra&
 _M3_
 
-<V>an der drieuoudicheide..
+0 <V>an der drieuoudicheide..
 
 1 <I_12>c mane den mannen metten wiuen 
 die dit lesen zoelen ofte scriuen
@@ -531,7 +531,7 @@ ____
 &219va&
 _M1_
 
-<V>an iacob en(de) van martijn.
+0 <V>an iacob en(de) van martijn.
 1 <U_5>uapene martijn hoe zalt gaen  
 zal dese werelt iet langhe staen 
 in dus cranken loue
