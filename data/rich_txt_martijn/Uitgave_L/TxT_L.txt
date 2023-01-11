@@ -464,7 +464,7 @@ _M1_
 975 <E>n vraege ne(m)meer no en toege
 ____
 _M2_
-*Dander merten*	
+0 *Dander merten*	
 1 <S_2><L>aepstu merte(n) slaept dij(n) sin 	
 <S>preke(n) en heeft geen spreke(n) in 
 <D>u dunckes mi v[er]doren 	 
