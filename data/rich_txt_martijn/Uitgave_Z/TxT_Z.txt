@@ -429,7 +429,7 @@ d{at} de me(n)sche heuet noet
 <V>rie(n) m{et} h[are]n wonden
 ____
 _M3_
-<D>ie d[er]de merten boec	 
+0 <D>ie d[er]de merten boec	 
 1 <I_2>c mane ma(n)ne m{et}ten wiue(n)
 die dit lese(n) of scriue(n)	
 <O>pde(n) hoechten ban	
