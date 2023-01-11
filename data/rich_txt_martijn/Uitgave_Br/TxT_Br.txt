@@ -604,7 +604,7 @@ _M2_
 ____
 
 _M3_
-*...* es den derden boeck
+0 *...* es den derden boeck
 1 <J_10><C> mane manne m{et}ten wiuen
 <D>ie dit lesen ofte scriuen
 <O>pten hoechsten ban
