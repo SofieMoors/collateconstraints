@@ -153,8 +153,7 @@ _M1_
 975 <E>n vrage no en toghe
 ____
 _M2_
-<D>en anderen merten
-
+0 <D>en anderen merten
 1 <S_2><L>aeptu merte(n) slaept dij(n) sin
 <S>prect hebdi spreke(n) in
 <D>u dunckes mi verdoren
