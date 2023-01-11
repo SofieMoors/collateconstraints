@@ -1058,7 +1058,7 @@ _M1_
 975 <E>n vraghe ne(m)meer no en toghe.
 ____
 _M2_
-<H>ier begint den anderen boeck
+0 <H>ier begint den anderen boeck
 1 <S_2>laepstu m[er]te(n) slaept diin sin
 <S>prect hebdi ghee(n) spreke(n) in
 <D>u dunckes mi verdoren
@@ -1427,7 +1427,7 @@ _M2_
 <V>ryen met sinen wonden
 ____
 _M3_
-<H>ier begint den derden boeck.
+0 <H>ier begint den derden boeck.
 1 <I_9><C> mane ma(n)nen metten wiue(n)
 <D>ie dit dicht lesen ofte scriuen
 <O>pten hoechsten ban
