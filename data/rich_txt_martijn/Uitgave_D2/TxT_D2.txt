@@ -13,7 +13,7 @@ _M1_
 975 <I>c en vrage niet meer no[...]
 ____
 _M2_
-§ <D>at ander de bo[...]
+0 § <D>at ander de bo[...]
 1 <M_2><A>rtijn slaepty sla[...]
 <S>preect hebdy g[...]
 <G>hi duncket mi verdor[...]
