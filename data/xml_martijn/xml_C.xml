@@ -33,7 +33,7 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="1" xml:id="Cf217ra.1"/><l n="001"><hi rend="capitalsize1">V</hi>an der drieuoudicheide..</l>
+<p><lb n="1" xml:id="Cf217ra.1"/><l n="000"><hi rend="capitalsize1">V</hi>an der drieuoudicheide..</l>
 <lb n="2" xml:id="Cf217ra.2"/><l n="001"><hi rend="capitalsize12">I</hi>c mane den mannen metten wiuen</l>
 <lb n="3" xml:id="Cf217ra.3"/><l n="002">die dit lesen zoelen ofte scriuen</l>
 <lb n="4" xml:id="Cf217ra.4"/><l n="003">op den hoechsden ban</l>
@@ -566,7 +566,7 @@
 
 <text n="Eerste Martijn" xml:id="M1">
 <body>
-<p><lb n="1" xml:id="Cf219va.1"/><l n="509"><hi rend="capitalsize1">V</hi>an iacob <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van martijn.</l>
+<p><lb n="1" xml:id="Cf219va.1"/><l n="000"><hi rend="capitalsize1">V</hi>an iacob <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> van martijn.</l>
 <lb n="2" xml:id="Cf219va.2"/><l n="001"><hi rend="capitalsize5">U</hi>uapene martijn hoe zalt gaen</l>
 <lb n="3" xml:id="Cf219va.3"/><l n="002">zal dese werelt iet langhe staen</l>
 <lb n="4" xml:id="Cf219va.4"/><l n="003">in dus cranken loue</l>

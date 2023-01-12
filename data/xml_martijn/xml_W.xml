@@ -33,54 +33,52 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="1" xml:id="Wf218ra.1"/><l n="001"><hi rend="capitalsize1">H</hi>ier willic <choice><abbr>sette<g ref="#bar"/></abbr><expan>sette<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/>de<g ref="#bar"/></abbr><expan>d<ex>er</ex>de<ex>n</ex></expan></choice> boec <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> wapen</l>
-<lb n="2" xml:id="Wf218ra.2"/><l n="002"><choice><abbr>m<g ref="#apomod"/>ten</abbr><expan>m<ex>er</ex>ten</expan></choice> die iacob <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>marla<g ref="#bar"/>t</abbr><expan>marla<ex>n</ex>t</expan></choice> maecte <pc>.</pc> <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> hi <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> ge<choice><sic></sic><corr><c type="shy">-</c></corr></choice></l>
-<lb n="3" xml:id="Wf218ra.3"/><l n="003">loeue <choice><abbr>sp<g ref="#apomod"/>ct</abbr><expan>sp<ex>re</ex>ct</expan></choice> so willickene hier setten</l>
-<lb n="4" xml:id="Wf218ra.4"/><l n="001"><hi rend="capitalsize6">I</hi>c mane mannen metten wiuen</l>
-<lb n="5" xml:id="Wf218ra.5"/><l n="002"><hi rend="capitalsize1">D</hi>ie dit gedichte lesen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> scriuen</l>
-<lb n="6" xml:id="Wf218ra.6"/><l n="003"><hi rend="capitalsize1">O</hi>p ten hoechsten ban</l>
-<lb n="7" xml:id="Wf218ra.7"/><l n="004"><hi rend="capitalsize1">D</hi>at sijt reene laten bliuen</l>
-<lb n="8" xml:id="Wf218ra.8"/><l n="005"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> siere <choice><abbr>n<hi rend="superscript">t</hi></abbr><expan>n<ex>iet</ex></expan></choice> in en driuen</l>
-<lb n="9" xml:id="Wf218ra.9"/><l n="006"><hi rend="capitalsize1">W</hi>oert lettere af ochte an</l>
-<lb n="10" xml:id="Wf218ra.10"/><l n="007"><hi rend="capitalsize1">D</hi>oen sijt oec hen sal becliuen</l>
-<lb n="11" xml:id="Wf218ra.11"/><l n="008"><hi rend="capitalsize1">M</hi>ijn ban <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> si en <choice><abbr>sele<g ref="#bar"/>ne</abbr><expan>sele<ex>n</ex>ne</expan></choice> af <choice><abbr>wriue<g ref="#bar"/></abbr><expan>wriue<ex>n</ex></expan></choice></l>
-<lb n="12" xml:id="Wf218ra.12"/><l n="009"><hi rend="capitalsize1">N</hi>iet gemogen nochtan</l>
-<lb n="13" xml:id="Wf218ra.13"/><l n="010"><choice><abbr><hi rend="capitalsize1">H</hi>e<g ref="#bar"/>nes</abbr><expan><hi rend="capitalsize1">H</hi>e<ex>n</ex>nes</expan></choice> geen spot dit van katyuen</l>
-<lb n="14" xml:id="Wf218ra.14"/><l n="011"><hi rend="capitalsize1">H</hi>et es daer ic mi lieuer <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> liete <choice><abbr>o<g ref="#bar"/>tliue<g ref="#bar"/></abbr><expan>o<ex>n</ex>tliue<ex>n</ex></expan></choice></l>
-<lb n="15" xml:id="Wf218ra.15"/><l n="012"><hi rend="capitalsize1">E</hi>er icker schiede van</l>
-<lb n="16" xml:id="Wf218ra.16"/><l n="013"><hi rend="capitalsize1">N</hi>u hore die leeren can</l>
-<lb n="17" xml:id="Wf218ra.17"/><l n="014"><hi rend="capitalsize2">I</hi>acob wi hebben onderlinghe</l>
-<lb n="18" xml:id="Wf218ra.18"/><l n="015"><hi rend="capitalsize1">G</hi>hehandelt messeleke dinghe</l>
-<lb n="19" xml:id="Wf218ra.19"/><l n="016"><hi rend="capitalsize1">N</hi>v antwerdt mi op een</l>
-<lb n="20" xml:id="Wf218ra.20"/><l n="017"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> leert mi eer ic di ontspringhe</l>
-<lb n="21" xml:id="Wf218ra.21"/><l n="018"><hi rend="capitalsize1">H</hi>oe ic mijn herte <choice><abbr>da<g ref="#apomod"/></abbr><expan>da<ex>er</ex></expan></choice> toe dwinghe</l>
-<lb n="22" xml:id="Wf218ra.22"/><l n="019"><hi rend="capitalsize1">T</hi>e <choice><abbr>ki<g ref="#bar"/>ne<g ref="#bar"/>ne</abbr><expan>ki<ex>n</ex>ne<ex>n</ex>ne</expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> dien wi vleen</l>
-<lb n="23" xml:id="Wf218ra.23"/><l n="020"><hi rend="capitalsize1">J</hi>c lese somwile <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> singhe</l>
-<lb n="24" xml:id="Wf218ra.24"/><l n="021"><hi rend="capitalsize1">D</hi>at gode te <choice><abbr>ki<g ref="#bar"/>ne<g ref="#bar"/>ne</abbr><expan>ki<ex>n</ex>ne<ex>n</ex>ne</expan></choice> bi sinen <choice><abbr>gehi<g ref="#bar"/>ge</abbr><expan>gehi<ex>n</ex>ge</expan></choice></l>
-<lb n="25" xml:id="Wf218ra.25"/><l n="022"><hi rend="capitalsize1">E</hi>s leuen sonder ween</l>
-<lb n="26" xml:id="Wf218ra.26"/><l n="023"><hi rend="capitalsize1">D</hi>it es <choice><abbr>waerh<hi rend="superscript">t</hi></abbr><expan>waerh<ex>eit</ex></expan></choice> claer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ginge</l>
-<lb n="27" xml:id="Wf218ra.27"/><l n="024"><hi rend="capitalsize1">S</hi>ubtijl ware <choice><abbr>th<g ref="#apomod"/>te</abbr><expan>th<ex>er</ex>te</expan></choice> diet <choice><abbr>bevi<g ref="#bar"/>ge</abbr><expan>bevi<ex>n</ex>ge</expan></choice></l>
-<lb n="28" xml:id="Wf218ra.28"/><l n="025"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> hoegher dinc en es negeen</l>
-<lb n="29" xml:id="Wf218ra.29"/><l n="026"><hi rend="capitalsize1">N</hi>u antwerdt mi <choice><abbr>tussche<g ref="#bar"/></abbr><expan>tussche<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> tween</l>
-<lb n="30" xml:id="Wf218ra.30"/><l n="027"><choice><abbr><hi rend="capitalsize1">M</hi>erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>erte<ex>n</ex></expan></choice> du vraechs te hoege</l>
-<lb n="31" xml:id="Wf218ra.31"/><l n="028"><hi rend="capitalsize1">A</hi>l vloghic <choice><abbr>boue<g ref="#bar"/></abbr><expan>boue<ex>n</ex></expan></choice> der jngele vloghe</l>
-<lb n="32" xml:id="Wf218ra.32"/><l n="029"><hi rend="capitalsize1">B</hi>ouen cherub <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seraph</l>
-<lb n="33" xml:id="Wf218ra.33"/><l n="030"><hi rend="capitalsize1">S</hi>o weetic wel dat ic en moge</l>
-<lb n="34" xml:id="Wf218ra.34"/><l n="031"><hi rend="capitalsize1">B</hi>erechten dat te vollen doge</l>
-<lb n="35" xml:id="Wf218ra.35"/><l n="032"><hi rend="capitalsize1">M</hi>et woerden niet hier af</l>
-<lb n="36" xml:id="Wf218ra.36"/><l n="033"><hi rend="capitalsize1">A</hi>lle sinne sijn te droege</l>
-<lb n="37" xml:id="Wf218ra.37"/><l n="034"><hi rend="capitalsize1">A</hi>lle creaturen hoement poeghe</l>
-<lb n="38" xml:id="Wf218ra.38"/><l n="035"><hi rend="capitalsize1">E</hi>n dogen niet een caf</l>
-<lb n="39" xml:id="Wf218ra.39"/><l n="036"><hi rend="capitalsize1">D</hi>at <choice><abbr>ha<g ref="#apomod"/>re</abbr><expan>ha<ex>er</ex>re</expan></choice> eenech te <choice><abbr>volle<g ref="#bar"/></abbr><expan>volle<ex>n</ex></expan></choice> doghe</l>
-<lb n="40" xml:id="Wf218ra.40"/><l n="037"><hi rend="capitalsize1">M</hi>aer verscerp dijns sins oghe</l>
-<lb n="41" xml:id="Wf218ra.41"/><l n="038"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hore wat mi screfture gaf</l>
-<lb n="42" xml:id="Wf218ra.42"/><l n="039"><hi rend="capitalsize1">H</hi>oudet <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> <choice><abbr>dij<g ref="#bar"/>re</abbr><expan>dij<ex>n</ex>re</expan></choice> herten graf</l>
-<lb n="43" xml:id="Wf218ra.43"/><l n="040"><hi rend="capitalsize1">M</hi>oyses <choice><abbr>sp<g ref="#apomod"/>ct</abbr><expan>sp<ex>re</ex>ct</expan></choice> in sinen boeken</l>
-<lb n="44" xml:id="Wf218ra.44"/><l n="041"><choice><abbr><hi rend="capitalsize1">B</hi>eeste<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>eeste<ex>n</ex></expan></choice> die <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> berch besoeken</l>
-<lb n="45" xml:id="Wf218ra.45"/><l n="042"><hi rend="capitalsize1">M</hi>oeten sijn gesteent</l>
-<lb n="46" xml:id="Wf218ra.46"/><l n="043"><hi rend="capitalsize1">B</hi>eeste es die <choice><abbr>me<g ref="#bar"/>sche</abbr><expan>me<ex>n</ex>sche</expan></choice> die wille roeken</l>
-<lb n="47" xml:id="Wf218ra.47"/><l n="044"><hi rend="capitalsize1">T</hi>e nauwe <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> de godheit loeken</l>
-<lb n="48" xml:id="Wf218ra.48"/><l n="045"><hi rend="capitalsize1">H</hi>et es recht <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> hijt beweent</l>
+<p><lb n="1" xml:id="Wf218ra.1"/><l n="000"><hi rend="capitalsize1">H</hi>ier willic <choice><abbr>sette<g ref="#bar"/></abbr><expan>sette<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/>de<g ref="#bar"/></abbr><expan>d<ex>er</ex>de<ex>n</ex></expan></choice> boec <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> wapen <choice><abbr>m<g ref="#apomod"/>ten</abbr><expan>m<ex>er</ex>ten</expan></choice> die iacob <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>marla<g ref="#bar"/>t</abbr><expan>marla<ex>n</ex>t</expan></choice> maecte <pc>.</pc> <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> hi <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> ge#loeue <choice><abbr>sp<g ref="#apomod"/>ct</abbr><expan>sp<ex>re</ex>ct</expan></choice> so willickene hier setten</l>
+<lb n="2" xml:id="Wf218ra.2"/><l n="001"><hi rend="capitalsize6">I</hi>c mane mannen metten wiuen</l>
+<lb n="3" xml:id="Wf218ra.3"/><l n="002"><hi rend="capitalsize1">D</hi>ie dit gedichte lesen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> scriuen</l>
+<lb n="4" xml:id="Wf218ra.4"/><l n="003"><hi rend="capitalsize1">O</hi>p ten hoechsten ban</l>
+<lb n="5" xml:id="Wf218ra.5"/><l n="004"><hi rend="capitalsize1">D</hi>at sijt reene laten bliuen</l>
+<lb n="6" xml:id="Wf218ra.6"/><l n="005"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> siere <choice><abbr>n<hi rend="superscript">t</hi></abbr><expan>n<ex>iet</ex></expan></choice> in en driuen</l>
+<lb n="7" xml:id="Wf218ra.7"/><l n="006"><hi rend="capitalsize1">W</hi>oert lettere af ochte an</l>
+<lb n="8" xml:id="Wf218ra.8"/><l n="007"><hi rend="capitalsize1">D</hi>oen sijt oec hen sal becliuen</l>
+<lb n="9" xml:id="Wf218ra.9"/><l n="008"><hi rend="capitalsize1">M</hi>ijn ban <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> si en <choice><abbr>sele<g ref="#bar"/>ne</abbr><expan>sele<ex>n</ex>ne</expan></choice> af <choice><abbr>wriue<g ref="#bar"/></abbr><expan>wriue<ex>n</ex></expan></choice></l>
+<lb n="10" xml:id="Wf218ra.10"/><l n="009"><hi rend="capitalsize1">N</hi>iet gemogen nochtan</l>
+<lb n="11" xml:id="Wf218ra.11"/><l n="010"><choice><abbr><hi rend="capitalsize1">H</hi>e<g ref="#bar"/>nes</abbr><expan><hi rend="capitalsize1">H</hi>e<ex>n</ex>nes</expan></choice> geen spot dit van katyuen</l>
+<lb n="12" xml:id="Wf218ra.12"/><l n="011"><hi rend="capitalsize1">H</hi>et es daer ic mi lieuer <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> liete <choice><abbr>o<g ref="#bar"/>tliue<g ref="#bar"/></abbr><expan>o<ex>n</ex>tliue<ex>n</ex></expan></choice></l>
+<lb n="13" xml:id="Wf218ra.13"/><l n="012"><hi rend="capitalsize1">E</hi>er icker schiede van</l>
+<lb n="14" xml:id="Wf218ra.14"/><l n="013"><hi rend="capitalsize1">N</hi>u hore die leeren can</l>
+<lb n="15" xml:id="Wf218ra.15"/><l n="014"><hi rend="capitalsize2">I</hi>acob wi hebben onderlinghe</l>
+<lb n="16" xml:id="Wf218ra.16"/><l n="015"><hi rend="capitalsize1">G</hi>hehandelt messeleke dinghe</l>
+<lb n="17" xml:id="Wf218ra.17"/><l n="016"><hi rend="capitalsize1">N</hi>v antwerdt mi op een</l>
+<lb n="18" xml:id="Wf218ra.18"/><l n="017"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> leert mi eer ic di ontspringhe</l>
+<lb n="19" xml:id="Wf218ra.19"/><l n="018"><hi rend="capitalsize1">H</hi>oe ic mijn herte <choice><abbr>da<g ref="#apomod"/></abbr><expan>da<ex>er</ex></expan></choice> toe dwinghe</l>
+<lb n="20" xml:id="Wf218ra.20"/><l n="019"><hi rend="capitalsize1">T</hi>e <choice><abbr>ki<g ref="#bar"/>ne<g ref="#bar"/>ne</abbr><expan>ki<ex>n</ex>ne<ex>n</ex>ne</expan></choice> <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> dien wi vleen</l>
+<lb n="21" xml:id="Wf218ra.21"/><l n="020"><hi rend="capitalsize1">J</hi>c lese somwile <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> singhe</l>
+<lb n="22" xml:id="Wf218ra.22"/><l n="021"><hi rend="capitalsize1">D</hi>at gode te <choice><abbr>ki<g ref="#bar"/>ne<g ref="#bar"/>ne</abbr><expan>ki<ex>n</ex>ne<ex>n</ex>ne</expan></choice> bi sinen <choice><abbr>gehi<g ref="#bar"/>ge</abbr><expan>gehi<ex>n</ex>ge</expan></choice></l>
+<lb n="23" xml:id="Wf218ra.23"/><l n="022"><hi rend="capitalsize1">E</hi>s leuen sonder ween</l>
+<lb n="24" xml:id="Wf218ra.24"/><l n="023"><hi rend="capitalsize1">D</hi>it es <choice><abbr>waerh<hi rend="superscript">t</hi></abbr><expan>waerh<ex>eit</ex></expan></choice> claer <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> ginge</l>
+<lb n="25" xml:id="Wf218ra.25"/><l n="024"><hi rend="capitalsize1">S</hi>ubtijl ware <choice><abbr>th<g ref="#apomod"/>te</abbr><expan>th<ex>er</ex>te</expan></choice> diet <choice><abbr>bevi<g ref="#bar"/>ge</abbr><expan>bevi<ex>n</ex>ge</expan></choice></l>
+<lb n="26" xml:id="Wf218ra.26"/><l n="025"><choice><abbr><hi rend="capitalsize1">W</hi>a<g ref="#bar"/>t</abbr><expan><hi rend="capitalsize1">W</hi>a<ex>n</ex>t</expan></choice> hoegher dinc en es negeen</l>
+<lb n="27" xml:id="Wf218ra.27"/><l n="026"><hi rend="capitalsize1">N</hi>u antwerdt mi <choice><abbr>tussche<g ref="#bar"/></abbr><expan>tussche<ex>n</ex></expan></choice> <choice><abbr>o<g ref="#bar"/>s</abbr><expan>o<ex>n</ex>s</expan></choice> tween</l>
+<lb n="28" xml:id="Wf218ra.28"/><l n="027"><choice><abbr><hi rend="capitalsize1">M</hi>erte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">M</hi>erte<ex>n</ex></expan></choice> du vraechs te hoege</l>
+<lb n="29" xml:id="Wf218ra.29"/><l n="028"><hi rend="capitalsize1">A</hi>l vloghic <choice><abbr>boue<g ref="#bar"/></abbr><expan>boue<ex>n</ex></expan></choice> der jngele vloghe</l>
+<lb n="30" xml:id="Wf218ra.30"/><l n="029"><hi rend="capitalsize1">B</hi>ouen cherub <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> seraph</l>
+<lb n="31" xml:id="Wf218ra.31"/><l n="030"><hi rend="capitalsize1">S</hi>o weetic wel dat ic en moge</l>
+<lb n="32" xml:id="Wf218ra.32"/><l n="031"><hi rend="capitalsize1">B</hi>erechten dat te vollen doge</l>
+<lb n="33" xml:id="Wf218ra.33"/><l n="032"><hi rend="capitalsize1">M</hi>et woerden niet hier af</l>
+<lb n="34" xml:id="Wf218ra.34"/><l n="033"><hi rend="capitalsize1">A</hi>lle sinne sijn te droege</l>
+<lb n="35" xml:id="Wf218ra.35"/><l n="034"><hi rend="capitalsize1">A</hi>lle creaturen hoement poeghe</l>
+<lb n="36" xml:id="Wf218ra.36"/><l n="035"><hi rend="capitalsize1">E</hi>n dogen niet een caf</l>
+<lb n="37" xml:id="Wf218ra.37"/><l n="036"><hi rend="capitalsize1">D</hi>at <choice><abbr>ha<g ref="#apomod"/>re</abbr><expan>ha<ex>er</ex>re</expan></choice> eenech te <choice><abbr>volle<g ref="#bar"/></abbr><expan>volle<ex>n</ex></expan></choice> doghe</l>
+<lb n="38" xml:id="Wf218ra.38"/><l n="037"><hi rend="capitalsize1">M</hi>aer verscerp dijns sins oghe</l>
+<lb n="39" xml:id="Wf218ra.39"/><l n="038"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> hore wat mi screfture gaf</l>
+<lb n="40" xml:id="Wf218ra.40"/><l n="039"><hi rend="capitalsize1">H</hi>oudet <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> <choice><abbr>dij<g ref="#bar"/>re</abbr><expan>dij<ex>n</ex>re</expan></choice> herten graf</l>
+<lb n="41" xml:id="Wf218ra.41"/><l n="040"><hi rend="capitalsize1">M</hi>oyses <choice><abbr>sp<g ref="#apomod"/>ct</abbr><expan>sp<ex>re</ex>ct</expan></choice> in sinen boeken</l>
+<lb n="42" xml:id="Wf218ra.42"/><l n="041"><choice><abbr><hi rend="capitalsize1">B</hi>eeste<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>eeste<ex>n</ex></expan></choice> die <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> berch besoeken</l>
+<lb n="43" xml:id="Wf218ra.43"/><l n="042"><hi rend="capitalsize1">M</hi>oeten sijn gesteent</l>
+<lb n="44" xml:id="Wf218ra.44"/><l n="043"><hi rend="capitalsize1">B</hi>eeste es die <choice><abbr>me<g ref="#bar"/>sche</abbr><expan>me<ex>n</ex>sche</expan></choice> die wille roeken</l>
+<lb n="45" xml:id="Wf218ra.45"/><l n="044"><hi rend="capitalsize1">T</hi>e nauwe <choice><abbr>o<g ref="#bar"/></abbr><expan>o<ex>m</ex></expan></choice> de godheit loeken</l>
+<lb n="46" xml:id="Wf218ra.46"/><l n="045"><hi rend="capitalsize1">H</hi>et es recht <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> hijt beweent</l>
 
 
 <pb xml:id="W.f218rb" n="218rb"/>
@@ -440,7 +438,7 @@
 <lb n="4" xml:id="Wf219vb.4"/><l n="381"><hi rend="capitalsize1">S</hi>oe vloyen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> begonden</l>
 <lb n="5" xml:id="Wf219vb.5"/><l n="382"><hi rend="capitalsize1">D</hi>e <choice><abbr>sac<hi rend="superscript">a</hi>me<g ref="#bar"/>te</abbr><expan>sac<ex>ra</ex>me<ex>n</ex>te</expan></choice> die <choice><abbr>sto<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>sto<ex>n</ex>de<ex>n</ex></expan></choice> <pc>:</pc></l>
 <lb n="6" xml:id="Wf219vb.6"/><l n="383"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> alle <choice><abbr>salech<hi rend="superscript">t</hi></abbr><expan>salech<ex>eit</ex></expan></choice></l>
-<lb n="7" xml:id="Wf219vb.7"/><l n="834"><hi rend="capitalsize1">N</hi>v hebbic v tgeloeue <choice><abbr>ontbo<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>ontbo<ex>n</ex>de<ex>n</ex></expan></choice></l>
+<lb n="7" xml:id="Wf219vb.7"/><l n="384"><hi rend="capitalsize1">N</hi>v hebbic v tgeloeue <choice><abbr>ontbo<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>ontbo<ex>n</ex>de<ex>n</ex></expan></choice></l>
 <lb n="8" xml:id="Wf219vb.8"/><l n="385"><hi rend="capitalsize1">S</hi>o ic naest hebbe <choice><abbr>ondervo<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>ondervo<ex>n</ex>de<ex>n</ex></expan></choice></l>
 <lb n="9" xml:id="Wf219vb.9"/><l n="386"><hi rend="capitalsize1">N</hi>a miere mogentheit</l>
 <lb n="10" xml:id="Wf219vb.10"/><l n="387"><hi rend="capitalsize1">D</hi>ie dit geloeue vaste orconden</l>

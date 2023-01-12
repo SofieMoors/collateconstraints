@@ -101,7 +101,7 @@
 <lb n="28" xml:id="Ff1rb.28"/><l n="063"><hi rend="capitalsize1">T</hi>oecht mi redene daer van</l>
 <lb n="29" xml:id="Ff1rb.29"/><l n="064"><hi rend="capitalsize1">W</hi>ant ict gheerne leere</l>
 <lb n="30" xml:id="Ff1rb.30"/><l n="065"><hi rend="capitalsize1">W</hi>ies scult dat het weere.</l>
-<lb n="31" xml:id="Ff1rb.31"/><l n="066"><hi rend="capitalsize2">I</hi>acop mi dunct ouerwair</l>
+<lb n="31" xml:id="Ff1rb.31"/><l n="066"><hi rend="capitalsize2">I</hi>Acop mi dunct ouerwair</l>
 <lb n="32" xml:id="Ff1rb.32"/><l n="067"><hi rend="capitalsize1">S</hi>int dat edelheit hadde vaer</l>
 <lb n="33" xml:id="Ff1rb.33"/><l n="068"><hi rend="capitalsize1">T</hi>e pinen om die eere</l>
 <lb n="34" xml:id="Ff1rb.34"/><l n="069"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> zij trac den scalken naer</l>
@@ -1096,7 +1096,7 @@
 
 <text n="Tweede Martijn" xml:id="M2">
 <body>
-<p><lb n="5" xml:id="Ff7vb.5"/><l n="976"><hi rend="capitalsize1">H</hi>ier begint den anderen boeck</l>
+<p><lb n="5" xml:id="Ff7vb.5"/><l n="000"><hi rend="capitalsize1">H</hi>ier begint den anderen boeck</l>
 <lb n="6" xml:id="Ff7vb.6"/><l n="001"><hi rend="capitalsize2">S</hi>laepstu <choice><abbr>m<g ref="#apomod"/>te<g ref="#bar"/></abbr><expan>m<ex>er</ex>te<ex>n</ex></expan></choice> slaept diin sin</l>
 <lb n="7" xml:id="Ff7vb.7"/><l n="002"><hi rend="capitalsize1">S</hi>prect hebdi <choice><abbr>ghee<g ref="#bar"/></abbr><expan>ghee<ex>n</ex></expan></choice> <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> in</l>
 <lb n="8" xml:id="Ff7vb.8"/><l n="003"><hi rend="capitalsize1">D</hi>u dunckes mi verdoren</l>
@@ -1469,7 +1469,7 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="20" xml:id="Ff10ra.20"/><l n="339"><hi rend="capitalsize1">H</hi>ier begint den derden boeck.</l>
+<p><lb n="20" xml:id="Ff10ra.20"/><l n="000"><hi rend="capitalsize1">H</hi>ier begint den derden boeck.</l>
 <lb n="21" xml:id="Ff10ra.21"/><l n="001"><hi rend="capitalsize9">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>nen</abbr><expan>ma<ex>n</ex>nen</expan></choice> metten <choice><abbr>wiue<g ref="#bar"/></abbr><expan>wiue<ex>n</ex></expan></choice></l>
 <lb n="22" xml:id="Ff10ra.22"/><l n="002"><hi rend="capitalsize1">D</hi>ie dit dicht lesen ofte scriuen</l>
 <lb n="23" xml:id="Ff10ra.23"/><l n="003"><hi rend="capitalsize1">O</hi>pten hoechsten ban</l>

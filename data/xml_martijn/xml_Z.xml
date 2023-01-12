@@ -474,7 +474,7 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="41" xml:id="Zf7ra.41"/><l n="339"><hi rend="capitalsize1">D</hi>ie <choice><abbr>d<g ref="#apomod"/>de</abbr><expan>d<ex>er</ex>de</expan></choice> merten boec</l>
+<p><lb n="41" xml:id="Zf7ra.41"/><l n="000"><hi rend="capitalsize1">D</hi>ie <choice><abbr>d<g ref="#apomod"/>de</abbr><expan>d<ex>er</ex>de</expan></choice> merten boec</l>
 <lb n="42" xml:id="Zf7ra.42"/><l n="001"><hi rend="capitalsize2">I</hi>c mane <choice><abbr>ma<g ref="#bar"/>ne</abbr><expan>ma<ex>n</ex>ne</expan></choice> <choice><abbr>m<g ref="#etfin"/>ten</abbr><expan>m<ex>et</ex>ten</expan></choice> <choice><abbr>wiue<g ref="#bar"/></abbr><expan>wiue<ex>n</ex></expan></choice></l>
 <lb n="43" xml:id="Zf7ra.43"/><l n="002">die dit <choice><abbr>lese<g ref="#bar"/></abbr><expan>lese<ex>n</ex></expan></choice> of <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice></l>
 <lb n="44" xml:id="Zf7ra.44"/><l n="003"><choice><abbr><hi rend="capitalsize1">O</hi>pde<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">O</hi>pde<ex>n</ex></expan></choice> hoechten ban</l>

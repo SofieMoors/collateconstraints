@@ -1093,7 +1093,7 @@
 
 <text n="Tweede Martijn" xml:id="M2">
 <body>
-<p><lb n="18" xml:id="Af119ra.18"/><l n="976"><hi rend="capitalsize1">D</hi>ANDER <hi rend="capitalsize1">M</hi>ARTIJN</l>
+<p><lb n="18" xml:id="Af119ra.18"/><l n="000"><hi rend="capitalsize1">D</hi>ANDER <hi rend="capitalsize1">M</hi>ARTIJN</l>
 <lb n="19" xml:id="Af119ra.19"/><l n="001"><hi rend="capitalsize3">M</hi>Artijn slaepstu slaept dijn sin</l>
 <lb n="20" xml:id="Af119ra.20"/><l n="002"><hi rend="capitalsize1">S</hi>preect heuestu gheen <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> in</l>
 <lb n="21" xml:id="Af119ra.21"/><l n="003"><hi rend="capitalsize1">D</hi>u dinx mi al <choice><abbr>v<g ref="#apomod"/>doren</abbr><expan>v<ex>er</ex>doren</expan></choice></l>
@@ -1466,7 +1466,7 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="33" xml:id="Af121rb.33"/><l n="339"><hi rend="capitalsize1">D</hi>IT <hi rend="capitalsize1">E</hi>S <hi rend="capitalsize1">D</hi>E <hi rend="capitalsize1">D</hi>ERDE <hi rend="capitalsize1">M</hi>ARTIJN</l>
+<p><lb n="33" xml:id="Af121rb.33"/><l n="000"><hi rend="capitalsize1">D</hi>IT <hi rend="capitalsize1">E</hi>S <hi rend="capitalsize1">D</hi>E <hi rend="capitalsize1">D</hi>ERDE <hi rend="capitalsize1">M</hi>ARTIJN</l>
 <lb n="34" xml:id="Af121rb.34"/><l n="001"><hi rend="capitalsize4">I</hi>C mane <choice><abbr>manne<g ref="#bar"/></abbr><expan>manne<ex>n</ex></expan></choice> <choice><abbr>mette<g ref="#bar"/></abbr><expan>mette<ex>n</ex></expan></choice> <choice><abbr>wiue<g ref="#bar"/></abbr><expan>wiue<ex>n</ex></expan></choice></l>
 <lb n="35" xml:id="Af121rb.35"/><l n="002"><hi rend="capitalsize1">D</hi>ie dit <choice><abbr>sulle<g ref="#bar"/></abbr><expan>sulle<ex>n</ex></expan></choice> lesen of <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice></l>
 <lb n="36" xml:id="Af121rb.36"/><l n="003"><choice><abbr><hi rend="capitalsize1">V</hi>pte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>pte<ex>n</ex></expan></choice> hoghesten ban</l>
@@ -1960,7 +1960,7 @@
 <lb n="17" xml:id="Af124va.17"/><l n="504"><hi rend="capitalsize1">G</hi>od die de doot wrac <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> abelle</l>
 <lb n="18" xml:id="Af124va.18"/><l n="505"><hi rend="capitalsize1">B</hi>ringhe ons noch ter <choice><abbr>hogh<g ref="#apomod"/></abbr><expan>hogh<ex>er</ex></expan></choice> celle</l>
 <lb n="19" xml:id="Af124va.19"/><l n="506"><hi rend="capitalsize1">D</hi>ats in abrahams scoot</l>
-<lb n="20" xml:id="Af124va.20"/><l n="507"><hi rend="capitalsize1">N</hi>aer dese corte doot <pc>.</pc> Amen <pc>.</pc></l>
+<lb n="20" xml:id="Af124va.20"/><l n="507"><hi rend="capitalsize1">N</hi>aer dese corte doot. Amen.</l>
 </p>
 </body>
 </text>

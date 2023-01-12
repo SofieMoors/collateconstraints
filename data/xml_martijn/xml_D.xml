@@ -33,7 +33,7 @@
 
 <text n="Eerste Martijn" xml:id="M1">
 <body>
-<p><lb n="1" xml:id="Df1r.1"/><l n="001">¶ <hi rend="capitalsize1">D</hi>it <hi rend="capitalsize1">I</hi>s <hi rend="capitalsize1">W</hi>apene <hi rend="capitalsize1">M</hi>artijn</l>
+<p><lb n="1" xml:id="Df1r.1"/><l n="000">¶ <hi rend="capitalsize1">D</hi>it <hi rend="capitalsize1">I</hi>s <hi rend="capitalsize1">W</hi>apene <hi rend="capitalsize1">M</hi>artijn</l>
 <lb n="2" xml:id="Df1r.2"/><l n="001"><hi rend="capitalsize3">W</hi>Apen martijn hoe salt <choice><abbr>gae<g ref="#bar"/></abbr><expan>gae<ex>n</ex></expan></choice></l>
 <lb n="3" xml:id="Df1r.3"/><l n="002"><hi rend="capitalsize1">S</hi>al dese werelt lange staen</l>
 <lb n="4" xml:id="Df1r.4"/><l n="003"><hi rend="capitalsize1">I</hi>n desen crancken gheloue</l>
@@ -1154,7 +1154,7 @@
 
 <text n="Tweede Martijn" xml:id="M2">
 <body>
-<p><lb n="14" xml:id="Df24r.14"/><l n="976">¶ <hi rend="capitalsize1">D</hi>at <hi rend="capitalsize1">A</hi>nderde <hi rend="capitalsize1">B</hi>oeck.</l>
+<p><lb n="14" xml:id="Df24r.14"/><l n="000">¶ <hi rend="capitalsize1">D</hi>at <hi rend="capitalsize1">A</hi>nderde <hi rend="capitalsize1">B</hi>oeck.</l>
 <lb n="15" xml:id="Df24r.15"/><l n="001"><hi rend="capitalsize3">M</hi>Artijn slaepstu slaept <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> sin</l>
 <lb n="16" xml:id="Df24r.16"/><l n="002"><hi rend="capitalsize1">S</hi>preect: hebstu <choice><abbr>gee<g ref="#bar"/></abbr><expan>gee<ex>n</ex></expan></choice> <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> in</l>
 <lb n="17" xml:id="Df24r.17"/><l n="003"><hi rend="capitalsize1">D</hi>u <choice><abbr>du<g ref="#bar"/>ckes</abbr><expan>du<ex>n</ex>ckes</expan></choice> mi <choice><abbr>verdore<g ref="#bar"/></abbr><expan>verdore<ex>n</ex></expan></choice></l>
@@ -1548,7 +1548,7 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="18" xml:id="Df32r.18"/><l n="339">¶ <hi rend="capitalsize1">D</hi>at <hi rend="capitalsize1">D</hi>erde <hi rend="capitalsize1">B</hi>oeck/</l>
+<p><lb n="18" xml:id="Df32r.18"/><l n="000">¶ <hi rend="capitalsize1">D</hi>at <hi rend="capitalsize1">D</hi>erde <hi rend="capitalsize1">B</hi>oeck/</l>
 <lb n="19" xml:id="Df32r.19"/><l n="001"><hi rend="capitalsize2">I</hi>Ck mane <choice><abbr>ma<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>ma<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>mette<g ref="#bar"/></abbr><expan>mette<ex>n</ex></expan></choice> wiuen.</l>
 <lb n="20" xml:id="Df32r.20"/><l n="002"><hi rend="capitalsize1">D</hi>ie dit dicht lesen of schriuen</l>
 <lb n="21" xml:id="Df32r.21"/><l n="003"><hi rend="capitalsize1">O</hi>p den hoochsten ban.</l>
