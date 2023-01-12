@@ -2088,7 +2088,7 @@ _M3_
 <G>od die de doot wraecte van abelle
 505 <B>renghe ons ter hogher celle
 <D>ats in abrahams schoot.
-<N>a dese corte doot/ 
-<A_1><M><E><N>:
+507 <N>a dese corte doot/ 
+508 <A_1><M><E><N>:
 ____
 

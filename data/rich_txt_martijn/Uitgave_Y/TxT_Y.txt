@@ -238,7 +238,7 @@ _M3_
 
 &2rb& 
 
-370 <O>ft beter oft alsoe [...]		
+370 <O>ft beter oft alsoe 		
 <A>y god nv brect on[...]			
 <E>nde v[er]geeft ons di[...]		
 <E>n(de) dinen euele(n) mo[...]		
@@ -381,5 +381,5 @@ _M3_
 <G>od dye de doot wrac van abelle	
 505 <H>i bringe ons ter hoger selle		
 <D>ats in abrahams schoet		      
-<N>a dese corte doot
+507 <N>a dese corte doot
 ____			
