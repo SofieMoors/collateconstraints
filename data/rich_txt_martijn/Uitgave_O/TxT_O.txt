@@ -1218,7 +1218,7 @@ den dorpere. ende den wijsen dan
 <E>xplicit liber prim{us}
 ____
 _M2_
-0 <I>ncipit liber secund{us}
+<I>ncipit liber secund{us}
 1 <M_3><A>rtin slaepstu slaept dij(n) zin
 <S>prec hebstu ghee(n) spreke(n) jn
 <D>u dijncs my verdoren
@@ -1644,7 +1644,7 @@ _M2_
 <E>xplicit secund{us} liber
 ____
 _M3_
-0 <I>ncipit tertius.
+<I>ncipit tertius.
 1 <I_4><C> mane ma(n)nen mette(n) wiue(n)
 <D>ie dit ghedichte lese(n) of scriue(n)
 <V>p den hoechsten ban
