@@ -1102,9 +1102,6 @@ _M2_
 <H>a(n)t en(de) mo(n)t hi da[er] toe biedt: 
 <H>i bidt hi claecht sij(n) v[er]driet: 
 <N>at%ur%e e(n) wouts n%iet% gehi(n)ge(n):
-
-&112v& 
-
 <D>{at} he(m) co(n)ste gehulpe(n) iet: 
 115 <H>i doelde also hi selue siet:
 <H>ine co(n)ste sij(n) h[er]te bedwi(n)gen: 
@@ -1197,7 +1194,10 @@ _M2_
 <H>are die mi coes i(n) dbegi(n): 
 <E>n(de) ane mj blijft gestade: 
 205 <D>a(n) hare die fierlec hare(n) ki(n): 
-<T>e mi w[er]t d%ra%get En(de) ha[er] gespin: 
+<T>e mi w[er]t d%ra%get en(de) ha[er] gespin: 
+
+&112v& 
+
 <V>a(n) m%inne% elre d%ra%get te sade:
 <E>n(de) dier ick[er] n%iet% o(m)me e(n) bade:
 <I>acob ocht gi n%iet% en acht: 
