@@ -25,4 +25,20 @@ SIGLA - (ALTERNATIVE TITLE)	- REPOSITORY AND SIGNATURE	- USED EDITION:
 16.	D - (Antwerpse druk, Hendrik den Lettersnider) - The Hague National Library of the Netherlands 150 F 40 - Verdam & Leendertz (1918); Mertens (1978)
 17.	D2 - (Print)	Leiden University Library LTK 1021 	- Breugelmans (1986)
 
+A) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). Queeste, 26: 66–93.
+B) Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert  (eds.), ’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens. Louvain/Amersfoort: Acco, pp. 125–136.
+C) Brinkman, H. and Schenkel, J. (eds.) (1997). Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1. Hilversum: Verloren.
+D) Gabriël, R. (forthcoming). Diplomatische uitgave van handschrift Wenen, Österreichische Nationalbibliothek, Cod. 13708, in de reeks Middelnederlandse Verzamelhandschriften uit de Nederlanden. 
+E) Gabriël, R. and Kestemont, M. (forthcoming). Diplomatische, digitale uitgave van handschrift Gent, Universiteitsbibliotheek, 1374, in de reeks Middelnederlandse Verzamelhandschriften uit de Nederlanden. 
+F) Gailliard, Edw. (1905). ‘Een fragment van Maerlant’s Wapene Martijn.’ Verslagen en mededeelingen der Koninklijke Vlaamsche Academie voor Taal- en Letterkunde. Gent: A. Siffer, pp. 561-607.
+G) Gruijs, A. and Mertens, T. (1975). A new fragment of Jacob van Maerlant’s Eerste and Tweede Martijn (in Cod. Bodmer. 101, Bibliotheca Bodmeriana, Geneva). Quaerendo, 5: 346–352.
+H) Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde. Groningen: J. Oomkens, pp. 119-152.
+I) Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.
+J) Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, Anzeiger für Kunde der deutschen Vorzeit. Vol. 7. Nürnberg: Germanisches Museum, pp. 244-258.
+K) Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. Queeste, 29(1): 36-65. 
+L) Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.
+M) Verdam, J., and Leendertz, P. (ed.) (1918). Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam. Leiden: A.W. Sijthoff’s.
+
+
+
 ![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/flowchart.drawio.svg)
