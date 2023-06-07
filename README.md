@@ -38,7 +38,7 @@ J) Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, Anzeiger für Kunde de
 K) Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. Queeste, 29(1): 36-65. 
 L) Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.
 M) Verdam, J., and Leendertz, P. (ed.) (1918). Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam. Leiden: A.W. Sijthoff’s.
-
+![image](https://app.diagrams.net/#HSofieMoors%2Fcollateconstraints%2Fmain%2FDataCollectionMartijnTrilogy.drawio)
 
 
 ![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/flowchart.drawio.svg)
