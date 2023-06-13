@@ -1256,7 +1256,7 @@
 
 <text n="Tweede Martijn" xml:id="M2">
 <body>
-<p><lb n="2" xml:id="Of59v.2"/><l n="000"><hi rend="capitalsize1">I</hi>ncipit liber <choice><abbr>secund<g ref="#usmod"/></abbr><expan>secund<ex>us</ex></expan></choice></l>
+<p><lb n="2" xml:id="Of59v.2"/><l n="977"><hi rend="capitalsize1">I</hi>ncipit liber <choice><abbr>secund<g ref="#usmod"/></abbr><expan>secund<ex>us</ex></expan></choice></l>
 <lb n="3" xml:id="Of59v.3"/><l n="001"><hi rend="capitalsize3">M</hi>Artin slaepstu slaept <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> zin</l>
 <lb n="4" xml:id="Of59v.4"/><l n="002"><hi rend="capitalsize1">S</hi>prec hebstu <choice><abbr>ghee<g ref="#bar"/></abbr><expan>ghee<ex>n</ex></expan></choice> <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> jn</l>
 <lb n="5" xml:id="Of59v.5"/><l n="003"><hi rend="capitalsize1">D</hi>u dijncs my verdoren</l>
@@ -1687,7 +1687,7 @@
 
 <text n="Derde Martijn" xml:id="M3">
 <body>
-<p><lb n="2" xml:id="Of73v.2"/><l n="000"><hi rend="capitalsize1">I</hi>ncipit tertius.</l>
+<p><lb n="2" xml:id="Of73v.2"/><l n="340"><hi rend="capitalsize1">I</hi>ncipit tertius.</l>
 <lb n="3" xml:id="Of73v.3"/><l n="001"><hi rend="capitalsize4">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>nen</abbr><expan>ma<ex>n</ex>nen</expan></choice> <choice><abbr>mette<g ref="#bar"/></abbr><expan>mette<ex>n</ex></expan></choice> <choice><abbr>wiue<g ref="#bar"/></abbr><expan>wiue<ex>n</ex></expan></choice></l>
 <lb n="4" xml:id="Of73v.4"/><l n="002"><hi rend="capitalsize1">D</hi>ie dit ghedichte <choice><abbr>lese<g ref="#bar"/></abbr><expan>lese<ex>n</ex></expan></choice> of <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice></l>
 <lb n="5" xml:id="Of73v.5"/><l n="003"><hi rend="capitalsize1">V</hi>p den hoechsten ban</l>

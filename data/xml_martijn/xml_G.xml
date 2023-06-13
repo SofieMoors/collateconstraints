@@ -33,7 +33,7 @@
 
 <text n="Eerste Martijn" xml:id="M1">
 <body>
-<p><lb n="1" xml:id="Gf102r.1"/><l n="000"><hi rend="capitalsize1">D</hi>it es dierste boec <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>wape<g ref="#bar"/></abbr><expan>wape<ex>n</ex></expan></choice> <choice><abbr>m<g ref="#apomod"/>ten</abbr><expan>m<ex>er</ex>ten</expan></choice> <hi rend="capitalsize1">D</hi>it ierste boec heeft <choice><abbr>i<g ref="#bar"/></abbr><expan>i<ex>n</ex></expan></choice> .lxxi. clauselen</l>
+<p><lb n="1" xml:id="Gf102r.1"/><l n="000"><hi rend="capitalsize1">D</hi>it es dierste boec <choice><abbr>va<g ref="#bar"/>de<g ref="#bar"/></abbr><expan>va<ex>n</ex>de<ex>n</ex></expan></choice> <choice><abbr>wape<g ref="#bar"/></abbr><expan>wape<ex>n</ex></expan></choice> <choice><abbr>m<g ref="#apomod"/>ten</abbr><expan>m<ex>er</ex>ten</expan></choice></l>
 <lb n="2" xml:id="Gf102r.2"/><l n="001"><hi rend="capitalsize2">W</hi>apen merten hoe saelt gaen:</l>
 <lb n="3" xml:id="Gf102r.3"/><l n="002"><hi rend="capitalsize1">S</hi>al dese werelt lange staen:</l>
 <lb n="4" xml:id="Gf102r.4"/><l n="003"><hi rend="capitalsize1">J</hi>n d <choice><abbr>cra<g ref="#bar"/>cke<g ref="#bar"/></abbr><expan>cra<ex>n</ex>cke<ex>n</ex></expan></choice> loue:</l>
