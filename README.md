@@ -18,10 +18,11 @@ REFERENCES:
 8) Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde. Groningen: J. Oomkens, pp. 119-152.
 9) Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.
 10) Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, Anzeiger für Kunde der deutschen Vorzeit. Vol. 7. Nürnberg: Germanisches Museum, pp. 244-258.
-11) Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. Queeste, 29(1): 36-65. 
-12) Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.
-13) Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden, deel III, 2de stuk. Dordrecht: Blussé & Van Braam, pp. 81-225.
-14) Verdam, J., and Leendertz, P. (ed.) (1918). Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam. Leiden: A.W. Sijthoff’s.
+11) Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. Queeste, 29(1): 36-65.
+12) Overgaauw, E. A. (ed.) (1996). Een nieuw fragment van Jacob van Maerlant’s Eerste Martijn (Koblenz, Landeshauptarchiv, Best. 701: Nr. 262, fol. 173). Queeste, 3: 191–196.
+13) Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.
+14) Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden, deel III, 2de stuk. Dordrecht: Blussé & Van Braam, pp. 81-225.
+15) Verdam, J., and Leendertz, P. (ed.) (1918). Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam. Leiden: A.W. Sijthoff’s.
 
 
 DATA PREPROCESSING: 
