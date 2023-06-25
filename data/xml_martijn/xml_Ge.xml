@@ -2,12 +2,22 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+                <p><!-- Transcription based on: Gruijs, A. and Mertens, T. (1975). A new fragment of Jacob van Maerlant’s Eerste and Tweede Martijn (in Cod. Bodmer. 101, Bibliotheca Bodmeriana, Geneva). Quaerendo, 5: 346–352. --></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+                <msDesc>
+          <msIdentifier>
+            <settlement>Cologny
+
+ </settlement>
+            <institution> Fondation Martin Bodmer</institution>
+            <idno>Cod. Bodmer 101</idno>
+            <msName>Ge</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>

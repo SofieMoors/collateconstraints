@@ -2,12 +2,21 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+                <p><!-- Transcription based on: Brinkman, H. and Schenkel, J. (eds.) (1997). Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1. Hilversum: Verloren.--></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+<msDesc>
+          <msIdentifier>
+            <settlement>Stuttgart </settlement>
+            <institution>Württemberg State Library</institution>
+            <idno>Cod. Poet. Et phil. 2° 22</idno>
+            <msName>Comburg manuscript, A</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
+               
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
@@ -33,7 +42,7 @@
 
 <text n="Eerste Martijn" xml:id="M1">
 <body>
-<p><lb n="1" xml:id="Af112rb.1"/><l n="001"><hi rend="capitalsize4">V</hi>Vaphene <choice><abbr>m<g ref="#apomod"/>tin</abbr><expan>m<ex>ar</ex>tin</expan></choice> hoe <del>salt</del> gaen</l>
+<p><lb n="1" xml:id="Af112rb.1"/><l n="001"><hi rend="capitalsize4">V</hi>Vaphene <choice><abbr>m<g ref="#apomod"/>tin</abbr><expan>m<ex>ar</ex>tin</expan></choice> hoe salt gaen</l>
 <lb n="2" xml:id="Af112rb.2"/><l n="002"><hi rend="capitalsize1">S</hi>al die <choice><abbr>w<g ref="#apomod"/>elt</abbr><expan>w<ex>eer</ex>elt</expan></choice> hiet <choice><abbr>la<g ref="#bar"/>ghe</abbr><expan>la<ex>n</ex>ghe</expan></choice> <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice></l>
 <lb n="3" xml:id="Af112rb.3"/><l n="003"><hi rend="capitalsize1">I</hi>n dus <choice><abbr>crancke<g ref="#bar"/></abbr><expan>crancke<ex>n</ex></expan></choice> loue</l>
 <lb n="4" xml:id="Af112rb.4"/><l n="004"><hi rend="capitalsize1">S</hi>o moet <choice><abbr>v<hi rend="superscript">o</hi>uwe</abbr><expan>v<ex>ro</ex>uwe</expan></choice> <choice><abbr>v<g ref="#apomod"/>eere</abbr><expan>v<ex>er</ex>eere</expan></choice> saen</l>

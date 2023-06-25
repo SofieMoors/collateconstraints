@@ -2,12 +2,20 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+                <p><!-- Transcription based on: Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert (eds.), ’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens. Louvain/Amersfoort: Acco, pp. 125–136. --></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+          <msDesc>
+          <msIdentifier>
+            <settlement>Leiden   </settlement>
+            <institution>University Library</institution>
+            <idno>LTK 1021</idno>
+            <msName>D2</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>

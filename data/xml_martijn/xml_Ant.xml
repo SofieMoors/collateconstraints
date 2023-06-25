@@ -2,12 +2,20 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+                <p><!-- Transcription based on: Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.--></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+<msDesc>
+          <msIdentifier>
+            <settlement>Antwerp</settlement>
+            <institution>University Library Special Collections</institution>
+            <idno>MAG-P 64.20</idno>
+            <msName>Ant</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>

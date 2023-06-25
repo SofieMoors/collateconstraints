@@ -2,12 +2,23 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
-            <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
+            <publicationStmt>Transcription based on: 
+- Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, Anzeiger für Kunde der deutschen Vorzeit. Vol. 7. Nürnberg: Germanisches Museum, pp. 244-258.
+- Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.Gegevens over uitgave --></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+               <msDesc>
+          <msIdentifier>
+            <settlement>Heidelberg 
+
+ </settlement>
+            <institution>University Library</institution>
+            <idno>HS 200 (olim: HS. 362a, 83) </idno>
+            <msName>E</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>

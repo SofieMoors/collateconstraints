@@ -2,12 +2,20 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+                <p><!-- Transcription based on: Gabriël, R. (forthcoming). Diplomatische uitgave van handschrift Wenen, Österreichische Nationalbibliothek, Cod. 13708, in de reeks Middelnederlandse Verzamelhandschriften uit de Nederlanden. --></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+                <msDesc>
+          <msIdentifier>
+            <settlement>Vienna</settlement>
+            <institution>Austrian National Library</institution>
+            <idno>Cod. 13708</idno>
+            <msName>W</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>

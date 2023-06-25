@@ -2,12 +2,21 @@
 <MVN xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
-            <titleStmt><title>Jacob van Maerlant, Martijn</title></titleStmt>
+            <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Gegevens over uitgave --></p>
+                <p><!-- Transcription based on: Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.
+ --></p>
             </publicationStmt>
             <sourceDesc>
-                <p>...</p>
+            <msDesc>
+          <msIdentifier>
+            <settlement>Brussels</settlement>
+            <institution>Royal Library of Belgium</institution>
+            <idno>MS 19570</idno>
+            <msName>Br</msName>
+          </msIdentifier>
+ <p>...</p>
+        </msDesc>
             </sourceDesc>
         </fileDesc>
         <encodingDesc>
