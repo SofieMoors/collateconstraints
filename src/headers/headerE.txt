@@ -3,9 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
-            <publicationStmt>Transcription based on: 
+            <publicationStmt><p>Transcription based on: 
 - Mone, F. J. (1838). ‘Aus Maerlants Wapen Martijn’, Anzeiger für Kunde der deutschen Vorzeit. Vol. 7. Nürnberg: Germanisches Museum, pp. 244-258.
-- Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.Gegevens over uitgave --></p>
+- Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.Gegevens over uitgave</p>
             </publicationStmt>
             <sourceDesc>
                <msDesc>

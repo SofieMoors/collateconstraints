@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: Gruijs, A. and Mertens, T. (1975). A new fragment of Jacob van Maerlant’s Eerste and Tweede Martijn (in Cod. Bodmer. 101, Bibliotheca Bodmeriana, Geneva). Quaerendo, 5: 346–352. --></p>
+                <p>Transcription based on: Gruijs, A. and Mertens, T. (1975). A new fragment of Jacob van Maerlant’s Eerste and Tweede Martijn (in Cod. Bodmer. 101, Bibliotheca Bodmeriana, Geneva). Quaerendo, 5: 346–352.</p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

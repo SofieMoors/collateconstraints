@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: Gabriël, R. and Kestemont, M. (forthcoming). Diplomatische, digitale uitgave van handschrift Gent, Universiteitsbibliotheek, 1374, in de reeks Middelnederlandse Verzamelhandschriften uit de Nederlanden.--></p>
+                <p>Transcription based on: Gabriël, R. and Kestemont, M. (forthcoming). Diplomatische, digitale uitgave van handschrift Gent, Universiteitsbibliotheek, 1374, in de reeks Middelnederlandse Verzamelhandschriften uit de Nederlanden.</p>
             </publicationStmt>
             <sourceDesc>
                <msDesc>

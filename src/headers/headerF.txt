@@ -4,9 +4,9 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on:  
+                <p>Transcription based on:  
 - Verdam, J., and Leendertz, P. (ed.) (1918). Jacob van Maerlant’s Strophische gedichten. Nieuwe bewerking der uitgave van Franck en Verdam. Leiden: A.W. Sijthoff’s.
-- Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa. --></p>
+- Mertens, Th. (ed.) (1978). Den anderen merten. Synoptische archiefeditie van Jacob van Maerlant’s tweede Martijn. Nijmegen: Alfa.</p>
             </publicationStmt>
             <sourceDesc>
                <msDesc>

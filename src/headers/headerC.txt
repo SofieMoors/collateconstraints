@@ -4,10 +4,9 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: 
+                <p>Transcription based on: 
 - Staring van den Wildenborch, A.C.W. (1834). ‘De Wapene Martijn van Jacob van Maerlant, naar het Zutphense hs. medegedeeld, met eene inleiding en aanteekeningen van M. Siegenbeek.’ Nieuwe Werken van de Maatschappij der Nederlandsche Letterkunde te Leiden, deel III, 2de stuk. Dordrecht: Blussé & Van Braam, pp. 81-225.
-- Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde. Groningen: J. Oomkens, pp. 119-152.
- --></p>
+- Meijer, G. J. (1838). ‘Van der Drievoudichede; van Jacob van Maerlant.’ Nalezingen op het leven van Jezus, enz: verslag van den roman van Walewein, en andere bijdragen tot de oude Nederlandsche letterkunde. Groningen: J. Oomkens, pp. 119-152.</p>
             </publicationStmt>
             <sourceDesc>
                <msDesc>

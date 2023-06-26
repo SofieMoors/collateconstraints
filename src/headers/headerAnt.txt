@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.--></p>
+                <p>Transcription based on: Sleiderink, R., Moors, S., and De Schepper, M. (2020). Bandwerk. Een nieuw fragment van Wapene Martijn van Jacob van Maerlant (Antwerpen, Universiteitsbibliotheek, Bijzondere Collecties, MAG-P 64.20). Queeste, 27: 43-62.</p>
             </publicationStmt>
             <sourceDesc>
 <msDesc>

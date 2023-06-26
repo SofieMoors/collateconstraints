@@ -4,8 +4,7 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. Queeste, 29(1): 36-65.
- --></p>
+                <p>Transcription based on: Moors, S. (2022). Een bijzondere Brabantse tekstgetuige van de Martijntrilogie van Jacob van Maerlant. De fragmenten Lyon, Bibliothèque municipale, ms 6848. Queeste, 29(1): 36-65.</p>
             </publicationStmt>
             <sourceDesc>
                 <msDesc>

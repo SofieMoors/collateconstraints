@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert (eds.), ’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens. Louvain/Amersfoort: Acco, pp. 125–136. --></p>
+                <p>Transcription based on: Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert (eds.), ’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens. Louvain/Amersfoort: Acco, pp. 125–136.</p>
             </publicationStmt>
             <sourceDesc>
           <msDesc>

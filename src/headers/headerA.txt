@@ -4,7 +4,7 @@
         <fileDesc>
             <titleStmt><title>Jacob van Maerlant, Martijn</title><editor xml:id="SM">Sofie Moors</editor></titleStmt>
             <publicationStmt>
-                <p><!-- Transcription based on: Brinkman, H. and Schenkel, J. (eds.) (1997). Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1. Hilversum: Verloren.--></p>
+                <p>Transcription based on: Brinkman, H. and Schenkel, J. (eds.) (1997). Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1. Hilversum: Verloren.</p>
             </publicationStmt>
             <sourceDesc>
 <msDesc>
