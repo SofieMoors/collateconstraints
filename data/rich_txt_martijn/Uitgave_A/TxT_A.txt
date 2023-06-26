@@ -1857,7 +1857,7 @@ _M3_
 <L>eerde en(de) maecte in jnne
 <D>es gods soens me(n)schelicheit
 <H>ens co(ninc) noch coninghinne
-<4>50 Die ne(m)mer af laet ghewinne
+450 <D>ie ne(m)mer af laet ghewinne
 <V>an sire onsalicheit
 
 &124rb&
