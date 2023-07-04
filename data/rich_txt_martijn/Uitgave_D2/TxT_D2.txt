@@ -1,6 +1,6 @@
 &1r& 
 _M1_
-
+§75§
 966 <I>c vergheuet al onghedo[...]
 <A>lle vrouwe(n) ionc en(de) oud [...]
 <O>m eene vrouwe hogh[...]
@@ -13,7 +13,8 @@ _M1_
 975 <I>c en vrage niet meer no[...]
 ____
 _M2_
-0 § <D>at ander de bo[...]
+§1§
+0 ¶ <D>at ander de bo[...]
 1 <M_2><A>rtijn slaepty sla[...]
 <S>preect hebdy g[...]
 <G>hi duncket mi verdor[...]
@@ -30,6 +31,7 @@ _M2_
 [...] hooft en(de) uwen sin
 [...] waerstu geboren
 [...]chtens versworen
+§2§
 [...]ghi woent in den dam
 15 [...] echt dies ben ic gram
 [...]s sijn verscheeden
@@ -43,6 +45,7 @@ _M2_
 [...] ghi wort noch tam
 25 [...] woorden cleeden
 [...] en(de) met reden
+§3§
 [...] vrient heb ic messeyt
 [...]eteren bereyt
 [...] v bliuen
@@ -59,6 +62,7 @@ _M2_
 <S>teden/borge(n)/bossce(n) preyt
 <S>oudemen verdriuen
 <W>ildemen minne ontlijuen
+§4§
 40 <I>acop dit was oyt dijn doen
 <D>at van vrouwen v sermoen
 <B>eghinnen moet oft eynden
@@ -74,7 +78,7 @@ _M2_
 <N>v vraecht ic sal ontbende(n)
 
 &2v&
-
+§5§
 [...]rtijn ghi sult mi verstaen
 [...] vrouwe wel ghedaen
 55 [...]t mi beuaen met minnen
@@ -88,6 +92,7 @@ _M2_
 [...] si mi niet en sonde ontfaen
 [...]aer herte binnen
 65 [...]etoe en is geen versinnen
+§6§
 [...]n and[er] vrouwe die mi bemint
 [...]en al dat sij leuende kint
 [...] ghestadiger trouwen
@@ -104,6 +109,7 @@ _M2_
 <H>et dunct mijnd[er] herte(n) alsen [...]
 <S>ij liet h*a*er eer in stucken hou[...]
 <E>er sij daer om quam in rouw[...]
+§7§
 <M>artijn hoort en(de) verstant
 80 <D>ese twee sijn in een verbant
 <D>at costen moet der eenredle [...] 
@@ -112,7 +118,7 @@ _M2_
 
 
 &3v& 
-
+§8§
 95 [...] ymmer der herten aert
 [...]darwaerts tijdt en(de) vaert
 [...]aen haer quame(n) d*ie* wonden
@@ -125,9 +131,10 @@ _M2_
 104 [...]ermoort dan sonden
 
 &4r& 
-
+§9§
 116 <H>i en konst hem niet bed*w*[...]
 117 <H>i en sterf bi desen dingen
+§10§
 118 <M>edea toocht ons selue de [...]
 119 <D>ie roofde en(de) stal haers v[...]
 120 <E>n(de) versloech haren broed[...]
@@ -139,7 +146,7 @@ _M2_
 
 
 &4v& 
-
+§11§
 137 [...]t woent sond[er] ghetal
 138 [...]berch en(de) in dal
 139 [...]c hertoge of graue
@@ -147,12 +154,13 @@ _M2_
 [...] niet weert sijn een bal
 [...]t met caue
 [...]mi s[...]e baue
+§12§
 [...]gh [...]n stout sergiant
 145 [...]n [...] op en(de) vast bant
 [...]n ontbinden
 
 &5r& 
-
+§13§
 158 <D>at ghi hier bringhet voort
 159 <M>et fabulen en(de) poeterijen
 160 <O>ft medea dede moort
@@ -165,11 +173,12 @@ _M2_
 <H>i en mach niet sijn verdoort
 
 &5v& 
-
+§14§
 179 <A>l dooch der die sulcke om torment
 180 <S>ulck als minne der doget sendt
 <W>ie was dier af messchiede
 <G>helijc den heydene(n) diede
+§15§
 <A>braham was vrou sara man
 <D>oe hi sijn amye te v[er]heffen bega(n)
 185 <B>ouen sijn vrouwe(n)
@@ -178,7 +187,7 @@ _M2_
 <S>ijn herte was vol trouwen
 
 &6r& 
-
+§16§
 200 <D>at si haer en(de) haer ghewin
 <M>i yondt vroech en(de) spade
 <M>i dunct dat ic meer sculdich ben
@@ -188,12 +197,14 @@ _M2_
 <T>e mi draecht. en(de) haer ghespin
 <V>a(n) mij(n)der elder draecht te sade
 <E>n(de) dier ic om bade
+§17§
 <J>acop oft ghi niet en acht
 
 &6v& 
 
 221 <S>ijns willen ontbeeren
-222 § <W>at macht hadde sampsoen
+222 ¶ <W>at macht hadde sampsoen
+§18§
 223 <D>auid en(de) salomoen
 224 <T>eghen die cracht va(n) minnen
 225 <D>aer en is tsegen geen doen
@@ -204,13 +215,14 @@ _M2_
 230 <I>n sijn herte binnen
 
 &7r& 
-
+§19§
 242 <P>orringhe die den sin wech thiet
 243 <D>ie zeere treect ten beghinne
 244 <D>ie de reden te ghemoete(n) pliet
 245 <D>us ontbant mi en(de) beschiet
 <M>ijn meester als ic kinne
 <O>ft mij(n) verstant is dinne
+§20§
 <O>ft die minne is alst es
 <I>c ben seker en(de) ghewes
 250 <I>c volchs den iersten woorde
@@ -224,6 +236,7 @@ _M2_
 <D>ies is mij(n) herte wel ghewes.
 <D>at ic mi eer versmoorde
 260 <E>er icse steruen hoorde
+§21§
 <M>artijn ruyt gra(m)marijen
 <D>u pleges *d*es veel lieden plien
 
@@ -240,6 +253,7 @@ _M2_
 <O>ft ghi sijt een paijen
 <O>ft vol heresien
 <O>fte van sduuels partien
+§22§
 <M>artijn hooret en(de) verstant
 275 <W>ie wast die dierste minne vant
 <D>an god die selue is minne
@@ -256,6 +270,7 @@ _M2_
 <D>at doet der houerdien pant
 285 <D>ie helsche coninghinne
 <D>aer hi blijft altoes inne
+§23§
 <D>at dit waer is proeft wel dat
 <W>aer eenich dinc va(n) gode ghehadt
 <T>en mochte niet ghedueren
@@ -269,6 +284,7 @@ _M2_
 <N>e(m)mermeer en werdt hijs sadt
 <D>us en mach sijnre natueren
 <G>heen ghenade ghebueren
+§24§
 300 <O>ft men dit bi reden weet
 <D>at god niemant en heeft leet
 <W>ien gheeft hi tlanghe leuen
@@ -285,7 +301,8 @@ _M2_
 310 <D>iens ghelijcke wil ic ghereet
 <D>en toon haer wed[er] gheue(n)
 <D>ie voer mi luste te leue(n)
-§ <G>od gheeftet al clein en(de) groot
+§25§
+¶ <G>od gheeftet al clein en(de) groot
 <D>ies die mensche heuet noot
 315 <D>it proeftmen met sinne
 <H>i stortte voer ons sijn bloet root

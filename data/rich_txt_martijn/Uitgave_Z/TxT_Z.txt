@@ -1,5 +1,6 @@
 &1ra&
 _M1_
+§28§
 356 <W>aer hi daer mede gewont	
 <H>ine w[aer] niet in elenden
 <M>[aer] god en wilde de(n) rike(n) vont	
@@ -9,6 +10,7 @@ _M1_
 <S>maect allee(n) d[er] vrie(n)de mo(n)t	
 <M>e(n) mach h[aer] lijf doe(n) enden	
 <E>n(de) n{iet} de ziele scende(n)
+§29§
 365 <D_2>and[er] mi(n)ne es o(n)behoet	
 <W>a(n)t si staet na dertsche goet	
 <E>n(de) *omder werelt* eere.	
@@ -22,6 +24,7 @@ _M1_
 375 <E>n(de) he(m) vloide inde(n) mont	
 <H>e(m) soude alsoe zeere	
 <D>orste(n) alst dede eere
+§30§
 <D_2>ese heu{et} ond[er]sceet	
 <V>a(n) he(m) die omde e[er]e steet	
 380 <E>n(de) om d[er] w[ere]lt scatte	
@@ -35,6 +38,7 @@ _M1_
 <D>aer de menege m{et} o(m)me geet	
 <W>a(n)t haer tonge platte
 390 <S>melte(n) alse sneeclatte
+§31§
 <E_2>ere te p%ri%sen es ee(n) dinc	 
 <D>[aer] noit h[er]te m{et} o(m)me ginc	 
 <S>ine w{as} van reyne(n) [...]	 
@@ -51,6 +55,7 @@ _M1_
 <D>ie menege vaet en(de) wile(n) vine	 
 <D>ie dat wort begherde	 
 <E>n(de) d{at} weldoe(n) spaerde
+§32§
 <G_2>oet te hebbe(n) ende scat	 
 405 en(de) tamelijc te nutte(n) dat	 
 <D>{at}s ee(n) salich leuen	 
@@ -64,6 +69,7 @@ _M1_
 <W>a(n)t si moet int helsche vat	 
 415 <S>alamoe(n) heu{et} bescreue(n)	 
 <E>n es n{iet} argers bleuen
+§33§
 <D_2><I>e d[er]de mi(n)ne eyscht de(n) tijt	
 <A>lse bi natuere(n) elc o(n)tbeit	
 <D>ie bloiende iare	
@@ -77,6 +83,7 @@ _M1_
 <D>ie ald{us} sijn lijf v[er]slijt	
 <M>aect sine ziele clare	
 <E>n(de) en es gee(n) futselare
+§34§
 430 <M_2>inne es alsme(n) bescreuen vi(n)t	
 <C>racht die .ij. h[er]te(n) tsame(n) bi(n)t	
 <I>n eene(n) reyne(n) wane	
@@ -90,6 +97,7 @@ _M1_
 440 <M>i(n)ners in trouwen gehinct	
 *<A>lse doet zwart* swane(n)	
 *<D>us laet haer minne af planen*
+§35§
 *<M_2>erten du heues berecht*	
 *<H>et seit heere ende knecht*
 *<V>rouwen ende ioncvrouwen*
@@ -107,6 +115,7 @@ _M1_
 <M>ij(n) sin es ae(n) v gehect	
 <S>oe ze[er]e ic wae(n) bedouwe(n)	
 455 <A>cht[er] make(n) si de mouwe(n)
+§36§
 <M_2>erten du heues mi gev%ra%g{et}	
 <I>c antw[er]de en(de) v[er]draget	
 <I>c wilt m[er]te(n) v[er]dragen	
@@ -120,6 +129,7 @@ _M1_
 <D>{at} mij(n) sin w[er]de gevaget
 <D>{at} di moet behagen	
 <I>c wille danw[er]de wage(n)
+§37§
 <I>acob nv berecht mi	
 470 <O>ft d{at} uolc al come(n) si	
 <V>ande(n) ierste(n) adame	
@@ -133,6 +143,7 @@ _M1_
 <M>e(n) seit willecome ghi	
 480 <D>{at} doet d{at} ic mi v[er]grame	
 <W>a(n)t het dunct mi o(n)tame
+§38§
 <M_2>erte(n) de menege es bedect	
 <D>ie dinc d[aer] sijn sin op mect	
 <E>n(de) du *v[ra]ges* wel verre	
@@ -149,6 +160,7 @@ _M1_
 <D>{at} menich tsine te wi(n)ne trect	
 <E>n(de) maect gode om erre	
 <E>n(de) die ziele in werre
+§39§
 495 <S_2>elc wae(n)t dat volc eygij(n)	
 <C>ome(n) es va(n)den quade caym	
 <D>ie v[er]morde abelle	
@@ -162,6 +174,7 @@ _M1_
 505 <D>{at} caym droech es an scij(n)	
 <V>an menege(n) die ic spelle	
 <V>an h[er]ten sine geselle
+§40§
 <S_2>elc wae(n)t d{at} vande(n) quaden// //cam 
 die noe sij(n) vad[er] w{as} gram	
 510 <D>{at} hine n{iet} ende decte	
@@ -175,6 +188,7 @@ die noe sij(n) vad[er] w{as} gram
 <Q>ua(m) eyge(n) uolc soe ic v[er]na(m)	
 <D>{at} oit ter eeren trecte	
 520 <E>n(de) he(m) noyt en beulecte
+§41§
 <M_2>erte(n) tuusche loy vertelt	
 d{at} van ongerecht gewelt	
 <E>yge(n)dom es comen	
@@ -188,11 +202,12 @@ d{at} van ongerecht gewelt
 <M>[aer] aue(n)tu[er]e vast en(de) smelt	
 Ø
 <T>onne[er]en hem somen
+§42§
 <G_2>od doget om ons mesdaet
 535 d{at} ee(n) geslachte t[er] ned[er] gaet
 
 &4ra&
-
+§49§
 626 <G>af dit wandel ertsche goet
 627 <D>er mensch%eit% ghemeene 
 628 <D>{at}ter mede waest geuoet
@@ -205,6 +220,7 @@ d{at} van ongerecht gewelt
 635 <H>[ier] o(m) stichtme(n) m{et}t[er] spoet	
 <B>orge ende hoge steene	
 <M>eneghe(n) ten weene
+§50§
 <I_2>acop ic heb wel u[er]staen	
 <D>{at} dit w[aer] es sond[er] waen	
 640 <D>{at}tu heues ontbonden
@@ -218,6 +234,7 @@ d{at} van ongerecht gewelt
 <V>rech%eit% leert die w{ere}lt vlae(n)	
 <D>it proeue(n) ende orconden	
 650 <D>ie wi(n)ners vande(n) ponde(n)
+§51§
 <I_2>acop ee(n) di(n)c maect mi co(n)t	
 <A>lse ee(n) me(n)sche w[er]t gewo(n)t	
 <V>an gerechter minnen	
@@ -231,6 +248,7 @@ d{at} van ongerecht gewelt
 <M>i en besceede dit dij(n) mo(n)t
 <W>a(n)t en es n{iet} wijsh%eit% dinne	
 <N>a d{at} ic rede(n)ne kinne
+§52§
 <M_2>erte(n) dv best ee(n) vre(m)t druut	
 665 <D>u sprekes als ee(n) vriese ruut	
 <D>ie noch noit en minde	
@@ -247,6 +265,7 @@ d{at} van ongerecht gewelt
 <W>illic d{at} h[ier] bi si beduut
 675 <P>roef hoe ic dit ontbinde	
 <E>n(de) te redene vinde
+§53§
 <E_2>e(n) sw[aer] orloge en(de) ee(n) zw[aer] strijt	
 en(de) d[aer]toe ee(n) ewelijc nijt	
 <E>s tussche(n) th[er]te en(de) oogen	
@@ -260,6 +279,7 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 <D>[aer] soe menich dief uore lijt
 <B>edi ben ic bedroghen	
 <D>{at} clagic mine(n) ogen
+§54§
 690 <W_2>ape(n) vrie(n)delijc viant	
 <D>or u dogic menege(n) pa(n)t	
 <E>n(de) meneghe coude	
@@ -273,6 +293,7 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 700 <E>n(de) v[er]smorde sulke(n) pant	
 <O>nd[er] donreyne moude	
 <O>p d{at} natu[er]e woude
+§55§
 <T_2>th[er]te sweech doge sprac	
 <I>c wae(n) v sins gebrac	
 705 <V>rouwe coni(n)ghinne	
@@ -289,10 +310,12 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 ____
 &5ra&
 _M2_
+§9§
 114 <D>{at} he(m) ca(n) gehulpen iet
 115 <H>ine doelt alse hi wel ziet
 <S>ine conste sij(n) h[er]te bedwinge(n)
 <H>i sterf bi desen dingen
+§10§
 <M_2>edea toe(n)t o(n)s selue dat
 die rouede en(de) stal h[aer]s vad[er] scat 
 120 <E>n(de) sloech h[are]n broed[er]
@@ -306,6 +329,7 @@ die rouede en(de) stal h[aer]s vad[er] scat
 <D>[aer] mi(n)ne in maecte ee(n) gat
 <W>ille hilt den roeder
 130 <A>l was rede(n) v*r...*eder
+§11§
 <E_2>xempel vindic *...n*d[er] getal
 <D>ie m{et} mi soude(n) *li*en al
 <D>{at}ic h[aer] dleuen gaue
@@ -319,6 +343,7 @@ die rouede en(de) stal h[aer]s vad[er] scat
 <H>ine sal di n{iet} w[aert] sijn ee(n) bal
 <G>heuult met caue
 <S>oe hulpe mi sente baue
+§12§
 <M_2>erte(n) du best .j. sto(n)t seria(n)t
 145 <D>{at}s ee(n) vast knoep en(de) bant
 <D>ie nieme(n) can ontbinden
@@ -332,6 +357,7 @@ die rouede en(de) stal h[aer]s vad[er] scat
 <J>ege(n) casselb[er]ch in vlae(n)d[er]lant
 155 <S>al diede(n) h[ier] v vinden
 <A>l wae(n)di mi v[er]blinden
+§13§
 <G_2>hi wilt st[er]ke(n) uwe wort
 die gi m{et} fauele(n) brinct vort
 
@@ -348,6 +374,7 @@ die gi m{et} fauele(n) brinct vort
 <H>ine mach n{iet} sijn u[er]dort
 <D>es selen m{et} lien
 <D>ie meesters va(n) cl[er]gien
+§14§
 170 <L_2>es doude en(de) dnuwe testame*n*t
 en(de) besich al omtrint
 <A>lle die heilege liede
@@ -361,6 +388,7 @@ en(de) besich al omtrint
 180 <S>elc als mi(n)ne d[er] ioget toesint
 <W>ie waest di[er]e af messciede
 <G>helijc heidene(n) diede
+§15§
 <A_2>b[ra]ham was u%rou%we saren ma(n)
 die sine amie v[er]heffe(n) bega(n)
 185 <B>oue(n) si[er]e vrouwen
@@ -374,6 +402,7 @@ die sine amie v[er]heffe(n) bega(n)
 <D>ie m{et}t[er] mi(n)ne(n) make(n) gespan
 195 <D>[aer] e*...m*i(n)ne vol rouwen
 194 <D>ese mi(n)*ne... wil*li(c) blouwe(n)
+§16§
 196 <O_2>f *ic d*an s*et*te mine(n) sin
 <D>[aer] ic en(de) mach meer no min
 <A>e(n) winne(n) dan scade
@@ -386,9 +415,10 @@ die sine amie v[er]heffe(n) bega(n)
 205 <D>a(n) h[aer] die fierlijc hare(n) kin
 
 &7ra& 
-
+§23§
 298 <D>{us} mach si[er]e naturen
 299 <G>hee(n) genade gebuere(n)
+§24§
 300 <D_2>{at}me(n) dit bi redene(n) weet
 d{at} god nieme(n) heu{et} leet
 <W>ie(n) geeft hi dlange leue(n)
@@ -401,6 +431,7 @@ d{at} god nieme(n) heu{et} leet
 310 <D>es gelijc willic gereet
 <D>e(n) loen h[aer] wed[er] geuen
 <D>ie dore mi lust te leue(n)
+§25§
 <G_2>od heu{et} al cleyn en(de) groet
 d{at} de me(n)sche heuet noet
 315 <D>it proeftme(n) m{et} sinne
@@ -414,6 +445,7 @@ d{at} de me(n)sche heuet noet
 <E>n(de) smake(n) da(n) de doot
 <D>ie ic mi soe hout ki(n)ne
 325 <O>ft mij(n) v[er]stae(n) es du(n)ne
+§26§
 <W_2>aerh%eit% iacop dits al w[aer]
 <M>[aer] mi w{as} te vinde(n) zw[aer] 
 <D>{at}tu h[ier] heues ontbo(n)de(n)
@@ -429,6 +461,7 @@ d{at} de me(n)sche heuet noet
 <V>rie(n) m{et} h[are]n wonden
 ____
 _M3_
+§1§
 0 <D>ie d[er]de merten boec	 
 1 <I_2>c mane ma(n)ne m{et}ten wiue(n)
 die dit lese(n) of scriue(n)	
@@ -446,6 +479,7 @@ die dit lese(n) of scriue(n)
 <H>{et}s d[aer] ic mi om liet o(n)tliue(n)	
 <E>er ick[er] sciede van	
 <N>v le[er]e die leere(n) can
+§2§
 <I_2>acop wi hebbe(n) ond[er]linge	
 15 gehandelt messelike ding*e*
 <N>v antw[er]t mi op een	
@@ -459,6 +493,7 @@ die dit lese(n) of scriue(n)
 <S>uptijl w[aer] th[er]te diet beui(n)ge	
 25 <W>a(n)t hog[er] dinc nes ghee(n)	
 <A>ntwert tussche(n) o(n)s twee(n)
+§3§
 <M_2>erte(n) du vrages te hoge	
 al vlogic boue(n) d[er] inglen v[...]
 <B>oue(n) cerub en(de) ceraph	
@@ -472,6 +507,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <M>[aer] v[er]scarp dij(n)s sins oge
 <H>ort w{at} natu[er]e di gaf	
 <H>oret in di[er]e h[er]te(n) graf
+§4§
 40 <M_2>oyses sp%ra%ct in sine(n) boek*en*	
 <B>eeste(n) die de(n) berch besoeke[...]
 <M>oete(n) sijn gescent	
@@ -488,6 +524,7 @@ al vlogic boue(n) d[er] inglen v[...]
 50 <W>[aer]t goet ic soud[er] di om vloeken	
 <I>c wane dij(n) herte meent	
 <D>{at}tu mi heues verbeent
+§5§
 <I_2>acop dune salti n{iet} v[er]g%ra%me(n)
 <I>c souts mi in mi selue(n) scame(n)	
 55 <H>addict oit gedocht	
@@ -501,6 +538,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <G>ewo(n)t m{et}t[er] sonde(n) brame(n)	
 <V>an dattu vermocht
 65 <S>oe es mine(n) wil volbrocht
+§6§
 <M_2><E>rte(n) m[er]ct in dine(n) sinne	
 <G>od es wese(n) vor al begi(n)ne	
 *<D>ede*lste boue(n) al	
@@ -514,6 +552,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <B>oue(n) ald[er]hande gewinne	
 <E>n(de) boue(n) alle geual	
 <D>[aer] boue(n) en(de) int dal
+§7§
 <D_2><E>(n) hemel en(de) te(n) troe(n) m[er]ke
 80 <G>od es boue(n) zij(n) w[er]ke	
 <E>n(de) ond[er] al sij(n) dinc	
@@ -527,6 +566,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <B>ute(n) binne(n) in wat[er] in sw[er]ke
 90 <H>[ier] in dij(n) hertte dwinc	
 <S>ond[er] lose winc
+§8§
 *<B>oven es god als heere*
 *<D>ie besitter es emmermeere*	
 *<A>lles dies men weet*	
@@ -543,6 +583,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <S>ij(n) w[er]c u[er]wlt m{et} selk[er] e[er]e
 <D>{at} ewelijc steet	
 <W>ie(n)t lief si ofte leet
+§9§
 105 <B_2>oue(n) es god algedrage(n)	
 <G>ee(n) dinc mach he(m) beclage(n)	
 <D>{at} hise iet v[er]last	
@@ -556,6 +597,7 @@ al vlogic boue(n) d[er] inglen v[...]
 115 <D>{at} sij(n) dinc m{et} gee(n)re vlage(n)	
 <N>e si ongerast	
 <N>och gequests ee(n) bast
+§10§
 <V_2>a(n) eene(n) god sp[re]ke(n) wi va(n) ene(n)
 <D>ie wi vad[er] en(de) sone mene(n)	
 120 <E>n(de) te(n) hellege(n) geest	
@@ -569,6 +611,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <D>{at}ti des loechent hi moe{et} wene(n) 	
 <E>n(de) sij(n) geureest	
 130 <I>nde(n) helsche(n) te(m)peest
+§11§
 <W_2>i sette(n) de(n) vad[er] voren	
 <O>ngewo(n)ne(n) en(de) ongebore(n)	
 <E>n(de) voor al beghin	

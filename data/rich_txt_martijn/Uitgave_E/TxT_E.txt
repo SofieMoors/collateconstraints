@@ -1,6 +1,6 @@
 &1ra&
 _M1_ 
-
+§29§
 371 <W>a(n)t tie <R>[idder] niet en doet
 <H>ine v[er]slit vleesch en(de) bloet
 <O>p d{at} sij(n) prijs mere
@@ -8,6 +8,7 @@ _M1_
 375 <E>n(de) he(m) vloyde inde(n) moet
 <H>e(m) soude alsoe sere
 <D>orste(n) als dede ere
+§30§
 <D_2>ese mi(n)ne heeft ond[er]sceet
 <V>a(n) he(m) die na die ere steet
 380 <E>n(de) pine(n) omde(n) scatte
@@ -21,6 +22,7 @@ _M1_
 <D>a[er] die meneghe m{et} o(m)me gheet
 <W>a(n)t ha[er]e tonghe platte
 390 <S>melte(n) als snee clatte
+§31§
 <E_2>re te hebbe(n) es ene dinc
 <D>a[er] noy h[er]te m{et} o(m)me ghinc
 <S>ine w{as} va(n) reyne(n) arde
@@ -34,6 +36,7 @@ _M1_
 <D>ie meneghe(n) vaet en(de) wile(n) vinc
 <D>ie dat wort begaerde
 <E>n(de) d{at} weldoe(n) sparde
+§32§
 <G_2>oet te hebbe(n) en(de) scat
 405 <E>n(de) met ere(n) te nutte(n) dat
 <D>ats ee(n) salich leue(n)
@@ -49,7 +52,7 @@ _M1_
 <E>n es n{iet} arghers bleuen
 
 &1rb&
-
+§33§
 <D_2><I>e derde mi(n)ne eyscht de(n) tijt
 <A>lse bi naturen elc ontb{ijt}
 <D>ie bloyende iare
@@ -63,6 +66,7 @@ _M1_
 426 <H>a[er] hope ne(m)mermeer glijt
 428 <M>[aer] maect sij(n) si(n)ne clare
 429 <E>n(de) en es ghee(n) futselare
+§34§
 430 <M_2>i(n)ne es alsme(n) bescreue(n) vint
 <C>racht die II. h[er]te(n) tsame(n) bint
 <I>n ene(n) reyne(n) wane
@@ -76,6 +80,7 @@ _M1_
 440 <M>i(n)ners i(n) trouwe(n) ghehint
 <A>lsme(n) doet zw[er]ter zwane(n)
 <D>{us} laet haer mi(n)ne af plane(n)
+§35§
 <M_2>erte(n) ghi hebt my berecht
 <H>et segghe(n) al h[er]en en(de) knecht
 445 <V>[ro]uwen en(de) ioffrouwen
@@ -89,6 +94,7 @@ _M1_
 <M>ijn sin es an v gehecht
 <S>oe z[er]e ic wane v[er]douwe(n)
 455 <M>[aer] acht[er] make(n) si die mouwe(n)
+§36§
 <I_2>acop ghi hebt my geuraegt
 <I>c antw[oer]t en(de) v[er]draegt
 <N>v willic m[er]ten vraghen 
@@ -105,6 +111,7 @@ _M1_
 <D>{at} mij(n) sin so w[er]de geuaegt
 <D>{at} v moet behaghen
 <I>c wille danw[oer]de draghe(n)
+§37§
 <I_2>acop nv berecht my
 470 <O>f d{at} volc come(n) sy
 <V>ande(n) yerste(n) adame
@@ -118,6 +125,7 @@ _M1_
 <M>e(n) seit willecome ghy
 480 <D>it doet d{at} ic my verg%ra%me
 <W>a(n)t het dinct my ontame
+§38§
 <M_2>erte(n) menich es bedect
 <D>ie di(n)c da[er] sij(n) sin op mect
 <M>a[er] du vrages wel v[er]re
@@ -131,6 +139,7 @@ _M1_
 <D>{at} elc tsine te wi(n)ne(n) trect
 <E>n(de) maect[er] gode om erre
 <E>ntie ziele in werre
+§39§
 495 <S_2>ulc wae(n)t d{at} tfolc eyghij(n)
 <C>ome(n) es va(n)de(n) quade(n) cay(n)
 <D>ie v[er]morde ab[e]lle
@@ -144,6 +153,7 @@ _M1_
 505 <D>{at} cay(n) droech d{at}s anschij(n)
 <A>n meneghe(n) die ic telle
 <V>a(n) h[er]ten sijn gheselle
+§40§
 <S_2>ulc wae(n)t d{at} va(n)de(n) quade(n) ca(m)
 
 &1vb& 
@@ -160,6 +170,7 @@ _M1_
 <Q>ua(m) eyghe(n) volc alsic v[er]na(m)
 <D>ie oyt ter ere(n) trecte
 520 <E>n(de) he(m) noyt beulecte
+§41§
 <M_2>erte(n) d{at} duutsce loy v[er]telt 
 <D>{at} va(n) onrecht[er] gewelt
 <E>ygendom es comen
@@ -173,6 +184,7 @@ _M1_
 <M>[aer] auo(n)tu[r]e wast en(de) smelt
 <M>eneghe(n) te vrome(n)
 <E>n(de) tonn[er]en he(m) somen
+§42§
 <G_2>od gedoget o(m) onse mesdaet
 535 <D>{at} ee(n) geslechte tond[er] gaet
 <E>n(de) een and[er] riset
@@ -186,6 +198,7 @@ _M1_
 <D>{at} die wet gods v[er]smaet
 545 <W>erdet te valle ghewiset
 <E>n(de) va(n) nieme(n) gepriset
+§43§
 <M_2><I> en roect wie(ne) droech 
 <D>a[er] trouwe en dog{et} es an
 <E>n(de) reyne es va(n) seden
@@ -198,6 +211,7 @@ ____
 
 &2ra& 
 _M2_
+§25§
 314 <D>es die me(n)sche heuet noot
 315 <D>it proeftme(n) met si(n)ne
 <H>i storte doer o(n)s sij(n) bloet root
@@ -210,6 +224,7 @@ _M2_
 <S>oude si smake(n) da(n) die doot
 <D>ie ic my so hout ki(n)ne
 325 <S>o wa[er] mij(n) vroede(n) dinne
+§26§
 <W_2>aerheit iacop dits al waer
 <M>[aer] my waest te vi(n)de(n) zwaer
 <D>{at}tu h[ier] heeft ontbonden
@@ -225,6 +240,7 @@ _M2_
 <V>rien m{et} sine(n) wonden
 ____
 _M3_
+§1§
 <D_1>en derden bouc
 1 <I_7><C> mane ma(n)ne m{et}te(n) wiuen
 <D>ie dit lese(n) oft scriuen
@@ -239,6 +255,7 @@ _M3_
 <H>ets da[er] ic my o(m) liet o(n)liue(n)
 <E>er ick[er] sciede van
 <N>v lere die lere(n) can
+§2§
 <I_2>acop wi hebbe(n) ond[er]linghe
 15 <G>hehandelt messelike di(n)ghe
 <N>v antw[oer]t my op een
@@ -248,11 +265,12 @@ _M3_
 20 <I>c lese so(m)wile en(de) singhe
 
 &2vb&
-
+§9§
 114 <B>i(n)ne(n) v[er]hoedt hijt ieghe(n) plaghe(n)
 115 <D>{at} sij(n) di(n)c m{et} ghene(n) vlaghe(n)
 <N>iet en si ongherast
 <N>och ghequest ee(n) bast
+§10§
 <V_2>a(n) ene(n) god spreke(n) wi va(n) ene(n)
 <D>ie(n) wi vad[er] en(de) sone meene(n)
 120 <E>nte(n) heyleghe(n) gheest
@@ -266,6 +284,7 @@ _M3_
 <D>{at} hijs loechent hi moet wene(n)
 <E>n(de) ewelijc sij(n) gheureest
 130 <I>nte(n) helsche(n) tempeest
+§11§
 <W_2>i sette(n) de(n) vad[er] voren
 <O>ngewo(n)ne(n) en(de) ongebore(n)
 <E>n(de) voer alle beghin
@@ -279,6 +298,7 @@ _M3_
 140 <E>n latet tgeloue n{iet} *testoren*
 142 <S>ine conde(n) o(m) ghee(n) ghewin
 <G>hegronde(n) meer no min
+§12§
 <E_2>er acht[er] tijt oft stonde
 145 <D>{at} v[er]staet vut mine(n) mo(n)de
 <E>n w{as} noit an dese drie
@@ -292,6 +312,7 @@ _M3_
 <H>a[r]e beed[er] *mi(n)ne* hi da[er] i(n) vo(n)den
 155 <D>ese ware(n) *...* ye 
 <E>e(n) god gelouet mye
+§13§
 <N_2>ieme(n) es wilt hi yet make(n)
 <H>ine moet i(n) he(m) selue(n) wake(n)
 159 <E>end[er] and *...* triniteit

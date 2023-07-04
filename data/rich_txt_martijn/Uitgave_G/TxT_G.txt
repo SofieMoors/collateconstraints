@@ -1,5 +1,6 @@
 &102r&
 _M1_
+§1§
 0 <D>it es dierste boec va(n)de(n) wape(n) m[er]ten 
 1 <W_2>apen merten hoe saelt gaen: 
 2 <S>al dese werelt lange staen: 
@@ -14,6 +15,7 @@ rumen h[er]en houe:
 <B>eide bespotte(n) en(de) vae(n):
 <A>lse die meese i(n) die cloue: 
 <R>echte ochtene god v[er]scroue
+§2§
 <H_1>oe lange sal gedoegen dit:
 15 <G>od die alle dinc besit: 
 <J>n sine heerscapie
@@ -26,7 +28,8 @@ rumen h[er]en houe:
 <D>ie rechte ma(n) g%ra%eft sond[er] spit: 
 <H>ine heeft te poe(n)te n%iet% gehit: 
 25 <J>n negene baelgie: 
-<M>i es leet d{at} ic waer lie: 
+<M>i es leet d{at} ic waer lie:
+§3§
 <L_1>aet ons m[er]te(n) ouer een: 
 <S>p%re%ke(n) o(n)d[er] o(n)s tween: 
 <J>n dese dyaloge:
@@ -40,6 +43,7 @@ rumen h[er]en houe:
 <M>[aer] arbeit vi(n)t vier i(n) de(n) steen: 
 <D>a[er] bi o(n)tstect d{at} t%ro%ege: 
 <N>u sp%re%ct en(de) ic gedoege ⸫
+§4§
 40 <S_1>p%re%ke(n) iacop lieue co(m)pae(n): 
 <W>a[er] soudic dit hebbe(n) v[er]stae(n): 
 <D>{at} ic da[er] toe dochte:
@@ -56,6 +60,7 @@ rumen h[er]en houe:
 50 <E>n(de) mo{et} mine(n) sin dwae(n): 
 <W>a(n)t hi mi diere cochte: 
 <E>n(de) ict gerne volbrochte
+§5§
 <M_1>erte(n) <D>oe de w[er]elt began: 
 <M>a(n) te v[er]heffene boue(n) ma(n): 
 55 <S>o sciet mij(n) v%ro%uwe v[er] eere: 
@@ -69,6 +74,7 @@ rumen h[er]en houe:
 <T>oe(n)t mi redene da[er] va(n):
 <W>a(n)t ic gerne leere: 
 65 <W>ies scout d{at} h{et} weere:-
+§6§
 <I_1>acob mi du(n)ct ou[er]wa[er]: 
 <S>e(n)t d{at} edelh%eit% hadde va[er]:
 <T>e pine(n)ne o(m) die eere: 
@@ -82,6 +88,7 @@ rumen h[er]en houe:
 <E>n(de) oechsie(n)s al oppe(n)ba[er]: 
 <D>us es v[er]ba(n)ne(n) eere: 
 <E>nde wed[er]stae(n) te(n) keere:
+§7§
 <N_1>v m[er]ct bi d[er] so(n)ne(n) lecht: 
 80 <D>ie ald[er] w[er]elt oege(n) berecht: 
 <B>i si[er]e edelre nat%ur%en: 
@@ -95,6 +102,7 @@ rumen h[er]en houe:
 <E>n(de) hare edelh%eit% v[er]plecht: 
 90 <D>at si la{et} geduere(n): 
 <B>i hare de(n) scalke(n) suere(n):
+§8§
 <S_1>i(n)t dat scalke d%ro%ege(n) ou[er]een: 
 <D>{at} neen was ia en(de) ia was nee(n):
 <E>n(de) hen d{at} wijsh%eit% dochte: 
@@ -111,6 +119,7 @@ rumen h[er]en houe:
 <D>ie te cnauwene gaf dit been:
 <D>e(n) edele(n) gedochte: 
 <W>a(n)t hiere moert ane wrochte:
+§9§
 105 <W_1>at sal segel en(de) was: 
 <O>fte brieue die gewage(n) das:
 <V>a(n) d{at} die h[er]en geue(n): 
@@ -124,6 +133,7 @@ rumen h[er]en houe:
 115 <D>ie scalke tsine(n) rade las: 
 <H>ine moeste i(n) dinde sneue(n): 
 <E>n(de) selke hars la(n)ts v[er]d%re%ue(n):
+§10§
 <M_1>erte(n) du berecht mi wel: 
 <H>ier bi sij(n) die h[er]en fel: 
 120 <E>n(de) wa(n)delba[er] i(n) die tale: 
@@ -137,6 +147,7 @@ rumen h[er]en houe:
 <H>e(m) biddic d{at} hi de(n) duuel: 
 <J>n de(n) io(n)xste(n) male: 
 130 <M>etten scalke(n) betale:
+§11§
 <M_1>erten berecht mi dies: 
 <B>erecht een god die noyt e(n) wies:
 <A>lle c%re%at%ur%en: 
@@ -150,6 +161,7 @@ rumen h[er]en houe:
 <D>ese di(n)c eest wa[er] so gies: 
 <D>[aer] ble(n)d[er] auo(n)t%ur%en:
 <D>ie v[er]ke[er]t telker vre(n):
+§12§
 <I_1>acob sech bestu v[er]dort:
 145 <D>auo(n)%ur%e ens ma[er] een wort: 
 <V>a(n) geveysd[er] sp%ra%ke(n):
@@ -166,6 +178,7 @@ rumen h[er]en houe:
 <J>n gaue o(m) di n%iet% ene(n) to[er]t:
 155 <M>e(n) mach m{et} selke(n) sake(n): 
 156 <G>ode n%iet% genake(n):
+§14§
 170 <D>ie rechste wech t[er] helle(n) wa[er]t: 
 <E>n(de) die alre snelste va[er]t: 
 <D>ats geluc i(n) so(n)de(n): 
@@ -179,6 +192,7 @@ rumen h[er]en houe:
 180 <O>nvorsie(n) wa(n)t dats har art: 
 <P>a(n)de(n) va(n) haren po(n)de(n): 
 <D>oe nieme(n) e(n) ca(n) geg%ro%nde(n):
+§15§
 <M_1>erte(n) du heefs mi beke[er]t: 
 <E>n(de) gewijst en(de) geleert: 
 185 <V>a(n) dies ic n%iet% e(n) wiste: 
@@ -192,6 +206,7 @@ rumen h[er]en houe:
 <E>n(de) gehi(n)d[er]t en(de) geo(n)neert: 
 <S>ine ki(n)d[er] gaen te quiste: 
 195 <G>helijc ene(n) miste:
+§16§
 <M_1>erte(n) e(n) waerstu n%iet% so wreet: 
 <E>en di(n)c dies ic n%iet% e(n) weet: 
 <S>oudic u gerne v%ra%ge(n): 
@@ -205,7 +220,8 @@ rumen h[er]en houe:
 <D>in schij(n)t te poe(n)te n%iet% geleidt: 
 <D>ordeel dorstics gewagen: 
 <A>l e(n) wete(n) wijs wi e(n) clagen:
-<G>od iacob die alle h[er]te(n) ki(n)t:
+§17§
+<G_1>od iacob die alle h[er]te(n) ki(n)t:
 210 <S>e(n)dt de(n) sondere recht torme(n)t: 
 <N>a siere h[er]ten gedochte: 
 <O>m d{at} hi woude als een rent:
@@ -221,6 +237,7 @@ rumen h[er]en houe:
 <D>u(n)ct di dese redene ble(n)t: 
 220 <D>ie ic hier toe b%ro%chte: 
 <N>eense diese wel besochte:
+§18§
 <M_1>erte(n) du segts wel en(de) wa[er]:
 <E>n(de) dine redene es cla[er] 
 <E>n(de) licht te v[er]stane: 
@@ -234,7 +251,8 @@ rumen h[er]en houe:
 <E>n(de) leit hen m{et} w%ra%ke(n) na[er]: 
 <D>ie i(n) hare bane: 
 plege(n) o(m)me te gane:
-235 <S>uete m[er]te(n) me(n) leest d{at}:
+§19§
+235 <S_1>uete m[er]te(n) me(n) leest d{at}:
 <A>l gauic wech gout en(de) scat: 
 <E>n(de) gedoegede g%ro%te coude: 
 <W>aric i(n) hoeftso(n)de(n) mat: 
@@ -247,7 +265,8 @@ plege(n) o(m)me te gane:
 245 <T>er helle(n) si soude(n) tgat: 
 <S>o houde(n) m{et} gewoude:
 <D>att[er] cume ieme(n) i(n) soude:
-<I>acob menech proeft en(de) co[er]t: 
+§20§
+<I_1>acob menech proeft en(de) co[er]t: 
 <D>[er] heilegh[er] sc%re%ft%ur%en wo[er]t: 
 250 <E>n(de) wae(n)tse geg%ro%nde(n): 
 <D>a(n) clappe(n) sijt leeke(n) liede(n) vo[er]t: 
@@ -260,7 +279,8 @@ plege(n) o(m)me te gane:
 <H>ier geb%re%ct een nagel da[er] een bo[er]t: 
 <W>ape(n) ou[er] die ho(n)de:
 260 <N>u en(de) i(n) elke sto(n)de:
-<W>ane(n) si die wo[er]de geg%ro%nde(n) sae(n): 
+§21§
+<W_1>ane(n) si die wo[er]de geg%ro%nde(n) sae(n): 
 <D>a[er] die wortele(n) aue stae(n): 
 <G>hepla(n)t i(n) hemelrike: 
 <S>i iage(n) vele lettel si vae(n): 
@@ -276,7 +296,8 @@ plege(n) o(m)me te gane:
 <B>et[er] es d{at} hi vlie die waen: 
 <D>a(n) hi te ca(m)pe strike:
 <J>ege(n) de(n) kimpe eerlike:
-287 <D>at seget tgeloeue mij(n): 
+§23§
+287 <D_1>at seget tgeloeue mij(n): 
 <G>od mo{et} i(n) he(m) selue(n) sij(n): 
 <H>ine mach el niew[er] wese(n): 
 290 <H>i es gerechtech en(de) fij(n): 
@@ -289,7 +310,8 @@ plege(n) o(m)me te gane:
 <W>ant hets menech o(n)besceeden swij(n): 
 <T>e p%ri%esterscape geresen: 
 <D>ies n%iet% e(n) can genesen:
-300 <M>erte(n) dine a(n)tw[er]dde es go{et}: 
+§24§
+300 <M_1>erte(n) dine a(n)tw[er]dde es go{et}: 
 <J>c be(n) dies sek[er] en(de) vro: 
 <W>elda{et} e(n) w[er]t n%iet% v[er]geten: 
 <L>a{et} he(m) begae(n) diet gelde(n) moet:
@@ -302,7 +324,8 @@ plege(n) o(m)me te gane:
 310 <H>i hoedt o(n)s vore die helsche gloet: 
 <D>{at} wi n%iet% e(n) werden verbete(n):
 <T>en io(n)xste(n) dage no gete(n):
-<M>erte(n) menech {per}lem(en)t:
+§25§
+<M_1>erte(n) menech {per}lem(en)t:
 314 <E>n(de) segge(n) d{at} die m%inne% es ble(n)t
 314 ⸫⸫ <E>s om die minne dat si es blent .
 315: <O>ec eest een woert gemeene: 
@@ -316,6 +339,7 @@ plege(n) o(m)me te gane:
 <D>{at} m%inne% d{at} suete i(n)st%rv%me(n)t: 
 <G>ode va(n) nazareene:
 325 <B>rochte i(n) dese(n) weene:
+§26§
 <I_1>acob dij(n) v%ra%ge(n) es swaer:
 
 &105r&
@@ -332,7 +356,8 @@ plege(n) o(m)me te gane:
 <A>ls bi nat%ur%en elc do{et} sij(n) pa[er]: 
 <M>[aer] doch sij(n) si dinne: 
 <D>ie deser volge(n) m{et} si(n)ne:
-<D>ierste m%inne% es so g%ro%t: 
+§27§
+<D_1>ierste m%inne% es so g%ro%t: 
 340 <D>{at} al d{at} god ie gebo{et}: 
 <E>n volp%re%se(n) n%iet% hare werde: 
 <W>a(n)t si t%ra%c themelsche bro{et}:
@@ -345,6 +370,7 @@ plege(n) o(m)me te gane:
 <D>ie dore m%inne% sij(n) blo{et} ro{et}: 
 350 <S>torte hi[er] op derde: 
 <E>nde sine m%inne% oppe(n)berde:
+§28§
 <W_1>ie(n) d{at} selke m%inne% es co(n)t: 
 <A>ls ca#ritate hi es gewo(n)t: 
 <M>e(n) mach en n%iet% v[er]ble(n)de(n): 
@@ -358,6 +384,7 @@ plege(n) o(m)me te gane:
 <S>maect allene d[er] vrie(n)de mo(n)t: 
 <M>e(n) mach har lijf doe(n) ende(n): 
 <M>[aer] n%iet% die siele sce(n)de(n):
+§29§
 365 <D_1>a(n)d[er] m%inne% es onbehoedt: 
 <W>a(n)t si sta{et} na dertsche go{et}:
 <E>n(de) o(n)d[er] w[er]elt eere: 
@@ -371,6 +398,7 @@ plege(n) o(m)me te gane:
 375 <E>n(de) he(m) vloyede i(n)de(n) mo{et}: 
 <H>e(m) soude noch also seere:
 <D>orste(n) alst dede eere:
+§30§
 <D_1>ese m%inne% heeft o(n)d[er]sceet:
 <V>a(n) he(m) die na de eere steet: 
 380 <E>n(de) die diene(n) o(m)me die scatte: 
@@ -387,6 +415,7 @@ plege(n) o(m)me te gane:
 <D>a[er] die menege m{et} o(m)me geet: 
 <W>a(n)t hare to(n)ge(n) platte: 
 390 <S>melte(n) als die snee clatte ⸫ 
+§33§
 417 <D>ie d[er]de m%inne% eyscht de(n) tijt: 
 <A>lso die nat%ur%e o(n)tbijdt: 
 <D>ie bloye(n) de iare: 
@@ -400,7 +429,8 @@ plege(n) o(m)me te gane:
 <D>ie ald{us} sij(n) lijf v[er]slijt: 
 <M>aect sine si(n)ne clare: 
 <E>n(de) hines geen futselare:
-430 <M>i(n)ne alsoe me(n) besc%re%ue(n) vi(n)t: 
+§34§
+430 <M_1>i(n)ne alsoe me(n) besc%re%ue(n) vi(n)t: 
 <E>s c%ra%cht die twee herte(n) te gadere bi(n)t: 
 <J>n ene(n) reenen wane(n): 
 <D>{at} die mi(n)ne heetet bli(n)t: 
@@ -413,7 +443,8 @@ plege(n) o(m)me te gane:
 440 <M>i(n)nere(n) i(n) t%ro%uwe(n) gehi(n)t: 
 <A>lst do{et} sw[er]t[er] swane(n): 
 <D>{us} la{et} har m%inne% af planen:
-<M>erte(n) du heefs mi wel berecht: 
+§35§
+<M_1>erte(n) du heefs mi wel berecht: 
 <H>{et} segge(n) h[er]en ende cnecht: 
 445 <V>%ro%uwe(n) en(de) ioff%ro%uwe(n): 
 <J>n sa(n)ge en(de) i(n) rime slecht: 
@@ -426,7 +457,8 @@ plege(n) o(m)me te gane:
 <M>ij(n) sin es ane v gehecht:
 <S>o seere ic wane bedouwe(n): 
 455 <A>cht[er] make(n) si de mouwe(n):
-<I>acob du heefs mi altoes gev%ra%echt:
+§36§
+<I_1>acob du heefs mi altoes gev%ra%echt:
 
 &106r&
  
@@ -442,7 +474,8 @@ plege(n) o(m)me te gane:
 <D>{at} mij(n) si(n) so w[er]de gevaecht: 
 <D>ats v moete behagen: 
 <J>c wille dantw[er]de wage(n):
-<I>acob nu berecht mi: 
+§37§
+<I_1>acob nu berecht mi: 
 470 <O>chte tfolc al come(n) si: 
 <V>a(n) de(n) ierste(n) adame: 
 <T>wi es deen edel da(n)d[er] vri: 
@@ -455,7 +488,8 @@ plege(n) o(m)me te gane:
 <M>e(n) seit wille come gi: 
 480 <D>it do{et} d{at} ic v[er]grame: 
 <W>a(n)t h{et} du(n)ct mi o(n)tame:
-<M>erte(n) menege(n) es bedect: 
+§38§
+<M_1>erte(n) menege(n) es bedect: 
 <D>ie di(n)c da[er] u sin op mect: 
 <E>n(de) gi v%ra%echt wel v[er]re: 
 485 <A>l heeft een {per}semier geblect: 
@@ -468,7 +502,8 @@ plege(n) o(m)me te gane:
 <D>at menech di(n)c tsine si(n) te wi(n)ne(n)ne trect: 
 <E>n(de) maect[er] gode mede erre: 
 <E>n(de) die siele i(n) w[er]re:
-495 <S>elc wae(n)t d{at} d{at} volc eygh*...*: 
+§39§
+495 <S_1>elc wae(n)t d{at} d{at} volc eygh*...*: 
 <C>ome(n) es va(n)de(n) quade(n) cayn:
 <D>ie v[er]moerdde abelle: 
 <E>n(de) die(n) god v[er]doemt hiet tsij(n):
@@ -484,7 +519,8 @@ plege(n) o(m)me te gane:
 505 <D>{at} caym d%ro%ech es a(n)schij(n): 
 <A>n menege(n) die ic spelle: 
 <V>a(n) h[er]te(n) sij(n) geselle:
-<S>elc wae(n)t d{at} va(n) de(n) q%ua%de(n) cham: 
+§40§
+<S_1>elc wae(n)t d{at} va(n) de(n) q%ua%de(n) cham: 
 <D>aer noe sij(n) vad[er] op was g%ra%m: 
 510 <O>m d{at} hine n%iet% e(n) decte: 
 <D>{at} deygijn volc va(n) he(m) q%ua%m:
@@ -497,7 +533,8 @@ plege(n) o(m)me te gane:
 <Q>ua(m) eygijn volc alsic v[er]nam: 
 <D>{at} oyt t[er] ere(n) t%re%cte: 
 520 <E>n(de) hem noyt e(n) bevlecte:
-<M>erte(n) dwalsche(n) loy v[er]telt: 
+§41§
+<M_1>erte(n) dwalsche(n) loy v[er]telt: 
 <D>at van ongerechter gewelt:
 <E>ygendoem es come(n): 
 <A>ls .i. p%ri%nce verwa(n) op tfelt: 
@@ -510,7 +547,8 @@ plege(n) o(m)me te gane:
 <M>[aer] auo(n)t%ur%e wast en(de) smelt: 
 <M>enegen te v%ro%men: 
 <E>n(de) to(n)neere(n) hen some(n):
-<G>od gedoeget dor o(n)se mesda{et}: 
+§42§
+<G_1>od gedoeget dor o(n)se mesda{et}: 
 535 <D>{at} deen geslechte te nieute ga{et}: 
 <E>n(de) een ander riset: 
 <W>ie mach wete(n) sine(n) ra{et}: 
@@ -523,7 +561,8 @@ plege(n) o(m)me te gane:
 <D{at} de w{et} gods versmaedt: 
 545 So w[er]det te valle gewiset: 
 <E>n(de) va(n) niemene gepriset:
-<M>i e(n) roect wie(n) droech ochte wan: 
+§43§
+<M_1>i e(n) roect wie(n) droech ochte wan: 
 
 &107r&
 
@@ -539,7 +578,8 @@ plege(n) o(m)me te gane:
 <V>ter reenre h[er]te(n) dan: 
 <M>{et} dogeden besnede(n): 
 <E>n(de) do{et} noch hede(n):
-560 <M>erte(n) oftu cle(m)me(n) wout:
+§44§
+560 <M_1>erte(n) oftu cle(m)me(n) wout:
 <T>er edelheit .iij. poe(n)te hout: 
 <D>ie ic di sal leere(n): 
 <W>es nerechtech e(n) m%inne% n%iet% tgout: 
@@ -552,7 +592,8 @@ plege(n) o(m)me te gane:
 570 <D>ien du scalc du(n)ke(n) sout: 
 <S>o(n)d[er] die(n) welda{et} deere(n): 
 <E>n(de) doecht to(n)dogede(n) keere(n):
-<T>e ware(n) merte(n) ic hebbe verstae(n): 
+§45§
+<T_1>e ware(n) merte(n) ic hebbe verstae(n): 
 <W>o[er]de wt dine(n) mo(n)de gae(n): 
 575 <V>olge rechter waerhede(n): 
 <A>l sp%re%ct i(n) sine(n) boec alaen:
@@ -565,7 +606,8 @@ plege(n) o(m)me te gane:
 <D>ie(n) dorpers h[er]te n%iet% e(n) mach o(n)tfae(n): 
 <D>ie geest dore tsme(n)sche(n) bede:
 585 <G>od dore sine melthede:
-<I>acob ic hore an dine wo[er]t: 
+§46§
+<I_1>acob ic hore an dine wo[er]t: 
 <D>{at} alle me(n)schelike geboert: 
 <V>a(n) adame begonde: 
 <H>oe es die maechscap d{us} te stoert:
@@ -581,7 +623,8 @@ plege(n) o(m)me te gane:
 595 <B>erecht mi alse diet g[er]ne ho[er]t: 
 597 <E>n(de) g[er]ne o(n)d[er]vonde:
 <V>a(n) begin(n)e te(n) g%ro%nde:
-<M>erte(n) houerde en(de) nijt: 
+§47§
+<M_1>erte(n) houerde en(de) nijt: 
 600 <E>n(de) die alre ierste strijt: 
 <B>ego(n)ste i(n) hemelrike:
 <D>oe lucif[er] te siere o(n)tijt: 
@@ -594,7 +637,8 @@ plege(n) o(m)me te gane:
 <S>ij(n) venij(n) en(de) sine(n) nijt: 
 610 <E>n(de) wilt d{at} hi blike: 
 <A>lsoe hi do{et} ia(m)m[er]like:
-<T>wee wo[er]de i(n) die w[er]elt sij(n): 
+§48§
+<T_1>wee wo[er]de i(n) die w[er]elt sij(n): 
 <D>ats algad[er] mine en(de) dijn: 
 <M>ochtm(en) die v[er]driue(n): 
 615 <P>ays en(de) v%re%de bleue fij(n): 
@@ -607,7 +651,8 @@ plege(n) o(m)me te gane:
 <V>a(n) gierecheide(n) lieue m[er]tij(n): 
 <E>n(de) doedt al acht[er] bliue(n): 
 <E>n(de) a(n)d[er] loye besc%ri%ue(n):
-625 <G>od diet al bi ridene(n) do{et}: 
+§49§
+625 <G_1>od diet al bi ridene(n) do{et}: 
 <G>af dit wa(n)del erdsche go{et}: 
 <D>[er] me(n)sch%eit% gemeene: 
 <D>att[er] mede soude sijn gevoet: 
@@ -620,7 +665,8 @@ plege(n) o(m)me te gane:
 635 <E>n(de) stichtme(n) mett[er] spo{et}: 
 <B>orge(n) en(de) hoeghe steene:
 <M>enege(n) te weene:
-<I>acob ic hebbe wel v[er]stae(n): 
+§50§
+<I_1>acob ic hebbe wel v[er]stae(n): 
 <D>{at} dit wa[er] es sond[er] wae(n): 
 640 <D>attu heefs o(n)tbo(n)de(n): 
 <G>oets es genoech lieteme(n)t gae(n): 
@@ -636,7 +682,8 @@ plege(n) o(m)me te gane:
 
 <D>it p%roe%ue(n) en(de) or{con}de(n): 
 650 <D>e meest[er]s va(n)de(n) po(n)de(n):
-<I>acob een di(n)c maect mi co(n)t: 
+§51§
+<I>_1acob een di(n)c maect mi co(n)t: 
 <A>lse die me(n)sche w[er]t gewo(n)t: 
 <V>a(n) gerecht[er] m%inne%: 
 <D>o{et} d[er] oge(n) wandel vo(n)t: 
@@ -649,7 +696,8 @@ plege(n) o(m)me te gane:
 <M>i e(n) besceede dit dijn mo(n)t: 
 <E>n es n%iet% wijsh%eit% di(n)ne: 
 <N>a d{at} ic redene ki(n)ne:
-<M>erte(n) du bes een v%re%mt druut: 
+§52§
+<M_1>erte(n) du bes een v%re%mt druut: 
 665 <D>u sp%re%cts als een v%ri%ese ruut: 
 <D>ie noch noyt e(n) minde:
 <A>ld{us} ha(n)de edel fruut: 
@@ -662,7 +710,8 @@ plege(n) o(m)me te gane:
 <W>illic d{at} hi[er] bi si beduut: 
 675 <P>%ro%eft hoe ic dit o(n)tbi(n)de: 
 <E>n(de) de redene ond[er] vi(n)de:
-<E>en swaer orloge en(de) een swaer strijt: 
+§53§
+<E_1>en swaer orloge en(de) een swaer strijt: 
 <E>n(de) da[er] toe een vreselec nijt: 
 <E>s tussche(n) d[er] h[er]te(n) en(de) de(n) oge(n): 
 680 <T>h[er]te de(n) oge(n) u[er]wijt: 
@@ -675,7 +724,8 @@ plege(n) o(m)me te gane:
 <D>a[er] so menech dief vore lijt: 
 <O>ftic w[er]de dore vloge(n): 
 <D>ies clagic de(n) hoge(n):
-690 <W>apen v%ri%endelec via(n)t: 
+§54§
+690 <W_1>apen v%ri%endelec via(n)t: 
 <D>or di doegic menege(n) pa(n)t: 
 <E>nde wel menech coude: 
 <W>ape(n) d{at} nat%ur%e dit vant:
@@ -691,6 +741,7 @@ plege(n) o(m)me te gane:
 700 <E>n(de) v[er]smorde selke(n) pa(n)t: 
 <O>(n)d[er] do(n)reine moude:
 <O>p d{at} nat%ur%e woude:
+§55§
 <T>herte sweech en(de) doege sp%ra%c: 
 <M>i du(n)ct d{at} u sins geb%ra%c: 
 705 <V>%ro%uwe coningi(n)ne: 
@@ -704,7 +755,8 @@ plege(n) o(m)me te gane:
 <E>n(de) w[er]pt op mi al uwe(n) hac:
 <E>n(de) ic v v%ro%uwe ki(n)ne: 
 715 <A>ls ou[er] mine godinne:
-<M>erket v%ro%uwe en(de) besiet: 
+§56§
+<M_1>erket v%ro%uwe en(de) besiet: 
 <D>{at} gi ou[er] mi gebiet: 
 <A>ls ou[er] al uwe lede: 
 <M>e(n) co(n)ste di gescade(n) n%iet%: 
@@ -717,7 +769,8 @@ plege(n) o(m)me te gane:
 <D>{at} mette(n) wi(n)de volgt en(de) vliet: 
 <D>ij(n) o(n)gestadechhede: 
 <M>aect v de(n) o(n)v%re%de:
-<D>it orloge heeft gegevelt: 
+§57§
+<D_1>it orloge heeft gegevelt: 
 730 <A>ls me(n) hare de(n) twist v[er]telt: 
 <V>%ro%uwe redene bi besceede: 
 <B>eide gad[er] sise scelt: 
@@ -730,7 +783,8 @@ plege(n) o(m)me te gane:
 <D>{at} bi siene th[er]te dwelt: 
 740 <T>ijt si d[er] oge(n) geleede:
 <A>ld{us} deilt si die veede:
-<M>erte(n) hi[er] bi mogedi sie(n): 
+§58§
+<M_1>erte(n) hi[er] bi mogedi sie(n): 
 <W>ed[er] doege(n) th[er]te tie(n): 
 <S>o th[e]te die oege(n): 
 745 <A>lse d{at} h[er]te wille vlie(n): 
@@ -746,7 +800,8 @@ plege(n) o(m)me te gane:
 <D>oege mo{et} lien en(de) gien: 
 <D>a[er]t dore q%ua%m gevloegen:
 <D>mi(n)ne(n) i(n) tfertoege(n):
-755 <I>acob dine redene es claer: 
+§59§
+755 <I_1>acob dine redene es claer: 
 <A>l du(n)ct si de(n) gene(n) swa[er]: 
 <D>ie lettel gev%ro%ede(n): 
 <J>c weet wel ou[er] wa[er]: 
@@ -759,7 +814,8 @@ plege(n) o(m)me te gane:
 765 <G>od sal doeme(n) ope(n)ba[er]: 
 <E>n(de) wise(n) te(n) gloeden:
 <D>ie hen hier ten sonde(n) spoede(n):
-<B>erecht mi iacob oftu wout: 
+§60§
+<B_1>erecht mi iacob oftu wout: 
 <W>elc sek[er]st es i(n) dbehout:
 770 <S>o rijch%eit% so armoede: 
 <E>est clerc leec io(n)c of out: 
@@ -772,7 +828,8 @@ plege(n) o(m)me te gane:
 <S>i scuwe(n) ho(n)ger en(de) cout: 
 <A>lso ic mi bev%ro%ede: 
 780 <S>o dele(n) dese v%ro%ede:
-<M>erte(n) ic mete vol dijn vat:
+§61§
+<M_1>erte(n) ic mete vol dijn vat:
 <O>p de(n) stoel da[er] moyses sat: 
 <S>itte(n) die geleerde:
 <D>{at} si di rade(n) doech al d{at}: 
@@ -785,7 +842,8 @@ plege(n) o(m)me te gane:
 <H>are hande sij(n) altoes so(n)d[er] gat: 
 <N>oyt e(n) was volc boue(n) deerde: 
 <D>{at} me[er] de(n) scat beg[er]de:
-<D>ie me[er]re partie es d{us} gedae(n): 
+§62§
+<D_1>ie me[er]re partie es d{us} gedae(n): 
 795 <D>och soe vi(n)t m[er] sond[er] wae(n): 
 <A>l sij(n) si selsiene: 
 <D>ie den ertsche(n) goede o(n)tgae(n): 
@@ -801,7 +859,8 @@ plege(n) o(m)me te gane:
 <W>a(n)t die hen in de(n) doepsel dwae(n): 
 805 <S>ij(n) sek[er] gode te siene: 
 <E>n(de) hen n%iet% te messciene:
-<D>e gods sone toe(n)t o(n)s d{at}: 
+§63§
+<D_1>e gods sone toe(n)t o(n)s d{at}: 
 <D>ie eue(n) geweldech sit en(de) sat: 
 <D>e(n) vad[er] i(n) de(n) rike: 
 810 <H>i beitte i(n)d[er] arm[er] stat: 
@@ -814,7 +873,8 @@ plege(n) o(m)me te gane:
 <D>ie dore de(n) hemel maect een gat: 
 <E>n(de) n%iet% e(n) beswike: 
 <D>ie he(m) m{et} h[er]te(n) wike:
-820 <W>aenstu m[er]te(n) weeldech vet: 
+§64§
+820 <W_1>aenstu m[er]te(n) weeldech vet: 
 <S>ij(n) gecleedt nu wel nu bet: 
 <V>are(n) i(n) dla(n)ge leue(n): 
 <E>n(de) ih[esu]s naect i(n) dblo{et} genet: 
@@ -827,7 +887,8 @@ plege(n) o(m)me te gane:
 830 <M>ag[er]like d%ri%nc en(de) et: 
 <L>eere weelde begeue(n): 
 <O>chte du moets swarlijk sneue(n):
-<N>iet e(n) seggic d{at} rijch%eit% sent:
+§65§
+<N_1>iet e(n) seggic d{at} rijch%eit% sent:
 <D>e siele i(n) thelsche torme(n)t: 
 835 <O>p d{at} me(n)t nutte te rechte: 
 <M>[aer] sek[er]st eest vlien tserpe(n)t: 
@@ -840,7 +901,8 @@ plege(n) o(m)me te gane:
 <E>n(de) valt i(n) thelsche coue(n)t: 
 <A>ld{us} b%ri%ngt i(n) die hechte: 
 845 <D>e duuel sine knechte:
-<I>acob du sp%re%cs wel en(de) wa[er]: 
+§66§
+<I_1>acob du sp%re%cs wel en(de) wa[er]: 
 <D>ie wech es hoge en(de) swa[er]: 
 <E>n(de) se[re] o(n)get%re%de(n): 
 <M>{et} armoede te cle(m)mene da[er]: 
@@ -856,7 +918,8 @@ plege(n) o(m)me te gane:
 <H>{et} w[er]t ten io(n)cste(n) dage ma[er]: 
 <D>a[er] di god sal besceede(n):
 <M>{et} sine(n) lieue(n) lede(n):
-<E>s die wech nauwe en(de) hoech:
+§67§
+<E_1>s die wech nauwe en(de) hoech:
 860 <D>a[er] god te hemele bi vloech: 
 <D>ats passie en(de) armoede:
 863 <O>(m) de(n) middele(n) wech so poech: 
@@ -869,7 +932,8 @@ plege(n) o(m)me te gane:
 <E>n(de) de(n) milde(n) noyt e(n) bed%ro%ech: 
 870 <S>etti i(n) siere hoeden: 
 <B>uten des duuels roede(n):
-<I>acob die w[er]elt maect gescal: 
+§68§
+<I_1>acob die w[er]elt maect gescal: 
 <E>n(de) tiet den v%ro%uwe(n) ou[er] al: 
 <D>{at} wi i(n) sonde(n) sneue(n): 
 875 <W>a(n)t ieue viel de(n) ierste(n) val: 
@@ -882,7 +946,8 @@ plege(n) o(m)me te gane:
 <D>it v[er]lies sond[er] getal: 
 <D>a[er] wi om(m)e moete(n) beue(n): 
 <A>lse endde(n) sal dit leue(n):
-885 <M>erten die gene e(n) es n%iet% v%ro%et: 
+§69§
+885 <M_1>erten die gene e(n) es n%iet% v%ro%et: 
 <D>ie eue(n) a(n)d[er]en tiet d{at} hi mesdo{et}:
 <K>e(n)t hijt v%ro%me ochte scade: 
 <J>c sie die see ic sie die vlo{et}: 
@@ -895,7 +960,8 @@ plege(n) o(m)me te gane:
 895 <E>n(de) ic mi willens veise v[er]wo{et}: 
 <M>e(n) saelt clage(n) spade:
 <D>{at} ic mi v[er]lade:
-<S>elc tient de(n) v%ro%uwe(n) opsie(n):
+§70§
+<S_1>elc tient de(n) v%ro%uwe(n) opsie(n):
 <D>{at} si hen th[er]te o(n)tien: 
 900 <A>lse die steen de naelde:
 <S>i du(n)ke(n) mi mesdoe(n) i(n) die(n): 
@@ -911,7 +977,8 @@ plege(n) o(m)me te gane:
 <S>o e(n) mochte he(n) n%iet% messchien: 
 <E>n(de) hi de(n) sin v[er]staelde: 
 910 <E>er he(m) sij(n) h[er]te o(n)tdaelde:
-<V>rouwe(n) sij(n) bi nat%ur%en go{et}: 
+§71§
+<V_1>rouwe(n) sij(n) bi nat%ur%en go{et}: 
 <S>i slachte(n) de(n) wine en(de) d[er] glo{et}:
 <D>ie de w[er]elt v[er]blide(n): 
 <D>ie des wij(n)s te vele i(n) do{et}: 
@@ -924,7 +991,8 @@ plege(n) o(m)me te gane:
 <N>u w[er]de(n) si va(n) m%innen% u[er]wo{et}: 
 <D>iere do(m)melike toe tide(n): 
 <D>it do{et} v%ro%uwe(n) benide(n):
-950 <W>at make(n) qua{et} sprek[er]s gescal: 
+§74§
+950 <W_1>at make(n) qua{et} sprek[er]s gescal: 
 951 <V>%ro%uwe(n) dade(n)t wel na al: 
 <D>{at} dat wo(n)d[er] gesciede: 
 <A>l d{at} es en(de) wesen sal: 
@@ -937,7 +1005,8 @@ plege(n) o(m)me te gane:
 960 <D>ie siele(n) i(n) thelsche dal:
 <D>ies lucifer begiede: 
 962 <W>a(n)t h{et} was sine meyssiniede:
-924 <D>at me(n) lettel t%ro%uwe(n) vint:
+§72§
+924 <D_1>at me(n) lettel t%ro%uwe(n) vint:
 925 <A>ne v%ro%uwe(n) e(n) clagic twi(n)t: 
 <B>i eere maniere: 
 <W>a(n)t so wat me(n) vele vi(n)t: 
@@ -952,8 +1021,8 @@ plege(n) o(m)me te gane:
 <S>e(n)den te(n) helsche viere:
 
 &111r&
-
-<W>at mochte eua d{at} ada(m): 
+§73§
+<W_1>at mochte eua d{at} ada(m): 
 <D>or hare(n) wille den appel na(m): 
 <D>{at} wi noch best[er]ue(n): 
 940 <J>c wae(n)re ons vordeel af qua(m): 
@@ -966,7 +1035,8 @@ plege(n) o(m)me te gane:
 <D>a(n) d{at} een maecht gode maecte so ta(m): 
 <D>{at} hi he(m) een w[er]ue(n): 
 949 <D>or ons liet bed[er]ue(n): 
-963 <I>acob <D>u best de(n) v%ro%uwe(n) hout: 
+§75§
+963 <I_1>acob <D>u best de(n) v%ro%uwe(n) hout: 
 <D>u geefs de(n) ma(n)ne(n) al die scout: 
 965 <J>c wanict best gedoge: 
 <J>c v[er]geue al o(m) gedout: 
@@ -983,7 +1053,8 @@ plege(n) o(m)me te gane:
 ____
 
 _M2_
-1 <S>laepstu m[er]tijn slaep dij(n) sin: 
+§1§
+1 <S_2>laepstu m[er]tijn slaep dij(n) sin: 
 <S>p%re%c heefstu geen sp%re%ke(n) i(n): 
 <D>u du(n)cs mi v[er]dore(n):
 <D>une achts a(n)d[er]s me[er] no min: 
@@ -998,8 +1069,8 @@ _M2_
 <H>eefstu dichte(n) v[er]swore(n):
 
 &111v&
-
-<I>acob du woe(n)s i(n) de(n) dam: 
+§2§
+<I_1>acob du woe(n)s i(n) de(n) dam: 
 15 <E>n(de) ic tuutrecht des benic gram: 
 <D>{at} wi d{us} sij(n) v[er]sceede(n): 
 <W>etti watt[er] mi meest af mesq%ua%m: 
@@ -1012,7 +1083,8 @@ _M2_
 <B>estu wilt so w[er]<d>e ta(m): 
 25 <L>eere dine wo[er]de cleede(n): 
 <S>oetelec en(de) beleede(n):
-<M>ertij(n) vrie(n)t hebbic messeit: 
+§3§
+<M_1>ertij(n) vrie(n)t hebbic messeit: 
 <J>c beens te bet[er]ne bereit: 
 <J>c wils al op di bliuen: 
 30 <M>[aer] v[er]staet mi en(de) o(n)tbeit: 
@@ -1025,7 +1097,8 @@ _M2_
 <S>tede bosche borge en(de) preit: 
 <S>oudeme(n) v[er]d%ri%ue(n): 
 <C>onsteme(n) m%inne% o(n)tliue(n):
-40 <I>acob dit was oyt u doe(n): 
+§4§
+40 <I_1>acob dit was oyt u doe(n): 
 <V>a(n) v%ro%uwe(n) te makene dij(n) sermoe(n): 
 <O>ft begi(n)ne(n) oft i(n)de(n): 
 <W>arstu een dorpere du sp%ra%ecs va(n) coen: 
@@ -1038,7 +1111,8 @@ _M2_
 50 <A>lhaddic ane .ij. ysere(n) scoen: 
 <J>c e(n) mochte di n%iet% o(n)twi(n)de(n): 
 <N>u v%ra%echt ic saelt o(n)tbi(n)de(n):
-<M>erten du sels v[er]stae(n): 
+§5§
+<M_1>erten du sels v[er]stae(n): 
 <E>ne v%ro%uwe wel gedaen: 
 55 <H>eeft mi bevae(n) m{et} m%innen%: 
 <A>l d{at} gode es o(n)d[er]daen: 
@@ -1054,7 +1128,8 @@ _M2_
 <D>{at} si mi n%iet% e(n) soude o(n)tfae(n): 
 <J>n ha[er] h[er]te bi(n)ne(n): 
 65 <H>i[er] toe e(n) es geen v[er]wi(n)ne(n):
-<E>en a(n)d[er] v%ro%uwe es die mi mi(n)t: 
+§6§
+<E_1>en a(n)d[er] v%ro%uwe es die mi mi(n)t: 
 <B>oue(n) al d{at} si leue(n)de ki(n)t: 
 <M>{et} gestad[er] t%ro%uwe(n): 
 <D>ie i(n) mine(n) prijs e(n) mach twi(n)t: 
@@ -1067,7 +1142,8 @@ _M2_
 <H>{et} du(n)ct mi algad[er] wi(n)t:
 <S>i liet hare eer i(n) stucke(n) houwe(n): 
 <E>er siere iet o(m) q%ua%me i(n) rouwe(n):
-<M>ertij(n) nu hore en(de) v[er]stant: 
+§7§
+<M_1>ertij(n) nu hore en(de) v[er]stant: 
 80 <D>ese .ij. sij(n) i(n) een bewa(n)t: 
 <D>{at} coste(n) mo{et} d[er] eere dleue(n):
 <N>u hebbic die macht i(n) mij(n) ha(n)t: 
@@ -1080,7 +1156,8 @@ _M2_
 <M>[aer] sech mi ane welk[er]e ca(n)t: 
 90 <E>s dij(n) h[er]te bleue(n):
 <E>n(de) de welke du liets sneue(n):
-<I>acob di(n)s geens v%ra%gens wart: 
+§8§
+<I_1>acob di(n)s geens v%ra%gens wart: 
 <D>ie de wa[er]h%eit% n%iet% e(n) spart: 
 <H>eeft dit sae(n) o(n)tbo(n)de(n): 
 95 <H>{et} es e(m)m[er] d[er] h[er]te(n) art: 
@@ -1093,7 +1170,8 @@ _M2_
 <S>oudic ha[er] late(n) smake(n) tswart: 
 <D>{at} ware o(n)d[er]vo(n)de(n): 
 <M>e[er]re mo[er]t da(n) so(n)de(n):
-105 <T>onge liecht m[aer] th[er]te n%iet%: 
+§9§
+105 <T_1>onge liecht m[aer] th[er]te n%iet%: 
 <W>a(n)t so wat th[er]te gebiedt: 
 <D>{at} wilt me(n) e(m)m[er] volb%ri%nge(n): 
 <W>at es narsiusse gesciet: 
@@ -1106,7 +1184,8 @@ _M2_
 115 <H>i doelde also hi selue siet:
 <H>ine co(n)ste sij(n) h[er]te bedwi(n)gen: 
 <H>ine sterf bi dese(n) di(n)ge(n):
-<M>edea toecht o(n)s selue d{at}: 
+§10§
+<M_1>edea toecht o(n)s selue d{at}: 
 <D>ie roefde en(de) stal hars vad[er] scat: 
 120 <E>n(de) v[er]sloech hare(n) b%ro%ed[er]: 
 <O>m iasoene dies hare cume bat: 
@@ -1119,7 +1198,8 @@ _M2_
 <D>aer m%inne% i(n) hadde gemaect een gat: 
 <W>ille hilt de(n) roed[er]
 130 <A>l was de redene v%ro%ed[er]:
-<E>xempel vi(n)dic sond[er] getal: 
+§11§
+<E_1>xempel vi(n)dic sond[er] getal: 
 <D>ie m{et} mi soude(n) lien al: 
 <D>{at} ic hare dleue(n) gaue: 
 <D>ie mi th[er]te roefde en(de) stal: 
@@ -1132,7 +1212,8 @@ _M2_
 <E>n sal di n%iet% w[er]t sij(n) enen bal: 
 <A>l geuult m{et} caue: 
 <A>lso hulpe mi se(n)te baue:
-<M>ertij(n) du bes een stout seriant:
+§12§
+<M_1>ertij(n) du bes een stout seriant:
 145 <D>ats een vast cnoep en(de) een vast ba(n)t: 
 <D>ie nieme(n) e(n) can o(n)tbi(n)de(n): 
 <D>ie(n) cnoep die(n) alexa(n)d[er] va(n)t:
@@ -1145,7 +1226,8 @@ _M2_
 <J>ege(n) casselb[er]ch i(n) vlaend[er]la(n)t: 
 155 <S>al diede(n) nu dij(n) vi(n)de(n): 
 <A>l wae(n)di nu v[er]bli(n)de(n):
-<G>hi wilt sterke(n) uwe wo[er]t: 
+§13§
+<G_1>hi wilt sterke(n) uwe wo[er]t: 
 <D>ie gi m{et} fauele(n) bringet vort: 
 <E>n(de) m{et} potrie(n): 
 160 <O>f te medea dede moert: 
@@ -1158,7 +1240,8 @@ _M2_
 <H>ine mach n%iet% sij(n) v[er]do[er]t:
 <D>ies sele(n) m{et} mi lien: 
 <D>ie meest[er]s va(n) clercgien:
-170 <L>es doude en(de) dnuwe testame(n)t: 
+§14§
+170 <L_1>es doude en(de) dnuwe testame(n)t: 
 <E>n(de) besich al o(m)t%re%nt: 
 <A>lle die heilege liede: 
 <W>ie was va(n) m%innen% nie gesce(n)t: 
@@ -1171,7 +1254,8 @@ _M2_
 180 <A>lselc als m%inne% d[er] ioecht toe se(n)t: 
 <W>ie(n) waest dier af messciede:
 <G>helijc de(n) heidene(n) diede:
-<A>braham was vrou saren man: 
+§15§
+<A_1>braham was vrou saren man: 
 <S>ine amie verheffe(n) began: 
 185 <H>are boue(n) harre v%ro%uwe(n): 
 <D>aer e(n) was geen houde(n) an:  
@@ -1184,7 +1268,8 @@ _M2_
 193 <D>ie metter mesda{et} make(n) gespan: 
 195 <D>aer m%inne% es vol rouwe(n): 
 194 <A>lselke mi(n)nere(n) willic blouwe(n):
-196 <O>chte ic dan sette mine(n) sin: 
+§16§
+196 <O_1>chte ic dan sette mine(n) sin: 
 <D>a[er] ic e(n) mach no me[er] no mi(n): 
 <A>ne wi(n)ne(n) el dan scade: 
 <E>n(de) mi ene andere so heeft i(n): 
@@ -1200,7 +1285,8 @@ _M2_
 
 <V>a(n) m%inne% elre d%ra%get te sade:
 <E>n(de) dier ick[er] n%iet% o(m)me e(n) bade:
-<I>acob ocht gi n%iet% en acht: 
+§17§
+<I_1>acob ocht gi n%iet% en acht: 
 210 <E>xe(m)ple die ic vort hebbe b%ra%cht: 
 <S>o willic t[er] bybele(n) kere(n): 
 <D>ie m%inne% hadde op adame macht:
@@ -1213,7 +1299,8 @@ _M2_
 <W>iere om(m)e wee(n)t oft lacht: 
 220 <V>%ro%uwe ieue moeste he(m) lere(n):
 <S>ij(n)s wille(n) o(n)tbere(n):
-<W>at machte hadde sampsoen: 
+§18§
+<W_1>at machte hadde sampsoen: 
 <O>chte dauid ocht salomoen: 
 <J>ege(n) die c%ra%cht va(n) m%inne%:
 225 <D>a[er] e(n) es iege(n) recht noch doe(n):
@@ -1226,7 +1313,8 @@ _M2_
 <E>n(de) volge(n) hare die he(m) es gevloen: 
 <O>fte he(m) selue(n) o(n)tsi(n)ne(n): 
 <H>ier toe e(n) es geen u[er]wi(n)nen:
-235 <I>acob sech e(n) v[er]stadi n%iet%: 
+§19§
+235 <I_1>acob sech e(n) v[er]stadi n%iet%: 
 <W>at dit wo[er]t amor bediet: 
 <D>{at} i(n) dietsche luudt m%inne%: 
 <E>lc letterkij(n) diet wel besiet: 
@@ -1238,7 +1326,8 @@ porri(n)ge die de(n) sin ontiet:
 <D>ie de redene tontmoetene pliet: 
 245 <D>us o(n)tba(n)t mi en(de) besciet: 
 <M>ij(n) meest[er] alsoe ict v[er]si(n)ne:
-<O>chte mij(n) v[er]stae(n) es di(n)ne:
+§20§
+<O_1>chte mij(n) v[er]stae(n) es di(n)ne:
 <O>chte dit m%inne% es alst es: 
 <S>o sijt des sek[er] en(de) gewes:
 
@@ -1255,6 +1344,7 @@ porri(n)ge die de(n) sin ontiet:
 <D>es es mij(n) h[er]te wel geres: 
 <D>{at} ic mi eer v[er]smo[er]de:
 260 <E>er icse st[er]ue(n) horde:
+§21§
 <M_1>erte(n) ruut g%ra%marien:
 <D>u does dies vele lieden plien: 
 <D>iet dware n%iet% e(n) wille(n) lyen: 
@@ -1268,6 +1358,7 @@ porri(n)ge die de(n) sin ontiet:
 <O>chte du best een payen: 
 <O>fte i(n) heresien: 
 <O>chte sophiste va(n) des duuels partien:
+§22§
 <N_1>u hor na mi en(de) v[er]sta(n)t: 
 275 <W>ie waest die ierst m%inne% va(n)t: 
 <D>a(n) god die selue es m%inne%: 
@@ -1281,7 +1372,8 @@ porri(n)ge die de(n) sin ontiet:
 <D>{at} do{et} d[er] hou[er]de(n) pant: 
 285 <D>e helsche coni(n)gi(n)ne:
 <A>ltoes blijft hiere i(n)ne:
-<D>at dit waer es p%ro%eft wel d{at}: 
+§23§
+<D_1>at dit waer es p%ro%eft wel d{at}: 
 <W>are enech di(n)c va(n) gode gehat: 
 <E>n mochte n%iet% geduere(n): 
 290 <D>o(n)getelde gods scat: 
@@ -1294,6 +1386,7 @@ porri(n)ge die de(n) sin ontiet:
 <E>n(de) ne(m)m[er]me[er] e(n) wert hijs sat: 
 <D>{us} e(n) mach siere nat%ur%en: 
 <N>egeene genade gebuere(n):
+§24§
 300 <O_1>cht me(n) dit bi redene(n) weet: 
 <D>at god niemene e(n) heeft leet: 
 <W>ie(n) geeft hi dla(n)ge leue(n): 
@@ -1310,6 +1403,7 @@ porri(n)ge die de(n) sin ontiet:
 310 <D>ies gelike willic gereet: 
 <D>e(n) loen hare wed[er] geue(n):
 <D>ie dore mi lust leue(n):
+§25§
 <G_1>od geuet al cleine en(de) g%ro%t: 
 <D>ies de me(n)sche heuet no{et}: 
 315 <D>it p%ro%eft men m{et} sinne: 
@@ -1323,6 +1417,7 @@ porri(n)ge die de(n) sin ontiet:
 <S>oudt si smake(n) dan die doot: 
 <D>ie ic mi so hout ki(n)ne:
 325 <S>o ware mij(n) v%ro%ede(n) di(n)ne:
+§26§
 <E_1>n t%ro%uwe(n) iacob dit es wa[er]: 
 <M>[aer] mi was te vi(n)dene swa[er]: 
 <D>attu mi heefs o(n)tbo(n)de(n): 
@@ -1339,6 +1434,7 @@ porri(n)ge die de(n) sin ontiet:
 ____
 
 _M3_
+§1§
 1 <I_4><C> ma(n)ne mette(n) wiue(n):
 <D>ie dit gedichte lese(n) en(de) sc%ri%ue(n): 
 <O>p de(n) hoechste(n) ban: 
@@ -1355,6 +1451,7 @@ _M3_
 <H>ets da[er] ic mi lieu[er] o(m) liete o(n)tliue(n): 
 <E>er ick[er] sciede va(n): 
 <N>u hore die leere(n) can: 
+§2§
 <I_1>acob wi hebbe(n) ond[er]linghe:
 15 <G>heha(n)delt messelike di(n)ge: 
 <N>u a(n)tw[er]dt mi op een: 
@@ -1368,6 +1465,7 @@ _M3_
 <S>ubtijlware th[er]te diet beui(n)ge: 
 25 <W>a(n)t hoger di(n)c en es negeen: 
 <N>u a(n)tw[er]dt mi tussche(n) o(n)s tween:
+§3§
 <M_1>erte(n) du v%ra%ges te hoge: 
 <A>l vlogic boue(n) d[er] ingele vloge: 
 <B>oue(n) cherub en(de) seraph:
@@ -1381,6 +1479,7 @@ _M3_
 <M>[er] v[er]scerp dij(n)s sins oege: 
 <E>n(de) hore wat mi sc%re%fture gaf: 
 <H>oud{et} i(n) dij(n)re h[er]ten graf:
+§4§
 40 <M_1>oyses sprect in sine(n) boeke(n): 
 <B>eeste(n) die de(n) berch besoeke(n): 
 moete(n) sij(n) gesteent: 
@@ -1396,7 +1495,7 @@ moete(n) sij(n) gesteent:
 <D>attu mi heefs v[er]beent:
 
 &114v&
-
+§5§
 <I_1>acob dune souts di n%iet% v[er]g%ra%me(n): 
 <J>c souts mi i(n) mij(n) h[er]te scame(n): 
 55 <H>addict oyt gedocht: 
@@ -1410,6 +1509,7 @@ moete(n) sij(n) gesteent:
 <G>hewo(n)t mett[er] sonde(n) brame(n): 
 <V>a(n) dattu v[er]mocht: 
 65 <S>o es mij(n) wille volb%ro%cht:
+§6§
 <M_1>erte(n) nu m[er]c i(n) dine(n) sinne: 
 <G>od es een wese(n) vor alle begi(n)ne: 
 <D>edelste boue(n) al: 
@@ -1423,6 +1523,7 @@ moete(n) sij(n) gesteent:
 <B>oue(n) alreha(n)de gewi(n)ne: 
 <E>n(de) boue(n) alle geval:
 <D>a[er] boue(n) ochte hier i(n)t dal:
+§7§
 <D_1>e(n) hemel en(de) de(n) t%ro%en m[er]ke: 
 80 <G>od es boue(n) alle sine gewerke:
 <E>n(de) ond[er] alle sine di(n)c: 
@@ -1436,6 +1537,7 @@ moete(n) sij(n) gesteent:
 <B>ute(n) bi(n)ne(n) i(n) wat[er] i(n) sw[er]ke: 
 90 <H>ier i(n) dij(n) h[er]te brinc: 
 <S>o(n)d[er] enege(n) loesen wi(n)c:
+§8§
 <B_1>ouen al es god alse h[er]e: 
 <D>ie besitt[er]e es e(m)m[er]me[er]re: 
 <A>lles dies me(n) weet: 
@@ -1451,8 +1553,8 @@ moete(n) sij(n) gesteent:
 <W>ient lief si ochte leet:
 
 &115r& 
-
-105 <B>oue(n) al es god o(n)ged%ra%ge(n): 
+§9§
+105 <B_1>oue(n) al es god o(n)ged%ra%ge(n): 
 <N>egeen di(n)c e(n) mach he(m) beclage(n): 
 <D>{at} hise iet v[er]last: 
 <O>nd[er] al sond[er] last van wage(n): 
@@ -1465,7 +1567,8 @@ moete(n) sij(n) gesteent:
 115 <D>{at} sine di(n)c m{et} geene(n) vlage(n): 
 <E>n si ongerast: 
 <N>och gequetst ene(n) bast:
-<U>a(n) ene(n) god sp%re%ke wi va(n) enen:
+§10§
+<U_1>a(n) ene(n) god sp%re%ke wi va(n) enen:
 <D>ie(n) wi vad[er] en(de) sone meene(n): 
 120 <E>n(de) de(n) heilege(n) geest:
 <E>n(de) wet wel d{at} wiere negeene(n): 
@@ -1478,7 +1581,8 @@ moete(n) sij(n) gesteent:
 <D>{at} hi des loechent hi mo{et} weene(n):
 <E>n(de) eweleke sij(n) gevreest: 
 130 <J>n de(n) helsche(n) te(m)peest:
-<W>i sette(n) de(n) vad[er] vore(n): 
+§11§
+<W_1>i sette(n) de(n) vad[er] vore(n): 
 <O>ngewo(n)ne(n) en(de) o(n)gebore(n): 
 <E>n(de) vore alle begi(n): 
 <D>a[er] na de(n) sone wt v[er]core(n): 
@@ -1491,7 +1595,8 @@ moete(n) sij(n) gesteent:
 <W>a(n)t al hads die w[er]elt geswore(n): 
 <S>ine co(n)ste(n) o(m) geen gewi(n): 
 <G>hegronden me[er] no mi(n):
-<E>er ochte acht[er] tijt ofte sto(n)de:
+§12§
+<E_1>er ochte acht[er] tijt ofte sto(n)de:
 145 <D>{at} v[er]sta{et} wt mine(n) monde: 
 <E>n was noyt a(n) dese drie: 
 <D>e(n) vad[er] sette wi als te(n) gro(n)de: 
@@ -1507,7 +1612,8 @@ moete(n) sij(n) gesteent:
 <H>arre beid[er] m%inne% hi da[er] in vo(n)de: 
 155 <D>ese drie ware(n) oyt en(de) ye: 
 <E>en god des geloeft mie:
-<N>ieme(n) e(n) es wilt hi iet make(n): 
+§13§
+<N_1>ieme(n) e(n) es wilt hi iet make(n): 
 <H>ine mo{et} i(n) he(n) selue(n) smake(n): 
 <E>enra(n)de triniteit:
 160 <W>ant hi mo{et} moge(n) d[er] di(n)c genake(n): 
@@ -1520,7 +1626,8 @@ moete(n) sij(n) gesteent:
 <H>ine derf beide(n) no hake(n): 
 <H>ine vi(n)t i(n) ene godh%eit%: 
 <D>rie {per}sone gereit:
-170 <D>ese god daer wi af leeren: 
+§14§
+170 <D_1>ese god daer wi af leeren: 
 <D>oet th%ro%en st[er]re(n) en(de) so(n)ne kere(n): 
 <E>n(de) al d{at} ruere(n)de si: 
 <N>ochta(n) sij(n) ruste(n) es so vol eren: 
@@ -1533,7 +1640,8 @@ moete(n) sij(n) gesteent:
 180 <S>ine rijch%eit% e(n) can niemen v[er]tere(n): 
 <A>lle stede(n) v[er]uult hi: 
 <D>us leeret tgeloeue mi:
-<G>ode e(n) beslut geene stede: 
+§15§
+<G_1>ode e(n) beslut geene stede: 
 <M>a[er] alle stede beslut hi mede: 
 185 <J>n sij(n)re godlecheit:
 <D>ie iare keert sij(n) moge(n)thede: 
@@ -1549,7 +1657,8 @@ moete(n) sij(n) gesteent:
 &116r&
 
 195 <D>it es al wa[er] geseit:
-<H>ede(n) gist[er]en es onse leue(n): 
+§16§
+<H_1>ede(n) gist[er]en es onse leue(n): 
 <E>n(de) daer es endde ane gedreuen:
 <H>{et} si cort ochte lanc: 
 <M>aer als me(n) van gode ve(n)t bescreue(n): 
@@ -1562,7 +1671,8 @@ moete(n) sij(n) gesteent:
 <D>{at} es en(de) was dus eest besc%re%ue(n): 
 <E>n(de) nv es gemanc: 
 <J>n dese w[er]elt stranc:
-<M>erte(n) nv e(n) clach no e(n) c%ro%ene: 
+§17§
+<M_1>erte(n) nv e(n) clach no e(n) c%ro%ene: 
 210 <D>it es een god i(n) drie {per}soene: 
 <D>aer ic af spreke die: 
 <E>s eue(n) geweldech en(de) eue(n) scone: 
@@ -1575,7 +1685,8 @@ moete(n) sij(n) gesteent:
 <D>{at} wi die n%iet% e(n) doge(n) ene boene: 
 220 <G>heloefde(n) d{at} elc sie: 
 <N>u a(n)tw[er]dt mi en(de) gie:
-<I>acob ic lie te(n) begi(n)ne: 
+§18§
+<I_1>acob ic lie te(n) begi(n)ne: 
 <D>{at} ic subtijlder di(n)c va(n) si(n)ne: 
 <N>iet e(n) hebbe gehort:
 225 <D>a(n) du mi maecs hier i(n) inne: 
@@ -1588,7 +1699,8 @@ moete(n) sij(n) gesteent:
 <E>n(de) da[er] tgeloeue es coni(n)gi(n)ne: 
 <N>u a(n)tw[er]t mi bat voert: 
 <O>p d{at} ics n%iet% e(n) hebbe v[er]bo[er]t:
-235 <A>ne de(n) vad[er] va(n) hemelrike: 
+§19§
+235 <A_1>ne de(n) vad[er] va(n) hemelrike: 
 <E>n(de) ane de(n) sone dies gelike: 
 <E>n(de) aen den heilege(n) geest: 
 <E>s mij(n) geloeue also rike: 
@@ -1604,7 +1716,8 @@ moete(n) sij(n) gesteent:
 245 <D>{at} di de gene n%iet% e(n) beswike:
 <E>n(de) hi di doe volleest: 
 247 <D>ie mi(n)st w[er]t en(de) was meest:
-261 <M>erte(n) die val va(n) lucifere: 
+§21§
+261 <M_1>erte(n) die val va(n) lucifere: 
 <D>er hou[er]de(n) en(de) des nijts h[er]e: 
 263 <D>ie was also g%ro%t: 
 <D>{at} vele ingele ontgouden sere: 
@@ -1617,7 +1730,8 @@ moete(n) sij(n) gesteent:
 <D>[er] ingele stoel en(de) vort mere: 
 <N>utte themelsche bro{et}: 
 <S>o(n)d[er] weder stoet:
-248 <E>n(de) o(m) d{at} ic d{at} moete gebie(n): 
+§20§
+248 <E_1>n(de) o(m) d{at} ic d{at} moete gebie(n): 
 <S>oe biddic d[er] maget marie(n): 
 250 <D>iene maget o(n)tfinc:
 <E>n(de) maget bleef dies wi alle lie(n): 
@@ -1630,7 +1744,8 @@ moete(n) sij(n) gesteent:
 <E>n(de) dune moets mi oec n%iet% tien: 
 <D>{at} ic di te na gi(n)c: 
 260 <M>[aer] mine(n) wille volb%ri%nc:
-274 <D>it heeft die duuel v[er]nome(n):
+§22§
+274 <D_1>it heeft die duuel v[er]nome(n):
 275 <E>n(de) es tot[er] me(n)sch%eit% come(n): 
 <S>p%re%ke(n)de i(n) tserpe(n)t: 
 <E>n(de) heeft to(n)ser o(n)v%ro%me(n): 
@@ -1643,7 +1758,8 @@ moete(n) sij(n) gesteent:
 <O>(m) dat ons die hemelsche bloeme(n): 
 285 <N>iet e(n) soude(n) w[er]de(n) bekent: 
 <D>a[er] hi af was o(n)twent:
-<D>ie gods sone sach de(n) ma(n) v[er]rade(n): 
+§23§
+<D_1>ie gods sone sach de(n) ma(n) v[er]rade(n): 
 <E>n(de) de(n) via(n)t vol ou[er]daden:
 
 &117r&
@@ -1659,7 +1775,8 @@ moete(n) sij(n) gesteent:
 <D>ie alle di(n)c mach v[er]sade(n): 
 <E>n(de) houde(n) i(n) hare(n) sco{et}: 
 <D>ats ha[er] n%iet% e(n) v[er]d%ro%et:
-300 <A>lgheheel en(de) altemale: 
+§24§
+300 <A_1>lgheheel en(de) altemale: 
 <R>uste i(n) d[er] maechde(n) sale: 
 <G>ods sone en(de) gods ki(n)t: 
 <A>lgheheel oec also wale: 
@@ -1672,7 +1789,8 @@ moete(n) sij(n) gesteent:
 310 <M>a[er] me(n)sch%eit% o(n)tfi(n)c hier tale: 
 <G>od diet al mint:
 <J>n hem d{us} eest beki(n)t:
-<E>ue(n) geweldech en(de) h[er]e: 
+§25§
+<E_1>ue(n) geweldech en(de) h[er]e: 
 <W>as hi en(de) blijft e(m)m[er]mere: 
 315 <D>ie vader i(n) d[er] godh%eit%: 
 <M>[aer] eest d{at} me(n) t[er] me(n)sch%eit% kere: 
@@ -1685,7 +1803,8 @@ moete(n) sij(n) gesteent:
 <G>heesele nagele en(de) d{at} s{per}e:
 <D>ie doot en(de) a(n)d[er] leit: 
 325 <T>cruce en(de) der iode(n) pleit:
-<D>ie me(n)sch%eit% liet hare besnide(n): 
+§26§
+<D_1>ie me(n)sch%eit% liet hare besnide(n): 
 <D>oepe(n) p%ro%eue(n) i(n) die(n) tide(n): 
 <V>a(n) de(n) oude(n) via(n)t: 
 <S>i liet hare vaen en(de) benide(n):
@@ -1698,7 +1817,8 @@ moete(n) sij(n) gesteent:
 <D>ie heilege(n) diene sage(n) stride(n): 
 <J>ege(n) des duuels b%ra%nt:
 <D>aer hise vte gep%ra%nt:
-<D>e godh%eit% wecte va(n) doode te liue: 
+§27§
+<D_1>e godh%eit% wecte va(n) doode te liue: 
 340 <T>vleesch d{at} hi va(n)de(n) reine(n) wiue: 
 
 &117v&
@@ -1714,7 +1834,8 @@ moete(n) sij(n) gesteent:
 <D>ie iegen dit geloeue kiue: 
 350 <H>e(m) sal themelsche lam: 
 <T>en io(n)xste(n) w[er]de(n) gram:
-<I>nde(n) hemel es hi gevaren: 
+§28§
+<I_1>nde(n) hemel es hi gevaren: 
 <D>aert de sine a(n)sagen te waren: 
 <T>e des vad[er] rechter ha(n)t: 
 355 <D>aer hi altoes sond[er] spare(n): 
@@ -1727,7 +1848,8 @@ moete(n) sij(n) gesteent:
 <D>ie bi adame v[er]do(n)k[er]t ware(n): 
 <L>ocht wat[er] en(de) lant:
 <S>al purgere(n) een brant:
-365 <A>l waest d{at} hi d{us} op rande: 
+§29§
+365 <A_1>l waest d{at} hi d{us} op rande: 
 <H>i liet de(n) sine(n) hier te pande:
 <S>ij(n) vleesch en(de) sij(n) heilech blo{et}: 
 <T>e co(n)sac%re%er ne i(n) p%ri%esters hande: 
@@ -1740,7 +1862,8 @@ moete(n) sij(n) gesteent:
 375 <S>make(n) moete(n) sond[er] scande: 
 <D>ij(n) vleesch dij(n) heilech blo{et}: 
 <D>{at} wt dij(n)re side(n) wo{et}:
-<V>t dese(n) sone wt dese(n) wo(n)den: 
+§30§
+<V_1>t dese(n) sone wt dese(n) wo(n)den: 
 <W>ies godh%eit% niem(en) ca(n) gegro(n)de(n): 
 380 <N>och wies me(n)schelech%eit%: 
 <S>oe vloyen en(de) bego(n)de(n): 
@@ -1756,6 +1879,7 @@ moete(n) sij(n) gesteent:
 <A>fla{et} g%ro%t va(n) hare(n) so(n)de(n): 
 <E>s hen altoes gereit:
 390 <O>p d{at} me(n) da[er] i(n) volsteit:
+§31§
 <I>acob du berechts mi scone: 
 <B>erecht mi nv va(n) den {per}sone: 
 <D>ie me(n) heet heilech geest: 
@@ -1769,7 +1893,8 @@ moete(n) sij(n) gesteent:
 <D>a[er] boue(n) i(n) de(n) hoge(n) t%ro%ne: 
 <E>n(de) geue di volleest: 
 <D>attuere moets come(n) o(n)gevreest:
-<M>erte(n) o(n)s le[er]t die sc%re%ft%ur%e:
+§32§
+<M_1>erte(n) o(n)s le[er]t die sc%re%ft%ur%e:
 405 <D>{at} een god en(de) ene nat%ur%e: 
 <E>(m)mer sij(n) dese drie:
 <A>ltoes eue(n) na gebuere: 
@@ -1782,7 +1907,8 @@ moete(n) sij(n) gesteent:
 <D>ie reine godh%eit% en(de) die puere: 
 415 <H>ier op p%ro%ef en(de) sie
 <M>{et} h[er]te(n) en(de) dies gie:
-<D>its die t%ro%est die alre meeste: 
+§33§
+<D_1>its die t%ro%est die alre meeste: 
 <H>en die arm sij(n) va(n) geeste: 
 <L>e[er]t hi blide sij(n): 
 420 <H>i es i(n) pine(n) altoes feeste: 
@@ -1795,7 +1921,8 @@ moete(n) sij(n) gesteent:
 <N>egeene v%re%se va(n) te(m)peeste: 
 <N>och negeen venij(n): 
 <E>n scaedde d[er] siele(n) sij(n):
-430 <D>its svader en(de) tsoens gaue: 
+§34§
+430 <D_1>its svader en(de) tsoens gaue: 
 <R>ijch%eit% boue(n) alle haue: 
 <F>onteine des leue(n)s al: 
 <W>ie d{at} geport w[er]t hi[er] aue:
@@ -1811,7 +1938,8 @@ moete(n) sij(n) gesteent:
 440 <M>et deser edelh%eit% so laue: 
 <O>(n)s als me(n) rume(n) sal:
 <D>it arme erdsche dal:
-<D>its svad[er]s ende tsoens m%inne%: 
+§35§
+<D_1>its svad[er]s ende tsoens m%inne%: 
 <D>its karitate da[er] altoes i(n)ne: 
 445 <R>ustet die triniteit: 
 <D>its die d[er] p%ro%phete(n) si(n)ne: 
@@ -1824,7 +1952,8 @@ moete(n) sij(n) gesteent:
 <V>an dese(n) dauwe tsi(n)nen begi(n)ne: 
 <A>l welvare(n) es o(n)tseit: 
 455 <D>aer dese sij(n) ongereit:
-<D>ese le[er]de de(n) apostele(n) te waren:
+§36§
+<D_1>ese le[er]de de(n) apostele(n) te waren:
 <A>lle to(n)ge(n) die doe ware(n): 
 <J>n die w[er]elt breit: 
 <D>ese gaf de(n) martelare(n): 
@@ -1837,7 +1966,8 @@ moete(n) sij(n) gesteent:
 <D>eelt hi so(n)d[er] enech spare(n):
 <D>{at} godleke cleit: 
 <D>{at} ne(m)m[er]me[er] e(n) v[er]geit:
-<W>at hulpt m[er]ten sin en(de) tale: 
+§37§
+<W_1>at hulpt m[er]ten sin en(de) tale: 
 470 <D>ie begeue(n) mi altemale:
 meer te sp%re%kene vort: 
 <E>lc {per}soen v[er]stant mi wale:
@@ -1850,7 +1980,8 @@ meer te sp%re%kene vort:
 <H>oudt dit i(n) dij(n)re h[er]te(n) sale: 
 480 <S>one w[er]tstu n%iet% v[er]smort: 
 <J>n die helsche po[er]t:
-<W>are oec ieme(n) die wed[er]sp%ra%ke: 
+§38§
+<W_1>are oec ieme(n) die wed[er]sp%ra%ke: 
 
 &119r&
 
@@ -1866,7 +1997,8 @@ meer te sp%re%kene vort:
 <N>iet ter eweliker wrake: 
 <D>a[er] nieme(n) wt e(n) coemt:
 <W>ie(n) d{at} scaedt ochte vroemt:
-495 <A>me(n) iacob lieue geselle: 
+§39§
+495 <A_1>me(n) iacob lieue geselle: 
 <M>i du(n)ct d{at} ic v sere quelle: 
 <D>och al des haddic no{et}: 
 <A>lsic dit lese en(de) spelle: 

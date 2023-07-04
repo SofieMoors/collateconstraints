@@ -1,5 +1,6 @@
 &1va&
 _M1_
+§65§
 834 [...] dat torment
 835 [...]en nutte te rechte
 [...]erst es te vlie(n) tserpent
@@ -12,6 +13,7 @@ _M1_
 <E>nde valt int thelle torme(n)t
 <D>us brincti indie hechte
 845 <D>ie duuel sine knechte
+§66§
 <I_2><A>cop du seges wel en(de) w%aer%
 <D>ie wech es hoech ende sw%aer%
 <E>nde sere ongetreden
@@ -25,6 +27,7 @@ _M1_
 <H>{et} wort ten lesten maer
 <D>[aer] bi god sal besceden
 <M>et sinen lieuen leden
+§67§
 <E_2>s die wech nau en(de) hoech
 860 <D>[aer] ih(esu)s bi te hemel vloech
 <D>ats passie en(de) aermoede
@@ -40,8 +43,8 @@ _M1_
 [...]
 
 &1vb& 
-
-<I><A>cop die werelt maec[...]
+§68§
+<I_2><A>cop die werelt maec[...]
 <E>nde tient den vro[...]
 <D>at wi in sonden sne[...]
 875 <E>ua viel den ierste(n) v[...]	
@@ -54,6 +57,7 @@ _M1_
 <D>it v[er]lies sonder geta[...]
 <D>[aer] wi om sullen beuen
 <A>ls enden sal dit leu[...]
+§69§
 885 <M_2><E>rten hene nes n{iet} v[...]
 <D>ie enen tijt d{at} hi m[...]
 <K>ent hi vrome oft s[...]
@@ -67,6 +71,7 @@ _M1_
 895 <E>n(de) ic my vense v[er]wo[...]	
 <M>en salt clagen spa[...]
 <D>at ic my verlade
+§70§
 <S_2><E>lc tient de(n) vrouwe(n) [...]
 <D>{at} si hem th[er]te onti[...]
 900 <A>ls die steen die nael[...]
@@ -83,6 +88,7 @@ _M1_
 &2ra& 
 
 910 [...]er hem therte ontaelde
+§71§
 *<V_2>*<R>ouwen si bi natuere(n) goet
 <S>i slechte(n) den wij(n) en(de) gloet
 [...]e de werelt v[er]bliden
@@ -96,6 +102,7 @@ _M1_
 [...] si worde(n) va(n) mi(n)ne(n) v[er]woet
 [...]iere do(m)melike toe tiden
 [...]at doet vrouwe(n) beniden
+§72§
 [...]<A>tme(n) luttel trouwe(n) vint
 925 <A>ne vrouwen clagic twint
 [...] ender manieren
@@ -109,6 +116,7 @@ _M1_
 [...]e vals wort vrouwe(n) sint
 935 [...]d die moeten sciere
 [...]den ten helscen vie[re]
+§73§
 [...]t mocht eua dat adam
 [...]oor hare(n) wil de(n) appel na(m)
 [...]t wi noch alle besteruen
@@ -125,6 +133,7 @@ _M1_
 
 <D>atti hem eruen weruen
 <D>oor ons liet bederuen
+§74§
 950 <W_2><A>t maect quaet spreke(n) gescal 
 <V>rouwen dadent bi na al
 <D>at dit wonder gesciede
@@ -138,6 +147,7 @@ _M1_
 960 <D>ie siel int thelle dal
 <D>ies lucifer beghiede
 <D>at was sine meiseinede
+§75§
 <I_2><A>cop du best de(n) vrouwe(n) hout
 <E>n(de) geuet den mans scout
 965 <I>c wanict best gedoge	
@@ -153,6 +163,7 @@ _M1_
 975 <E>n vrage no en toghe
 ____
 _M2_
+§1§
 0 <D>en anderen merten
 1 <S_2><L>aeptu merte(n) slaept dij(n) sin
 <S>prect hebdi spreke(n) in

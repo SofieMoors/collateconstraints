@@ -1,5 +1,6 @@
 &1ra&
 _M1_
+§1§
 1 <W_7><A>phene m*e*rten hoe saelt gaen
 2 <S>al dese werelt lange stae(n)
 3 <I>n dus crancken loeue		
@@ -12,7 +13,9 @@ _M1_
 10 <I>c sie den gherechte(n) slaen	
 <B>eide bespotten ende vaen	
 <A>lse die meese inde cloeue	
-<R>echt oftene god v[er]scroeue 	
+<R>echt oftene god v[er]scroeue 
+
+§2§	
 <H_2><O>e lange sal gedoegen dit	
 15 <G>od die alle dinc besit		
 <I>n sine herscapie 		
@@ -25,7 +28,9 @@ _M1_
 <R>echt ma(n) del*ue*t sond[er] spit	
 <H>ine heeft te poente(n) n{iet} gehit 	
 25 <I>n ne ghene baelgie 	
-<M>i es leet dat ic waer lie 		
+<M>i es leet dat ic waer lie 	
+
+§3§	
 <L_2><A>et ons merten ouer een	
 <H>ier af spreke(n) ond[er] o(n)s twee(n)	
 <I>n dit dyaloeghe			
@@ -39,6 +44,7 @@ _M1_
 <A>erbeit vint vier in den st*e*en
 *<D>*[...] *droeghe* 	
 *...*
+§4§
 40 [...]				
 
 &1rb&
@@ -54,7 +60,8 @@ _M1_
 <G>od sende mi den hem[...]	
 50 <E>n(de) moet mine(n) sin dwa[...] 	
 <W>ant hi mi diere cochte		
-<E>n(de) ict gherne volbroc[...]	
+<E>n(de) ict gherne volbroc[...]
+§5§	
 <M_2><E>rten doen die wer[...]		
 <M>an te v[er]heffen b*...* [...]	
 55 <D>oen sciet mijn vrouw[...]	
@@ -67,7 +74,8 @@ _M1_
 <S>egt mi wanen tfen[...]		
 <T>och mi redene daer[...]		
 <W>ant ic gherne leere		
-65 <W>ies scout dat weere 		
+65 <W>ies scout dat weere
+§6§ 		
 <I_2><A>cop mi dunckt ou[er]w[...]	
 <S>int d{at} edelheit had[...]		
 <T>e pine(n) om(m)e die eere		
@@ -80,7 +88,8 @@ _M1_
 75 <D>its nv alder werelt cl[...]	
 <E>n(de) ogen siens openba[...] 	
 <D>us es v[er]bannen eere 		
-<E>n(de) wed[er] staen ten kere 	
+<E>n(de) wed[er] staen ten kere
+§7§ 	
 <N_2><V> merct bider sonne(n) [...]	
 80 <D>ie alder werelt oe[...]		
 <B>i hare edel*e* natuere 		
@@ -96,7 +105,8 @@ _M1_
 [...] *ane* hecht			
 [...]*...*lheit v[er]plecht		
 90 [...] *et* ghed*ueren*		
-[...] *d*e(n) scalke *sueren*	
+[...] *d*e(n) scalke *sueren*
+§8§	
 [...]*nt* scalke droeghe(n) ou[er]een	
 [...]ee(n) *...* en(de) ia neen	
 [...] dat wijsheit dochte 		
@@ -109,7 +119,8 @@ _M1_
 [...]eue he(m) den langhe(n) wee(n)	
 [...]naeghen gaf d{at} been 	
 [...]den ghedochte 		
-[...]iere moort m{et} wrochte	
+[...]iere moort m{et} wrochte
+§9§	
 105 [...]segel en(de) was		
 [...] *br*ieue die gewaege(n) das 	
 [...] *l*antshere(n) gheuen		
@@ -122,7 +133,8 @@ _M1_
 [...]ns noeyt h[er]e ghenas		
 115 [...]lke tsine(n) raede las		
 [...]oeste int inde sneuen		
-[...]*c* sijns lants v[er]dreuen	
+[...]*c* sijns lants v[er]dreuen
+§10§	
 [...]n du berechts mi wel		
 [...]bi sijn die here(n) fel		
 120 [...]nckel inde taele		
@@ -138,8 +150,8 @@ _M1_
 130 [...]*scalken* [...]
 
 &1vb&
-
-<M_2><E>eten n*v berecht mi* dies	
+§11§
+<M_2><E>rten n*v berecht mi* dies	
 <O>ft *...* *g*od die noeyt en wies 	
 *<B>er*echt alle creatueren	
 *Tw*i heeft die quaede de(n) kies 	
@@ -151,7 +163,8 @@ _M1_
 140 <H>eeft beuoele(n) merct besies	
 <D>unct v dit waer soe ghies 	
 <D>er blinder auontueren 		
-<D>ie v[er]keert telker vren 		
+<D>ie v[er]keert telker vren
+§12§ 		
 <I_2><A>cop segt bestu verdoort	
 145 <A>uontuere en es maer .<I>. woort	
 <U>an gheuinsd[er] spraeken
@@ -164,7 +177,8 @@ _M1_
 <W>aerstu v[er]brant ofte v[er]smoort		
 <E>n gaeue om(m)e dine ziele n{iet} .<I>. oort
 155 <M>en mach met sulken saeken	
-<G>ode niet ghenaeken 		
+<G>ode niet ghenaeken
+§13§ 		
 <G_2><O>d en was noeyt moede no mat	   
 <I>nt wout en es loef no blat	
 <B>uten siere hoeden 		
@@ -177,7 +191,8 @@ _M1_
 <S>oe hi hoeger sit opt rat		
 *<S>*oe hoegher valt hi sware(n) plat 
 <I>nder helscher gloeden		
-<O>nder der duuel roeden 		
+<O>nder der duuel roeden
+§14§ 		
 170 <D_2><E>n rechten wech ter helle(n) waert    
 <E>ntie ald[er] corste vaert		
 <D>ats gheluuc in sonden 		
@@ -186,7 +201,7 @@ _M1_
 175 [...]	
  
 &2ra&	
-
+§56§
 716 <M_2><E>rct vrouwe en(de) besiet  	
 717 <W>at ghi ouer mi ghebiet 		
 718 <A>ls ouer al v lede		
@@ -199,7 +214,8 @@ _M1_
 725 <G>hi sijt als d{at} crancke riet 	
 <D>at mette(n) winde waeyt en(de) vliet
 <V> ongestaedichede 		
-<M>aect v den onureede		
+<M>aect v den onureede
+§57§		
 <D_2><I>t orloge heeft gheuelt 		
 730 <A>lsme(n) h[aer] de(n) twist v[er]telt	
 <V>rouwe redene bi besceede
@@ -212,7 +228,8 @@ _M1_
 <M>[aer] dies vals ghewelt		
 <D>at bi siene therte dwelt 	
 740 <T>ijt si der oegen geleede		
-<D>us deilt si die veede 		
+<D>us deilt si die veede
+§58§ 		
 <M_2><E>rte(n) hier bi mach me(n) sien	
 <W>ed[er] die oegen therte tien	
 744 <S>oe therte die oegen 		
@@ -225,7 +242,8 @@ _M1_
 <S>oe moet al hare(n) wille gescien 	
 <D>ie ogen moete(n) lien en(de) ghien	
 <D>[aer] dore quaem gheuloegen 	
-<M>inne int v[er]toeghen		
+<M>inne int v[er]toeghen
+§59§		
 755 <I_2><A>cop v redene es claer		
 <A>l dunct si den ghene(n) swaer	
 <D>ie luttel gheuroeden		
@@ -241,7 +259,8 @@ _M1_
 <D>atti beuen soude daer		
 765 <D>[aer] god sal doeme(n) oppenbaer
 <E>n(de) wisen ten gloeden		
-<D>ie he(m) hier te(n) sonde(n) spoede(n)	
+<D>ie he(m) hier te(n) sonde(n) spoede(n)
+§60§	
 <B_2><E>recht mi iacop oftu w[...]	
 <W>elc sekerst es int beh[...]	
 770 <R>ijcheit ofte aermoede		
@@ -254,7 +273,8 @@ _M1_
 <D>och mi(n)ne(n) si voer water [...]	
 <S>i scuwe(n) honger en(de) cout	
 <E>est alsoe ic mi v[er]moede	
-780 <S>oe doelen dese vroede 		
+780 <S>oe doelen dese vroede
+§61§ 		
 <M_2><E>rte(n) ic mete vol dij(n) vat	
 <O>pte(n) stoel d[aer] moeyses [...]	
 <S>itten die gheleerde		
@@ -267,7 +287,8 @@ _M1_
 790 Ø 				
 <H>[aer] hant es altoes sond[er] g[...] 	
 <N>oeyt volc was op eerde		
-<D>at meer scats begeerde		
+<D>at meer scats begeerde
+§62§		
 <D_2><I>e meeste menichste e[...] 	
 795 <D>och soe vint me(n) al *s*[...]	
 <A>l sijn si selsine			
@@ -279,7 +300,8 @@ _M1_
 <O>m(m)e die helle tonfliene	
 <H>ier in waert sekerst *...*[...]	
 <D>ie he(m) int doe*psel* [...]	
-805 [...]				
+805 [...]
+§63§				
 806 [...]	 
 
 &2va&	
@@ -296,7 +318,8 @@ _M1_
 816 [...]moede es een pat		
 817 [...] doer den hemel maecte <I> gat
 818 [...]*i* niet en beswike		 
-819 [...]h[are] met trouwen wike	
+819 [...]h[are] met trouwen wike
+§64§	
 820 [...]enstu merte(n) weldich vet
 [...]ijn gecleet nv wel nv bet
 [...] vaeren int langhe leue(n) 	
@@ -309,7 +332,8 @@ _M1_
 [...] wesen gods let 		
 830 [...]erlike(n) drinct en(de) et		
 [...]t welde begheuen		
-[...]u moets sneuen		
+[...]u moets sneuen
+§65§		
 [...]t en seggic d{at} rijch%eit% sent	
 [...]ie ziele int torment 		
 835 [...]atment nut m{et} rechte 	
@@ -322,7 +346,8 @@ _M1_
 [...]wort va(n) leuene .<I>. rent	
 [...] valtme(n) int helsche couent 	
 [...] brinct inde hechte		
-845 [...] duuel sine knechte 		
+845 [...] duuel sine knechte
+§66§ 		
 [...]cop du segt wel en(de) waer	
 [...]ie wech es *in*ge en(de) swaer	
 [...]*e* zeere ongetreeden	
@@ -338,7 +363,8 @@ _M1_
 855 <E>er die kerke entie outaer	
 <H>et woort ten ioncste(n) dage(n) claer
 <D>[aer] v god sal besceeden	
-<M>et sine(n) lieuen leeden		
+<M>et sine(n) lieuen leeden
+§67§		
 <D_2><I>e wech es inghe en(de) hoech	
 860 <D>[aer] god bi te hemel vloech	
 861 <D>ats passie en(de) aermoede	
@@ -351,7 +377,8 @@ _M1_
 <G>od selue die noeyt en loech 	
 <N>och den milde(n) noeyt en bedroech 
 870 <S>ette in siere hoeden 		
-<O>nder der duuel roede 		
+<O>nder der duuel roede
+§68§ 		
 <I_2><A>cop die we[re]lt maect gescal	
 <E>n(de) tient den vrouwe(n) al 	
 <D>at wi in sonden sneuen 	
@@ -364,7 +391,8 @@ _M1_
 <N>v segt mi wien me(n) tien sal 	
 <D>it v[er]lies sond[er] getal 		
 <D>[aer] wi om(m)e moeten beuen 	
-<A>ls inden sal ons leuen 		
+<A>ls inden sal ons leuen
+§69§ 		
 885 <M_2><E>rte(n) hine es niet vroet	
 <D>ie mi *tyt* datti mesdoet	
 <K>ent hi vroeme ofte scaede	
@@ -380,7 +408,8 @@ _M1_
 		
 &3ra&	
 
-<D>at ic mi verlaede   		
+<D>at ic mi verlaede
+§70§   		
 <S_2><E>lc tient den vrouwe(n) opsien	
 <D>at si hem therte ontien 		
 900 <A>ls die steen die naelde 		
@@ -393,7 +422,8 @@ _M1_
 <W>ilde die clager te tide vlien	
 <S>one mocht he(m) niet messchie(n) 	
 <E>n(de) hi den sin v[er]staelde 	
-910 <E>er he(m) therte daelde 		
+910 <E>er he(m) therte daelde 
+§71§		
 <U_2><R>ouwe(n) sijn bi natuere(n) goet 	
 <S>i slechten den wine ent[er] gloet	
 <D>ie de werelt verbliden 		
@@ -406,7 +436,8 @@ _M1_
 920 <S>oe ware vrouwe mi(n)ne spoet	
 921 <N>v werden si va(n) mi(n)nen verwoet
 922 <D>iere domlike toe tiden 		
-923 <D>it doet vrouwen beniden 	 
+923 <D>it doet vrouwen beniden
+§74§ 	 
 950 <W_2><A>t make(n) quaet sprekers gescal 
 951 <V>rouwe(n) daedent wel na al 	
 952 <D>at dit wonder gesciede 		
@@ -419,7 +450,8 @@ _M1_
 959 <S>i es die roefde en(de) stal 	
 960 <D>ie siele int helsche dal 		
 961 <D>ies lucifer begiede 		
-962 <E>nde sine meiseniede 		
+962 <E>nde sine meiseniede
+§72§ 		
 924 <D_2><A>t me(n) luttel trouwe(n) vint 	
 925 <A>en vrouwe(n) d{at} en clagic twint 	
 926 <B>i eender man*ier*en		
@@ -435,7 +467,8 @@ _M1_
 933 <G>roeter sonden hi he(m) bewint	
 934 <D>ie valsche woort vrouwe(n) *toe* sint
 935 <G>od die moeten schiere		 
-936 <S>enden ten helschen viere	
+936 <S>enden ten helschen viere
+§73§	
 937 <W_2><A>t mochts eua dat adaem	
 938 <D>oer hare(n) wille de(n) appel n*...*
 939 <D>at wi noch alle besteruen 	
@@ -448,7 +481,8 @@ _M1_
 946 <S>elsender dinc noeyt ma(n) v[er]nam
 947 <D>at ee(n) maget gode maecte tam	
 948 <D>at hi hem een weruen 		
-949 <D>oer onsen wille liet bed[er]uen	 
+949 <D>oer onsen wille liet bed[er]uen
+§75§	 
 963 <I_2><A>cop du best de(n) vrouwe(n) hout	
 964 <D>u gheues de(n) ma(n)ne alle die scout 
 965 <I>c waene ict best gedoeghe 	
@@ -464,6 +498,7 @@ _M1_
 975 <E>n vraege ne(m)meer no en toege
 ____
 _M2_
+§1§
 0 *Dander merten*	
 1 <S_2><L>aepstu merte(n) slaept dij(n) sin 	
 <S>preke(n) en heeft geen spreke(n) in 
@@ -481,6 +516,7 @@ _M2_
 <H>ef op dijn hoet dinen kin 	
 <T>ontide waerstu geboren	
 <H>eeftu dichtens v[er]sworen
+§2§
 <I_2><A>cop du woens inden dam	
 15 <E>n(de) ic tutrecht des benic gra(m) 	
 <D>at wi dus sijn verscheeden 	
@@ -493,7 +529,8 @@ _M2_
 <D>u wecs mi als .<I>. stotel ram 	
 <S>idi wilt ghi wert noch tam 	
 25 <L>eere dine woorde cleeden 	
-<S>oetelike en(de) ghereeden 	
+<S>oetelike en(de) ghereeden
+§3§ 	
 <M_2><E>rten vrient hebbic messeit	
 <I>c bens te betren gereit		
 <I>c wils al op di bliuen		
@@ -506,7 +543,8 @@ _M2_
 <W>at d{at} inde we[re]lt steit		 
 <S>teden borghe bossche preit 	
 <S>oude men v[er]driuen	
-<W>oude me(n) min(n)e ontliuen 	
+<W>oude me(n) min(n)e ontliuen
+§4§ 	
 40 <I_2><A>cop dit was oeyt dijn doen 		
 <V>a(n) vrouwe(n) te make(n) dij(n) sermoe(n)
 <B>eghinnen ofte inden 		
@@ -519,7 +557,8 @@ _M2_
 <M>erten niet en laet gheroen 	
 50 <A>l haddic aen ij. ysere(n) scoen	
 <E>n mochte di niet ontwinde(n) 	
-<N>v vraecht ic sal ontbinden	
+<N>v vraecht ic sal ontbinden
+§5§	
 <M_2><E>rten du sout mi v[er]staen	
 <E>en vrouwe wel gedaen 	
 55 [...]			
@@ -535,7 +574,8 @@ _M2_
 <A>l souder die werelt om(m)e v[er]gaen
 <S>i en soude mi niet ontfaen	
 <I>n haer herte binnen 		
-65 <H>ier toe es gheen v[er]winnen 	
+65 <H>ier toe es gheen v[er]winnen
+§6§ 	
 <E_2><E>n and[er] vrouwe es die mi mi(n)t 
 <B>oue(n) al d{at} si leuende kint 	
 <M>et gestaeder trouwen 		
@@ -548,7 +588,8 @@ _M2_
 72 <M>ij(n) h[er]te d{at} es soe hart twint	
 76 <D>{at} het mi al duncket wint	
 77 <S>i liet h[aer] eer te stucke(n) houwen	
-78 <E>er siere om(m)e quae(m) in rouwen 
+78 <E>er siere om(m)e quae(m) in rouwen
+§7§ 
 79 <M_2><E>rten hore en(de) v[er]stant 	
 80 <D>ese .ij. sijn in <I> bewant 		
 <D>at costen mo{et} d[er] eren leue(n)	
@@ -561,7 +602,8 @@ _M2_
 <E>n liecht mi niet als <I>. truwant 	
 <M>[aer] segt mi aen welken cant 	
 90 <D>ijn herte es bleuen 		
-<E>n(de) welke du liets sneuen 	
+<E>n(de) welke du liets sneuen
+§8§ 	
 <I_2><A>cop dit en es gee(n)s vrage(n)s waert 
 <D>ie de w[aer]heit n{iet} en spaert	
 <H>eeft dit saen ontbonden 	
@@ -574,6 +616,7 @@ _M2_
 ____					
 &4ra&	
 _M3_
+§27§
 340 <T>fleeschs datti van de(n) reine(n) wiue
 341 <V>rouwen marien nam		 
 342 <H>i troeste sine lieue keytiue 	
@@ -585,7 +628,8 @@ _M3_
 <E>s oec enich ma(n) soe stiue 	
 <D>ie *iegen dit* geloeue ki*ue* 	
 350 <O>p hem sal themelsche lam	
-<T>en ioncste(n) woorde(n) gram 		
+<T>en ioncste(n) woorde(n) gram
+§28§ 		
 <I_2><N>den hemel es hi geuaeren 	
 <D>[aer] die sine ae(n) saegen tware(n) 	
 <T>es vaders rechte hant 		
@@ -598,7 +642,8 @@ _M3_
 <S>onne mane sal hi v[er]claere(n) 	 
 <D>ie bi adaeme v[er]donckert waren 
 <L>ucht water ende lant		 
-<S>al purgere(n) een brant		
+<S>al purgere(n) een brant
+§29§		
 365 <A_2><L> waest datti dus op rande	
 <H>i liet de(n) sine(n) hier te pande 	
 <S>ijn vleeschs sijn heilich bloet	
@@ -611,7 +656,8 @@ _M3_
 <D>{at} onse mont en(de) onse tant	
 375 <S>maeke(n) moet sonder scande 	
 <V> vleeschs en(de) v bloet		 
-<D>at wt dijnre siden woet		
+<D>at wt dijnre siden woet
+§30§		
 <V_2><T> desen sone en(de) wonden	
 <W>ies godh%eit% nieme(n) *...*ne(n) gegro(n)de(n)
 380 <N>och wies menschelijcheit	
@@ -627,7 +673,8 @@ _M3_
 <D>ie dit g*eloue vast orconden*	
 <A>flaet groot *van* haer *...*	
 <E>s he(m) altoes *ger*eit 		
-390 <O>p dat mer in volsteet		
+390 <O>p dat mer in volsteet
+§31§		
 <I_2><A>cop du berecht mi *...*		
 <N>v berecht mi van den persone	
 <D>ie men heet he*...*		
@@ -640,7 +687,8 @@ _M3_
 400 <D>ies danckic d[er] martelere(n) vrone
 <D>[aer] boue(n) inde(n) hoegen troene 	
 <E>n(de) gheue di volleest		
-<D>atture coms ongheureest	
+<D>atture coms ongheureest
+§32§	
 <M_2><E>rte(n) ons leert tscriftuere	
 405 <D>{at} <I>. god en(de) <I>. natuere	
 <E>mmer sijn dese drie		
@@ -653,7 +701,8 @@ _M3_
 <D>a(n) comt die geest die suete guere
 <D>ie reine godheit entie puere	
 415 <H>ier toe proeft ende sie 		
-<M>et herten ende ghie 		
+<M>et herten ende ghie
+§33§		
 <D_2><I>ts die troest die ald[er] meeste  	
 <H>e(m) die aerm sijn va(n) geeste 	
 <L>eert hi blide sijn 		
@@ -669,7 +718,7 @@ _M3_
 [...]	 
 				
 &4va&	
-
+§34§
 <D_2><I>ts tfaders en(de) tsoens gaue	
 <R>ijcheit bouen allen haue	
 <F>onteine des leuens al 		
@@ -682,7 +731,8 @@ _M3_
 *...* die rust inden graeue	
 440 <M>et deser edelheit soe laeu	
 <O>ns alsmen rume(n) sal 		
-<D>it aerme ertsche dal 		
+<D>it aerme ertsche dal
+§35§	
 <D_2><I>ts tfaders en(de) tsoens mi(n)ne	
 <D>its caritaere d[aer] altoes inne	
 445 <R>uust die triniteit 		
@@ -695,7 +745,8 @@ _M3_
 <H>ine hebbe ee(n) trae(n) al *w[aer]* hi dinne
 <D>an desen dauwe tsine(n) beghi(n)ne
 <A>lle wel vaeren es hem ontseit	
-455 <D>[aer] dese sijn ongereit 		
+455 <D>[aer] dese sijn ongereit
+§36§ 		
 <D_2><E>se leerde de(n) apostele(n) twaere(n) 
 <A>lle tongen die doe(n) waren 	
 <I>nde werelt breit		
@@ -708,7 +759,8 @@ _M3_
 465 <S>ine lieue sine caeren 		
 <D>eilt hi sond[er] spaeren		
 <D>at godlike cleit 		
-<D>{at} ne(m)mermeer v[er]gheit	
+<D>{at} ne(m)mermeer v[er]gheit
+§37§	
 <W_2><A>t hulpt merte(n) sin en(de) taele	
 470 <D>ie begheue(n) mi alte maele
 <M>eer te sprekene voort
@@ -724,7 +776,8 @@ _M3_
 <E>n ganc niet ou[er] dese paele 	
 <H>out in dijnre h[er]ten saele	
 480 <S>one woordi niet v[er]smoort 
-<I>nde helsche poort		
+<I>nde helsche poort
+§38§		
 <W_2><A>re oec iement die wed[er] spraeke  
 <D>it geloeue en(de) dese saeke	
 <W>aer euwelike(n) v[er]doemt	
@@ -737,7 +790,8 @@ _M3_
 <S>one trect mi n{iet} die helsche draeke
 <M>et he(m) ter euweliker wraeken	
 <D>[aer] niement wt en comt 	
-<W>ient scaet ofte vroemt 		
+<W>ient scaet ofte vroemt
+§39§ 		
 495 <A_2><M>en iacop lieue geselle 	
 <M>i dunct dat ic v ze[er]e quelle 	
 <D>och haddics groete(n) noot 		
