@@ -1,0 +1,1427 @@
+line_id	form	lemma	pos	corr_lemma	corr_pos	damage
+D2_M1_75_966	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M1_75_966	vergheuet	vergeven	v(fin,pres,lex)	vergeven	v(fin,pres,lex)	True
+D2_M1_75_966	al	al	adv(gener)	al	adv(gener)	True
+D2_M1_75_966	onghedo	ongedoude	adj()	ongedoude	adj()	True
+
+D2_M1_75_967	alle	al	num(indef)	al	num(indef)	True
+D2_M1_75_967	vrouwen	vrouw	n(plu)	vrouw	n(plu)	True
+D2_M1_75_967	ionc	jong	n(plu)	jong	n(plu)	True
+D2_M1_75_967	ende	en	conj(coord)	en	conj(coord)	True
+D2_M1_75_967	oud	oud	adj()	oud	adj()	True
+
+D2_M1_75_968	om	om	adp()	om	adp()	True
+D2_M1_75_968	eene	een	art(indef)	een	art(indef)	True
+D2_M1_75_968	vrouwe	vrouw	n(sing)	vrouw	n(sing)	True
+D2_M1_75_968	hogh	hoog	n(sing)	hoog	n(sing)	True
+
+D2_M1_75_969	daer	daar	pronadv(rel)	daar	pronadv(rel)	True
+D2_M1_75_969	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+D2_M1_75_969	afquam	afkomen	v(fin,past,lex)	afkomen	v(fin,past,lex)	True
+D2_M1_75_969	onse	ons	pron(poss)	ons	pron(poss)	True
+
+D2_M1_75_970	ghedanct	danken	v(participle,past)	danken	v(participle,past)	True
+D2_M1_75_970	si	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M1_75_970	die	de	pron(rel)	de	pron(rel)	True
+D2_M1_75_970	dusentfo	duizend	n(sing)	duizend	n(sing)	True
+
+D2_M1_75_971	datse	dat+zij	conj(subord)+pron(pers,3,plu)	dat+zij	conj(subord)+pron(pers,3,plu)	True
+D2_M1_75_971	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+D2_M1_75_971	op	op	adp()	op	adp()	True
+D2_M1_75_971	hielt	houden	v(fin,past,lex)	houden	v(fin,past,lex)	True
+D2_M1_75_971	met	met	adp()	met	adp()	True
+
+D2_M1_75_972	die	die	pron(rel)	die	pron(rel)	True
+D2_M1_75_972	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+D2_M1_75_972	benam	benemen	v(fin,past,lex)	benemen	v(fin,past,lex)	True
+D2_M1_75_972	thelsch	het+hals	art(def)+n(sing)	het+hals	art(def)+n(sing)	True
+
+D2_M1_75_973	in	in	adp()	in	adp()	True
+D2_M1_75_973	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	True
+D2_M1_75_973	ben	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M1_75_973	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M1_75_973	te	te	adp()	te	adp()	True
+D2_M1_75_973	eynden	einde	n(sing)	einde	n(sing)	True
+D2_M1_75_973	b	b	n(sing)	b	n(sing)	True
+
+D2_M1_75_974	onser	ons	pron(poss)	ons	pron(poss)	False
+D2_M1_75_974	beider	beide	num(indef)	beide	num(indef)	False
+D2_M1_75_974	dyaloghe	de+ilago	n(plu)	de+ilago	n(plu)	False
+
+D2_M1_75_975	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M1_75_975	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M1_75_975	vrage	vragen	v(fin,pres,lex)	vragen	v(fin,pres,lex)	True
+D2_M1_75_975	niet	niet	adv(neg)	niet	adv(neg)	True
+D2_M1_75_975	meer	meer	adv(gener)	meer	adv(gener)	True
+D2_M1_75_975	no	no	conj(coord)	no	conj(coord)	True
+
+D2_M2_1_000	dat	dat	art(def)	dat	art(def)	True
+D2_M2_1_000	ander	ander	adj()	ander	adj()	True
+D2_M2_1_000	de	de	art(def)	de	art(def)	True
+D2_M2_1_000	bo	b	n(sing)	b	n(sing)	True
+
+D2_M2_1_001	martijn	martin	n(prop)	martin	n(prop)	True
+D2_M2_1_001	slaepty	slaaptje	n(prop)	slaaptje	n(prop)	True
+D2_M2_1_001	sla	slaan	v(imp)	slaan	v(imp)	True
+
+D2_M2_1_002	spreect	spreken	v(fin,pres,lex)	spreken	v(fin,pres,lex)	True
+D2_M2_1_002	hebdy	hebben+gij	n(prop)	hebben+gij	n(prop)	True
+D2_M2_1_002	g	g	n(sing)	g	n(sing)	True
+
+D2_M2_1_003	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_1_003	duncket	dunken	v(fin,pres,lex)	dunken	v(fin,pres,lex)	True
+D2_M2_1_003	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_1_003	verdor	verdoren	v(infin)	verdoren	v(infin)	True
+
+D2_M2_1_004	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_1_004	en	en	adv(neg)	en	adv(neg)	True
+D2_M2_1_004	achtet	achten+het	v(fin,pres,lex)	achten+het	v(fin,pres,lex)	True
+D2_M2_1_004	meer	meer	adv(gener)	meer	adv(gener)	True
+D2_M2_1_004	noch	noch	conj(coord)	noch	conj(coord)	True
+
+D2_M2_1_005	dan	dan	conj(comp)	dan	conj(comp)	True
+D2_M2_1_005	op	op	adp()	op	adp()	True
+D2_M2_1_005	weelde	weelde	n(sing)	weelde	n(sing)	True
+D2_M2_1_005	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_1_005	ghe	geen	n(prop)	geen	n(prop)	True
+
+D2_M2_1_006	wildi	gij+willen	pron(pers,2,plu)+v(fin,pres,aux_cop)	gij+willen	pron(pers,2,plu)+v(fin,pres,aux_cop)	True
+D2_M2_1_006	v	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_1_006	dus	dus	adv(dem)	dus	adv(dem)	True
+D2_M2_1_006	versmoren	versmoren	v(infin)	versmoren	v(infin)	True
+
+D2_M2_1_007	al	al	adv(gener)	al	adv(gener)	True
+D2_M2_1_007	waert	zijn+het	v(fin,past,lex)+pron(pers,3,sing)	zijn+het	v(fin,past,lex)+pron(pers,3,sing)	True
+D2_M2_1_007	al	al	adv(gener)	al	adv(gener)	True
+D2_M2_1_007	uwe	uw	pron(poss)	uw	pron(poss)	True
+D2_M2_1_007	dat	dat	art(def)	dat	art(def)	True
+D2_M2_1_007	coe	koe	n(sing)	koe	n(sing)	True
+
+D2_M2_1_008	gout	goud	n(sing)	goud	n(sing)	True
+D2_M2_1_008	silner	zullen+er	pron(poss)	zullen+er	pron(poss)	True
+D2_M2_1_008	loot	lood	n(sing)	lood	n(sing)	True
+D2_M2_1_008	stael	staal	n(sing)	staal	n(sing)	True
+D2_M2_1_008	ys	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+
+D2_M2_1_009	nochtan	nochtan	adv(gener)	nochtan	adv(gener)	True
+D2_M2_1_009	bleeft	blijven	v(fin,past,aux_cop)+pron(pers,3,sing)	blijven	v(fin,past,aux_cop)+pron(pers,3,sing)	True
+D2_M2_1_009	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_1_009	verl	verlenen	adv(gener)	verlenen	adv(gener)	True
+
+D2_M2_1_010	daerstu	daartoe	conj(subord)+pron(pers,2,sing)	daartoe	conj(subord)+pron(pers,2,sing)	True
+D2_M2_1_010	der	de	art(def)	de	art(def)	True
+D2_M2_1_010	duecht	deugd	n(sing)	deugd	n(sing)	True
+D2_M2_1_010	geen	geen	pron(indef)	geen	pron(indef)	True
+D2_M2_1_010	be	bij	adp()	bij	adp()	True
+
+D2_M2_1_011	hooft	hoofd	n(sing)	hoofd	n(sing)	True
+D2_M2_1_011	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_1_011	uwen	uw	pron(poss)	uw	pron(poss)	True
+D2_M2_1_011	sin	zin	n(sing)	zin	n(sing)	True
+
+D2_M2_1_012	waerstu	du+zijn	pron(pers,2,sing)+v(fin,past,lex)	du+zijn	pron(pers,2,sing)+v(fin,past,lex)	True
+D2_M2_1_012	geboren	geboren	adj()	geboren	adj()	True
+
+D2_M2_1_013	chtens	cijns	n(sing)	cijns	n(sing)	True
+D2_M2_1_013	versworen	verzworen	v(infin)	verzworen	v(infin)	True
+
+D2_M2_2_014	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_2_014	woent	wonen	v(fin,pres,lex)	wonen	v(fin,pres,lex)	True
+D2_M2_2_014	in	in	adp()	in	adp()	True
+D2_M2_2_014	den	de	art(def)	de	art(def)	True
+D2_M2_2_014	dam	dam	n(sing)	dam	n(sing)	True
+
+D2_M2_2_015	echt	echt	adv(gener)	echt	adv(gener)	True
+D2_M2_2_015	dies	dat	pron(dem)	dat	pron(dem)	True
+D2_M2_2_015	ben	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_2_015	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_2_015	gram	gram	adj()	gram	adj()	True
+
+D2_M2_2_016	s	sint	misc()	sint	misc()	True
+D2_M2_2_016	sijn	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_2_016	verscheeden	verscheiden	v(participle,past)	verscheiden	v(participle,past)	True
+
+D2_M2_2_017	at	eten	v(fin,past,lex)	eten	v(fin,past,lex)	True
+D2_M2_2_017	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_2_017	meest	meest	adv(gener)	meest	adv(gener)	True
+D2_M2_2_017	mesquam	miskomen	v(fin,past,lex)	miskomen	v(fin,past,lex)	True
+
+D2_M2_2_018	t	te	art(def)	te	art(def)	True
+D2_M2_2_018	bate	baat	n(sing)	baat	n(sing)	True
+D2_M2_2_018	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M2_2_018	vernam	vernemen	v(fin,past,lex)	vernemen	v(fin,past,lex)	True
+
+D2_M2_2_019	en	en	conj(coord)	en	conj(coord)	True
+D2_M2_2_019	van	van	adp()	van	adp()	True
+D2_M2_2_019	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+D2_M2_2_019	beeden	bede	num(card)	bede	num(card)	True
+
+D2_M2_2_020	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M2_2_020	sin	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_2_020	gheworden	worden	v(participle,past)	worden	v(participle,past)	True
+D2_M2_2_020	so	zo	adv(resum)	zo	adv(resum)	True
+D2_M2_2_020	lam	lam	n(sing)	lam	n(sing)	True
+
+D2_M2_2_021	node	node	adv(gener)	node	adv(gener)	True
+D2_M2_2_021	weder	weder	adv(gener)	weder	adv(gener)	True
+D2_M2_2_021	ane	aan	pronadv(prep)	aan	pronadv(prep)	True
+D2_M2_2_021	quam	komen	v(fin,past,lex)	komen	v(fin,past,lex)	True
+
+D2_M2_2_022	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_2_022	verleeden	verleden	v(infin)	verleden	v(infin)	True
+
+D2_M2_2_023	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_2_023	als	als	conj(comp)	als	conj(comp)	True
+D2_M2_2_023	een	een	art(indef)	een	art(indef)	True
+D2_M2_2_023	gestoten	stoten	adj()	stoten	adj()	True
+D2_M2_2_023	ram	ram	n(sing)	ram	n(sing)	True
+
+D2_M2_2_024	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_2_024	wort	worden	v(fin,pres,lex)	worden	v(fin,pres,lex)	True
+D2_M2_2_024	noch	noch	conj(coord)	noch	conj(coord)	True
+D2_M2_2_024	tam	tam	adj()	tam	adj()	True
+
+D2_M2_2_025	woorden	woord	n(plu)	woord	n(plu)	True
+D2_M2_2_025	cleeden	kleden	v(infin)	kleden	v(infin)	True
+
+D2_M2_2_026	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_2_026	met	met	adp()	met	adp()	True
+D2_M2_2_026	reden	rede	n(sing)	rede	n(sing)	True
+
+D2_M2_3_027	vrient	vriend	n(sing)	vriend	n(sing)	True
+D2_M2_3_027	heb	hebben	v(fin,pres,aux_cop)	hebben	v(fin,pres,aux_cop)	True
+D2_M2_3_027	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_3_027	messeyt	miszeggen	v(participle,past)	miszeggen	v(participle,past)	True
+
+D2_M2_3_028	eteren	eter	n(plu)	eter	n(plu)	True
+D2_M2_3_028	bereyt	bereiden	v(participle,past)	bereiden	v(participle,past)	True
+
+D2_M2_3_029	v	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_3_029	bliuen	blijven	v(infin)	blijven	v(infin)	True
+
+D2_M2_3_030	et	het	v(imp)	het	v(imp)	True
+D2_M2_3_030	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_3_030	eude	en	adv(gener)	en	adv(gener)	True
+D2_M2_3_030	ontbeyt	ontbeiden	v(participle,past)	ontbeiden	v(participle,past)	True
+
+D2_M2_3_031	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_3_031	opt	op+dat	adp()+art(def)	op+dat	adp()+art(def)	True
+D2_M2_3_031	hertte	hart	n(prop)	hart	n(prop)	True
+D2_M2_3_031	leyt	liggen	n(sing)	liggen	n(sing)	True
+
+D2_M2_3_032	dat	dat	pron(dem)	dat	pron(dem)	False
+D2_M2_3_032	wil	willen	v(fin,pres,aux_cop)	willen	v(fin,pres,aux_cop)	False
+D2_M2_3_032	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_3_032	v	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	False
+D2_M2_3_032	bescriuen	beschrijven	v(infin)	beschrijven	v(infin)	False
+
+D2_M2_3_033	daer	daar	pronadv(rel)	daar	pronadv(rel)	True
+D2_M2_3_033	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	True
+D2_M2_3_033	die	de	art(def)	de	art(def)	True
+D2_M2_3_033	werelt	wereld	n(sing)	wereld	n(sing)	True
+D2_M2_3_033	mede	mede	pronadv(rel)	mede	pronadv(rel)	True
+D2_M2_3_033	m	men	num(card)	men	num(card)	True
+
+D2_M2_3_034	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_3_034	dade	doen	v(fin,past,lex)	doen	v(fin,past,lex)	False
+D2_M2_3_034	dat	dat	conj(subord)+pron(pers,3,sing)	dat	conj(subord)+pron(pers,3,sing)	False
+D2_M2_3_034	lief	lief	adj()	lief	adj()	False
+D2_M2_3_034	ware	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_3_034	leyt	liggen	v(fin,pres,lex)	liggen	v(fin,pres,lex)	False
+
+D2_M2_3_035	dats	dat+zijn	conj(subord)+pron(dem)	dat+zijn	conj(subord)+pron(dem)	False
+D2_M2_3_035	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_3_035	van	van	adp()	van	adp()	False
+D2_M2_3_035	wiuen	wijf	n(plu)	wijf	n(plu)	False
+
+D2_M2_3_036	al	al	num(indef)	al	num(indef)	False
+D2_M2_3_036	dat	dat	pron(dem)	dat	pron(dem)	False
+D2_M2_3_036	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_3_036	inde	en	conj(coord)	en	conj(coord)	False
+D2_M2_3_036	werelt	wereld	n(sing)	wereld	n(sing)	False
+D2_M2_3_036	breyt	breed	adj()	breed	adj()	False
+
+D2_M2_3_037	stedenborgenbosscen	steenbinkersbung	n(prop)	steenbinkersbung	n(prop)	False
+D2_M2_3_037	preyt	preet	n(sing)	preet	n(sing)	False
+
+D2_M2_3_038	soudemen	zullen+men	v(fin,past,aux_cop)+pron(indef)	zullen+men	v(fin,past,aux_cop)+pron(indef)	False
+D2_M2_3_038	verdriuen	verdrijven	v(infin)	verdrijven	v(infin)	False
+
+D2_M2_3_039	wildemen	men+willen	pron(indef)+v(fin,past,aux_cop)	men+willen	pron(indef)+v(fin,past,aux_cop)	False
+D2_M2_3_039	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_3_039	ontlijuen	ontlijven	v(infin)	ontlijven	v(infin)	False
+
+D2_M2_4_040	iacop	jacob	n(prop)	jacob	n(prop)	False
+D2_M2_4_040	dit	dit	pron(dem)	dit	pron(dem)	False
+D2_M2_4_040	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_4_040	oyt	oud	adj()	oud	adj()	False
+D2_M2_4_040	dijn	dijn	pron(poss)	dijn	pron(poss)	False
+D2_M2_4_040	doen	doen	n(sing)	doen	n(sing)	False
+
+D2_M2_4_041	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_4_041	van	van	adp()	van	adp()	False
+D2_M2_4_041	vrouwen	vrouw	n(sing)	vrouw	n(sing)	False
+D2_M2_4_041	v	uw	num(card)	uw	num(card)	False
+D2_M2_4_041	sermoen	sermoen	n(sing)	sermoen	n(sing)	False
+
+D2_M2_4_042	beghinnen	beginnen	v(infin)	beginnen	v(infin)	False
+D2_M2_4_042	moet	moeten	v(fin,pres,aux_cop)	moeten	v(fin,pres,aux_cop)	False
+D2_M2_4_042	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_4_042	eynden	einden	v(infin)	einden	v(infin)	False
+
+D2_M2_4_043	waerdi	gij+zijn	pron(pers,2,plu)+v(fin,past,aux_cop)	gij+zijn	pron(pers,2,plu)+v(fin,past,aux_cop)	True
+D2_M2_4_043	een	een	art(indef)	een	art(indef)	True
+D2_M2_4_043	dorper	dorper	adj()	dorper	adj()	True
+D2_M2_4_043	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_4_043	spraec	spreken	v(fin,past,lex)	spreken	v(fin,past,lex)	True
+
+D2_M2_4_044	nv	nu	adv(dem)	nu	adv(dem)	False
+D2_M2_4_044	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_4_044	v	uw	pron(poss)	uw	pron(poss)	False
+D2_M2_4_044	herte	hart	n(sing)	hart	n(sing)	False
+D2_M2_4_044	dus	dus	adv(dem)	dus	adv(dem)	False
+D2_M2_4_044	ontuloen	ontvlieden	v(participle,past)	ontvlieden	v(participle,past)	False
+
+D2_M2_4_045	doch	doch	adv(gener)	doch	adv(gener)	False
+D2_M2_4_045	wil	willen	v(fin,pres,aux_cop)	willen	v(fin,pres,aux_cop)	False
+D2_M2_4_045	icx	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_4_045	mi	ik	pron(refl,1,sing)	ik	pron(refl,1,sing)	False
+D2_M2_4_045	ghenenden	genenden	v(infin)	genenden	v(infin)	False
+
+D2_M2_4_046	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_4_046	strijcken	strijken	v(infin)	strijken	v(infin)	False
+D2_M2_4_046	af	af	adp()	af	adp()	False
+D2_M2_4_046	minen	mijn	pron(poss)	mijn	pron(poss)	False
+D2_M2_4_046	caproen	kaproen	n(sing)	kaproen	n(sing)	False
+
+D2_M2_4_047	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_4_047	horen	horen	v(infin)	horen	v(infin)	True
+D2_M2_4_047	wat	wat	pron(rel)	wat	pron(rel)	True
+D2_M2_4_047	v	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_4_047	hier	hier	pronadv(dem)	hier	pronadv(dem)	True
+D2_M2_4_047	toe	toe	pronadv(prep)	toe	pronadv(prep)	True
+D2_M2_4_047	mach	mogen	v(fin,pres,aux_cop)	mogen	v(fin,pres,aux_cop)	True
+
+D2_M2_4_048	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_4_048	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	False
+D2_M2_4_048	den	de	art(def)	de	art(def)	False
+D2_M2_4_048	onbekenden	onbekend	adj()	onbekend	adj()	False
+
+D2_M2_4_049	martijn	martinus	n(prop)	martinus	n(prop)	False
+D2_M2_4_049	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_4_049	en	en	adv(neg)	en	adv(neg)	False
+D2_M2_4_049	laet	laten	v(fin,pres,aux_cop)	laten	v(fin,pres,aux_cop)	False
+D2_M2_4_049	gheuroen	vroegen	v(infin)	vroegen	v(infin)	False
+
+D2_M2_4_050	al	al	conj(subord)	al	conj(subord)	True
+D2_M2_4_050	hadt	hebben	v(fin,past,lex)	hebben	v(fin,past,lex)	True
+D2_M2_4_050	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_4_050	aen	aan	adp()	aan	adp()	True
+D2_M2_4_050	twee	twee	num(card)	twee	num(card)	True
+D2_M2_4_050	yseren	ijzeren	n(plu)	ijzeren	n(plu)	True
+D2_M2_4_050	scho	schoen	n(sing)	schoen	n(sing)	True
+
+D2_M2_4_051	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_4_051	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_4_051	mocht	mogen	v(fin,past,aux_cop)	mogen	v(fin,past,aux_cop)	False
+D2_M2_4_051	v	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	False
+D2_M2_4_051	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_4_051	ontwenden	ontwenden	v(infin)	ontwenden	v(infin)	False
+
+D2_M2_4_052	nv	nu	adv(dem)	nu	adv(dem)	False
+D2_M2_4_052	vraecht	vragen	v(fin,pres,lex)	vragen	v(fin,pres,lex)	False
+D2_M2_4_052	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_4_052	sal	zullen	v(fin,pres,aux_cop)	zullen	v(fin,pres,aux_cop)	False
+D2_M2_4_052	ontbenden	ontbinden	v(infin)	ontbinden	v(infin)	False
+
+D2_M2_5_053	rtijn	rijten	n(sing)	rijten	n(sing)	True
+D2_M2_5_053	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	True
+D2_M2_5_053	sult	zullen	v(fin,pres,aux_cop)	zullen	v(fin,pres,aux_cop)	True
+D2_M2_5_053	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_5_053	verstaen	verstaan	v(infin)	verstaan	v(infin)	True
+
+D2_M2_5_054	vrouwe	vrouw	n(sing)	vrouw	n(sing)	True
+D2_M2_5_054	wel	wel	adv(gener)	wel	adv(gener)	True
+D2_M2_5_054	ghedaen	doen	v(participle,past)	doen	v(participle,past)	True
+
+D2_M2_5_055	t	tot	adp()	tot	adp()	True
+D2_M2_5_055	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_5_055	beuaen	bevangen	v(participle,past)	bevangen	v(participle,past)	True
+D2_M2_5_055	met	met	adp()	met	adp()	True
+D2_M2_5_055	minnen	min	n(sing)	min	n(sing)	True
+
+D2_M2_5_056	t	dat	adp()	dat	adp()	True
+D2_M2_5_056	gode	god	n(sing)	god	n(sing)	True
+D2_M2_5_056	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_5_056	onderdaen	onderdaan	adj()	onderdaan	adj()	True
+
+D2_M2_5_057	om	om	adp()	om	adp()	True
+D2_M2_5_057	haren	hun	pron(poss)	hun	pron(poss)	True
+D2_M2_5_057	wille	wil	n(sing)	wil	n(sing)	True
+D2_M2_5_057	gaen	gaan	v(infin)	gaan	v(infin)	True
+
+D2_M2_5_058	ht	het	v(fin,pres,aux_cop)	het	v(fin,pres,aux_cop)	True
+D2_M2_5_058	icse	ik+zij	pron(pers,1,sing)+pron(pers,3,plu)	ik+zij	pron(pers,1,sing)+pron(pers,3,plu)	True
+D2_M2_5_058	ghewinnen	gewinnen	v(infin)	gewinnen	v(infin)	True
+
+D2_M2_5_059	tan	dat+ne	adv(gener)	dat+ne	adv(gener)	True
+D2_M2_5_059	weetic	ik+weten	pron(pers,1,sing)+v(fin,pres,lex)	ik+weten	pron(pers,1,sing)+v(fin,pres,lex)	True
+D2_M2_5_059	sonder	zonder	adp()	zonder	adp()	True
+D2_M2_5_059	waen	waan	n(sing)	waan	n(sing)	True
+
+D2_M2_5_060	ij	2	num(card)	2	num(card)	True
+D2_M2_5_060	mijns	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_5_060	niet	niet	adv(neg)	niet	adv(neg)	True
+D2_M2_5_060	en	en	adv(neg)	en	adv(neg)	True
+D2_M2_5_060	acht	acht	v(fin,pres,lex)	acht	v(fin,pres,lex)	True
+D2_M2_5_060	een	een	art(indef)	een	art(indef)	True
+D2_M2_5_060	spaen	spaan	n(sing)	spaan	n(sing)	True
+
+D2_M2_5_061	n	ne	art(indef)	ne	art(indef)	True
+D2_M2_5_061	hert	hard	n(sing)	hard	n(sing)	True
+D2_M2_5_061	doet	doen	v(fin,pres,lex)	doen	v(fin,pres,lex)	True
+D2_M2_5_061	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_5_061	bekennen	bekennen	v(fin,pres,lex)	bekennen	v(fin,pres,lex)	True
+
+D2_M2_5_062	uder	uder	adp()	uder	adp()	True
+D2_M2_5_062	die	de	art(def)	de	art(def)	True
+D2_M2_5_062	werelt	wereld	n(sing)	wereld	n(sing)	True
+D2_M2_5_062	om	om	adp()	om	adp()	True
+D2_M2_5_062	vergaen	vergaan	v(participle,past)	vergaan	v(participle,past)	True
+
+D2_M2_5_063	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+D2_M2_5_063	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_5_063	niet	niet	adv(neg)	niet	adv(neg)	True
+D2_M2_5_063	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M2_5_063	sonde	zonde	v(fin,past,aux_cop)	zonde	v(fin,past,aux_cop)	True
+D2_M2_5_063	ontfaen	ontvangen	v(infin)	ontvangen	v(infin)	True
+
+D2_M2_5_064	aer	haar	pron(poss)	haar	pron(poss)	True
+D2_M2_5_064	herte	hart	n(sing)	hart	n(sing)	True
+D2_M2_5_064	binnen	binnen	adv(gener)	binnen	adv(gener)	True
+
+D2_M2_5_065	etoe	eto	adv(gener)	eto	adv(gener)	True
+D2_M2_5_065	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M2_5_065	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_5_065	geen	geen	pron(indef)	geen	pron(indef)	True
+D2_M2_5_065	versinnen	verzinnen	v(infin)	verzinnen	v(infin)	True
+
+D2_M2_6_066	n	na	art(indef)	na	art(indef)	True
+D2_M2_6_066	ander	ander	adj()	ander	adj()	True
+D2_M2_6_066	vrouwe	vrouw	n(sing)	vrouw	n(sing)	True
+D2_M2_6_066	die	die	pron(rel)	die	pron(rel)	True
+D2_M2_6_066	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_6_066	bemint	beminnen	v(fin,pres,lex)	beminnen	v(fin,pres,lex)	True
+
+D2_M2_6_067	en	ne	pron(pers,3,sing)	ne	pron(pers,3,sing)	True
+D2_M2_6_067	al	al	pron(indef)	al	pron(indef)	True
+D2_M2_6_067	dat	dat	pron(rel)	dat	pron(rel)	True
+D2_M2_6_067	sij	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+D2_M2_6_067	leuende	levend	adj()	levend	adj()	True
+D2_M2_6_067	kint	kind	n(sing)	kind	n(sing)	True
+
+D2_M2_6_068	ghestadiger	gestadig	adj()	gestadig	adj()	True
+D2_M2_6_068	trouwen	trouw	n(sing)	trouw	n(sing)	True
+
+D2_M2_6_069	in	in	adp()	in	adp()	True
+D2_M2_6_069	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_6_069	gheprijst	prijzen	v(participle,past)	prijzen	v(participle,past)	True
+D2_M2_6_069	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_6_069	twint	twint	n(sing)	twint	n(sing)	True
+
+D2_M2_6_070	er	eer	conj(subord)	eer	conj(subord)	True
+D2_M2_6_070	si	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	True
+D2_M2_6_070	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_6_070	die	de	art(def)	de	art(def)	True
+D2_M2_6_070	scoonste	schoon	adj()	schoon	adj()	True
+D2_M2_6_070	diemen	die+men	pron(rel)+pron(indef)	die+men	pron(rel)+pron(indef)	True
+D2_M2_6_070	vindt	vinden	v(fin,pres,lex)	vinden	v(fin,pres,lex)	True
+
+D2_M2_6_071	bloeme	bloem	n(sing)	bloem	n(sing)	True
+D2_M2_6_071	bouen	boven	adp()	boven	adp()	True
+D2_M2_6_071	alle	al	num(indef)	al	num(indef)	True
+D2_M2_6_071	vrouwen	vrouw	n(plu)	vrouw	n(plu)	True
+
+D2_M2_6_072	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_6_072	mijn	mijn	pron(poss)	mijn	pron(poss)	True
+D2_M2_6_072	herte	hart	n(sing)	hart	n(sing)	True
+D2_M2_6_072	soe	zo	adv(resum)	zo	adv(resum)	True
+D2_M2_6_072	verblint	verblinden	v(participle,past)	verblinden	v(participle,past)	True
+
+D2_M2_6_073	hem	hij	pron(refl,3,sing)	hij	pron(refl,3,sing)	True
+D2_M2_6_073	daertoe	daartoe	pronadv(dem)	daartoe	pronadv(dem)	True
+D2_M2_6_073	niet	niet	adv(neg)	niet	adv(neg)	True
+D2_M2_6_073	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M2_6_073	verbint	verbinden	v(fin,pres,lex)	verbinden	v(fin,pres,lex)	True
+
+D2_M2_6_074	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_6_074	icse	ik+zij	pron(pers,1,sing)+pron(pers,3,plu)	ik+zij	pron(pers,1,sing)+pron(pers,3,plu)	False
+D2_M2_6_074	yet	iets	adv(gener)	iets	adv(gener)	False
+D2_M2_6_074	wille	willen	v(fin,pres,aux_cop)	willen	v(fin,pres,aux_cop)	False
+D2_M2_6_074	scouwen	schouwen	v(infin)	schouwen	v(infin)	False
+
+D2_M2_6_075	hoe	hoe	adv(inter)	hoe	adv(inter)	False
+D2_M2_6_075	lief	lief	adj()	lief	adj()	False
+D2_M2_6_075	opsien	opzien	v(infin)	opzien	v(infin)	False
+D2_M2_6_075	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	False
+D2_M2_6_075	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_6_075	toe	toe	pronadv(prep)	toe	pronadv(prep)	False
+D2_M2_6_075	sindt	zijn	v(fin,pres,lex)	zijn	v(fin,pres,lex)	False
+
+D2_M2_6_076	het	het	pron(pers,3,sing)	het	pron(pers,3,sing)	True
+D2_M2_6_076	dunct	dunken	v(fin,pres,lex)	dunken	v(fin,pres,lex)	True
+D2_M2_6_076	mijnder	mijn	adj()	mijn	adj()	True
+D2_M2_6_076	herten	hart	n(sing)	hart	n(sing)	True
+D2_M2_6_076	alsen	als+hij	conj(subord)+pron(pers,3,sing)	als+hij	conj(subord)+pron(pers,3,sing)	True
+
+D2_M2_6_077	sij	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+D2_M2_6_077	liet	laten	v(fin,past,lex)	laten	v(fin,past,lex)	True
+D2_M2_6_077	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	True
+D2_M2_6_077	eer	eer	conj(subord)	eer	conj(subord)	True
+D2_M2_6_077	in	in	adp()	in	adp()	True
+D2_M2_6_077	stucken	stuk	n(plu)	stuk	n(plu)	True
+D2_M2_6_077	hou	houd	adv(gener)	houd	adv(gener)	True
+
+D2_M2_6_078	eer	eer	conj(subord)	eer	conj(subord)	True
+D2_M2_6_078	sij	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+D2_M2_6_078	daer	daar	pronadv(dem)	daar	pronadv(dem)	True
+D2_M2_6_078	om	om	pronadv(prep)	om	pronadv(prep)	True
+D2_M2_6_078	quam	komen	v(fin,past,lex)	komen	v(fin,past,lex)	True
+D2_M2_6_078	in	in	adp()	in	adp()	True
+D2_M2_6_078	rouw	rouw	n(prop)	rouw	n(prop)	True
+
+D2_M2_7_079	martijn	martin	n(prop)	martin	n(prop)	False
+D2_M2_7_079	hoort	horen	v(fin,pres,lex)	horen	v(fin,pres,lex)	False
+D2_M2_7_079	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_7_079	verstant	verstand	n(sing)	verstand	n(sing)	False
+
+D2_M2_7_080	dese	deze	pron(dem)	deze	pron(dem)	False
+D2_M2_7_080	twee	twee	num(card)	twee	num(card)	False
+D2_M2_7_080	sijn	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_7_080	in	in	adp()	in	adp()	False
+D2_M2_7_080	een	een	num(card)	een	num(card)	False
+D2_M2_7_080	verbant	verbinden	v(fin,past,lex)	verbinden	v(fin,past,lex)	False
+
+D2_M2_7_081	dat	dat	pron(dem)	dat	pron(dem)	True
+D2_M2_7_081	costen	kosten	v(infin)	kosten	v(infin)	True
+D2_M2_7_081	moet	moeten	v(fin,pres,aux_cop)	moeten	v(fin,pres,aux_cop)	True
+D2_M2_7_081	der	de	art(def)	de	art(def)	True
+D2_M2_7_081	eenredle	eendralde	n(sing)	eendralde	n(sing)	True
+
+D2_M2_7_082	nv	nu	adv(dem)	nu	adv(dem)	True
+D2_M2_7_082	heb	hebben	v(fin,pres,aux_cop)	hebben	v(fin,pres,aux_cop)	True
+D2_M2_7_082	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_7_082	die	de	art(def)	de	art(def)	True
+D2_M2_7_082	macht	macht	n(sing)	macht	n(sing)	True
+D2_M2_7_082	in	in	adp()	in	adp()	True
+D2_M2_7_082	die	de	art(def)	de	art(def)	True
+D2_M2_7_082	ha	a	n(sing)	a	n(sing)	True
+
+D2_M2_7_083	welcker	welk	pron(rel)	welk	pron(rel)	True
+D2_M2_7_083	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_7_083	wille	willen	v(fin,pres,aux_cop)	willen	v(fin,pres,aux_cop)	True
+D2_M2_7_083	breken	breken	v(infin)	breken	v(infin)	True
+D2_M2_7_083	den	de	art(def)	de	art(def)	True
+
+D2_M2_8_095	ymmer	immer	adv(gener)	immer	adv(gener)	True
+D2_M2_8_095	der	de	art(def)	de	art(def)	True
+D2_M2_8_095	herten	hart	n(sing)	hart	n(sing)	True
+D2_M2_8_095	aert	arend	n(prop)	arend	n(prop)	True
+
+D2_M2_8_096	darwaerts	daarwaarts	n(prop)	daarwaarts	n(prop)	True
+D2_M2_8_096	tijdt	tijd	n(sing)	tijd	n(sing)	True
+D2_M2_8_096	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_8_096	vaert	varen	v(fin,pres,lex)	varen	v(fin,pres,lex)	True
+
+D2_M2_8_097	aen	aan	adp()	aan	adp()	True
+D2_M2_8_097	haer	haar	pron(pers,3,sing)	haar	pron(pers,3,sing)	True
+D2_M2_8_097	quamen	komen	v(fin,past,lex)	komen	v(fin,past,lex)	True
+D2_M2_8_097	die	de	art(def)	de	art(def)	True
+D2_M2_8_097	wonden	wond	n(plu)	wond	n(plu)	True
+
+D2_M2_8_098	t	het	pron(pers,3,plu)	het	pron(pers,3,plu)	True
+D2_M2_8_098	al	al	num(indef)	al	num(indef)	True
+D2_M2_8_098	varen	varen	v(infin)	varen	v(infin)	True
+D2_M2_8_098	ghinderwaert	genewerde	v(participle,past)	genewerde	v(participle,past)	True
+
+D2_M2_8_099	el	el	adv(gener)	el	adv(gener)	True
+D2_M2_8_099	varens	varen	n(sing)	varen	n(sing)	True
+D2_M2_8_099	begaert	begeren	v(fin,pres,lex)	begeren	v(fin,pres,lex)	True
+
+D2_M2_8_100	tot	tot	adp()	tot	adp()	True
+D2_M2_8_100	allen	al	num(indef)	al	num(indef)	True
+D2_M2_8_100	stonden	stond	n(plu)	stond	n(plu)	True
+
+D2_M2_8_101	e	ee	n(sing)	ee	n(sing)	True
+D2_M2_8_101	die	die	pron(rel)	die	pron(rel)	True
+D2_M2_8_101	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_8_101	therte	hart+het	n(sing)+art(def)	hart+het	n(sing)+art(def)	True
+D2_M2_8_101	beswaert	bezwaren	v(participle,past)	bezwaren	v(participle,past)	True
+
+D2_M2_8_102	ick	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_8_102	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	True
+D2_M2_8_102	laten	laten	n(plu)	laten	n(plu)	True
+D2_M2_8_102	smaken	smaken	v(infin)	smaken	v(infin)	True
+D2_M2_8_102	tswaert	het+zwaard	art(def)+n(sing)	het+zwaard	art(def)+n(sing)	True
+
+D2_M2_8_103	are	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	False
+D2_M2_8_103	dan	dan	adv(dem)	dan	adv(dem)	False
+D2_M2_8_103	ondervonden	ondervinden	v(infin)	ondervinden	v(infin)	False
+
+D2_M2_8_104	ermoort	armoeder	v(fin,pres,lex)	armoeder	v(fin,pres,lex)	True
+D2_M2_8_104	dan	dan	conj(comp)	dan	conj(comp)	True
+D2_M2_8_104	sonden	zonde	n(plu)	zonde	n(plu)	True
+
+D2_M2_9_116	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+D2_M2_9_116	en	ne	adv(neg)	ne	adv(neg)	True
+D2_M2_9_116	konst	kunnen	v(fin,past,aux_cop)	kunnen	v(fin,past,aux_cop)	True
+D2_M2_9_116	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+D2_M2_9_116	niet	niet	adv(neg)	niet	adv(neg)	True
+D2_M2_9_116	bedw	beduwen	adv(gener)	beduwen	adv(gener)	True
+
+D2_M2_9_117	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_9_117	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_9_117	sterf	sterven	v(fin,past,lex)	sterven	v(fin,past,lex)	False
+D2_M2_9_117	bi	bij	adp()	bij	adp()	False
+D2_M2_9_117	desen	deze	pron(dem)	deze	pron(dem)	False
+D2_M2_9_117	dingen	ding	n(plu)	ding	n(plu)	False
+
+D2_M2_10_118	medea	mede	n(prop)	mede	n(prop)	True
+D2_M2_10_118	toocht	tocht	v(fin,pres,lex)	tocht	v(fin,pres,lex)	True
+D2_M2_10_118	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+D2_M2_10_118	selue	zelf	pron(dem)	zelf	pron(dem)	True
+D2_M2_10_118	de	de	art(def)	de	art(def)	True
+
+D2_M2_10_119	die	de	pron(rel)	de	pron(rel)	True
+D2_M2_10_119	roofde	roven	v(fin,past,lex)	roven	v(fin,past,lex)	True
+D2_M2_10_119	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_10_119	stal	stelen	v(fin,past,lex)	stelen	v(fin,past,lex)	True
+D2_M2_10_119	haers	haar	pron(refl,3,plu)	haar	pron(refl,3,plu)	True
+D2_M2_10_119	v	uw	pron(pers,2,plu)	uw	pron(pers,2,plu)	True
+
+D2_M2_10_120	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_10_120	versloech	verslaan	v(fin,past,lex)	verslaan	v(fin,past,lex)	True
+D2_M2_10_120	haren	haar	pron(poss)	haar	pron(poss)	True
+D2_M2_10_120	broed	brood	n(sing)	brood	n(sing)	True
+
+D2_M2_10_121	om	om	adp()	om	adp()	True
+D2_M2_10_121	iason	jason	n(prop)	jason	n(prop)	True
+D2_M2_10_121	dies	die	pron(rel)	die	pron(rel)	True
+D2_M2_10_121	haer	haar	pron(refl,3,sing)	haar	pron(refl,3,sing)	True
+D2_M2_10_121	cume	kuim	adv(gener)	kuim	adv(gener)	True
+
+D2_M2_10_122	liet	laten	v(fin,past,lex)	laten	v(fin,past,lex)	False
+D2_M2_10_122	sij	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	False
+D2_M2_10_122	conincrijc	koninkrijk	n(sing)	koninkrijk	n(sing)	False
+D2_M2_10_122	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_10_122	stadt	stad	n(sing)	stad	n(sing)	False
+
+D2_M2_10_123	vader	vader	n(sing)	vader	n(sing)	True
+D2_M2_10_123	suster	zuster	n(sing)	zuster	n(sing)	True
+D2_M2_10_123	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_10_123	m	ik	num(card)	ik	num(card)	True
+
+D2_M2_10_124	nochtans	nochtans	adv(gener)	nochtans	adv(gener)	True
+D2_M2_10_124	daer	daar	adv(dem)	daar	adv(dem)	True
+D2_M2_10_124	sije	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+
+D2_M2_10_125	wijsde	wijzen	v(fin,past,lex)	wijzen	v(fin,past,lex)	True
+D2_M2_10_125	haer	haar	pron(poss)	haar	pron(poss)	True
+D2_M2_10_125	rede	rede	n(sing)	rede	n(sing)	True
+
+D2_M2_11_137	t	het	pron(pers,3,sing)	het	pron(pers,3,sing)	True
+D2_M2_11_137	woent	wonen	v(fin,pres,lex)	wonen	v(fin,pres,lex)	True
+D2_M2_11_137	sonder	zonder	adp()	zonder	adp()	True
+D2_M2_11_137	ghetal	getal	n(sing)	getal	n(sing)	True
+
+D2_M2_11_138	berch	berg	n(sing)	berg	n(sing)	True
+D2_M2_11_138	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_11_138	in	in	adp()	in	adp()	True
+D2_M2_11_138	dal	dal	n(sing)	dal	n(sing)	True
+
+D2_M2_11_139	c	c	num(card)	c	num(card)	True
+D2_M2_11_139	hertoge	hertog	n(sing)	hertog	n(sing)	True
+D2_M2_11_139	of	of	conj(coord)	of	conj(coord)	True
+D2_M2_11_139	graue	graaf	n(sing)	graaf	n(sing)	True
+
+D2_M2_11_140	uen	uw	v(participle,past)	uw	v(participle,past)	True
+D2_M2_11_140	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+D2_M2_11_140	hier	hier	pronadv(dem)	hier	pronadv(dem)	True
+D2_M2_11_140	tegen	tegen	pronadv(prep)	tegen	pronadv(prep)	True
+D2_M2_11_140	smal	smal	adj()	smal	adj()	True
+
+D2_M2_11_141	niet	niet	adv(neg)	niet	adv(neg)	True
+D2_M2_11_141	weert	zijn+het	adj()	zijn+het	adj()	True
+D2_M2_11_141	sijn	zijn	v(infin)	zijn	v(infin)	True
+D2_M2_11_141	een	een	art(indef)	een	art(indef)	True
+D2_M2_11_141	bal	bal	n(sing)	bal	n(sing)	True
+
+D2_M2_11_142	t	dat	pron(pers,3,sing)	dat	pron(pers,3,sing)	True
+D2_M2_11_142	met	met	adp()	met	adp()	True
+D2_M2_11_142	caue	kave	n(sing)	kave	n(sing)	True
+
+D2_M2_11_143	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+D2_M2_11_143	se	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+D2_M2_11_143	baue	boven	n(prop)	boven	n(prop)	True
+
+D2_M2_12_144	gh	g	pron(pers,2,plu)	g	pron(pers,2,plu)	True
+D2_M2_12_144	n	na	art(indef)	na	art(indef)	True
+D2_M2_12_144	stout	stout	adj()	stout	adj()	True
+D2_M2_12_144	sergiant	sergeant	n(sing)	sergeant	n(sing)	True
+
+D2_M2_12_145	n	na	misc()	na	misc()	True
+D2_M2_12_145	op	op	v(prtcl)	op	v(prtcl)	True
+D2_M2_12_145	ende	en	conj(coord)	en	conj(coord)	True
+D2_M2_12_145	vast	vast	adj()	vast	adj()	True
+D2_M2_12_145	bant	band	n(sing)	band	n(sing)	True
+
+D2_M2_12_146	n	ne	num(card)	ne	num(card)	True
+D2_M2_12_146	ontbinden	ontbinden	v(infin)	ontbinden	v(infin)	True
+
+D2_M2_13_158	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_13_158	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	False
+D2_M2_13_158	hier	hier	adv(dem)	hier	adv(dem)	False
+D2_M2_13_158	bringhet	brengen	v(fin,pres,lex)	brengen	v(fin,pres,lex)	False
+D2_M2_13_158	voort	voort	adv(gener)	voort	adv(gener)	False
+
+D2_M2_13_159	met	met	adp()	met	adp()	False
+D2_M2_13_159	fabulen	fabul	n(plu)	fabul	n(plu)	False
+D2_M2_13_159	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_13_159	poeterijen	poeterij	n(sing)	poeterij	n(sing)	False
+
+D2_M2_13_160	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_13_160	medea	mede	n(prop)	mede	n(prop)	False
+D2_M2_13_160	dede	doen	v(fin,past,lex)	doen	v(fin,past,lex)	False
+D2_M2_13_160	moort	moord	n(sing)	moord	n(sing)	False
+
+D2_M2_13_161	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_13_161	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_13_161	narcisius	narcisius	n(sing)	narcisius	n(sing)	False
+D2_M2_13_161	heeft	hebben	v(fin,pres,aux_cop)	hebben	v(fin,pres,aux_cop)	False
+D2_M2_13_161	versmoort	versmoord	v(participle,past)	versmoord	v(participle,past)	False
+
+D2_M2_13_162	dits	dit+zijn	pron(dem)+v(fin,pres,aux_cop)	dit+zijn	pron(dem)+v(fin,pres,aux_cop)	False
+D2_M2_13_162	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_13_162	van	van	adp()	van	adp()	False
+D2_M2_13_162	sottyen	sottien	n(prop)	sottien	n(prop)	False
+
+D2_M2_13_163	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_13_163	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_13_163	datter	dat+er	conj(subord)+pronadv(pers)	dat+er	conj(subord)+pronadv(pers)	False
+D2_M2_13_163	toebehoort	toebehoren	v(fin,pres,lex)	toebehoren	v(fin,pres,lex)	False
+
+D2_M2_13_164	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_13_164	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_13_164	met	met	adp()	met	adp()	False
+D2_M2_13_164	sonden	zonde	n(plu)	zonde	n(plu)	False
+D2_M2_13_164	nye	nieuw	adv(neg)	nieuw	adv(neg)	False
+D2_M2_13_164	betoort	betoorten	v(participle,past)	betoorten	v(participle,past)	False
+
+D2_M2_13_165	wien	wie	pron(rel)	wie	pron(rel)	False
+D2_M2_13_165	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_13_165	reyne	rein	adj()	rein	adj()	False
+D2_M2_13_165	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_13_165	becoort	bekoren	v(fin,pres,lex)	bekoren	v(fin,pres,lex)	False
+
+D2_M2_13_166	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_13_166	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_13_166	mach	mogen	v(fin,pres,aux_cop)	mogen	v(fin,pres,aux_cop)	False
+D2_M2_13_166	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_13_166	sijn	zijn	v(infin)	zijn	v(infin)	False
+D2_M2_13_166	verdoort	verdoorden	v(participle,past)	verdoorden	v(participle,past)	False
+
+D2_M2_14_179	al	al	adv(gener)	al	adv(gener)	False
+D2_M2_14_179	dooch	do's1eg	v(fin,pres,lex)	do's1eg	v(fin,pres,lex)	False
+D2_M2_14_179	der	de	art(def)	de	art(def)	False
+D2_M2_14_179	die	de	art(def)	de	art(def)	False
+D2_M2_14_179	sulcke	zulk	pron(dem)	zulk	pron(dem)	False
+D2_M2_14_179	om	om	adp()	om	adp()	False
+D2_M2_14_179	torment	torment	n(sing)	torment	n(sing)	False
+
+D2_M2_14_180	sulck	zulk	pron(dem)	zulk	pron(dem)	False
+D2_M2_14_180	als	als	conj(subord)	als	conj(subord)	False
+D2_M2_14_180	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_14_180	der	de	art(def)	de	art(def)	False
+D2_M2_14_180	doget	deugd	n(sing)	deugd	n(sing)	False
+D2_M2_14_180	sendt	zenden	v(fin,pres,lex)	zenden	v(fin,pres,lex)	False
+
+D2_M2_14_181	wie	wie	pron(inter)	wie	pron(inter)	False
+D2_M2_14_181	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_14_181	dier	die	pron(rel)+pronadv(pers)	die	pron(rel)+pronadv(pers)	False
+D2_M2_14_181	af	af	pronadv(prep)	af	pronadv(prep)	False
+D2_M2_14_181	messchiede	misschieden	v(fin,past,lex)	misschieden	v(fin,past,lex)	False
+
+D2_M2_14_182	ghelijc	gelijk	adv(gener)	gelijk	adv(gener)	False
+D2_M2_14_182	den	de	art(def)	de	art(def)	False
+D2_M2_14_182	heydenen	heiden	n(plu)	heiden	n(plu)	False
+D2_M2_14_182	diede	die+het	v(fin,past,lex)	die+het	v(fin,past,lex)	False
+
+D2_M2_15_183	abraham	abraham	n(prop)	abraham	n(prop)	False
+D2_M2_15_183	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_15_183	vrou	vrouw	n(sing)	vrouw	n(sing)	False
+D2_M2_15_183	sara	sara	n(prop)	sara	n(prop)	False
+D2_M2_15_183	man	man	n(sing)	man	n(sing)	False
+
+D2_M2_15_184	doe	toen	conj(subord)	toen	conj(subord)	False
+D2_M2_15_184	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_15_184	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_15_184	amye	amie	n(sing)	amie	n(sing)	False
+D2_M2_15_184	te	te	adp()	te	adp()	False
+D2_M2_15_184	verheffen	verheffen	v(infin)	verheffen	v(infin)	False
+D2_M2_15_184	began	beginnen	v(fin,past,aux_cop)	beginnen	v(fin,past,aux_cop)	False
+
+D2_M2_15_185	bouen	boven	adp()	boven	adp()	False
+D2_M2_15_185	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_15_185	vrouwen	vrouw	n(sing)	vrouw	n(sing)	False
+
+D2_M2_15_186	daer	daar	pronadv(dem)	daar	pronadv(dem)	False
+D2_M2_15_186	en	en	adv(neg)	en	adv(neg)	False
+D2_M2_15_186	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_15_186	geen	geen	pron(indef)	geen	pron(indef)	False
+D2_M2_15_186	houden	houden	v(infin)	houden	v(infin)	False
+D2_M2_15_186	an	aan	adp()	aan	adp()	False
+
+D2_M2_15_187	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_15_187	deedse	doen+zij	v(fin,past,aux_cop)+pron(pers,3,sing)	doen+zij	v(fin,past,aux_cop)+pron(pers,3,sing)	False
+D2_M2_15_187	wech	weg	n(sing)	weg	n(sing)	False
+D2_M2_15_187	redene	reden	n(sing)	reden	n(sing)	False
+D2_M2_15_187	verwan	verwinnen	v(fin,past,lex)	verwinnen	v(fin,past,lex)	False
+
+D2_M2_15_188	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_15_188	herte	hart	n(sing)	hart	n(sing)	False
+D2_M2_15_188	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_15_188	vol	vol	adj()	vol	adj()	False
+D2_M2_15_188	trouwen	trouw	n(sing)	trouw	n(sing)	False
+
+D2_M2_16_200	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_16_200	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	False
+D2_M2_16_200	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	False
+D2_M2_16_200	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_16_200	haer	haar	pron(poss)	haar	pron(poss)	False
+D2_M2_16_200	ghewin	gewin	n(sing)	gewin	n(sing)	False
+
+D2_M2_16_201	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_201	yondt	vond	v(fin,past,lex)	vond	v(fin,past,lex)	False
+D2_M2_16_201	vroech	vroeg	adv(gener)	vroeg	adv(gener)	False
+D2_M2_16_201	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_16_201	spade	spade	adv(gener)	spade	adv(gener)	False
+
+D2_M2_16_202	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_202	dunct	dunken	v(fin,pres,lex)	dunken	v(fin,pres,lex)	False
+D2_M2_16_202	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_16_202	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_202	meer	meer	adv(gener)	meer	adv(gener)	False
+D2_M2_16_202	sculdich	schuldig	adj()	schuldig	adj()	False
+D2_M2_16_202	ben	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+
+D2_M2_16_203	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	False
+D2_M2_16_203	di	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+D2_M2_16_203	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_203	koos	kos	n(prop)	kos	n(prop)	False
+D2_M2_16_203	int	in+dat	adp()+art(def)	in+dat	adp()+art(def)	False
+D2_M2_16_203	begin	begin	n(sing)	begin	n(sing)	False
+
+D2_M2_16_204	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_16_204	aen	aan	adp()	aan	adp()	False
+D2_M2_16_204	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_204	blijft	blijven	v(fin,pres,lex)	blijven	v(fin,pres,lex)	False
+D2_M2_16_204	gestade	gestade	adj()	gestade	adj()	False
+
+D2_M2_16_205	dan	dan	conj(comp)	dan	conj(comp)	False
+D2_M2_16_205	die	de	art(def)	de	art(def)	False
+D2_M2_16_205	fierlijc	fierlijk	adj()	fierlijk	adj()	False
+D2_M2_16_205	haren	haar	pron(poss)	haar	pron(poss)	False
+D2_M2_16_205	kin	kin	n(sing)	kin	n(sing)	False
+
+D2_M2_16_206	te	te	adp()	te	adp()	False
+D2_M2_16_206	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_206	draecht	dragen	v(fin,pres,lex)	dragen	v(fin,pres,lex)	False
+D2_M2_16_206	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_16_206	haer	haar	pron(poss)	haar	pron(poss)	False
+D2_M2_16_206	ghespin	spijnen	n(sing)	spijnen	n(sing)	False
+
+D2_M2_16_207	van	van	adp()	van	adp()	False
+D2_M2_16_207	mijnder	mijn	adv(gener)	mijn	adv(gener)	False
+D2_M2_16_207	elder	elder	adv(gener)	elder	adv(gener)	False
+D2_M2_16_207	draecht	dragen	v(fin,pres,lex)	dragen	v(fin,pres,lex)	False
+D2_M2_16_207	te	te	adp()	te	adp()	False
+D2_M2_16_207	sade	zaad	n(sing)	zaad	n(sing)	False
+
+D2_M2_16_208	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_16_208	dier	die	pron(rel)	die	pron(rel)	False
+D2_M2_16_208	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_16_208	om	om	adp()	om	adp()	False
+D2_M2_16_208	bade	bode	n(sing)	bode	n(sing)	False
+
+D2_M2_17_209	jacop	jacob	n(prop)	jacob	n(prop)	False
+D2_M2_17_209	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_17_209	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	False
+D2_M2_17_209	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_17_209	en	en	conj(coord)	en	conj(coord)	False
+D2_M2_17_209	acht	acht	v(fin,pres,lex)	acht	v(fin,pres,lex)	False
+
+D2_M2_17_221	sijns	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_17_221	willen	wil	n(sing)	wil	n(sing)	False
+D2_M2_17_221	ontbeeren	ontberen	v(infin)	ontberen	v(infin)	False
+
+D2_M2_17_222	wat	wat	pron(inter)	wat	pron(inter)	False
+D2_M2_17_222	macht	macht	n(sing)	macht	n(sing)	False
+D2_M2_17_222	hadde	hebben	v(fin,past,lex)	hebben	v(fin,past,lex)	False
+D2_M2_17_222	sampsoen	simson	n(prop)	simson	n(prop)	False
+
+D2_M2_18_223	dauid	david	n(prop)	david	n(prop)	False
+D2_M2_18_223	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_18_223	salomoen	salomo	n(prop)	salomo	n(prop)	False
+
+D2_M2_18_224	teghen	tegen	adp()	tegen	adp()	False
+D2_M2_18_224	die	de	art(def)	de	art(def)	False
+D2_M2_18_224	cracht	kracht	n(sing)	kracht	n(sing)	False
+D2_M2_18_224	van	van	adp()	van	adp()	False
+D2_M2_18_224	minnen	minne	n(prop)	minne	n(prop)	False
+
+D2_M2_18_225	daer	daar	adv(dem)	daar	adv(dem)	False
+D2_M2_18_225	en	en	adv(neg)	en	adv(neg)	False
+D2_M2_18_225	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_18_225	tsegen	tegen	adp()	tegen	adp()	False
+D2_M2_18_225	geen	geen	pron(indef)	geen	pron(indef)	False
+D2_M2_18_225	doen	doen	v(infin)	doen	v(infin)	False
+
+D2_M2_18_226	sorobabel	zerubbabel	n(prop)	zerubbabel	n(prop)	False
+D2_M2_18_226	in	in	adp()	in	adp()	False
+D2_M2_18_226	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_18_226	sermoen	sermoen	n(sing)	sermoen	n(sing)	False
+
+D2_M2_18_227	doet	doen	v(fin,pres,lex)	doen	v(fin,pres,lex)	False
+D2_M2_18_227	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_18_227	wel	wel	adv(gener)	wel	adv(gener)	False
+D2_M2_18_227	bekennen	bekennen	v(infin)	bekennen	v(infin)	False
+
+D2_M2_18_228	soe	zo	adv(indef)	zo	adv(indef)	False
+D2_M2_18_228	wie	wie	pron(pers,1,plu)	wie	pron(pers,1,plu)	False
+D2_M2_18_228	in	in	adp()	in	adp()	False
+D2_M2_18_228	vrouwen	vrouw	n(plu)	vrouw	n(plu)	False
+D2_M2_18_228	minnen	min	v(fin,pres,lex)	min	v(fin,pres,lex)	False
+D2_M2_18_228	spoen	spieden	v(fin,pres,lex)	spieden	v(fin,pres,lex)	False
+
+D2_M2_18_229	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_18_229	en	en	adv(neg)	en	adv(neg)	False
+D2_M2_18_229	mach	mogen	v(fin,pres,aux_cop)	mogen	v(fin,pres,aux_cop)	False
+D2_M2_18_229	anders	anders	adv(gener)	anders	adv(gener)	False
+D2_M2_18_229	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_18_229	gheroen	geroon	v(infin)	geroon	v(infin)	False
+
+D2_M2_18_230	in	in	adp()	in	adp()	False
+D2_M2_18_230	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_18_230	herte	hart	n(sing)	hart	n(sing)	False
+D2_M2_18_230	binnen	binnen	adp()	binnen	adp()	False
+
+D2_M2_19_242	porringhe	porrengen	n(sing)	porrengen	n(sing)	False
+D2_M2_19_242	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_19_242	den	de	art(def)	de	art(def)	False
+D2_M2_19_242	sin	zin	pron(poss)	zin	pron(poss)	False
+D2_M2_19_242	wech	weg	n(sing)	weg	n(sing)	False
+D2_M2_19_242	thiet	tien	art(def)+n(sing)	tien	art(def)+n(sing)	False
+
+D2_M2_19_243	die	de	pron(rel)	de	pron(rel)	False
+D2_M2_19_243	zeere	zeer	adv(gener)	zeer	adv(gener)	False
+D2_M2_19_243	treect	trekken	v(fin,pres,lex)	trekken	v(fin,pres,lex)	False
+D2_M2_19_243	ten	de+te	adp()+art(def)	de+te	adp()+art(def)	False
+D2_M2_19_243	beghinne	begin	n(sing)	begin	n(sing)	False
+
+D2_M2_19_244	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_19_244	de	de	art(def)	de	art(def)	False
+D2_M2_19_244	reden	rede	n(plu)	rede	n(plu)	False
+D2_M2_19_244	te	te	adp()	te	adp()	False
+D2_M2_19_244	ghemoeten	gemoeten	v(infin)	gemoeten	v(infin)	False
+D2_M2_19_244	pliet	plegen	v(fin,pres,lex)	plegen	v(fin,pres,lex)	False
+
+D2_M2_19_245	dus	dus	adv(dem)	dus	adv(dem)	False
+D2_M2_19_245	ontbant	ontbinden	v(fin,past,lex)	ontbinden	v(fin,past,lex)	False
+D2_M2_19_245	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_19_245	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_19_245	beschiet	beschieten	v(fin,pres,lex)	beschieten	v(fin,pres,lex)	False
+
+D2_M2_19_246	mijn	mijn	pron(poss)	mijn	pron(poss)	False
+D2_M2_19_246	meester	meester	n(sing)	meester	n(sing)	False
+D2_M2_19_246	als	als	conj(comp)	als	conj(comp)	False
+D2_M2_19_246	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_19_246	kinne	kennen	v(fin,pres,lex)	kennen	v(fin,pres,lex)	False
+
+D2_M2_19_247	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_19_247	mijn	mijn	pron(poss)	mijn	pron(poss)	False
+D2_M2_19_247	verstant	verstand	n(sing)	verstand	n(sing)	False
+D2_M2_19_247	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_19_247	dinne	dienen	adj()	dienen	adj()	False
+
+D2_M2_20_248	oft	of	conj(subord)+pron(pers,3,sing)	of	conj(subord)+pron(pers,3,sing)	False
+D2_M2_20_248	die	de	art(def)	de	art(def)	False
+D2_M2_20_248	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_20_248	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_20_248	alst	als+het	conj(subord)+pron(pers,3,sing)	als+het	conj(subord)+pron(pers,3,sing)	False
+D2_M2_20_248	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+
+D2_M2_20_249	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_20_249	ben	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_20_249	seker	zeker	adj()	zeker	adj()	False
+D2_M2_20_249	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_20_249	ghewes	gewis	adj()	gewis	adj()	False
+
+D2_M2_20_250	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_20_250	volchs	volk	v(fin,pres,lex)	volk	v(fin,pres,lex)	False
+D2_M2_20_250	den	de	art(def)	de	art(def)	False
+D2_M2_20_250	iersten	eerst	num(ord)	eerst	num(ord)	False
+D2_M2_20_250	woorde	worden	n(sing)	worden	n(sing)	False
+
+D2_M2_20_251	die	de	art(def)	de	art(def)	False
+D2_M2_20_251	waerheit	waarheid	n(sing)	waarheid	n(sing)	False
+D2_M2_20_251	lide	lijden	v(fin,past,lex)	lijden	v(fin,past,lex)	False
+D2_M2_20_251	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_20_251	des	de	pron(dem)	de	pron(dem)	False
+
+D2_M2_20_252	sij	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	False
+D2_M2_20_252	en	ne	conj(coord)	ne	conj(coord)	False
+D2_M2_20_252	smaecte	smaken	v(fin,past,lex)	smaken	v(fin,past,lex)	False
+D2_M2_20_252	swaert	zwaard	n(sing)	zwaard	n(sing)	False
+D2_M2_20_252	noch	noch	conj(coord)	noch	conj(coord)	False
+D2_M2_20_252	mes	mest	n(sing)	mest	n(sing)	False
+
+D2_M2_20_253	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_20_253	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_20_253	therte	hart+het	n(sing)+art(def)	hart+het	n(sing)+art(def)	False
+D2_M2_20_253	doerboorde	doorboorde	v(fin,past,lex)	doorboorde	v(fin,past,lex)	False
+
+D2_M2_20_254	thertte	hart+het	n(sing)	hart+het	n(sing)	False
+D2_M2_20_254	nemmermeer	nimmermeer	adv(gener)	nimmermeer	adv(gener)	False
+D2_M2_20_254	ghenes	gene	n(sing)	gene	n(sing)	False
+
+D2_M2_20_255	noch	noch	conj(coord)	noch	conj(coord)	False
+D2_M2_20_255	gheruste	gerust	v(fin,past,lex)	gerust	v(fin,past,lex)	False
+D2_M2_20_255	noch	noch	conj(coord)	noch	conj(coord)	False
+D2_M2_20_255	ghetes	geten	n(sing)	geten	n(sing)	False
+
+D2_M2_20_256	liech	liegen	v(fin,pres,lex)	liegen	v(fin,pres,lex)	False
+D2_M2_20_256	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_20_256	van	van	adp()	van	adp()	False
+D2_M2_20_256	eenen	een	num(card)	een	num(card)	False
+D2_M2_20_256	woerde	woord	n(sing)	woord	n(sing)	False
+
+D2_M2_20_257	jacop	jacob	n(prop)	jacob	n(prop)	False
+D2_M2_20_257	proeft	proost	v(imp)	proost	v(imp)	False
+D2_M2_20_257	wel	wel	adv(gener)	wel	adv(gener)	False
+D2_M2_20_257	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_20_257	les	lezen	misc()	lezen	misc()	False
+
+D2_M2_20_258	dies	dat	pron(dem)	dat	pron(dem)	False
+D2_M2_20_258	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_20_258	mijn	mijn	pron(poss)	mijn	pron(poss)	False
+D2_M2_20_258	herte	hart	n(sing)	hart	n(sing)	False
+D2_M2_20_258	wel	wel	adv(gener)	wel	adv(gener)	False
+D2_M2_20_258	ghewes	gewis	adj()	gewis	adj()	False
+
+D2_M2_20_259	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_20_259	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_20_259	mi	mij	pron(refl,1,sing)	mij	pron(refl,1,sing)	False
+D2_M2_20_259	eer	eer	adv(gener)	eer	adv(gener)	False
+D2_M2_20_259	versmoorde	versmoren	v(fin,past,lex)	versmoren	v(fin,past,lex)	False
+
+D2_M2_20_260	eer	eer	conj(subord)	eer	conj(subord)	False
+D2_M2_20_260	icse	ik+zij	pron(pers,1,sing)+pron(pers,3,plu)	ik+zij	pron(pers,1,sing)+pron(pers,3,plu)	False
+D2_M2_20_260	steruen	sterven	v(infin)	sterven	v(infin)	False
+D2_M2_20_260	hoorde	horen	v(fin,past,aux_cop)	horen	v(fin,past,aux_cop)	False
+
+D2_M2_21_261	martijn	martin	n(prop)	martin	n(prop)	False
+D2_M2_21_261	ruyt	rude	n(prop)	rude	n(prop)	False
+D2_M2_21_261	grammarijen	grammerij	n(prop)	grammerij	n(prop)	False
+
+D2_M2_21_262	du	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+D2_M2_21_262	pleges	plegen	v(fin,pres,lex)	plegen	v(fin,pres,lex)	False
+D2_M2_21_262	des	de	pron(dem)	de	pron(dem)	False
+D2_M2_21_262	veel	veel	num(indef)	veel	num(indef)	False
+D2_M2_21_262	lieden	lieden	n(plu)	lieden	n(plu)	False
+D2_M2_21_262	plien	plegen	v(fin,pres,lex)	plegen	v(fin,pres,lex)	False
+
+D2_M2_21_263	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_21_263	de	de	art(def)	de	art(def)	False
+D2_M2_21_263	waerheit	waarheid	n(sing)	waarheid	n(sing)	False
+D2_M2_21_263	noode	node	adv(gener)	node	adv(gener)	False
+D2_M2_21_263	lijen	lijden	v(fin,pres,lex)	lijden	v(fin,pres,lex)	False
+
+D2_M2_21_264	mesdaden	misdaad	n(plu)	misdaad	n(plu)	False
+D2_M2_21_264	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_21_264	den	de	art(def)	de	art(def)	False
+D2_M2_21_264	wijsen	wijze	n(plu)	wijze	n(plu)	False
+D2_M2_21_264	gheschien	geschieden	v(participle,past)	geschieden	v(participle,past)	False
+
+D2_M2_21_265	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_21_265	salmen	zullen+men	v(fin,pres,aux_cop)+pron(indef)	zullen+men	v(fin,pres,aux_cop)+pron(indef)	False
+D2_M2_21_265	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_21_265	in	in	adp()	in	adp()	False
+D2_M2_21_265	exemplen	exempel	n(plu)	exempel	n(plu)	False
+D2_M2_21_265	thijen	tijgen	n(sing)	tijgen	n(sing)	False
+
+D2_M2_21_266	maer	maar	conj(coord)	maar	conj(coord)	False
+D2_M2_21_266	gode	god	n(sing)	god	n(sing)	False
+D2_M2_21_266	benedien	benijden	v(fin,pres,lex)	benijden	v(fin,pres,lex)	False
+
+D2_M2_21_267	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_21_267	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_21_267	daer	daar	adv(dem)	daar	adv(dem)	False
+D2_M2_21_267	leert	leren	v(fin,pres,lex)	leren	v(fin,pres,lex)	False
+D2_M2_21_267	sonder	zonder	adp()	zonder	adp()	False
+D2_M2_21_267	vlyen	vlieden	n(sing)	vlieden	n(sing)	False
+
+D2_M2_21_268	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_21_268	op	op	adp()	op	adp()	False
+D2_M2_21_268	gherechte	gerecht	adj()	gerecht	adj()	False
+D2_M2_21_268	minne	minne	n(sing)	minne	n(sing)	False
+D2_M2_21_268	sien	zien	v(infin)	zien	v(infin)	False
+
+D2_M2_21_269	des	de	art(def)	de	art(def)	False
+D2_M2_21_269	hopick	hopen	n(sing)	hopen	n(sing)	False
+D2_M2_21_269	aen	aan	adp()	aan	adp()	False
+D2_M2_21_269	marien	maria	n(prop)	maria	n(prop)	False
+
+D2_M2_21_270	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_21_270	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_21_270	die	die	pron(dem)	die	pron(dem)	False
+D2_M2_21_270	doe	doen	v(fin,pres,lex)	doen	v(fin,pres,lex)	False
+D2_M2_21_270	noch	nog	adv(gener)	nog	adv(gener)	False
+D2_M2_21_270	heden	heden	adv(gener)	heden	adv(gener)	False
+D2_M2_21_270	ghijen	gij+ne	v(infin)	gij+ne	v(infin)	False
+
+D2_M2_21_271	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_21_271	ghi	gij	pron(pers,2,plu)	gij	pron(pers,2,plu)	False
+D2_M2_21_271	sijt	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_21_271	een	een	art(indef)	een	art(indef)	False
+D2_M2_21_271	paijen	paai	n(sing)	paai	n(sing)	False
+
+D2_M2_21_272	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_21_272	vol	vol	adv(gener)	vol	adv(gener)	False
+D2_M2_21_272	heresien	heresie	n(plu)	heresie	n(plu)	False
+
+D2_M2_21_273	ofte	of	conj(coord)	of	conj(coord)	False
+D2_M2_21_273	van	van	adp()	van	adp()	False
+D2_M2_21_273	sduuels	de+duivel	art(def)+n(sing)	de+duivel	art(def)+n(sing)	False
+D2_M2_21_273	partien	partij	n(plu)	partij	n(plu)	False
+
+D2_M2_22_274	martijn	martin	n(prop)	martin	n(prop)	False
+D2_M2_22_274	hooret	horen	v(fin,pres,lex)	horen	v(fin,pres,lex)	False
+D2_M2_22_274	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_22_274	verstant	verstand	n(sing)	verstand	n(sing)	False
+
+D2_M2_22_275	wie	wie	pron(inter)	wie	pron(inter)	False
+D2_M2_22_275	wast	wassen	v(fin,pres,lex)	wassen	v(fin,pres,lex)	False
+D2_M2_22_275	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_22_275	dierste	de+eerst	art(def)+num(ord)	de+eerst	art(def)+num(ord)	False
+D2_M2_22_275	minne	min	n(sing)	min	n(sing)	False
+D2_M2_22_275	vant	vinden	v(fin,past,lex)	vinden	v(fin,past,lex)	False
+
+D2_M2_22_276	dan	dan	conj(comp)	dan	conj(comp)	False
+D2_M2_22_276	god	god	n(prop)	god	n(prop)	False
+D2_M2_22_276	die	de	art(def)	de	art(def)	False
+D2_M2_22_276	selue	zelf	pron(dem)	zelf	pron(dem)	False
+D2_M2_22_276	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_22_276	minne	minne	n(sing)	minne	n(sing)	False
+
+D2_M2_22_277	al	al	num(indef)	al	num(indef)	False
+D2_M2_22_277	dat	dat	pron(rel)	dat	pron(rel)	False
+D2_M2_22_277	maecte	maken	v(fin,past,lex)	maken	v(fin,past,lex)	False
+D2_M2_22_277	ye	ie	n(prop)	ie	n(prop)	False
+D2_M2_22_277	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_22_277	hant	hand	n(sing)	hand	n(sing)	False
+
+D2_M2_22_278	minnet	minnen	v(fin,pres,lex)	minnen	v(fin,pres,lex)	False
+D2_M2_22_278	sijnder	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_22_278	herten	hart	n(sing)	hart	n(sing)	False
+D2_M2_22_278	bant	band	n(sing)	band	n(sing)	False
+
+D2_M2_22_279	met	met	adp()	met	adp()	False
+D2_M2_22_279	ghestadigen	gestadig	adj()	gestadig	adj()	False
+D2_M2_22_279	sinne	zin	n(sing)	zin	n(sing)	False
+
+D2_M2_22_280	ja	ja	interj()	ja	interj()	False
+D2_M2_22_280	lucifer	lucifer	n(prop)	lucifer	n(prop)	False
+D2_M2_22_280	den	de	art(def)	de	art(def)	False
+D2_M2_22_280	helschen	hels	adj()	hels	adj()	False
+D2_M2_22_280	viant	vijand	n(sing)	vijand	n(sing)	False
+
+D2_M2_22_281	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_22_281	haet	hebben	v(fin,pres,aux_cop)	hebben	v(fin,pres,aux_cop)	False
+D2_M2_22_281	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_22_281	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_22_281	dat	dat	pron(dem)	dat	pron(dem)	False
+D2_M2_22_281	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_22_281	bekant	bekennen	v(participle,past)	bekennen	v(participle,past)	False
+
+D2_M2_22_282	noch	nog	conj(coord)	nog	conj(coord)	False
+D2_M2_22_282	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_22_282	dede	doen	v(fin,past,lex)	doen	v(fin,past,lex)	False
+D2_M2_22_282	van	van	adp()	van	adp()	False
+D2_M2_22_282	beghinne	begin	n(sing)	begin	n(sing)	False
+
+D2_M2_22_283	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_22_283	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_22_283	sidt	zitten	v(fin,pres,lex)	zitten	v(fin,pres,lex)	False
+D2_M2_22_283	inden	in+de	adp()+art(def)	in+de	adp()+art(def)	False
+D2_M2_22_283	helschen	hels	adj()	hels	adj()	False
+D2_M2_22_283	brant	brand	n(sing)	brand	n(sing)	False
+
+D2_M2_22_284	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_22_284	doet	doen	n(sing)	doen	n(sing)	False
+D2_M2_22_284	der	de	art(def)	de	art(def)	False
+D2_M2_22_284	houerdien	hovaardij	n(sing)	hovaardij	n(sing)	False
+D2_M2_22_284	pant	pand	n(sing)	pand	n(sing)	False
+
+D2_M2_22_285	die	de	art(def)	de	art(def)	False
+D2_M2_22_285	helsche	hels	adj()	hels	adj()	False
+D2_M2_22_285	coninghinne	koningin	n(sing)	koningin	n(sing)	False
+
+D2_M2_22_286	daer	daar	pronadv(rel)	daar	pronadv(rel)	False
+D2_M2_22_286	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_22_286	blijft	blijven	v(fin,pres,lex)	blijven	v(fin,pres,lex)	False
+D2_M2_22_286	altoes	altoos	adv(gener)	altoos	adv(gener)	False
+D2_M2_22_286	inne	in	adp()	in	adp()	False
+
+D2_M2_23_287	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_23_287	dit	dit	pron(dem)	dit	pron(dem)	False
+D2_M2_23_287	waer	waar	adj()	waar	adj()	False
+D2_M2_23_287	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_23_287	proeft	proeven	v(imp)	proeven	v(imp)	False
+D2_M2_23_287	wel	wel	adv(gener)	wel	adv(gener)	False
+D2_M2_23_287	dat	dat	conj(subord)	dat	conj(subord)	False
+
+D2_M2_23_288	waer	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_23_288	eenich	enig	pron(indef)	enig	pron(indef)	False
+D2_M2_23_288	dinc	ding	n(sing)	ding	n(sing)	False
+D2_M2_23_288	van	van	adp()	van	adp()	False
+D2_M2_23_288	gode	god	n(sing)	god	n(sing)	False
+D2_M2_23_288	ghehadt	hebben	v(participle,past)	hebben	v(participle,past)	False
+
+D2_M2_23_289	ten	te+de	pron(pers,3,sing)+adv(neg)	te+de	pron(pers,3,sing)+adv(neg)	False
+D2_M2_23_289	mochte	mogen	n(sing)	mogen	n(sing)	False
+D2_M2_23_289	niet	niet	adv(neg)	niet	adv(neg)	False
+D2_M2_23_289	ghedueren	geduren	v(infin)	geduren	v(infin)	False
+
+D2_M2_23_290	den	de	art(def)	de	art(def)	False
+D2_M2_23_290	onghetelden	ongeteld	adj()	ongeteld	adj()	False
+D2_M2_23_290	god	god	n(sing)	god	n(sing)	False
+D2_M2_23_290	schat	schat	v(fin,pres,lex)	schat	v(fin,pres,lex)	False
+
+D2_M2_23_291	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_23_291	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+D2_M2_23_291	noyt	nooit	adv(gener)	nooit	adv(gener)	False
+D2_M2_23_291	tontfermen	te+ontfermen	adp()+v(infin)	te+ontfermen	adp()+v(infin)	False
+D2_M2_23_291	sat	zitten	adp()	zitten	adp()	False
+
+D2_M2_23_292	allen	al	num(indef)	al	num(indef)	False
+D2_M2_23_292	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_23_292	creaturen	creatuur	n(plu)	creatuur	n(plu)	False
+
+D2_M2_23_293	op	op	adp()	op	adp()	False
+D2_M2_23_293	datmen	dat+men	conj(subord)+pron(indef)	dat+men	conj(subord)+pron(indef)	False
+D2_M2_23_293	hem	hij	pron(pers,3,plu)	hij	pron(pers,3,plu)	False
+D2_M2_23_293	met	met	adp()	met	adp()	False
+D2_M2_23_293	herten	hart	n(sing)	hart	n(sing)	False
+D2_M2_23_293	badt	bidden	v(fin,past,lex)	bidden	v(fin,past,lex)	False
+
+D2_M2_23_294	maer	maar	conj(coord)	maar	conj(coord)	False
+D2_M2_23_294	lucifer	lucifer	n(prop)	lucifer	n(prop)	False
+D2_M2_23_294	sidt	zitten	v(fin,past,lex)	zitten	v(fin,past,lex)	False
+D2_M2_23_294	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_23_294	sadt	zitten	v(fin,past,lex)	zitten	v(fin,past,lex)	False
+
+D2_M2_23_295	nv	nu	adv(dem)	nu	adv(dem)	False
+D2_M2_23_295	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_23_295	tallen	te+al	adp()+num(indef)	te+al	adp()+num(indef)	False
+D2_M2_23_295	hueren	huur	n(sing)	huur	n(sing)	False
+
+D2_M2_23_296	in	in	adp()	in	adp()	False
+D2_M2_23_296	die	de	art(def)	de	art(def)	False
+D2_M2_23_296	fyere	fier	n(prop)	fier	n(prop)	False
+D2_M2_23_296	houerdien	hovaardij	adj()	hovaardij	adj()	False
+D2_M2_23_296	stadt	stad	n(sing)	stad	n(sing)	False
+
+D2_M2_23_297	nemmermeer	nimmermeer	adv(gener)	nimmermeer	adv(gener)	False
+D2_M2_23_297	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_23_297	werdt	worden	v(fin,pres,lex)	worden	v(fin,pres,lex)	False
+D2_M2_23_297	hijs	hij+zijn	pron(pers,3,sing)+pron(pers,3,sing)	hij+zijn	pron(pers,3,sing)+pron(pers,3,sing)	False
+D2_M2_23_297	sadt	zitten	v(fin,past,lex)	zitten	v(fin,past,lex)	False
+
+D2_M2_23_298	dus	dus	adv(dem)	dus	adv(dem)	False
+D2_M2_23_298	en	en	adv(neg)	en	adv(neg)	False
+D2_M2_23_298	mach	mogen	v(fin,pres,aux_cop)	mogen	v(fin,pres,aux_cop)	False
+D2_M2_23_298	sijnre	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_23_298	natueren	natuur	n(sing)	natuur	n(sing)	False
+
+D2_M2_23_299	gheen	geen	pron(indef)	geen	pron(indef)	False
+D2_M2_23_299	ghenade	genade	n(sing)	genade	n(sing)	False
+D2_M2_23_299	ghebueren	gebuur	v(infin)	gebuur	v(infin)	False
+
+D2_M2_24_300	oft	of	conj(coord)	of	conj(coord)	False
+D2_M2_24_300	men	men	pron(indef)	men	pron(indef)	False
+D2_M2_24_300	dit	dit	pron(dem)	dit	pron(dem)	False
+D2_M2_24_300	bi	bij	adp()	bij	adp()	False
+D2_M2_24_300	reden	rede	n(sing)	rede	n(sing)	False
+D2_M2_24_300	weet	weten	v(fin,pres,lex)	weten	v(fin,pres,lex)	False
+
+D2_M2_24_301	dat	dat	conj(subord)	dat	conj(subord)	False
+D2_M2_24_301	god	god	n(prop)	god	n(prop)	False
+D2_M2_24_301	niemant	niemand	pron(indef)	niemand	pron(indef)	False
+D2_M2_24_301	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_24_301	heeft	hebben	v(fin,pres,aux_cop)	hebben	v(fin,pres,aux_cop)	False
+D2_M2_24_301	leet	leed	n(sing)	leed	n(sing)	False
+
+D2_M2_24_302	wien	wie	pron(inter)	wie	pron(inter)	False
+D2_M2_24_302	gheeft	geven	v(fin,pres,lex)	geven	v(fin,pres,lex)	False
+D2_M2_24_302	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_24_302	tlanghe	het+lang	art(def)+adj()	het+lang	art(def)+adj()	False
+D2_M2_24_302	leuen	leven	v(infin)	leven	v(infin)	False
+
+D2_M2_24_303	so	zo	adv(gener)	zo	adv(gener)	False
+D2_M2_24_303	den	de	art(def)	de	art(def)	False
+D2_M2_24_303	ghenen	gene	pron(dem)	gene	pron(dem)	False
+D2_M2_24_303	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_24_303	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_24_303	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_24_303	wreet	wreed	adj()	wreed	adj()	False
+
+D2_M2_24_304	so	zo	adv(gener)	zo	adv(gener)	False
+D2_M2_24_304	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_24_304	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_24_304	met	met	adp()	met	adp()	False
+D2_M2_24_304	mlinnen	min	n(prop)	min	n(prop)	False
+D2_M2_24_304	heet	heet	v(fin,pres,aux_cop)	heet	v(fin,pres,aux_cop)	False
+
+D2_M2_24_305	onderdaen	onderdaan	n(sing)	onderdaan	n(sing)	False
+D2_M2_24_305	is	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+D2_M2_24_305	gebleuen	blijven	v(participle,past)	blijven	v(participle,past)	False
+
+D2_M2_24_306	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_24_306	derft	durven	adv(gener)+art(def)	durven	adv(gener)+art(def)	False
+D2_M2_24_306	wel	wel	adv(gener)	wel	adv(gener)	False
+D2_M2_24_306	seggen	zeggen	v(fin,pres,lex)	zeggen	v(fin,pres,lex)	False
+D2_M2_24_306	op	op	adp()	op	adp()	False
+D2_M2_24_306	minen	mijn	pron(poss)	mijn	pron(poss)	False
+D2_M2_24_306	eedt	eed	n(sing)	eed	n(sing)	False
+
+D2_M2_24_307	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_24_307	huescheit	huisheid	n(sing)	huisheid	n(sing)	False
+D2_M2_24_307	waer	waar	v(fin,past,aux_cop)	waar	v(fin,past,aux_cop)	False
+D2_M2_24_307	onghecleet	ongekeet	adj()	ongekeet	adj()	False
+
+D2_M2_24_308	liet	laten	v(fin,past,lex)	laten	v(fin,past,lex)	False
+D2_M2_24_308	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_24_308	den	de	art(def)	de	art(def)	False
+D2_M2_24_308	ghenen	gene	pron(dem)	gene	pron(dem)	False
+D2_M2_24_308	sneuen	sneven	n(sing)	sneven	n(sing)	False
+
+D2_M2_24_309	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_24_309	al	al	num(indef)	al	num(indef)	False
+D2_M2_24_309	tsynen	de+zijn	adp()+pron(poss)	de+zijn	adp()+pron(poss)	False
+D2_M2_24_309	dienste	dienst	n(sing)	dienst	n(sing)	False
+D2_M2_24_309	steet	staan	v(fin,pres,lex)	staan	v(fin,pres,lex)	False
+
+D2_M2_24_310	diens	diens	n(prop)	diens	n(prop)	False
+D2_M2_24_310	ghelijcke	gelijk	n(sing)	gelijk	n(sing)	False
+D2_M2_24_310	wil	willen	v(fin,pres,aux_cop)	willen	v(fin,pres,aux_cop)	False
+D2_M2_24_310	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_24_310	ghereet	gereed	adj()	gereed	adj()	False
+
+D2_M2_24_311	den	de	art(def)	de	art(def)	False
+D2_M2_24_311	toon	toon	n(sing)	toon	n(sing)	False
+D2_M2_24_311	haer	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	False
+D2_M2_24_311	weder	weer	adv(gener)	weer	adv(gener)	False
+D2_M2_24_311	gheuen	geven	v(infin)	geven	v(infin)	False
+
+D2_M2_24_312	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_24_312	voer	voor	adp()	voor	adp()	False
+D2_M2_24_312	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_24_312	luste	list	v(fin,past,lex)	list	v(fin,past,lex)	False
+D2_M2_24_312	te	te	adp()	te	adp()	False
+D2_M2_24_312	leuen	leven	v(infin)	leven	v(infin)	False
+
+D2_M2_25_313	god	god	n(sing)	god	n(sing)	False
+D2_M2_25_313	gheeftet	geven+het	v(fin,pres,lex)	geven+het	v(fin,pres,lex)	False
+D2_M2_25_313	al	al	adv(gener)	al	adv(gener)	False
+D2_M2_25_313	clein	klein	adj()	klein	adj()	False
+D2_M2_25_313	ende	en	conj(coord)	en	conj(coord)	False
+D2_M2_25_313	groot	groot	adj()	groot	adj()	False
+
+D2_M2_25_314	dies	dat	pron(rel)	dat	pron(rel)	False
+D2_M2_25_314	die	de	art(def)	de	art(def)	False
+D2_M2_25_314	mensche	mens	n(sing)	mens	n(sing)	False
+D2_M2_25_314	heuet	hebben	v(fin,pres,lex)	hebben	v(fin,pres,lex)	False
+D2_M2_25_314	noot	nood	n(sing)	nood	n(sing)	False
+
+D2_M2_25_315	dit	dit	pron(dem)	dit	pron(dem)	False
+D2_M2_25_315	proeftmen	men+proeven	pron(indef)+v(fin,pres,lex)	men+proeven	pron(indef)+v(fin,pres,lex)	False
+D2_M2_25_315	met	met	adp()	met	adp()	False
+D2_M2_25_315	sinne	zin	n(sing)	zin	n(sing)	False
+
+D2_M2_25_316	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_25_316	stortte	storten	v(fin,past,lex)	storten	v(fin,past,lex)	False
+D2_M2_25_316	voer	voor	adp()	voor	adp()	False
+D2_M2_25_316	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_25_316	sijn	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_25_316	bloet	bloed	n(sing)	bloed	n(sing)	False
+D2_M2_25_316	root	rood	adj()	rood	adj()	False
+
+D2_M2_25_317	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_25_317	gheeft	geven	v(fin,pres,lex)	geven	v(fin,pres,lex)	False
+D2_M2_25_317	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_25_317	themelsche	hemels+het	art(def)+adj()	hemels+het	art(def)+adj()	False
+D2_M2_25_317	broot	brood	n(sing)	brood	n(sing)	False
+
+D2_M2_25_318	op	op	adp()	op	adp()	False
+D2_M2_25_318	datmen	dat+men	conj(subord)+pron(indef)	dat+men	conj(subord)+pron(indef)	False
+D2_M2_25_318	hem	hij	pron(pers,3,plu)	hij	pron(pers,3,plu)	False
+D2_M2_25_318	weer	zijn	v(fin,past,lex)	zijn	v(fin,past,lex)	False
+D2_M2_25_318	minne	minne	n(sing)	minne	n(sing)	False
+
+D2_M2_25_319	oec	ook	adv(gener)	ook	adv(gener)	False
+D2_M2_25_319	om	om	adp()	om	adp()	False
+D2_M2_25_319	egheenen	eigen	pron(indef)	eigen	pron(indef)	False
+D2_M2_25_319	weder	weer	adv(gener)	weer	adv(gener)	False
+D2_M2_25_319	stoot	stoot	v(fin,past,lex)	stoot	v(fin,past,lex)	False
+
+D2_M2_25_320	daer	daar	pronadv(rel)	daar	pronadv(rel)	False
+D2_M2_25_320	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_25_320	sonde	zonde	n(sing)	zonde	n(sing)	False
+D2_M2_25_320	oyt	oud	adj()	oud	adj()	False
+D2_M2_25_320	mede	mede	pronadv(rel)	mede	pronadv(rel)	False
+D2_M2_25_320	schoot	schoot	adj()	schoot	adj()	False
+
+D2_M2_25_321	en	ne	adv(neg)	ne	adv(neg)	False
+D2_M2_25_321	laet	laten	v(fin,pres,lex)	laten	v(fin,pres,lex)	False
+D2_M2_25_321	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_25_321	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_25_321	daer	daar	pronadv(dem)	daar	pronadv(dem)	False
+D2_M2_25_321	inne	in	pronadv(prep)	in	pronadv(prep)	False
+
+D2_M2_25_322	legghen	leggen	v(fin,pres,lex)	leggen	v(fin,pres,lex)	False
+D2_M2_25_322	wi	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+D2_M2_25_322	thooft	het+hoofd	art(def)+n(sing)	het+hoofd	art(def)+n(sing)	False
+D2_M2_25_322	in	in	adp()	in	adp()	False
+D2_M2_25_322	sinen	zijn	pron(poss)	zijn	pron(poss)	False
+D2_M2_25_322	schoot	schoot	n(sing)	schoot	n(sing)	False
+
+D2_M2_25_323	soude	zullen	v(fin,past,aux_cop)	zullen	v(fin,past,aux_cop)	False
+D2_M2_25_323	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+D2_M2_25_323	smaken	smaken	v(infin)	smaken	v(infin)	False
+D2_M2_25_323	dan	dan	conj(comp)	dan	conj(comp)	False
+D2_M2_25_323	die	de	art(def)	de	art(def)	False
+D2_M2_25_323	doot	dood	n(sing)	dood	n(sing)	False
+
+D2_M2_25_324	die	die	pron(rel)	die	pron(rel)	False
+D2_M2_25_324	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+D2_M2_25_324	mi	ik	pron(refl,1,sing)	ik	pron(refl,1,sing)	False
+D2_M2_25_324	so	zo	adv(dem)	zo	adv(dem)	False
+D2_M2_25_324	hout	houden	v(fin,pres,lex)	houden	v(fin,pres,lex)	False
+D2_M2_25_324	kinne	kennen	v(fin,pres,lex)	kennen	v(fin,pres,lex)	False
+
+D2_M2_25_325	soe	zo	adv(indef)	zo	adv(indef)	False
+D2_M2_25_325	waer	waar	adv(inter)	waar	adv(inter)	False
+D2_M2_25_325	mijn	mijn	pron(poss)	mijn	pron(poss)	False
+D2_M2_25_325	vroedom	vroeddom	n(sing)	vroeddom	n(sing)	False
+D2_M2_25_325	dinne	dun	adj()	dun	adj()	False
+
