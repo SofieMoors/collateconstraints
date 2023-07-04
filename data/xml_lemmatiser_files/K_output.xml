@@ -1,0 +1,485 @@
+<?xml version="1.0" ?>
+<witness sigle="K">
+  <text n="M1">
+    <stanza n="60">
+      <l n="768" damage="False" text="berecht mi jacob oftu wout">
+        <token form="berecht" corr_lemma="berechten" corr_pos="v(imp)"/>
+        <token form="mi" corr_lemma="ik" corr_pos="pron(pers,1,sing)"/>
+        <token form="jacob" corr_lemma="jacob" corr_pos="n(prop)"/>
+        <token form="oftu" corr_lemma="du+of" corr_pos="pron(pers,2,sing)+conj(subord)"/>
+        <token form="wout" corr_lemma="willen" corr_pos="v(fin,past,lex)"/>
+      </l>
+      <l n="769" damage="False" text="weder sekerst is int behout">
+        <token form="weder" corr_lemma="weder" corr_pos="adv(gener)"/>
+        <token form="sekerst" corr_lemma="zeker" corr_pos="adj()"/>
+        <token form="is" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="int" corr_lemma="in+dat" corr_pos="adp()+art(def)"/>
+        <token form="behout" corr_lemma="behoud" corr_pos="n(sing)"/>
+      </l>
+      <l n="770" damage="False" text="rijcheit of armoede">
+        <token form="rijcheit" corr_lemma="rijkheid" corr_pos="n(sing)"/>
+        <token form="of" corr_lemma="of" corr_pos="conj(coord)"/>
+        <token form="armoede" corr_lemma="armoede" corr_pos="n(sing)"/>
+      </l>
+      <l n="771" damage="False" text="eest leec clerc ionc of out">
+        <token form="eest" corr_lemma="het+zijn" corr_pos="v(fin,pres,aux_cop)+pron(pers,3,sing)"/>
+        <token form="leec" corr_lemma="leek" corr_pos="n(sing)"/>
+        <token form="clerc" corr_lemma="klerk" corr_pos="n(sing)"/>
+        <token form="ionc" corr_lemma="jong" corr_pos="adj()"/>
+        <token form="of" corr_lemma="of" corr_pos="conj(coord)"/>
+        <token form="out" corr_lemma="oud" corr_pos="adj()"/>
+      </l>
+      <l n="772" damage="False" text="het dinct mi al wesen gader gout">
+        <token form="het" corr_lemma="het" corr_pos="pron(pers,3,sing)"/>
+        <token form="dinct" corr_lemma="dunken" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="mi" corr_lemma="ik" corr_pos="pron(pers,1,sing)"/>
+        <token form="al" corr_lemma="al" corr_pos="num(indef)"/>
+        <token form="wesen" corr_lemma="wezen" corr_pos="v(infin)"/>
+        <token form="gader" corr_lemma="gader" corr_pos="adv(gener)"/>
+        <token form="gout" corr_lemma="goud" corr_pos="n(sing)"/>
+      </l>
+      <l n="773" damage="False" text="al staet na den goede">
+        <token form="al" corr_lemma="al" corr_pos="adv(gener)"/>
+        <token form="staet" corr_lemma="staan" corr_pos="v(fin,pres,lex)"/>
+        <token form="na" corr_lemma="na" corr_pos="adp()"/>
+        <token form="den" corr_lemma="dat" corr_pos="art(def)"/>
+        <token form="goede" corr_lemma="goed" corr_pos="n(sing)"/>
+      </l>
+      <l n="774" damage="False" text="aermoede prisic menichfout">
+        <token form="aermoede" corr_lemma="armoede" corr_pos="n(sing)"/>
+        <token form="prisic" corr_lemma="prijssig" corr_pos="v(fin,pres,lex)+pron(pers,1,sing)"/>
+        <token form="menichfout" corr_lemma="menigvoud" corr_pos="n(sing)"/>
+      </l>
+      <l n="775" damage="False" text="want si is zeker ende stout">
+        <token form="want" corr_lemma="want" corr_pos="conj(subord)"/>
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,sing)"/>
+        <token form="is" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="zeker" corr_lemma="zeker" corr_pos="adj()"/>
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="stout" corr_lemma="stout" corr_pos="adj()"/>
+      </l>
+      <l n="776" damage="False" text="voor rouers sonder hoede">
+        <token form="voor" corr_lemma="voor" corr_pos="adp()"/>
+        <token form="rouers" corr_lemma="rover" corr_pos="n(plu)"/>
+        <token form="sonder" corr_lemma="zonder" corr_pos="adp()"/>
+        <token form="hoede" corr_lemma="hoede" corr_pos="n(sing)"/>
+      </l>
+      <l n="777" damage="False" text="doch minnen si voor water smout">
+        <token form="doch" corr_lemma="doch" corr_pos="adv(gener)"/>
+        <token form="minnen" corr_lemma="minnen" corr_pos="v(fin,pres,lex)"/>
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="voor" corr_lemma="voor" corr_pos="adp()"/>
+        <token form="water" corr_lemma="water" corr_pos="n(sing)"/>
+        <token form="smout" corr_lemma="smout" corr_pos="n(sing)"/>
+      </l>
+      <l n="778" damage="False" text="si scuwen honger ende cout">
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="scuwen" corr_lemma="schuwen" corr_pos="v(fin,pres,lex)"/>
+        <token form="honger" corr_lemma="honger" corr_pos="n(sing)"/>
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="cout" corr_lemma="koud" corr_pos="adj()"/>
+      </l>
+      <l n="779" damage="False" text="eist also ic mi vermoede">
+        <token form="eist" corr_lemma="het+zijn" corr_pos="pron(pers,3,sing)+v(fin,pres,aux_cop)"/>
+        <token form="also" corr_lemma="alzo" corr_pos="conj(subord)"/>
+        <token form="ic" corr_lemma="ik" corr_pos="pron(pers,1,sing)"/>
+        <token form="mi" corr_lemma="mij" corr_pos="pron(refl,1,sing)"/>
+        <token form="vermoede" corr_lemma="vermoeden" corr_pos="v(fin,pres,lex)"/>
+      </l>
+      <l n="780" damage="False" text="so dolen dese vroede">
+        <token form="so" corr_lemma="zo" corr_pos="adv(gener)"/>
+        <token form="dolen" corr_lemma="dolen" corr_pos="v(fin,pres,lex)"/>
+        <token form="dese" corr_lemma="deze" corr_pos="pron(dem)"/>
+        <token form="vroede" corr_lemma="vroed" corr_pos="adj()"/>
+      </l>
+    </stanza>
+    <stanza n="61">
+      <l n="781" damage="False" text="maertin ic mete di vul diin vat">
+        <token form="maertin" corr_lemma="martin" corr_pos="n(prop)"/>
+        <token form="ic" corr_lemma="ik" corr_pos="pron(pers,1,sing)"/>
+        <token form="mete" corr_lemma="meten" corr_pos="v(fin,pres,lex)"/>
+        <token form="di" corr_lemma="du" corr_pos="pron(rel)"/>
+        <token form="vul" corr_lemma="vol" corr_pos="adj()"/>
+        <token form="diin" corr_lemma="dijn" corr_pos="pron(poss)"/>
+        <token form="vat" corr_lemma="vat" corr_pos="n(sing)"/>
+      </l>
+      <l n="782" damage="False" text="vp den stoel der moyses sat">
+        <token form="vp" corr_lemma="op" corr_pos="adp()"/>
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="stoel" corr_lemma="stoel" corr_pos="n(sing)"/>
+        <token form="der" corr_lemma="de" corr_pos="art(def)+n(sing)"/>
+        <token form="moyses" corr_lemma="mozes" corr_pos="n(prop)"/>
+        <token form="sat" corr_lemma="zitten" corr_pos="v(fin,past,lex)"/>
+      </l>
+      <l n="783" damage="False" text="sitten die gheleerde">
+        <token form="sitten" corr_lemma="zitten" corr_pos="v(infin)"/>
+        <token form="die" corr_lemma="die" corr_pos="pron(rel)"/>
+        <token form="gheleerde" corr_lemma="geleerd" corr_pos="adj()"/>
+      </l>
+      <l n="784" damage="False" text="dat si di raden doe al dat">
+        <token form="dat" corr_lemma="dat" corr_pos="conj(subord)"/>
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="di" corr_lemma="du" corr_pos="art(def)"/>
+        <token form="raden" corr_lemma="raden" corr_pos="v(fin,pres,lex)"/>
+        <token form="doe" corr_lemma="toen" corr_pos="adv(dem)"/>
+        <token form="al" corr_lemma="al" corr_pos="num(indef)"/>
+        <token form="dat" corr_lemma="dat" corr_pos="art(def)"/>
+      </l>
+      <l n="785" damage="False" text="si wisen di den rechten pat">
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="wisen" corr_lemma="wijzen" corr_pos="v(fin,pres,lex)"/>
+        <token form="di" corr_lemma="du" corr_pos="pron(rel)"/>
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="rechten" corr_lemma="recht" corr_pos="adj()"/>
+        <token form="pat" corr_lemma="pad" corr_pos="n(sing)"/>
+      </l>
+      <l n="786" damage="False" text="so wel hem diere hem an keerde">
+        <token form="so" corr_lemma="zo" corr_pos="adv(gener)"/>
+        <token form="wel" corr_lemma="wel" corr_pos="adv(gener)"/>
+        <token form="hem" corr_lemma="hij" corr_pos="pron(pers,3,plu)"/>
+        <token form="diere" corr_lemma="die+er" corr_pos="pron(rel)+pronadv(pers)"/>
+        <token form="hem" corr_lemma="hij" corr_pos="pron(pers,3,plu)"/>
+        <token form="an" corr_lemma="aan" corr_pos="v(fin,past,lex)"/>
+        <token form="keerde" corr_lemma="keren" corr_pos="v(fin,past,lex)"/>
+      </l>
+      <l n="787" damage="False" text="mer in weldoen siin si lat">
+        <token form="mer" corr_lemma="maar" corr_pos="conj(coord)"/>
+        <token form="in" corr_lemma="in" corr_pos="adp()"/>
+        <token form="weldoen" corr_lemma="weldoen" corr_pos="v(infin)"/>
+        <token form="siin" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="lat" corr_lemma="laten" corr_pos="v(fin,pres,lex)"/>
+      </l>
+      <l n="788" damage="False" text="si heten vasten mer si siin sat">
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="heten" corr_lemma="heten" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="vasten" corr_lemma="vasten" corr_pos="adj()"/>
+        <token form="mer" corr_lemma="maar" corr_pos="conj(coord)"/>
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="siin" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="sat" corr_lemma="zitten" corr_pos="adj()"/>
+      </l>
+      <l n="789" damage="False" text="volghe niet sulke heerde">
+        <token form="volghe" corr_lemma="volgen" corr_pos="v(fin,pres,lex)"/>
+        <token form="niet" corr_lemma="niet" corr_pos="adv(neg)"/>
+        <token form="sulke" corr_lemma="zulk" corr_pos="pron(dem)"/>
+        <token form="heerde" corr_lemma="herde" corr_pos="n(sing)"/>
+      </l>
+      <l n="790" damage="False" text="si en minnen niet voor den scat">
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,sing)"/>
+        <token form="en" corr_lemma="ne" corr_pos="adv(neg)"/>
+        <token form="minnen" corr_lemma="minnen" corr_pos="v(fin,pres,lex)"/>
+        <token form="niet" corr_lemma="niet" corr_pos="adv(neg)"/>
+        <token form="voor" corr_lemma="voor" corr_pos="adp()"/>
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="scat" corr_lemma="schat" corr_pos="n(sing)"/>
+      </l>
+      <l n="791" damage="False" text="haer hant is altoos sonder gat">
+        <token form="haer" corr_lemma="haar" corr_pos="pron(poss)"/>
+        <token form="hant" corr_lemma="hand" corr_pos="n(sing)"/>
+        <token form="is" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="altoos" corr_lemma="altoos" corr_pos="adv(gener)"/>
+        <token form="sonder" corr_lemma="zonder" corr_pos="adp()"/>
+        <token form="gat" corr_lemma="gat" corr_pos="n(sing)"/>
+      </l>
+      <l n="792" damage="False" text="noyt was volc vp de eerde">
+        <token form="noyt" corr_lemma="nooit" corr_pos="adv(neg)"/>
+        <token form="was" corr_lemma="zijn" corr_pos="v(fin,past,aux_cop)"/>
+        <token form="volc" corr_lemma="volk" corr_pos="n(sing)"/>
+        <token form="vp" corr_lemma="op" corr_pos="adp()"/>
+        <token form="de" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="eerde" corr_lemma="aarde" corr_pos="n(sing)"/>
+      </l>
+      <l n="793" damage="False" text="dat meer scats begheerde">
+        <token form="dat" corr_lemma="dat" corr_pos="pron(rel)"/>
+        <token form="meer" corr_lemma="meer" corr_pos="num(indef)"/>
+        <token form="scats" corr_lemma="schat" corr_pos="n(sing)"/>
+        <token form="begheerde" corr_lemma="begeren" corr_pos="v(fin,past,lex)"/>
+      </l>
+    </stanza>
+    <stanza n="62">
+      <l n="794" damage="False" text="die meeste menichte es dus gedaen">
+        <token form="die" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="meeste" corr_lemma="meest" corr_pos="adj()"/>
+        <token form="menichte" corr_lemma="menigte" corr_pos="n(sing)"/>
+        <token form="es" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="dus" corr_lemma="dus" corr_pos="adv(dem)"/>
+        <token form="gedaen" corr_lemma="doen" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="795" damage="False" text="nochtan vintmer sonder waen">
+        <token form="nochtan" corr_lemma="nochtan" corr_pos="adv(gener)"/>
+        <token form="vintmer" corr_lemma="men+vinden+zij" corr_pos="adv(gener)"/>
+        <token form="sonder" corr_lemma="zonder" corr_pos="adp()"/>
+        <token form="waen" corr_lemma="waan" corr_pos="n(sing)"/>
+      </l>
+      <l n="796" damage="False" text="al siin si selsiene">
+        <token form="al" corr_lemma="al" corr_pos="adv(gener)"/>
+        <token form="siin" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="selsiene" corr_lemma="zelsen" corr_pos="adj()"/>
+      </l>
+      <l n="797" damage="False" text="die den eerdschen goede ontgaen">
+        <token form="die" corr_lemma="die" corr_pos="pron(rel)"/>
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="eerdschen" corr_lemma="aards" corr_pos="adj()"/>
+        <token form="goede" corr_lemma="goed" corr_pos="adj()"/>
+        <token form="ontgaen" corr_lemma="ontgaan" corr_pos="v(fin,pres,lex)"/>
+      </l>
+      <l n="798" damage="False" text="ende armoede ane vaen">
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="armoede" corr_lemma="armoede" corr_pos="n(sing)"/>
+        <token form="ane" corr_lemma="aan" corr_pos="adp()"/>
+        <token form="vaen" corr_lemma="vangen" corr_pos="v(infin)"/>
+      </l>
+      <l n="799" damage="False" text="bi helighen engiene">
+        <token form="bi" corr_lemma="bij" corr_pos="adp()"/>
+        <token form="helighen" corr_lemma="heilig" corr_pos="adj()"/>
+        <token form="engiene" corr_lemma="engien" corr_pos="n(sing)"/>
+      </l>
+      <l n="800" damage="False" text="si laten hem blouwen ende slaen">
+        <token form="si" corr_lemma="zij" corr_pos="pron(pers,3,plu)"/>
+        <token form="laten" corr_lemma="laten" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="hem" corr_lemma="hem" corr_pos="pron(pers,3,sing)"/>
+        <token form="blouwen" corr_lemma="blouwen" corr_pos="v(infin)"/>
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="slaen" corr_lemma="slaan" corr_pos="v(infin)"/>
+      </l>
+      <l n="801" damage="False" text="tormenteren ende vlaen">
+        <token form="tormenteren" corr_lemma="tormenteren" corr_pos="n(plu)"/>
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="vlaen" corr_lemma="vlaan" corr_pos="v(infin)"/>
+      </l>
+      <l n="802" damage="False" text="om de helle tontvliene">
+        <token form="om" corr_lemma="om" corr_pos="adp()"/>
+        <token form="de" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="helle" corr_lemma="hel" corr_pos="n(sing)"/>
+        <token form="tontvliene" corr_lemma="ontvloeien+te" corr_pos="adp()+v(infin)"/>
+      </l>
+      <l n="803" damage="False" text="hier in waert sekerst vulstaen">
+        <token form="hier" corr_lemma="hier" corr_pos="pronadv(dem)"/>
+        <token form="in" corr_lemma="in" corr_pos="pronadv(prep)"/>
+        <token form="waert" corr_lemma="zijn+het" corr_pos="v(fin,past,aux_cop)"/>
+        <token form="sekerst" corr_lemma="zeker" corr_pos="n(prop)"/>
+        <token form="vulstaen" corr_lemma="volstaan" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="804" damage="False" text="die hem in dit doopsel dwaen">
+        <token form="die" corr_lemma="die" corr_pos="pron(rel)"/>
+        <token form="hem" corr_lemma="hij" corr_pos="pron(pers,3,sing)"/>
+        <token form="in" corr_lemma="in" corr_pos="adp()"/>
+        <token form="dit" corr_lemma="dit" corr_pos="pron(dem)"/>
+        <token form="doopsel" corr_lemma="doopsel" corr_pos="n(sing)"/>
+        <token form="dwaen" corr_lemma="dwaan" corr_pos="v(infin)"/>
+      </l>
+      <l n="805" damage="False" text="siin seker gode te siene">
+        <token form="siin" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="seker" corr_lemma="zeker" corr_pos="adj()"/>
+        <token form="gode" corr_lemma="god" corr_pos="n(prop)"/>
+        <token form="te" corr_lemma="te" corr_pos="adp()"/>
+        <token form="siene" corr_lemma="zien" corr_pos="v(infin)"/>
+      </l>
+      <l n="806" damage="False" text="ende hem niet te messciene">
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="hem" corr_lemma="hij" corr_pos="pron(pers,3,sing)"/>
+        <token form="niet" corr_lemma="niet" corr_pos="adv(neg)"/>
+        <token form="te" corr_lemma="te" corr_pos="adp()"/>
+        <token form="messciene" corr_lemma="misschieden" corr_pos="v(infin)"/>
+      </l>
+    </stanza>
+    <stanza n="63">
+      <l n="807" damage="False" text="die gods sone toocht ons dat">
+        <token form="die" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="gods" corr_lemma="god" corr_pos="n(prop)"/>
+        <token form="sone" corr_lemma="zoon" corr_pos="n(sing)"/>
+        <token form="toocht" corr_lemma="tocht" corr_pos="v(fin,pres,lex)"/>
+        <token form="ons" corr_lemma="wij" corr_pos="pron(pers,1,plu)"/>
+        <token form="dat" corr_lemma="dat" corr_pos="conj(subord)"/>
+      </l>
+      <l n="808" damage="False" text="die euen gheweldich sit ende sat">
+        <token form="die" corr_lemma="die" corr_pos="pron(rel)"/>
+        <token form="euen" corr_lemma="even" corr_pos="adv(gener)"/>
+        <token form="gheweldich" corr_lemma="geweldig" corr_pos="adj()"/>
+        <token form="sit" corr_lemma="zitten" corr_pos="v(fin,pres,lex)"/>
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="sat" corr_lemma="zitten" corr_pos="v(fin,past,lex)"/>
+      </l>
+      <l n="809" damage="False" text="den vader in den rike">
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="vader" corr_lemma="vader" corr_pos="n(sing)"/>
+        <token form="in" corr_lemma="in" corr_pos="adp()"/>
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="rike" corr_lemma="rijk" corr_pos="n(sing)"/>
+      </l>
+      <l n="810" damage="False" text="hi beete in dese arme stat">
+        <token form="hi" corr_lemma="hij" corr_pos="pron(pers,3,sing)"/>
+        <token form="beete" corr_lemma="beten" corr_pos="v(fin,pres,lex)"/>
+        <token form="in" corr_lemma="in" corr_pos="adp()"/>
+        <token form="dese" corr_lemma="deze" corr_pos="pron(dem)"/>
+        <token form="arme" corr_lemma="arm" corr_pos="adj()"/>
+        <token form="stat" corr_lemma="stad" corr_pos="n(sing)"/>
+      </l>
+      <l n="813" damage="False" text="der hi cume zoghes wert sat">
+        <token form="der" corr_lemma="daar" corr_pos="art(def)"/>
+        <token form="hi" corr_lemma="hij" corr_pos="pron(pers,3,sing)"/>
+        <token form="cume" corr_lemma="kuim" corr_pos="adv(gener)"/>
+        <token form="zoghes" corr_lemma="zuigen" corr_pos="adv(gener)"/>
+        <token form="wert" corr_lemma="worden" corr_pos="adv(gener)"/>
+        <token form="sat" corr_lemma="zitten" corr_pos="v(fin,past,lex)"/>
+      </l>
+      <l n="812" damage="False" text="herde omoedelike">
+        <token form="herde" corr_lemma="herde" corr_pos="n(sing)"/>
+        <token form="omoedelike" corr_lemma="ootmoedelijk" corr_pos="adj()"/>
+      </l>
+      <l n="811" damage="False" text="jnder reynre magheden vat">
+        <token form="jnder" corr_lemma="in+de" corr_pos="adp()+art(def)"/>
+        <token form="reynre" corr_lemma="rein" corr_pos="n(sing)"/>
+        <token form="magheden" corr_lemma="maagd" corr_pos="n(plu)"/>
+        <token form="vat" corr_lemma="vat" corr_pos="n(plu)"/>
+      </l>
+      <l n="814" damage="False" text="ende doghede menighen gods hat">
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="doghede" corr_lemma="deugd" corr_pos="n(plu)"/>
+        <token form="menighen" corr_lemma="menig" corr_pos="num(indef)"/>
+        <token form="gods" corr_lemma="god" corr_pos="n(sing)"/>
+        <token form="hat" corr_lemma="hebben" corr_pos="n(sing)"/>
+      </l>
+      <l n="815" damage="False" text="van sinen onghelike">
+        <token form="van" corr_lemma="van" corr_pos="adp()"/>
+        <token form="sinen" corr_lemma="zijn" corr_pos="pron(poss)"/>
+        <token form="onghelike" corr_lemma="ongelijk" corr_pos="n(sing)"/>
+      </l>
+      <l n="816" damage="False" text="die armoede dats i pat">
+        <token form="die" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="armoede" corr_lemma="armoede" corr_pos="n(sing)"/>
+        <token form="dats" corr_lemma="dat+zijn" corr_pos="pron(dem)+v(fin,pres,aux_cop)"/>
+        <token form="i" corr_lemma="een" corr_pos="num(card)"/>
+        <token form="pat" corr_lemma="pad" corr_pos="n(sing)"/>
+      </l>
+      <l n="817" damage="False" text="die dor den hemel maect i gat">
+        <token form="die" corr_lemma="die" corr_pos="pron(rel)"/>
+        <token form="dor" corr_lemma="door" corr_pos="adp()"/>
+        <token form="den" corr_lemma="de" corr_pos="art(def)"/>
+        <token form="hemel" corr_lemma="hemel" corr_pos="n(sing)"/>
+        <token form="maect" corr_lemma="maken" corr_pos="v(fin,pres,lex)"/>
+        <token form="i" corr_lemma="een" corr_pos="art(indef)"/>
+        <token form="gat" corr_lemma="gat" corr_pos="n(sing)"/>
+      </l>
+      <l n="818" damage="False" text="ende so niet en beswike">
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="so" corr_lemma="zo" corr_pos="adv(dem)"/>
+        <token form="niet" corr_lemma="niet" corr_pos="adv(neg)"/>
+        <token form="en" corr_lemma="ne" corr_pos="adv(neg)"/>
+        <token form="beswike" corr_lemma="bezwijken" corr_pos="v(fin,pres,lex)"/>
+      </l>
+      <l n="819" damage="False" text="die haer met trouwen wike">
+        <token form="die" corr_lemma="die" corr_pos="pron(rel)"/>
+        <token form="haer" corr_lemma="zij" corr_pos="pron(pers,3,sing)"/>
+        <token form="met" corr_lemma="met" corr_pos="adp()"/>
+        <token form="trouwen" corr_lemma="trouw" corr_pos="n(sing)"/>
+        <token form="wike" corr_lemma="wijken" corr_pos="v(fin,pres,lex)"/>
+      </l>
+    </stanza>
+    <stanza n="64">
+      <l n="820" damage="False" text="waenstu maertin weeldich vet">
+        <token form="waenstu" corr_lemma="du+wanen" corr_pos="pron(pers,2,sing)+v(fin,pres,lex)"/>
+        <token form="maertin" corr_lemma="martinus" corr_pos="n(prop)"/>
+        <token form="weeldich" corr_lemma="weeldig" corr_pos="adj()"/>
+        <token form="vet" corr_lemma="vet" corr_pos="adj()"/>
+      </l>
+      <l n="821" damage="False" text="siin ghecleet nv wel nv bet">
+        <token form="siin" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="ghecleet" corr_lemma="kleden" corr_pos="v(participle,past)"/>
+        <token form="nv" corr_lemma="nu" corr_pos="adv(dem)"/>
+        <token form="wel" corr_lemma="wel" corr_pos="adv(gener)"/>
+        <token form="nv" corr_lemma="nu" corr_pos="adv(dem)"/>
+        <token form="bet" corr_lemma="bet" corr_pos="adp()"/>
+      </l>
+      <l n="822" damage="False" text="varen int langhe leuen">
+        <token form="varen" corr_lemma="varen" corr_pos="v(infin)"/>
+        <token form="int" corr_lemma="het+in" corr_pos="art(def)+adp()"/>
+        <token form="langhe" corr_lemma="lang" corr_pos="adj()"/>
+        <token form="leuen" corr_lemma="leven" corr_pos="n(sing)"/>
+      </l>
+      <l n="823" damage="False" text="ende ihesus hinc mit bloet besmet">
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="ihesus" corr_lemma="jezus" corr_pos="n(prop)"/>
+        <token form="hinc" corr_lemma="hangen" corr_pos="v(fin,past,lex)"/>
+        <token form="mit" corr_lemma="met" corr_pos="adp()"/>
+        <token form="bloet" corr_lemma="bloed" corr_pos="n(sing)"/>
+        <token form="besmet" corr_lemma="besmetten" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="824" damage="False" text="ende sine rechter zide ghesplet">
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="sine" corr_lemma="zijn" corr_pos="pron(poss)"/>
+        <token form="rechter" corr_lemma="recht" corr_pos="adj()"/>
+        <token form="zide" corr_lemma="zijde" corr_pos="n(sing)"/>
+        <token form="ghesplet" corr_lemma="splijten" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="825" damage="False" text="ant hout was verheuen">
+        <token form="ant" corr_lemma="aan+het" corr_pos="adp()+art(def)"/>
+        <token form="hout" corr_lemma="hout" corr_pos="n(sing)"/>
+        <token form="was" corr_lemma="zijn" corr_pos="v(fin,past,aux_cop)"/>
+        <token form="verheuen" corr_lemma="verheffen" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="826" damage="False" text="of dat hooft van onser wet">
+        <token form="of" corr_lemma="of" corr_pos="conj(coord)"/>
+        <token form="dat" corr_lemma="dat" corr_pos="art(def)"/>
+        <token form="hooft" corr_lemma="hoofd" corr_pos="n(sing)"/>
+        <token form="van" corr_lemma="van" corr_pos="adp()"/>
+        <token form="onser" corr_lemma="ons" corr_pos="pron(poss)"/>
+        <token form="wet" corr_lemma="wet" corr_pos="n(sing)"/>
+      </l>
+      <l n="827" damage="False" text="met scarpen dornen was beset">
+        <token form="met" corr_lemma="met" corr_pos="adp()"/>
+        <token form="scarpen" corr_lemma="scherp" corr_pos="adj()"/>
+        <token form="dornen" corr_lemma="doorn" corr_pos="n(plu)"/>
+        <token form="was" corr_lemma="zijn" corr_pos="v(fin,past,aux_cop)"/>
+        <token form="beset" corr_lemma="bezetten" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="828" damage="False" text="alst noch is bescreuen">
+        <token form="alst" corr_lemma="als+het" corr_pos="conj(subord)+pron(pers,3,sing)"/>
+        <token form="noch" corr_lemma="nog" corr_pos="adv(gener)"/>
+        <token form="is" corr_lemma="zijn" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="bescreuen" corr_lemma="beschrijven" corr_pos="v(participle,past)"/>
+      </l>
+      <l n="829" damage="False" text="eist dattu wesen wilt gods let">
+        <token form="eist" corr_lemma="het+zijn" corr_pos="pron(pers,3,sing)+v(fin,pres,lex)"/>
+        <token form="dattu" corr_lemma="dat+du" corr_pos="conj(subord)+pron(pers,2,sing)"/>
+        <token form="wesen" corr_lemma="wezen" corr_pos="v(infin)"/>
+        <token form="wilt" corr_lemma="willen" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="gods" corr_lemma="god" corr_pos="n(sing)"/>
+        <token form="let" corr_lemma="lid" corr_pos="n(sing)"/>
+      </l>
+      <l n="830" damage="False" text="magerlike drinc ende et">
+        <token form="magerlike" corr_lemma="maugerlijk" corr_pos="adv(gener)"/>
+        <token form="drinc" corr_lemma="drinken" corr_pos="v(imp)"/>
+        <token form="ende" corr_lemma="en" corr_pos="conj(coord)"/>
+        <token form="et" corr_lemma="het" corr_pos="pron(pers,3,sing)"/>
+      </l>
+      <l n="831" damage="False" text="leere weelde begheuen">
+        <token form="leere" corr_lemma="leer" corr_pos="v(infin)"/>
+        <token form="weelde" corr_lemma="weelde" corr_pos="n(sing)"/>
+        <token form="begheuen" corr_lemma="begeven" corr_pos="v(infin)"/>
+      </l>
+      <l n="832" damage="False" text="of du moets zware sneuen">
+        <token form="of" corr_lemma="of" corr_pos="conj(subord)"/>
+        <token form="du" corr_lemma="du" corr_pos="pron(pers,2,sing)"/>
+        <token form="moets" corr_lemma="moeten" corr_pos="v(fin,pres,aux_cop)"/>
+        <token form="zware" corr_lemma="zwaar" corr_pos="adj()"/>
+        <token form="sneuen" corr_lemma="sneven" corr_pos="v(infin)"/>
+      </l>
+    </stanza>
+    <stanza n="65">
+      <l n="833" damage="False" text="niet en seggic dat rijcheit sent">
+        <token form="niet" corr_lemma="niet" corr_pos="adv(neg)"/>
+        <token form="en" corr_lemma="ne" corr_pos="adv(neg)"/>
+        <token form="seggic" corr_lemma="ik+zeggen" corr_pos="pron(pers,1,sing)+v(fin,pres,lex)"/>
+        <token form="dat" corr_lemma="dat" corr_pos="art(def)"/>
+        <token form="rijcheit" corr_lemma="rijkheid" corr_pos="n(sing)"/>
+        <token form="sent" corr_lemma="sint" corr_pos="adv(gener)"/>
+      </l>
+      <l n="834" damage="False" text="dus">
+        <token form="dus" corr_lemma="dus" corr_pos="adv(dem)"/>
+      </l>
+    </stanza>
+  </text>
+</witness>
