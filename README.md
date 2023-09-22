@@ -31,4 +31,4 @@ DATA PREPROCESSING:
 
 LEGEND rich_txt_martijn:
 
-![image](https://github.com/SofieMoors/collateconstraints/assets/72448397/c191a849-862e-4cb1-b99d-d56f263c568a)
+![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/Legend_rich_txt_martijn.drawio.svg)
