@@ -28,3 +28,7 @@ REFERENCES:
 DATA PREPROCESSING: 
 
 ![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/flowchart.drawio.svg)
+
+LEGEND rich_txt_martijn:
+
+![image](https://github.com/SofieMoors/collateconstraints/assets/72448397/c191a849-862e-4cb1-b99d-d56f263c568a)
