@@ -1,0 +1,819 @@
+line_id	form	lemma	pos	corr_lemma	corr_pos	damage
+Ge_M1_65_834	dat	dat	art(def)	dat	art(def)	True
+Ge_M1_65_834	torment	torment	n(sing)	torment	n(sing)	True
+
+Ge_M1_65_835	en	en	adv(neg)	en	adv(neg)	True
+Ge_M1_65_835	nutte	nut	adj()	nut	adj()	True
+Ge_M1_65_835	te	te	adp()	te	adp()	True
+Ge_M1_65_835	rechte	recht	n(sing)	recht	n(sing)	True
+
+Ge_M1_65_836	erst	eerst	adv(gener)	eerst	adv(gener)	True
+Ge_M1_65_836	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+Ge_M1_65_836	te	te	adp()	te	adp()	True
+Ge_M1_65_836	vlien	vlieden	v(infin)	vlieden	v(infin)	True
+Ge_M1_65_836	tserpent	het+serpent	art(def)+n(sing)	het+serpent	art(def)+n(sing)	True
+
+Ge_M1_65_837	n	n	conj(coord)	n	conj(coord)	True
+Ge_M1_65_837	te	te	adp()	te	adp()	True
+Ge_M1_65_837	wandelen	wandelen	v(infin)	wandelen	v(infin)	True
+Ge_M1_65_837	daer	daar	pronadv(dem)	daar	pronadv(dem)	True
+Ge_M1_65_837	omtrent	omtrent	pronadv(prep)	omtrent	pronadv(prep)	True
+
+Ge_M1_65_838	atti	haten+hij	pron(pers,2,sing)+adp()	haten+hij	pron(pers,2,sing)+adp()	True
+Ge_M1_65_838	niet	niet	adv(neg)	niet	adv(neg)	True
+Ge_M1_65_838	en	ne	adv(neg)	ne	adv(neg)	True
+Ge_M1_65_838	beulecte	bevlekken	v(fin,past,lex)	bevlekken	v(fin,past,lex)	True
+
+Ge_M1_65_839	rijcheit	rijkheid	n(sing)	rijkheid	n(sing)	False
+Ge_M1_65_839	maect	maken	v(fin,pres,lex)	maken	v(fin,pres,lex)	False
+Ge_M1_65_839	j	een	art(indef)	een	art(indef)	False
+Ge_M1_65_839	so	zo	adv(gener)	zo	adv(gener)	False
+Ge_M1_65_839	blint	blind	adj()	blind	adj()	False
+
+Ge_M1_65_840	datti	dat+hij	conj(subord)+pron(pers,3,sing)	dat+hij	conj(subord)+pron(pers,3,sing)	False
+Ge_M1_65_840	gode	god	n(prop)	god	n(prop)	False
+Ge_M1_65_840	niet	niet	adv(neg)	niet	adv(neg)	False
+Ge_M1_65_840	en	ne	adv(neg)	ne	adv(neg)	False
+Ge_M1_65_840	kint	kind	v(fin,pres,lex)	kind	v(fin,pres,lex)	False
+
+Ge_M1_65_841	dus	dus	adv(dem)	dus	adv(dem)	False
+Ge_M1_65_841	sceetmen	men+scheten	pron(indef)+v(fin,pres,lex)	men+scheten	pron(indef)+v(fin,pres,lex)	False
+Ge_M1_65_841	vanden	de+van	adp()+art(def)	de+van	adp()+art(def)	False
+Ge_M1_65_841	lichte	licht	n(sing)	licht	n(sing)	False
+
+Ge_M1_65_842	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_65_842	wort	worden	v(fin,pres,aux_cop)	worden	v(fin,pres,aux_cop)	False
+Ge_M1_65_842	van	van	adp()	van	adp()	False
+Ge_M1_65_842	leuen	leven	n(sing)	leven	n(sing)	False
+Ge_M1_65_842	j	1	num(card)	1	num(card)	False
+Ge_M1_65_842	rent	rente	n(sing)	rente	n(sing)	False
+
+Ge_M1_65_843	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_65_843	valt	vallen	v(fin,pres,lex)	vallen	v(fin,pres,lex)	False
+Ge_M1_65_843	int	het+in	art(def)+adp()	het+in	art(def)+adp()	False
+Ge_M1_65_843	thelle	tal	n(sing)	tal	n(sing)	False
+Ge_M1_65_843	torment	torment	n(sing)	torment	n(sing)	False
+
+Ge_M1_65_844	dus	dus	adv(dem)	dus	adv(dem)	False
+Ge_M1_65_844	brincti	brengen+gij	v(fin,past,lex)+pron(pers,3,sing)	brengen+gij	v(fin,past,lex)+pron(pers,3,sing)	False
+Ge_M1_65_844	indie	de+in	adp()+art(def)	de+in	adp()+art(def)	False
+Ge_M1_65_844	hechte	hecht	n(sing)	hecht	n(sing)	False
+
+Ge_M1_65_845	die	de	art(def)	de	art(def)	False
+Ge_M1_65_845	duuel	duivel	n(sing)	duivel	n(sing)	False
+Ge_M1_65_845	sine	zijn	pron(poss)	zijn	pron(poss)	False
+Ge_M1_65_845	knechte	knecht	n(plu)	knecht	n(plu)	False
+
+Ge_M1_66_846	iacop	jacob	n(prop)	jacob	n(prop)	False
+Ge_M1_66_846	du	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+Ge_M1_66_846	seges	zeggen	v(fin,pres,lex)	zeggen	v(fin,pres,lex)	False
+Ge_M1_66_846	wel	wel	adv(gener)	wel	adv(gener)	False
+Ge_M1_66_846	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_66_846	waer	waar	v(fin,past,aux_cop)	waar	v(fin,past,aux_cop)	False
+
+Ge_M1_66_847	die	de	art(def)	de	art(def)	False
+Ge_M1_66_847	wech	weg	n(sing)	weg	n(sing)	False
+Ge_M1_66_847	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+Ge_M1_66_847	hoech	hoog	adj()	hoog	adj()	False
+Ge_M1_66_847	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_66_847	swaer	zwaar	adj()	zwaar	adj()	False
+
+Ge_M1_66_848	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_66_848	sere	zeer	adv(gener)	zeer	adv(gener)	False
+Ge_M1_66_848	ongetreden	ongetreden	adj()	ongetreden	adj()	False
+
+Ge_M1_66_849	met	met	adp()	met	adp()	False
+Ge_M1_66_849	aermoede	armoede	n(sing)	armoede	n(sing)	False
+Ge_M1_66_849	comen	komen	v(infin)	komen	v(infin)	False
+Ge_M1_66_849	daer	daar	pronadv(dem)	daar	pronadv(dem)	False
+
+Ge_M1_66_850	daermen	daar+men	pronadv(rel)+pron(indef)	daar+men	pronadv(rel)+pron(indef)	False
+Ge_M1_66_850	leuet	leven	v(fin,pres,lex)	leven	v(fin,pres,lex)	False
+Ge_M1_66_850	sonder	zonder	adp()	zonder	adp()	False
+Ge_M1_66_850	vaer	vaar	n(sing)	vaar	n(sing)	False
+
+Ge_M1_66_851	in	in	adp()	in	adp()	False
+Ge_M1_66_851	eweliker	eeuwelijk	adj()	eeuwelijk	adj()	False
+Ge_M1_66_851	vreden	vrede	n(sing)	vrede	n(sing)	False
+
+Ge_M1_66_852	merten	martinus	n(prop)	martinus	n(prop)	False
+Ge_M1_66_852	trect	trekken	v(fin,pres,lex)	trekken	v(fin,pres,lex)	False
+Ge_M1_66_852	die	de	art(def)	de	art(def)	False
+Ge_M1_66_852	arme	arme	n(plu)	arme	n(plu)	False
+Ge_M1_66_852	naer	naar	adp()	naar	adp()	False
+
+Ge_M1_66_853	deile	deel	n(sing)	deel	n(sing)	False
+Ge_M1_66_853	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+Ge_M1_66_853	stille	stil	adv(gener)	stil	adv(gener)	False
+Ge_M1_66_853	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_66_853	openbaer	openbaar	adv(gener)	openbaar	adv(gener)	False
+
+Ge_M1_66_854	van	van	adp()	van	adp()	False
+Ge_M1_66_854	dijnre	dijn	pron(poss)	dijn	pron(poss)	False
+Ge_M1_66_854	rijcheden	rijkheid	n(sing)	rijkheid	n(sing)	False
+
+Ge_M1_66_855	ere	een	n(sing)	een	n(sing)	False
+Ge_M1_66_855	die	de	art(def)	de	art(def)	False
+Ge_M1_66_855	kerke	kerk	n(sing)	kerk	n(sing)	False
+Ge_M1_66_855	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_66_855	outaer	altaar	n(sing)	altaar	n(sing)	False
+
+Ge_M1_66_856	het	het	pron(pers,3,sing)	het	pron(pers,3,sing)	False
+Ge_M1_66_856	wort	woord	v(fin,pres,aux_cop)	woord	v(fin,pres,aux_cop)	False
+Ge_M1_66_856	ten	de+te	adp()+art(def)	de+te	adp()+art(def)	False
+Ge_M1_66_856	lesten	laatst	adj()	laatst	adj()	False
+Ge_M1_66_856	maer	maar	conj(coord)	maar	conj(coord)	False
+
+Ge_M1_66_857	daer	daar	pronadv(dem)	daar	pronadv(dem)	False
+Ge_M1_66_857	bi	bij	adp()	bij	adp()	False
+Ge_M1_66_857	god	god	n(sing)	god	n(sing)	False
+Ge_M1_66_857	sal	zullen	v(fin,pres,aux_cop)	zullen	v(fin,pres,aux_cop)	False
+Ge_M1_66_857	besceden	bescheiden	v(infin)	bescheiden	v(infin)	False
+
+Ge_M1_66_858	met	met	adp()	met	adp()	False
+Ge_M1_66_858	sinen	zijn	pron(poss)	zijn	pron(poss)	False
+Ge_M1_66_858	lieuen	lief	adj()	lief	adj()	False
+Ge_M1_66_858	leden	lid	n(plu)	lid	n(plu)	False
+
+Ge_M1_67_859	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+Ge_M1_67_859	die	de	art(def)	de	art(def)	False
+Ge_M1_67_859	wech	weg	n(sing)	weg	n(sing)	False
+Ge_M1_67_859	nau	nauw	adv(gener)	nauw	adv(gener)	False
+Ge_M1_67_859	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_67_859	hoech	hoog	adj()	hoog	adj()	False
+
+Ge_M1_67_860	daer	daar	adv(rel)	daar	adv(rel)	False
+Ge_M1_67_860	ihesus	jezus	n(prop)	jezus	n(prop)	False
+Ge_M1_67_860	bi	bij	adp()	bij	adp()	False
+Ge_M1_67_860	te	te	adp()	te	adp()	False
+Ge_M1_67_860	hemel	hemel	n(sing)	hemel	n(sing)	False
+Ge_M1_67_860	vloech	vliegen	v(fin,past,lex)	vliegen	v(fin,past,lex)	False
+
+Ge_M1_67_861	dats	dat+zijn	pron(dem)+v(fin,pres,aux_cop)	dat+zijn	pron(dem)+v(fin,pres,aux_cop)	False
+Ge_M1_67_861	passie	passie	n(sing)	passie	n(sing)	False
+Ge_M1_67_861	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_67_861	aermoede	armoede	n(sing)	armoede	n(sing)	False
+
+Ge_M1_67_862	oftu	du+of	pron(pers,2,sing)+conj(subord)	du+of	pron(pers,2,sing)+conj(subord)	False
+Ge_M1_67_862	meer	meer	adv(gener)	meer	adv(gener)	False
+Ge_M1_67_862	heues	hebben	v(fin,pres,lex)	hebben	v(fin,pres,lex)	False
+Ge_M1_67_862	dandi	dan+de	conj(subord)+pron(pers,2,sing)	dan+de	conj(subord)+pron(pers,2,sing)	False
+Ge_M1_67_862	doech	deugen	n(prop)	deugen	n(prop)	False
+
+Ge_M1_67_863	om	om	adp()	om	adp()	False
+Ge_M1_67_863	gods	god	n(sing)	god	n(sing)	False
+Ge_M1_67_863	hulde	hulde	n(sing)	hulde	n(sing)	False
+Ge_M1_67_863	poech	pacht	v(fin,past,lex)	pacht	v(fin,past,lex)	False
+
+Ge_M1_67_864	deile	deel	n(sing)	deel	n(sing)	False
+Ge_M1_67_864	van	van	adp()	van	adp()	False
+Ge_M1_67_864	dinen	dijn	pron(poss)	dijn	pron(poss)	False
+Ge_M1_67_864	goede	goed	n(sing)	goed	n(sing)	False
+
+Ge_M1_67_865	dine	dijn	pron(poss)	dijn	pron(poss)	False
+Ge_M1_67_865	fiere	fier	n(sing)	fier	n(sing)	False
+Ge_M1_67_865	herte	hart	n(sing)	hart	n(sing)	False
+Ge_M1_67_865	boech	buigen	n(sing)	buigen	n(sing)	False
+
+Ge_M1_67_866	den	de	art(def)	de	art(def)	False
+Ge_M1_67_866	armen	arme	n(plu)	arme	n(plu)	False
+Ge_M1_67_866	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_67_866	toech	togen	v(fin,past,lex)	togen	v(fin,past,lex)	False
+
+Ge_M1_67_867	ontfermicheit	ontfermigheid	n(sing)	ontfermigheid	n(sing)	False
+Ge_M1_67_867	van	van	adp()	van	adp()	False
+Ge_M1_67_867	moede	moed	n(sing)	moed	n(sing)	False
+
+Ge_M1_67_868	god	god	n(sing)	god	n(sing)	False
+Ge_M1_67_868	selue	zelf	pron(dem)	zelf	pron(dem)	False
+Ge_M1_67_868	die	die	pron(rel)	die	pron(rel)	False
+Ge_M1_67_868	nie	nie	adv(neg)	nie	adv(neg)	False
+Ge_M1_67_868	en	ne	adv(neg)	ne	adv(neg)	False
+Ge_M1_67_868	loech	lachen	v(fin,past,lex)	lachen	v(fin,past,lex)	False
+
+Ge_M1_67_869	enten	de+en	art(def)+conj(coord)	de+en	art(def)+conj(coord)	False
+Ge_M1_67_869	milden	mild	n(plu)	mild	n(plu)	False
+Ge_M1_67_869	niet	niet	adv(neg)	niet	adv(neg)	False
+Ge_M1_67_869	en	ne	adv(neg)	ne	adv(neg)	False
+Ge_M1_67_869	bedroech	bedriegen	v(fin,past,lex)	bedriegen	v(fin,past,lex)	False
+
+Ge_M1_67_870	sette	zetten	v(fin,past,lex)	zetten	v(fin,past,lex)	False
+Ge_M1_67_870	di	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+Ge_M1_67_870	in	in	adp()	in	adp()	False
+Ge_M1_67_870	sijnre	zijn	pron(poss)	zijn	pron(poss)	False
+Ge_M1_67_870	hoeden	hoede	n(sing)	hoede	n(sing)	False
+
+
+Ge_M1_68_872	iacop	jacob	n(prop)	jacob	n(prop)	True
+Ge_M1_68_872	die	de	art(def)	de	art(def)	True
+Ge_M1_68_872	werelt	wereld	n(sing)	wereld	n(sing)	True
+Ge_M1_68_872	maec	maken	v(imp)	maken	v(imp)	True
+
+Ge_M1_68_873	ende	en	conj(coord)	en	conj(coord)	True
+Ge_M1_68_873	tient	tien+tij	v(fin,pres,lex)	tien+tij	v(fin,pres,lex)	True
+Ge_M1_68_873	den	de	art(def)	de	art(def)	True
+Ge_M1_68_873	vro	vro	n(sing)	vro	n(sing)	True
+
+Ge_M1_68_874	dat	dat	conj(subord)	dat	conj(subord)	True
+Ge_M1_68_874	wi	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+Ge_M1_68_874	in	in	adp()	in	adp()	True
+Ge_M1_68_874	sonden	zonde	n(plu)	zonde	n(plu)	True
+Ge_M1_68_874	sne	sneeuw	v(fin,pres,lex)	sneeuw	v(fin,pres,lex)	True
+
+Ge_M1_68_875	eua	eva	n(prop)	eva	n(prop)	True
+Ge_M1_68_875	viel	vallen	v(fin,past,lex)	vallen	v(fin,past,lex)	True
+Ge_M1_68_875	den	de	art(def)	de	art(def)	True
+Ge_M1_68_875	iersten	eerst	num(ord)	eerst	num(ord)	True
+Ge_M1_68_875	v	u	pron(pers,2,plu)	u	pron(pers,2,plu)	True
+
+Ge_M1_68_876	daer	daar	pronadv(rel)	daar	pronadv(rel)	True
+Ge_M1_68_876	wi	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+Ge_M1_68_876	omme	om	pronadv(rel)	om	pronadv(rel)	True
+Ge_M1_68_876	int	in+dat	adp()+art(def)	in+dat	adp()+art(def)	True
+Ge_M1_68_876	thelsce	te+els	n(sing)	te+els	n(sing)	True
+
+Ge_M1_68_877	alle	al	num(indef)	al	num(indef)	False
+Ge_M1_68_877	sijn	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+Ge_M1_68_877	verdreuen	verdrijven	v(participle,past)	verdrijven	v(participle,past)	False
+
+Ge_M1_68_878	ja	ja	interj()	ja	interj()	True
+Ge_M1_68_878	seggen	zeggen	v(infin)	zeggen	v(infin)	True
+Ge_M1_68_878	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+Ge_M1_68_878	groot	groot	adj()	groot	adj()	True
+Ge_M1_68_878	ende	en	conj(coord)	en	conj(coord)	True
+
+Ge_M1_68_879	dat	dat	conj(subord)	dat	conj(subord)	True
+Ge_M1_68_879	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+Ge_M1_68_879	adame	adam	n(prop)	adam	n(prop)	True
+Ge_M1_68_879	therte	hart+het	art(def)+n(sing)	hart+het	art(def)+n(sing)	True
+Ge_M1_68_879	sta	staan	v(fin,pres,lex)	staan	v(fin,pres,lex)	True
+
+Ge_M1_68_880	die	die	pron(rel)	die	pron(rel)	True
+Ge_M1_68_880	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_68_880	van	van	adp()	van	adp()	True
+Ge_M1_68_880	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_68_880	liet	laten	v(fin,past,lex)	laten	v(fin,past,lex)	True
+Ge_M1_68_880	verg	vergeen	n(sing)	vergeen	n(sing)	True
+
+Ge_M1_68_881	sech	zeggen	v(imp)	zeggen	v(imp)	True
+Ge_M1_68_881	wient	het+wie	conj(subord)	het+wie	conj(subord)	True
+Ge_M1_68_881	men	men	pron(indef)	men	pron(indef)	True
+Ge_M1_68_881	tien	die+te	pron(dem)+adp()	die+te	pron(dem)+adp()	True
+
+Ge_M1_68_882	dit	dit	pron(dem)	dit	pron(dem)	True
+Ge_M1_68_882	verlies	verlies	n(sing)	verlies	n(sing)	True
+Ge_M1_68_882	sonder	zonder	adp()	zonder	adp()	True
+Ge_M1_68_882	geta	getaard	n(sing)	getaard	n(sing)	True
+
+Ge_M1_68_883	daer	daar	pronadv(rel)	daar	pronadv(rel)	False
+Ge_M1_68_883	wi	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+Ge_M1_68_883	om	om	pronadv(rel)	om	pronadv(rel)	False
+Ge_M1_68_883	sullen	zullen	v(fin,pres,aux_cop)	zullen	v(fin,pres,aux_cop)	False
+Ge_M1_68_883	beuen	beven	v(infin)	beven	v(infin)	False
+
+Ge_M1_68_884	als	als	conj(comp)	als	conj(comp)	True
+Ge_M1_68_884	enden	einden	v(infin)	einden	v(infin)	True
+Ge_M1_68_884	sal	zullen	v(fin,pres,aux_cop)	zullen	v(fin,pres,aux_cop)	True
+Ge_M1_68_884	dit	dit	pron(dem)	dit	pron(dem)	True
+Ge_M1_68_884	leu	leven	n(sing)	leven	n(sing)	True
+
+Ge_M1_69_885	merten	martinus	n(prop)	martinus	n(prop)	True
+Ge_M1_69_885	hene	henen	adv(gener)	henen	adv(gener)	True
+Ge_M1_69_885	nes	ne+zijn	adv(neg)+v(fin,pres,aux_cop)	ne+zijn	adv(neg)+v(fin,pres,aux_cop)	True
+Ge_M1_69_885	niet	niet	adv(neg)	niet	adv(neg)	True
+Ge_M1_69_885	v	u	num(card)	u	num(card)	True
+
+Ge_M1_69_886	die	de	art(def)	de	art(def)	True
+Ge_M1_69_886	enen	een	art(indef)	een	art(indef)	True
+Ge_M1_69_886	tijt	tijd	n(sing)	tijd	n(sing)	True
+Ge_M1_69_886	dat	dat	conj(subord)	dat	conj(subord)	True
+Ge_M1_69_886	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_69_886	m	men	num(card)	men	num(card)	True
+
+Ge_M1_69_887	kent	kennen	v(fin,pres,lex)	kennen	v(fin,pres,lex)	True
+Ge_M1_69_887	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_69_887	vrome	vroom	n(sing)	vroom	n(sing)	True
+Ge_M1_69_887	oft	of	conj(coord)	of	conj(coord)	True
+Ge_M1_69_887	s	sint	adj()	sint	adj()	True
+
+Ge_M1_69_888	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_888	sie	zien	v(fin,pres,lex)	zien	v(fin,pres,lex)	True
+Ge_M1_69_888	die	de	art(def)	de	art(def)	True
+Ge_M1_69_888	see	zee	n(sing)	zee	n(sing)	True
+Ge_M1_69_888	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_888	sic	zien	pron(refl,3,sing)	zien	pron(refl,3,sing)	True
+Ge_M1_69_888	di	du	pron(pers,2,sing)	du	pron(pers,2,sing)	True
+
+Ge_M1_69_889	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_889	setter	daarop+zetten	adv(gener)+v(fin,past,lex)	daarop+zetten	adv(gener)+v(fin,past,lex)	True
+Ge_M1_69_889	willens	willen	v(participle,pres)	willen	v(participle,pres)	True
+Ge_M1_69_889	inde	en	conj(coord)	en	conj(coord)	True
+
+Ge_M1_69_890	bi	bij	adp()	bij	adp()	True
+Ge_M1_69_890	enen	een	art(indef)	een	art(indef)	True
+Ge_M1_69_890	dommen	dom	adj()	dom	adj()	True
+Ge_M1_69_890	ra	raam	n(sing)	raam	n(sing)	True
+
+Ge_M1_69_891	wien	wie	pron(inter)	wie	pron(inter)	True
+Ge_M1_69_891	dragics	dragen+het	n(prop)	dragen+het	n(prop)	True
+Ge_M1_69_891	euelen	euvel	adj()	euvel	adj()	True
+
+Ge_M1_69_892	oft	of	conj(coord)	of	conj(coord)	True
+Ge_M1_69_892	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_892	die	de	art(def)	de	art(def)	True
+Ge_M1_69_892	stroem	stroom	n(sing)	stroom	n(sing)	True
+Ge_M1_69_892	met	met	adp()	met	adp()	True
+
+Ge_M1_69_893	voort	voort	adv(gener)	voort	adv(gener)	False
+Ge_M1_69_893	inden	in+de	adp()+art(def)	in+de	adp()+art(def)	False
+Ge_M1_69_893	gewade	gewaad	n(sing)	gewaad	n(sing)	False
+
+Ge_M1_69_894	oft	of	conj(coord)	of	conj(coord)	True
+Ge_M1_69_894	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_894	quaet	kwaad	adj()	kwaad	adj()	True
+Ge_M1_69_894	kinne	kennen	v(fin,pres,lex)	kennen	v(fin,pres,lex)	True
+Ge_M1_69_894	ende	en	conj(coord)	en	conj(coord)	True
+
+Ge_M1_69_895	ende	en	conj(coord)	en	conj(coord)	True
+Ge_M1_69_895	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_895	my	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_69_895	vense	veinzen	misc()	veinzen	misc()	True
+Ge_M1_69_895	verwo	verwin	misc()	verwin	misc()	True
+
+Ge_M1_69_896	men	men	pron(indef)	men	pron(indef)	True
+Ge_M1_69_896	salt	zullen+het	v(fin,pres,aux_cop)+pron(pers,3,sing)	zullen+het	v(fin,pres,aux_cop)+pron(pers,3,sing)	True
+Ge_M1_69_896	clagen	klagen	v(infin)	klagen	v(infin)	True
+Ge_M1_69_896	spa	spa	n(sing)	spa	n(sing)	True
+
+Ge_M1_69_897	dat	dat	conj(subord)	dat	conj(subord)	False
+Ge_M1_69_897	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+Ge_M1_69_897	my	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+Ge_M1_69_897	verlade	verladen	v(fin,past,lex)	verladen	v(fin,past,lex)	False
+
+Ge_M1_70_898	selc	zulk	pron(dem)	zulk	pron(dem)	True
+Ge_M1_70_898	tient	tiend	n(sing)	tiend	n(sing)	True
+Ge_M1_70_898	den	de	art(def)	de	art(def)	True
+Ge_M1_70_898	vrouwen	vrouw	n(sing)	vrouw	n(sing)	True
+
+Ge_M1_70_899	dat	dat	conj(subord)	dat	conj(subord)	True
+Ge_M1_70_899	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+Ge_M1_70_899	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_70_899	therte	hart+het	n(sing)+art(def)	hart+het	n(sing)+art(def)	True
+Ge_M1_70_899	onti	hij+ont	pron(pers,3,sing)+v(fin,past,lex)	hij+ont	pron(pers,3,sing)+v(fin,past,lex)	True
+
+Ge_M1_70_900	als	als	conj(comp)	als	conj(comp)	True
+Ge_M1_70_900	die	de	art(def)	de	art(def)	True
+Ge_M1_70_900	steen	steen	n(sing)	steen	n(sing)	True
+Ge_M1_70_900	die	die	pron(rel)	die	pron(rel)	True
+Ge_M1_70_900	nael	natal	v(fin,pres,lex)	natal	v(fin,pres,lex)	True
+
+Ge_M1_70_901	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_70_901	dunct	dunken	v(fin,pres,aux_cop)	dunken	v(fin,pres,aux_cop)	True
+Ge_M1_70_901	my	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ge_M1_70_901	mesdoen	misdoen	v(infin)	misdoen	v(infin)	True
+Ge_M1_70_901	in	in	adp()	in	adp()	True
+
+Ge_M1_70_902	wildi	gij+willen	pron(pers,2,plu)+v(fin,pres,aux_cop)	gij+willen	pron(pers,2,plu)+v(fin,pres,aux_cop)	False
+Ge_M1_70_902	die	de	art(def)	de	art(def)	False
+Ge_M1_70_902	waerheit	waarheid	n(sing)	waarheid	n(sing)	False
+Ge_M1_70_902	ghien	gij+ne	pron(indef)	gij+ne	pron(indef)	False
+
+Ge_M1_70_903	eer	eer	conj(subord)	eer	conj(subord)	False
+Ge_M1_70_903	hire	hij+er	pronadv(dem)	hij+er	pronadv(dem)	False
+Ge_M1_70_903	toe	toe	pronadv(prep)	toe	pronadv(prep)	False
+Ge_M1_70_903	taelde	talen	v(fin,past,lex)	talen	v(fin,past,lex)	False
+
+Ge_M1_70_904	wat	wat	pron(inter)	wat	pron(inter)	True
+Ge_M1_70_904	mogens	mogend	adj()	mogend	adj()	True
+Ge_M1_70_904	vrouwen	vrouw	n(sing)	vrouw	n(sing)	True
+Ge_M1_70_904	dat	dat	conj(subord)	dat	conj(subord)	True
+
+Ge_M1_70_905	so	zo	adv(resum)	zo	adv(resum)	True
+Ge_M1_70_905	nau	na	adv(gener)	na	adv(gener)	True
+Ge_M1_70_905	om	om	adp()	om	adp()	True
+Ge_M1_70_905	hare	haar	pron(poss)	haar	pron(poss)	True
+Ge_M1_70_905	scoenheit	schoonheid	n(sing)	schoonheid	n(sing)	True
+Ge_M1_70_905	s	sint	adj()	sint	adj()	True
+
+Ge_M1_70_906	wie	wie	pron(inter)	wie	pron(inter)	True
+Ge_M1_70_906	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+Ge_M1_70_906	dieser	deze	pron(dem)	deze	pron(dem)	True
+Ge_M1_70_906	toe	toe	adp()	toe	adp()	True
+Ge_M1_70_906	hael	halen	n(sing)	halen	n(sing)	True
+
+Ge_M1_70_907	wilde	willen	v(fin,past,aux_cop)	willen	v(fin,past,aux_cop)	True
+Ge_M1_70_907	die	de	art(def)	de	art(def)	True
+Ge_M1_70_907	clager	klager	n(sing)	klager	n(sing)	True
+Ge_M1_70_907	te	te	adp()	te	adp()	True
+Ge_M1_70_907	tid	tijd	pron(pers,2,sing)	tijd	pron(pers,2,sing)	True
+
+Ge_M1_70_908	sone	ne+zo	n(sing)	ne+zo	n(sing)	True
+Ge_M1_70_908	mocht	mogen	v(fin,past,aux_cop)	mogen	v(fin,past,aux_cop)	True
+Ge_M1_70_908	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_70_908	ni	nie	adv(neg)	nie	adv(neg)	True
+
+
+Ge_M1_70_910	er	eer	conj(subord)	eer	conj(subord)	True
+Ge_M1_70_910	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_70_910	therte	hart+het	n(sing)+art(def)	hart+het	n(sing)+art(def)	True
+Ge_M1_70_910	ontaelde	onthalen	v(fin,past,lex)	onthalen	v(fin,past,lex)	True
+
+Ge_M1_71_911	vrouwen	vrouw	n(sing)	vrouw	n(sing)	False
+Ge_M1_71_911	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	False
+Ge_M1_71_911	bi	bij	adp()	bij	adp()	False
+Ge_M1_71_911	natueren	natuur	n(sing)	natuur	n(sing)	False
+Ge_M1_71_911	goet	goed	adj()	goed	adj()	False
+
+Ge_M1_71_912	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	False
+Ge_M1_71_912	slechten	slechten	adv(gener)	slechten	adv(gener)	False
+Ge_M1_71_912	den	de	art(def)	de	art(def)	False
+Ge_M1_71_912	wijn	wijn	n(sing)	wijn	n(sing)	False
+Ge_M1_71_912	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_71_912	gloet	gloed	n(sing)	gloed	n(sing)	False
+
+Ge_M1_71_913	e	en	n(sing)	en	n(sing)	True
+Ge_M1_71_913	de	de	art(def)	de	art(def)	True
+Ge_M1_71_913	werelt	wereld	n(sing)	wereld	n(sing)	True
+Ge_M1_71_913	verbliden	verblijden	v(infin)	verblijden	v(infin)	True
+
+Ge_M1_71_914	ie	je	adv(gener)	je	adv(gener)	True
+Ge_M1_71_914	te	te	adv(gener)	te	adv(gener)	True
+Ge_M1_71_914	vele	veel	num(indef)	veel	num(indef)	True
+Ge_M1_71_914	wijns	wijn	n(sing)	wijn	n(sing)	True
+Ge_M1_71_914	in	in	adp()	in	adp()	True
+Ge_M1_71_914	doet	dood	n(sing)	dood	n(sing)	True
+
+Ge_M1_71_915	te	te	adv(gener)	te	adv(gener)	True
+Ge_M1_71_915	na	na	adp()	na	adp()	True
+Ge_M1_71_915	set	zetten	v(fin,pres,lex)	zetten	v(fin,pres,lex)	True
+Ge_M1_71_915	den	de	art(def)	de	art(def)	True
+Ge_M1_71_915	vant	vinden	n(sing)	vinden	n(sing)	True
+Ge_M1_71_915	voet	voet	n(sing)	voet	n(sing)	True
+
+Ge_M1_71_916	ne	ne	adv(neg)	ne	adv(neg)	True
+Ge_M1_71_916	cant	het+kunnen	pron(pers,3,sing)+v(fin,pres,aux_cop)	het+kunnen	pron(pers,3,sing)+v(fin,pres,aux_cop)	True
+Ge_M1_71_916	wel	wel	adv(gener)	wel	adv(gener)	True
+Ge_M1_71_916	niet	niet	adv(neg)	niet	adv(neg)	True
+Ge_M1_71_916	geliden	gelijden	v(infin)	gelijden	v(infin)	True
+
+Ge_M1_71_917	aren	haar	pron(poss)	haar	pron(poss)	True
+Ge_M1_71_917	mannen	man	n(plu)	man	n(plu)	True
+Ge_M1_71_917	so	zo	adv(resum)	zo	adv(resum)	True
+Ge_M1_71_917	behoet	behoeden	v(participle,past)	behoeden	v(participle,past)	True
+
+Ge_M1_71_918	atse	eten+zij	v(fin,past,lex)+pron(pers,3,sing)	eten+zij	v(fin,past,lex)+pron(pers,3,sing)	True
+Ge_M1_71_918	hert	hart	n(sing)	hart	n(sing)	True
+Ge_M1_71_918	sin	zin	v(fin,pres,aux_cop)	zin	v(fin,pres,aux_cop)	True
+Ge_M1_71_918	ende	en	conj(coord)	en	conj(coord)	True
+Ge_M1_71_918	moet	moeten	v(fin,pres,aux_cop)	moeten	v(fin,pres,aux_cop)	True
+
+Ge_M1_71_919	el	el	adv(gener)	el	adv(gener)	True
+Ge_M1_71_919	consten	kunnen	v(fin,past,aux_cop)	kunnen	v(fin,past,aux_cop)	True
+Ge_M1_71_919	besniden	besnijden	v(infin)	besnijden	v(infin)	True
+
+Ge_M1_71_920	o	o	interj()	o	interj()	True
+Ge_M1_71_920	waer	waar	adv(inter)	waar	adv(inter)	True
+Ge_M1_71_920	vrouwe	vrouw	n(sing)	vrouw	n(sing)	True
+Ge_M1_71_920	minne	minne	n(prop)	minne	n(prop)	True
+Ge_M1_71_920	spoet	spoed	n(sing)	spoed	n(sing)	True
+
+Ge_M1_71_921	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+Ge_M1_71_921	worden	worden	v(fin,past,aux_cop)	worden	v(fin,past,aux_cop)	True
+Ge_M1_71_921	van	van	adp()	van	adp()	True
+Ge_M1_71_921	minnen	minne	n(sing)	minne	n(sing)	True
+Ge_M1_71_921	verwoet	verwoed	adj()	verwoed	adj()	True
+
+Ge_M1_71_922	iere	ier	adv(indef)	ier	adv(indef)	True
+Ge_M1_71_922	dommelike	dommelijk	adv(gener)	dommelijk	adv(gener)	True
+Ge_M1_71_922	toe	te	adp()	te	adp()	True
+Ge_M1_71_922	tiden	tijd	n(sing)	tijd	n(sing)	True
+
+Ge_M1_71_923	at	eten	v(fin,past,lex)	eten	v(fin,past,lex)	True
+Ge_M1_71_923	doet	doen	n(sing)	doen	n(sing)	True
+Ge_M1_71_923	vrouwen	vrouw	n(sing)	vrouw	n(sing)	True
+Ge_M1_71_923	beniden	benijden	v(participle,past)	benijden	v(participle,past)	True
+
+Ge_M1_72_924	atmen	haten+men	v(infin)	haten+men	v(infin)	True
+Ge_M1_72_924	luttel	luttel	adv(gener)	luttel	adv(gener)	True
+Ge_M1_72_924	trouwen	trouw	v(infin)	trouw	v(infin)	True
+Ge_M1_72_924	vint	vinden	v(fin,pres,lex)	vinden	v(fin,pres,lex)	True
+
+Ge_M1_72_925	ane	aan	adp()	aan	adp()	False
+Ge_M1_72_925	vrouwen	vrouw	n(sing)	vrouw	n(sing)	False
+Ge_M1_72_925	clagic	ik+klagen	pron(pers,1,sing)+v(fin,pres,lex)	ik+klagen	pron(pers,1,sing)+v(fin,pres,lex)	False
+Ge_M1_72_925	twint	twint	n(sing)	twint	n(sing)	False
+
+Ge_M1_72_926	ender	en+de	adp()+art(def)	en+de	adp()+art(def)	True
+Ge_M1_72_926	manieren	manier	n(sing)	manier	n(sing)	True
+
+Ge_M1_72_927	smen	smin	n(sing)	smin	n(sing)	True
+Ge_M1_72_927	vele	veel	num(indef)	veel	num(indef)	True
+Ge_M1_72_927	vint	vinden	v(fin,pres,lex)	vinden	v(fin,pres,lex)	True
+
+Ge_M1_72_928	s	sint	misc()	sint	misc()	True
+Ge_M1_72_928	onweert	onwaard	adj()	onwaard	adj()	True
+Ge_M1_72_928	ende	en	conj(coord)	en	conj(coord)	True
+Ge_M1_72_928	ongemint	ongemind	adj()	ongemind	adj()	True
+
+Ge_M1_72_929	nde	en	conj(coord)	en	conj(coord)	True
+Ge_M1_72_929	men	men	pron(indef)	men	pron(indef)	True
+Ge_M1_72_929	coept	kopen	v(fin,pres,lex)	kopen	v(fin,pres,lex)	True
+Ge_M1_72_929	om	om	adp()	om	adp()	True
+Ge_M1_72_929	diere	duur	pron(dem)	duur	pron(dem)	True
+
+Ge_M1_72_930	ans	aan+de	n(prop)	aan+de	n(prop)	True
+Ge_M1_72_930	sijn	zijn	pron(poss)	zijn	pron(poss)	True
+Ge_M1_72_930	loser	lozen+zij	n(sing)	lozen+zij	n(sing)	True
+Ge_M1_72_930	dan	dan	conj(comp)	dan	conj(comp)	True
+Ge_M1_72_930	de	de	art(def)	de	art(def)	True
+Ge_M1_72_930	wint	wind	n(sing)	wind	n(sing)	True
+
+Ge_M1_72_931	aer	haar	pron(poss)	haar	pron(poss)	True
+Ge_M1_72_931	clagen	klagen	v(infin)	klagen	v(infin)	True
+Ge_M1_72_931	vrouwen	vrouw	n(sing)	vrouw	n(sing)	True
+Ge_M1_72_931	blint	blind	adj()	blind	adj()	True
+
+Ge_M1_72_932	ant	aan+het	misc()	aan+het	misc()	True
+Ge_M1_72_932	si	zij	pron(pers,3,plu)	zij	pron(pers,3,plu)	True
+Ge_M1_72_932	sijn	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+Ge_M1_72_932	goedertieren	goedertieren	adj()	goedertieren	adj()	True
+
+Ge_M1_72_933	ote	ote	conj(coord)	ote	conj(coord)	True
+Ge_M1_72_933	sonden	zonde	n(plu)	zonde	n(plu)	True
+Ge_M1_72_933	hi	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ge_M1_72_933	hem	hij	pron(refl,3,sing)	hij	pron(refl,3,sing)	True
+Ge_M1_72_933	bewint	bewinden	v(fin,pres,lex)	bewinden	v(fin,pres,lex)	True
+
+Ge_M1_72_934	e	en	n(sing)	en	n(sing)	True
+Ge_M1_72_934	vals	vals	adj()	vals	adj()	True
+Ge_M1_72_934	wort	worden	v(fin,pres,aux_cop)	worden	v(fin,pres,aux_cop)	True
+Ge_M1_72_934	vrouwen	vrouw	n(sing)	vrouw	n(sing)	True
+Ge_M1_72_934	sint	sint	adj()	sint	adj()	True
+
+Ge_M1_72_935	d	denarius	n(plu)	denarius	n(plu)	True
+Ge_M1_72_935	die	die	pron(dem)	die	pron(dem)	True
+Ge_M1_72_935	moeten	moeten	v(fin,pres,aux_cop)	moeten	v(fin,pres,aux_cop)	True
+Ge_M1_72_935	sciere	schier	adv(gener)	schier	adv(gener)	True
+
+Ge_M1_72_936	den	de	art(def)	de	art(def)	True
+Ge_M1_72_936	ten	te+de	adp()+art(def)	te+de	adp()+art(def)	True
+Ge_M1_72_936	helscen	hels	adj()	hels	adj()	True
+Ge_M1_72_936	viere	vier	num(card)	vier	num(card)	True
+
+Ge_M1_73_937	t	te	pron(pers,3,sing)	te	pron(pers,3,sing)	True
+Ge_M1_73_937	mocht	mogen	v(fin,past,aux_cop)	mogen	v(fin,past,aux_cop)	True
+Ge_M1_73_937	eua	eva	n(prop)	eva	n(prop)	True
+Ge_M1_73_937	dat	dat	conj(subord)	dat	conj(subord)	True
+Ge_M1_73_937	adam	adam	n(prop)	adam	n(prop)	True
+
+Ge_M1_73_938	oor	oor	n(sing)	oor	n(sing)	True
+Ge_M1_73_938	haren	haar	pron(poss)	haar	pron(poss)	True
+Ge_M1_73_938	wil	wil	n(sing)	wil	n(sing)	True
+Ge_M1_73_938	den	de	art(def)	de	art(def)	True
+Ge_M1_73_938	appel	appel	n(sing)	appel	n(sing)	True
+Ge_M1_73_938	nam	nemen	v(fin,past,lex)	nemen	v(fin,past,lex)	True
+
+Ge_M1_73_939	t	het	adp()	het	adp()	True
+Ge_M1_73_939	wi	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+Ge_M1_73_939	noch	nog	adv(gener)	nog	adv(gener)	True
+Ge_M1_73_939	alle	al	num(indef)	al	num(indef)	True
+Ge_M1_73_939	besteruen	besterven	v(infin)	besterven	v(infin)	True
+
+Ge_M1_73_940	waender	wander	n(sing)	wander	n(sing)	True
+Ge_M1_73_940	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+Ge_M1_73_940	vordel	voordeel	n(sing)	voordeel	n(sing)	True
+Ge_M1_73_940	af	af	pronadv(prep)	af	pronadv(prep)	True
+Ge_M1_73_940	quam	komen	v(fin,past,lex)	komen	v(fin,past,lex)	True
+
+Ge_M1_73_941	m	m	num(card)	m	num(card)	True
+Ge_M1_73_941	wert	waart	v(fin,pres,aux_cop)	waart	v(fin,pres,aux_cop)	True
+Ge_M1_73_941	themels	themaal	adv(gener)	themaal	adv(gener)	True
+Ge_M1_73_941	lam	lam	n(sing)	lam	n(sing)	True
+
+Ge_M1_73_942	nser	de+zijn	adv(gener)+v(fin,pres,aux_cop)	de+zijn	adv(gener)+v(fin,pres,aux_cop)	True
+Ge_M1_73_942	alder	al+de	n(sing)	al+de	n(sing)	True
+Ge_M1_73_942	bederuen	bederven	v(infin)	bederven	v(infin)	True
+
+Ge_M1_73_943	rsoende	rozond	v(fin,past,lex)	rozond	v(fin,past,lex)	True
+Ge_M1_73_943	den	de	art(def)	de	art(def)	True
+Ge_M1_73_943	vader	vader	n(sing)	vader	n(sing)	True
+Ge_M1_73_943	gram	gram	adj()	gram	adj()	True
+
+Ge_M1_73_944	wijsde	wijzen	v(fin,past,lex)	wijzen	v(fin,past,lex)	True
+Ge_M1_73_944	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	True
+Ge_M1_73_944	den	de	art(def)	de	art(def)	True
+Ge_M1_73_944	dam	dam	n(sing)	dam	n(sing)	True
+
+Ge_M1_73_945	ter	te+de	adp()+art(def)	te+de	adp()+art(def)	True
+Ge_M1_73_945	hoger	hoog	adj()	hoog	adj()	True
+Ge_M1_73_945	eruen	erf	n(sing)	erf	n(sing)	True
+
+Ge_M1_73_946	der	de	art(def)	de	art(def)	True
+Ge_M1_73_946	dinc	ding	n(sing)	ding	n(sing)	True
+Ge_M1_73_946	nieman	niemand	pron(indef)	niemand	pron(indef)	True
+Ge_M1_73_946	vernam	vernemen	v(fin,past,lex)	vernemen	v(fin,past,lex)	True
+
+
+Ge_M1_73_948	datti	dat+du	conj(subord)+pron(pers,3,sing)	dat+du	conj(subord)+pron(pers,3,sing)	False
+Ge_M1_73_948	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	False
+Ge_M1_73_948	eruen	erf	v(infin)	erf	v(infin)	False
+Ge_M1_73_948	weruen	werven	v(infin)	werven	v(infin)	False
+
+Ge_M1_73_949	door	door	adp()	door	adp()	False
+Ge_M1_73_949	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+Ge_M1_73_949	liet	laten	v(fin,past,lex)	laten	v(fin,past,lex)	False
+Ge_M1_73_949	bederuen	bederven	v(infin)	bederven	v(infin)	False
+
+Ge_M1_74_950	wat	wat	pron(inter)	wat	pron(inter)	False
+Ge_M1_74_950	maect	maken	v(fin,pres,lex)	maken	v(fin,pres,lex)	False
+Ge_M1_74_950	quaet	kwaad	adj()	kwaad	adj()	False
+Ge_M1_74_950	spreken	spreken	v(infin)	spreken	v(infin)	False
+Ge_M1_74_950	gescal	geschal	n(sing)	geschal	n(sing)	False
+
+Ge_M1_74_951	vrouwen	vrouw	n(sing)	vrouw	n(sing)	False
+Ge_M1_74_951	dadent	doen+het	v(fin,past,lex)+pron(pers,3,sing)	doen+het	v(fin,past,lex)+pron(pers,3,sing)	False
+Ge_M1_74_951	bi	bij	adp()	bij	adp()	False
+Ge_M1_74_951	na	na	adp()	na	adp()	False
+Ge_M1_74_951	al	al	num(indef)	al	num(indef)	False
+
+Ge_M1_74_952	dat	dat	conj(subord)	dat	conj(subord)	False
+Ge_M1_74_952	dit	dit	pron(dem)	dit	pron(dem)	False
+Ge_M1_74_952	wonder	wonder	n(sing)	wonder	n(sing)	False
+Ge_M1_74_952	gesciede	geschieden	v(fin,past,lex)	geschieden	v(fin,past,lex)	False
+
+Ge_M1_74_953	aldat	aldaar	pron(indef)+art(def)	aldaar	pron(indef)+art(def)	False
+Ge_M1_74_953	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+Ge_M1_74_953	oft	of	conj(coord)	of	conj(coord)	False
+Ge_M1_74_953	wesen	wezen	v(infin)	wezen	v(infin)	False
+Ge_M1_74_953	sal	zullen	v(fin,pres,aux_cop)	zullen	v(fin,pres,aux_cop)	False
+
+Ge_M1_74_954	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_74_954	ie	je	adv(gener)	je	adv(gener)	False
+Ge_M1_74_954	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+Ge_M1_74_954	sonder	zonder	adp()	zonder	adp()	False
+Ge_M1_74_954	getal	getal	n(sing)	getal	n(sing)	False
+
+Ge_M1_74_955	inglen	engel	n(plu)	engel	n(plu)	False
+Ge_M1_74_955	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_74_955	lieden	lieden	n(plu)	lieden	n(plu)	False
+
+Ge_M1_74_956	benedien	benijden	v(fin,pres,lex)	benijden	v(fin,pres,lex)	False
+Ge_M1_74_956	groot	groot	adj()	groot	adj()	False
+Ge_M1_74_956	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_74_956	smal	smal	adj()	smal	adj()	False
+
+Ge_M1_74_957	maria	maria	n(prop)	maria	n(prop)	False
+Ge_M1_74_957	genas	genezen	v(fin,past,lex)	genezen	v(fin,past,lex)	False
+Ge_M1_74_957	den	de	art(def)	de	art(def)	False
+Ge_M1_74_957	val	val	n(sing)	val	n(sing)	False
+
+Ge_M1_74_958	van	van	adp()	van	adp()	False
+Ge_M1_74_958	mensceliken	menselijk	adv(gener)	menselijk	adv(gener)	False
+Ge_M1_74_958	diede	die+du	n(sing)	die+du	n(sing)	False
+
+Ge_M1_74_959	si	zij	pron(pers,3,sing)	zij	pron(pers,3,sing)	False
+Ge_M1_74_959	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+Ge_M1_74_959	die	de	pron(dem)	de	pron(dem)	False
+Ge_M1_74_959	rouede	roven	n(sing)	roven	n(sing)	False
+Ge_M1_74_959	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_74_959	stal	stelen	n(prop)	stelen	n(prop)	False
+
+Ge_M1_74_960	die	de	art(def)	de	art(def)	False
+Ge_M1_74_960	siel	ziel	n(sing)	ziel	n(sing)	False
+Ge_M1_74_960	int	het+in	art(def)+adp()	het+in	art(def)+adp()	False
+Ge_M1_74_960	thelle	tal	n(prop)	tal	n(prop)	False
+Ge_M1_74_960	dal	dal	n(sing)	dal	n(sing)	False
+
+Ge_M1_74_961	dies	die	conj(subord)	die	conj(subord)	False
+Ge_M1_74_961	lucifer	lucifer	n(prop)	lucifer	n(prop)	False
+Ge_M1_74_961	beghiede	begieën	v(fin,past,lex)	begieën	v(fin,past,lex)	False
+
+Ge_M1_74_962	dat	dat	pron(dem)	dat	pron(dem)	False
+Ge_M1_74_962	was	zijn	v(fin,past,aux_cop)	zijn	v(fin,past,aux_cop)	False
+Ge_M1_74_962	sine	zijn	pron(poss)	zijn	pron(poss)	False
+Ge_M1_74_962	meiseinede	meisniede	n(sing)	meisniede	n(sing)	False
+
+Ge_M1_75_963	iacop	jacob	n(prop)	jacob	n(prop)	False
+Ge_M1_75_963	du	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+Ge_M1_75_963	best	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	False
+Ge_M1_75_963	den	de	art(def)	de	art(def)	False
+Ge_M1_75_963	vrouwen	vrouw	n(plu)	vrouw	n(plu)	False
+Ge_M1_75_963	hout	hout	v(fin,pres,lex)	hout	v(fin,pres,lex)	False
+
+Ge_M1_75_964	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_75_964	geuet	geven	v(fin,pres,lex)	geven	v(fin,pres,lex)	False
+Ge_M1_75_964	den	de	art(def)	de	art(def)	False
+Ge_M1_75_964	mans	man	n(sing)	man	n(sing)	False
+Ge_M1_75_964	scout	schuld	n(sing)	schuld	n(sing)	False
+
+Ge_M1_75_965	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+Ge_M1_75_965	wanict	ik+wanen	v(fin,pres,lex)	ik+wanen	v(fin,pres,lex)	False
+Ge_M1_75_965	best	zijn	adv(gener)	zijn	adv(gener)	False
+Ge_M1_75_965	gedoge	gedoog	v(participle,past)	gedoog	v(participle,past)	False
+
+Ge_M1_75_966	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+Ge_M1_75_966	vergeue	vergeven	v(fin,pres,lex)	vergeven	v(fin,pres,lex)	False
+Ge_M1_75_966	al	al	num(indef)	al	num(indef)	False
+Ge_M1_75_966	ongedout	ongedoude	n(sing)	ongedoude	n(sing)	False
+
+Ge_M1_75_967	allen	al	num(indef)	al	num(indef)	False
+Ge_M1_75_967	vrouwen	vrouw	n(plu)	vrouw	n(plu)	False
+Ge_M1_75_967	ionc	jong	n(plu)	jong	n(plu)	False
+Ge_M1_75_967	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M1_75_967	out	oud	adj()	oud	adj()	False
+
+Ge_M1_75_968	om	om	adp()	om	adp()	False
+Ge_M1_75_968	j	een	art(indef)	een	art(indef)	False
+Ge_M1_75_968	vrouwe	vrouw	n(sing)	vrouw	n(sing)	False
+Ge_M1_75_968	hoge	hoog	adv(gener)	hoog	adv(gener)	False
+
+Ge_M1_75_969	daer	daar	pronadv(dem)	daar	pronadv(dem)	False
+Ge_M1_75_969	af	af	pronadv(prep)	af	pronadv(prep)	False
+Ge_M1_75_969	quam	komen	v(fin,past,lex)	komen	v(fin,past,lex)	False
+Ge_M1_75_969	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+Ge_M1_75_969	behout	behouden	v(fin,pres,lex)	behouden	v(fin,pres,lex)	False
+
+Ge_M1_75_970	gedanct	danken	v(participle,past)	danken	v(participle,past)	False
+Ge_M1_75_970	sise	zij+zij	pron(pers,3,plu)+pron(pers,3,plu)	zij+zij	pron(pers,3,plu)+pron(pers,3,plu)	False
+Ge_M1_75_970	menichfout	menigvoud	adv(gener)	menigvoud	adv(gener)	False
+
+Ge_M1_75_971	dat	dat	conj(subord)	dat	conj(subord)	False
+Ge_M1_75_971	sine	hij+zij	pron(pers,3,sing)+pron(pers,3,sing)	hij+zij	pron(pers,3,sing)+pron(pers,3,sing)	False
+Ge_M1_75_971	op	op	adp()	op	adp()	False
+Ge_M1_75_971	hielt	houden	v(fin,past,lex)	houden	v(fin,past,lex)	False
+Ge_M1_75_971	met	met	adp()	met	adp()	False
+Ge_M1_75_971	soge	zoge	n(sing)	zoge	n(sing)	False
+
+Ge_M1_75_972	die	die	pron(rel)	die	pron(rel)	False
+Ge_M1_75_972	ons	wij	pron(pers,1,plu)	wij	pron(pers,1,plu)	False
+Ge_M1_75_972	benam	benemen	v(fin,past,lex)	benemen	v(fin,past,lex)	False
+Ge_M1_75_972	thelle	talen	n(prop)	talen	n(prop)	False
+Ge_M1_75_972	cout	koud	n(sing)	koud	n(sing)	False
+
+Ge_M1_75_973	in	in	adp()	in	adp()	False
+Ge_M1_75_973	haer	haar	pron(pers,3,sing)	haar	pron(pers,3,sing)	False
+Ge_M1_75_973	benic	ik+zijn	pron(pers,1,sing)+v(fin,pres,aux_cop)	ik+zijn	pron(pers,1,sing)+v(fin,pres,aux_cop)	False
+Ge_M1_75_973	tenden	teind	n(plu)	teind	n(plu)	False
+Ge_M1_75_973	bout	boud	adj()	boud	adj()	False
+
+Ge_M1_75_974	in	in	adp()	in	adp()	False
+Ge_M1_75_974	onsen	ons	pron(poss)	ons	pron(poss)	False
+Ge_M1_75_974	dyaloge	de+ialoge	n(sing)	de+ialoge	n(sing)	False
+
+Ge_M1_75_975	en	en	adv(neg)	en	adv(neg)	False
+Ge_M1_75_975	vrage	vragen	v(fin,pres,lex)	vragen	v(fin,pres,lex)	False
+Ge_M1_75_975	no	no	conj(coord)	no	conj(coord)	False
+Ge_M1_75_975	en	ne	adv(neg)	ne	adv(neg)	False
+Ge_M1_75_975	toghe	togen	v(fin,pres,lex)	togen	v(fin,pres,lex)	False
+
+Ge_M2_1_000	den	de	art(def)	de	art(def)	False
+Ge_M2_1_000	anderen	ander	adj()	ander	adj()	False
+Ge_M2_1_000	merten	martinus	n(prop)	martinus	n(prop)	False
+
+Ge_M2_1_001	slaeptu	daarop+slapen	pron(pers,2,sing)+v(fin,past,lex)	daarop+slapen	pron(pers,2,sing)+v(fin,past,lex)	False
+Ge_M2_1_001	merten	martinus	n(prop)	martinus	n(prop)	False
+Ge_M2_1_001	slaept	slapen	v(fin,pres,lex)	slapen	v(fin,pres,lex)	False
+Ge_M2_1_001	dijn	dijn	pron(poss)	dijn	pron(poss)	False
+Ge_M2_1_001	sin	zin	n(sing)	zin	n(sing)	False
+
+Ge_M2_1_002	sprect	spreken	v(fin,pres,lex)	spreken	v(fin,pres,lex)	False
+Ge_M2_1_002	hebdi	gij+hebben	pron(pers,2,plu)+v(fin,pres,aux_cop)	gij+hebben	pron(pers,2,plu)+v(fin,pres,aux_cop)	False
+Ge_M2_1_002	spreken	spreken	v(infin)	spreken	v(infin)	False
+Ge_M2_1_002	in	in	adp()	in	adp()	False
+
+Ge_M2_1_003	du	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+Ge_M2_1_003	dunckes	dunken	v(fin,pres,aux_cop)	dunken	v(fin,pres,aux_cop)	False
+Ge_M2_1_003	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	False
+Ge_M2_1_003	verdoren	verdoren	v(infin)	verdoren	v(infin)	False
+
+Ge_M2_1_004	dune	du+ne	pron(pers,2,sing)+conj(neg)	du+ne	pron(pers,2,sing)+conj(neg)	False
+Ge_M2_1_004	achtes	achten+de	v(fin,past,lex)+pron(pers,3,sing)	achten+de	v(fin,past,lex)+pron(pers,3,sing)	False
+Ge_M2_1_004	meer	meer	num(indef)	meer	num(indef)	False
+Ge_M2_1_004	no	no	conj(coord)	no	conj(coord)	False
+Ge_M2_1_004	min	min	adv(gener)	min	adv(gener)	False
+
+Ge_M2_1_005	dan	dan	conj(comp)	dan	conj(comp)	False
+Ge_M2_1_005	op	op	adp()	op	adp()	False
+Ge_M2_1_005	weelde	weelde	n(sing)	weelde	n(sing)	False
+Ge_M2_1_005	ende	en	conj(coord)	en	conj(coord)	False
+Ge_M2_1_005	gewin	gewin	n(sing)	gewin	n(sing)	False
+
+Ge_M2_1_006	wiltu	du+willen	pron(pers,2,sing)+v(fin,pres,aux_cop)	du+willen	pron(pers,2,sing)+v(fin,pres,aux_cop)	False
+Ge_M2_1_006	di	du	pron(pers,2,sing)	du	pron(pers,2,sing)	False
+Ge_M2_1_006	dus	dus	adv(dem)	dus	adv(dem)	False
+Ge_M2_1_006	versmoren	versmoren	v(infin)	versmoren	v(infin)	False
+
+Ge_M2_1_007	alwaert	alwaard	adv(gener)	alwaard	adv(gener)	False
+Ge_M2_1_007	dijn	dijn	pron(poss)	dijn	pron(poss)	False
+Ge_M2_1_007	dat	dat	pron(dem)	dat	pron(dem)	False
+Ge_M2_1_007	comt	komen	v(fin,pres,lex)	komen	v(fin,pres,lex)	False
+Ge_M2_1_007	int	het+in	art(def)+adp()	het+in	art(def)+adp()	False
+Ge_M2_1_007	tswin	het+wij	n(sing)	het+wij	n(sing)	False
+
+Ge_M2_1_008	gout	goud	n(sing)	goud	n(sing)	False
+Ge_M2_1_008	siluer	zilver	n(sing)	zilver	n(sing)	False
+Ge_M2_1_008	loed	lood	v(fin,past,lex)	lood	v(fin,past,lex)	False
+Ge_M2_1_008	iser	ijzer	n(sing)	ijzer	n(sing)	False
+Ge_M2_1_008	tin	de+te	pron(dem)+adp()	de+te	pron(dem)+adp()	False
+
+
