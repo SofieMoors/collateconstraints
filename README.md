@@ -9,7 +9,7 @@ The 17 different text witnesses of Martijn Trilogy are manuscripts, fragments, a
 
 ![image](https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/DataCollectionMartijnTrilogy.drawio.png)
 
-# REFERENCES : 
+# REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). Queeste, 26: 66–93.
 2) Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert  (eds.), ’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens. Louvain/Amersfoort: Acco, pp. 125–136.
 3) Brinkman, H. and Schenkel, J. (eds.) (1997). Het Comburgse handschrift. Hs. Stuttgart,. Württembergische Landesbibliothek, Cod. poet. et phil. 2o 22. Band 1. Hilversum: Verloren.
