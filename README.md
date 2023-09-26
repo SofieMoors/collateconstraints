@@ -28,9 +28,12 @@ The 17 different text witnesses of the *Martijn Trilogy* are manuscripts, fragme
 
 
 # DATA PREPROCESSING: 
-
-![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/flowchart.drawio.svg)
+<p align="center">
+  <img src="https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/flowchart.drawio.svg" />
+</p>
 
 # LEGEND rich_txt_martijn:
+<p align="center">
+  <img src="https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/Legend_rich_txt_files.drawio.svg"/>
+</p>
 
-![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/Legend_rich_txt_files.drawio.svg)
