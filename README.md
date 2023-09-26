@@ -7,7 +7,7 @@ Recent international research increasingly focuses on the spread and survival of
 # DATA COLLECTION: 
 The 17 different text witnesses of Martijn Trilogy are manuscripts, fragments, and prints dating from the 13th until ca. 1500. For most of the witnesses, existing editions of the text could be digitized using Optical Character Recognition.
 
-![image](https://github.com/SofieMoors/collateconstraints/blob/main/DataCollectionMartijnTrilogy.drawio.png)
+![image](https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/DataCollectionMartijnTrilogy.drawio.png)
 
 # REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). Queeste, 26: 66–93.
@@ -29,8 +29,8 @@ The 17 different text witnesses of Martijn Trilogy are manuscripts, fragments, a
 
 # DATA PREPROCESSING: 
 
-![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/flowchart.drawio.svg)
+![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/flowchart.drawio.svg)
 
 # LEGEND rich_txt_martijn:
 
-![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/Legend_rich_txt_files.drawio.svg)
+![flowchart](https://github.com/SofieMoors/collateconstraints/blob/main/data/Figures_images_tables/Legend_rich_txt_files.drawio.svg)
