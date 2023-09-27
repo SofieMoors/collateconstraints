@@ -38,22 +38,27 @@ For most of the witnesses, [existing editions](#references) of the text could be
 </p>
 
 **Data**
-- `rich_txt_martijn` -> 17 raw text files and enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
-- `META.txt` -> txt-file containing addition metadata which as added to the dataframe such as the composer, original language and original title.
-- `KVO_META.CSV` -> The preprocessed dataset.
-- `Metadata_OBV_gesplitsts_test.csv` -> The dataset before preprocessing.
+- `figures_images_tables` --> Folder with all figures, images and tables
+- `rich_txt_martijn` --> 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
+- `plain_txt_martijn` --> 17 txt-files generated from `xml_martijn` with markup applied (see scr > xml_editions > `xml2txt.ipynb`) 
+- `tsv_files` and `tsv_files_corrected` --> 17 tsv-files generated from `xml_martijn` by lemmatizer PIE (see src > lemmatizer > `pie_martijntrilogy.ipynb`), the 'corrected' ones are manually corrected (work-in-progress)
+- `xml_lemmatizer` --> 17 xml-files with lemma's generated from the `tsv-files` (see scr > lemmatizer > `tsv_to_xml.ipynb`) (work-in-progress)
+- `xml_martijn` --> 17 xml-files generated from the `rich_txt_martijn` (see src > xml_editions > `parse_to_mvvnxml.ipynb`)
 
 **Scripts**
-- `bar_chart_race.ipynb` -> Code for creating bar char races of the composers and original languages.
-- `Crop_test.ipynb` - > Code used to automatically crop the images of the programme leaflets to size.
-- `DF_cleaner.ipynb` -> Code used to preprocess the data and includes the steps of data normalisation as well as the additional metadata (this notebook requires META.txt)
-- `DF_prep_GLM.ipynb` -> Code used to preprocess the dataset in order to create the GLMs.
-- `Data_exploration.ipynb` -> notebook used for data exploration.
-- `GLM.ipynb` -> R notebook where the Generalised Linear Models are conducted.
-- `Gala_Popular.ipynb` -> Analysis of gala performances and popular performances.
-- `Lang_distributions.ipynb` -> Code for analysing the diochronic language distribution per season.
-- `Turnover.ipynb` -> exploration of turnover of top 10 productions, genres and languages across directorial changes in the opera. ***This notebook was not used for the thesis.***
-- `Reperformance` -> Analysis of chance of reruns in the Antwerp Opera. ***This notebook was not used for the thesis.***
+
+*ABBREVIATIONS* (work-in-progress)
+
+*COLLATION*
+- `align.ipynb` and `collatexalign.ipynb` --> Code for aligning `xml_martijn` with Needleman-wunsch and CollateX
+
+*LEMMATIZER*
+- `pie_martijntrilogy.ipynb` -> Code to convert `xml_martijn` to `tsv_files` with lemma's (work-in-progress)
+- `tsv_to_xml.ipynb` -> Code to convert (corrected) `tsv_files` to `xml_lemmatizer` (work-in-progress)
+
+*XML_EDITIONS*
+- `parse_to_mvvnxml.ipynb` -> Code to convert `rich_txt_martijn` to `xml_martijn`
+- `xml2txt.ipynb` -> Code to convert `xml_martijn` to `plain_txt_martijn`
 
 # LEGEND rich_txt_martijn:
 <p align="center">
