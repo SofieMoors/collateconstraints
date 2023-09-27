@@ -1,0 +1,337 @@
+<mxfile host="app.diagrams.net" modified="2023-06-07T12:15:33.341Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36 Edg/114.0.1823.41" etag="_59yjdJDm_qQFN2MGUWH" version="21.3.7" type="github">
+  <diagram name="Pagina-1" id="a6fILNypSKHGjRCzUjTZ">
+    <mxGraphModel dx="1193" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C_K-O1zQhy5By7McTLfG-1" value="DATA COLLECTION MARTIJN TRILOGY" style="shape=table;startSize=30;container=1;collapsible=0;childLayout=tableLayout;strokeColor=default;fontSize=16;align=center;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="41" y="70" width="1071" height="740" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-2" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="30" width="1071" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-17" value="SIGLA (ALTERNATIVE TITLE) " style="shape=partialRectangle;connectable=0;strokeColor=#d79b00;overflow=hidden;fillColor=#ffe6cc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-2" vertex="1">
+          <mxGeometry width="357" height="30" as="geometry">
+            <mxRectangle width="357" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-14" value=" REPOSITORY AND SIGNATURE" style="shape=partialRectangle;connectable=0;strokeColor=#6c8ebf;overflow=hidden;fillColor=#dae8fc;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-2" vertex="1">
+          <mxGeometry x="357" width="357" height="30" as="geometry">
+            <mxRectangle width="357" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-3" value="USED EDITION" style="shape=partialRectangle;connectable=0;strokeColor=#9673a6;overflow=hidden;fillColor=#e1d5e7;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-2" vertex="1">
+          <mxGeometry x="714" width="357" height="30" as="geometry">
+            <mxRectangle width="357" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-6" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="60" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-18" value="1. C (Gronings-Zutphens Maerlant Manuscript)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-6" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-15" value=" University of Groningen Library HS 405" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-6" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-7" value="Staring van den Wildenborch (1834); Meijer (1838)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-6" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-10" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="100" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-19" value="2. E    " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-10" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-16" value="Heidelberg University Library HS 200 (olim: HS. 362a, 83)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-10" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-11" value="Mone (1838); Mertens (1978)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-10" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-41" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="140" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-42" value="3. GE " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-41" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-43" value="Cologny, Fondation Martin Bodmer Cod. Bodmer 101" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-41" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-44" value="Gruijs &amp; Mertens (1975)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-41" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-45" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="180" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-46" value="4. K " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-45" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-47" value="Koblenz, Landeshauptarchiv Best. 701 Nr. 262" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-45" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-48" value="Overgaauw (1996)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-45" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-49" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="220" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-50" value="5. G (Heber-Serrure codex)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-49" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-51" value="Ghent University Library HS 1374" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-49" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-52" value="Gabriël &amp; Kestemont (forthcoming)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-49" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-53" value="" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="260" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-54" value="6. W   " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-53" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-55" value="Vienna Austrian National Library Cod. 13708" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-53" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-56" value="Gabriël (forthcoming)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-53" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-62" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="300" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-63" value="7. L " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-62" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-64" value="Lyon Bibliothèque Municipal MS 6848" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-62" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-65" value="Moors (2022)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-62" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-66" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="340" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-67" value="8. Ant" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-66" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-68" value=" Antwerp University Library Special Collections MAG-P 64.20" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-66" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-69" value="Sleiderink, Moors, &amp; De Schepper (2020)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-66" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-70" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="380" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-71" value="9. Y        " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-70" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-72" value="Montigny-le-Bretonneux - Archives départementales des Yvelines HS 1F 180" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-70" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-73" value="Bosmans &amp; Sleiderink (2019)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-70" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-74" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="420" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-75" value="10. BR" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-74" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-76" value="Brussels Royal Library of Belgium MS 19570 " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-74" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-77" value="Mertens (1978)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-74" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-98" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="460" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-99" value="11. A (Comburg manuscript)     " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-98" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-100" value=" Stuttgart Württemberg State Library Cod. Poet. Et phil. 2° 22  " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-98" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-101" value="Brinkman &amp; Schenkel (1997)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-98" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-94" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="500" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-95" value="12. B (Haagse Pelgrimage-handschrift)    " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-94" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-96" value=" The Hague National Library of the Netherlands 76 E 6" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-94" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-97" value="Verdam &amp; Leendertz (1918); Mertens (1978)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-94" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-90" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="540" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-91" value="13. Z  " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-90" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-92" value=" Ghent Royal Academy of Dutch Language and Literature KANTL: 6" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-90" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-93" value=" Gailliard (1905); Mertens (1978) " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-90" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-86" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="580" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-87" value="14. F (Clignett-Serrure-handschrift) " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-86" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-88" value="The Hague National Library of the Netherlands 73 F 19 " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-86" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-89" value="Verdam &amp; Leendertz (1918); Mertens (1978)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-86" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-82" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="620" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-83" value="15. O   " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-82" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-84" value=" Oxford Bodleian Library Canonici Miscellanei 278" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-82" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-85" value="Verdam and Leendertz (1918); Mertens (1978)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-82" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-106" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="660" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-107" value="16. D (Antwerpse druk, Hendrik den Lettersnider) " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-106" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-108" value="The Hague National Library of the Netherlands 150 F 40 " style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-106" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-109" value="Verdam &amp; Leendertz (1918); Mertens (1978)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-106" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-102" style="shape=tableRow;horizontal=0;startSize=0;swimlaneHead=0;swimlaneBody=0;strokeColor=inherit;top=0;left=0;bottom=0;right=0;collapsible=0;dropTarget=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-1" vertex="1">
+          <mxGeometry y="700" width="1071" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-103" value="17. D2 (Print)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-102" vertex="1">
+          <mxGeometry width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-104" value="Leiden University Library LTK 1021" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-102" vertex="1">
+          <mxGeometry x="357" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C_K-O1zQhy5By7McTLfG-105" value="Breugelmans (1986)" style="shape=partialRectangle;connectable=0;strokeColor=inherit;overflow=hidden;fillColor=none;top=0;left=0;bottom=0;right=0;pointerEvents=1;fontSize=14;align=center;labelBorderColor=none;whiteSpace=wrap;" parent="C_K-O1zQhy5By7McTLfG-102" vertex="1">
+          <mxGeometry x="714" width="357" height="40" as="geometry">
+            <mxRectangle width="357" height="40" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
