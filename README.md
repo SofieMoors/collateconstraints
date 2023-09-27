@@ -40,9 +40,9 @@ For most of the witnesses, [existing editions](#references) of the text could be
 **Data**
 - `figures_images_tables` --> Folder with all figures, images and tables
 - `rich_txt_martijn` --> 17 raw text files, manually enriched them with semantic markup: [legend](#legend-rich_txt_martijn)
-- `plain_txt_martijn` --> 17 txt-files generated from `xml_martijn` with markup applied (see scr > xml_editions > `xml2txt.ipynb`) 
+- `plain_txt_martijn` --> 17 txt-files generated from `xml_martijn` with markup applied (see src > xml_editions > `xml2txt.ipynb`) 
 - `tsv_files` and `tsv_files_corrected` --> 17 tsv-files generated from `xml_martijn` by lemmatizer PIE (see src > lemmatizer > `pie_martijntrilogy.ipynb`), the 'corrected' ones are manually corrected (work-in-progress)
-- `xml_lemmatizer` --> 17 xml-files with lemma's generated from the `tsv-files` (see scr > lemmatizer > `tsv_to_xml.ipynb`) (work-in-progress)
+- `xml_lemmatizer` --> 17 xml-files with lemma's generated from the `tsv-files` (see src > lemmatizer > `tsv_to_xml.ipynb`) (work-in-progress)
 - `xml_martijn` --> 17 xml-files generated from the `rich_txt_martijn` (see src > xml_editions > `parse_to_mvvnxml.ipynb`)
 
 **Scripts**
