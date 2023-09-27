@@ -47,16 +47,16 @@ For most of the witnesses, [existing editions](#references) of the text could be
 
 **Scripts**
 
-*ABBREVIATIONS* (work-in-progress)
+*abbreviations* (work-in-progress)
 
-*COLLATION*
+*collation*
 - `align.ipynb` and `collatexalign.ipynb` --> Code for aligning `xml_martijn` with Needleman-wunsch and CollateX
 
-*LEMMATIZER*
+*lemmatizer*
 - `pie_martijntrilogy.ipynb` -> Code to convert `xml_martijn` to `tsv_files` with lemma's (work-in-progress)
 - `tsv_to_xml.ipynb` -> Code to convert (corrected) `tsv_files` to `xml_lemmatizer` (work-in-progress)
 
-*XML_EDITIONS*
+*xml_editions*
 - `parse_to_mvvnxml.ipynb` -> Code to convert `rich_txt_martijn` to `xml_martijn`
 - `xml2txt.ipynb` -> Code to convert `xml_martijn` to `plain_txt_martijn`
 
