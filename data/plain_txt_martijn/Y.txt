@@ -1,386 +1,456 @@
 
-001 WAphene martijn
-002 hoe saelt gaen Sal
-003 dese weerelt langhe
-004 staen. In dus cranc
-005 ken loue Soe moet
-006 mijn vrouwe eere saen
-005 Sonder twiuel ende waen
-006 Rumē der heeren houe
-007 Ic sie dē scalcken wel ontfaen
-008 Die de heerē connen dwaen
-009 En̄ plucken vanden stoue
-010 Ic sie den gerechten slaen
-011 Beide bescatten en vlaen
-012 Alse die meese in die cloue
-013 Recht often god verscroue
-014 Hoe lange sal gedogen dit
-015 God die alle dinc besit
-016 In sijn heerscaepie
-017 Dꝫtie goede vleyt ende bit
-018 Hem en doech dat no dit
-019 Van datti yet gedye
-020 Al varet inden helschen pit
-021 Eest grau blau swʼt oft wit
-022 Hets getrouwe als die zide
-023 Recht man deluet sondʼ spit
-024 Hine heeft poente niet gehit
-025 In ... baelgye
-026 ...et dat ic waer lye
-027 Laet ons martijn ouer een
-028 Hier af spreken ondʼ ons tweē
-029 In desen dyaloghe
-030 Wanen quam ons desen ween
-031 Die wilen soe onwert scheen
-032 En̄ nv sit soe hoeghe
-033 Ic sal vragē ende vleen
-034 Antwert nu ia oft neen
-035 Van dat ic di betoge
-036 Ledicheit es vrome gheen
-037 Arbeit vint vier inden steen
-038 Daer bi ontstect dat droge
-039 Nv sprect ende ict gedoge
-040 Spreken Iacob lieue compaen
-041 Waer soudic dat hebbē verstaē
-042 Dat ic daer toe dochte
-043 Te vʼclaren dinen waen
 
 
 
-044 Die met twiuel waer beuaen
-045 Dats dat ic niet en vʼmochte
-046 Doch en willicx niet ontgaen
-047 Ic wille dine beede ontfaen
-048 Die dit aen mi sochte
-049 God sinde mi dē hemelschē traen
-050 En̄ moet minen sin dwaen
-051 Want hi mi diere cochte
-052 En̄ ict gherne volbrochte
-053 Martijn doē de werelt began
-054 man te verheffen bouen man
-055 Doen sciet mijn vrouwe ver eere
-056 Den dorper ende wijstem dē dan
-057 Dʼ trouwe ende eere was an
-058 Dien hiet se wesen heere
-059 Nv makē die heerē een gespan
-060 En̄ gheuē der eerē enē ban
-061 En̄ en willen niet dat si keere
-062 Sech mi wanē dit venijn ran
-063 Toech mi redene daervan
-064 Want ict gherne leere
-065 Wies scout het weere
-066 Iacob mi dunct ouerwaer
-067 Sint dat edelheit hadde vaer
-068 Te pinen om die eere
-069 En̄ so trac den scalke nare
-070 ... rade nv hier...
-071 En̄ niet en scelden den heere
-072 Soe es edelheit worden swaer
-073 Dꝫ si ... clemmē heeft ōmaer
-074 Ende daelt int lanc ... meere
-075 Dats nv alder werelt claer
-076 En̄ ...siene openbaer
-077 Dꝫ dus es vʼbannen eere
-078 Ende wedʼ staē ten keere
-079 Nv merct bider sonnē lecht
-080 Dat alder werelt ogen berecht
-081 Bi hare edelre naturen
-082 Als dat swerc daer yegē vecht
-083 Sone cā si te diere vren correctieteken omgekeerde volgorde
-084 Entie neuel met sijnre drecht
-085 Niet getoghen hʼ scoenheit echt
-086 Aldus verdonckert die scalke knecht
-087 Die edele creaturen
-088 Alsi hem daer ane hecht.
+Y_M1_1_001 WAphene martijn hoe saelt gaen
+Y_M1_1_002 Sal dese weerelt langhe staen.
+Y_M1_1_003 In dus crancken loue
+Y_M1_1_004 Soe moet mijn vrouwe eere saen
+Y_M1_1_005 Sonder twiuel ende waen
+Y_M1_1_006 Rumē der heeren houe
+Y_M1_1_007 Ic sie dē scalcken wel ontfaen
+Y_M1_1_008 Die de heerē connen dwaen
+Y_M1_1_009 En̄ plucken vanden stoue
+Y_M1_1_010 Ic sie den gerechten slaen
+Y_M1_1_011 Beide bescatten en vlaen
+Y_M1_1_012 Alse die meese in die cloue
+Y_M1_1_013 Recht often god verscroue
+
+
+Y_M1_2_014 Hoe lange sal gedogen dit
+Y_M1_2_015 God die alle dinc besit
+Y_M1_2_016 In sijn heerscaepie
+Y_M1_2_017 Dꝫtie goede vleyt ende bit
+Y_M1_2_018 Hem en doech dat no dit
+Y_M1_2_019 Van datti yet gedye
+Y_M1_2_020 Al varet inden helschen pit
+Y_M1_2_021 Eest grau blau swʼt oft wit
+Y_M1_2_022 Hets getrouwe als die zide
+Y_M1_2_023 Recht man deluet sondʼ spit
+Y_M1_2_024 Hine heeft poente niet gehit
+Y_M1_2_025 In ... baelgye
+Y_M1_2_026 ...et dat ic waer lye
+
+
+Y_M1_3_027 Laet ons martijn ouer een
+Y_M1_3_028 Hier af spreken ondʼ ons tweē
+Y_M1_3_029 In desen dyaloghe
+Y_M1_3_030 Wanen quam ons desen ween
+Y_M1_3_031 Die wilen soe onwert scheen
+Y_M1_3_032 En̄ nv sit soe hoeghe
+Y_M1_3_033 Ic sal vragē ende vleen
+Y_M1_3_034 Antwert nu ia oft neen
+Y_M1_3_035 Van dat ic di betoge
+Y_M1_3_036 Ledicheit es vrome gheen
+Y_M1_3_037 Arbeit vint vier inden steen
+Y_M1_3_038 Daer bi ontstect dat droge
+Y_M1_3_039 Nv sprect ende ict gedoge
+
+
+Y_M1_4_040 Spreken Iacob lieue compaen
+Y_M1_4_041 Waer soudic dat hebbē verstaē
+Y_M1_4_042 Dat ic daer toe dochte
+Y_M1_4_043 Te vʼclaren dinen waen
 
 
 
-089 Ende haer edelheit verplecht
-090 Dꝫ si laet ghedueren
-091 By haer den scalkē suerē
-092 Sint dat scalke droeghē ouʼeē
-093 Dat neen was Ia neen
-094 Ende hem dat wijsheit dochte
-095 En̄ edelheit daer ōme green
-096 Want dʼ wasdom vut scheen
-097 Wanē dꝫ comen mochte
-098 Soe es edelhert worden steen
-099 Want hʼ ontfermt dinc gheen
-100 Dan dʼ men gelt vut knochte
-101 God gheue hem dē langen weē
-102 Die te knagen gaf dit been
-103 Den edelē ghedochte
-104 Want hire mort aen wrochte
-105 Wat sal zegel ende was
-106 En̄ brieue die gewagē das
-107 Vā dat lansheerē gheuen
-108 Hets el niet dan gedwas
-109 Alsoe lief hadt mi .I. sas
-110 Oft eē vriese bescreue
-111 Trouwe es broescer dā gelas
-112 Die wilen soe starc was
-113 Es nv te broken bleuen
-114 Ic waens noyt heʼe genas
-115 Die scalke tsinē rade las
-116 Hine moeste in dinde sneuē
-117 En̄ selc sijns lants vʼdreuen
-118 Martijn du berechts mi wel
-119 Hier bi sijn die heerē fel
-120 En̄ wandelē inde tale
-121 In weeter wat toe seggē el
-122 Die scalke hout boesheit ouʼ spel
-123 Hi pijnt hoet hi doget vʼsmale
-124 Caym sloech den edelē abel
-125 Dus soect die scalke sijns heerē vel
-126 Hoe hine trect te dale
-127 God die ons noch doemē sel
-128 Hem biddic datti den duuel
-129 Inden lesten male
-130 Metten scalcken betale
-131 Martijn nv berecht mi dies
-132 Oft eē god die noyt en wies
-133 Berecht alle creaturen
+Y_M1_4_044 Die met twiuel waer beuaen
+Y_M1_4_045 Dats dat ic niet en vʼmochte
+Y_M1_4_046 Doch en willicx niet ontgaen
+Y_M1_4_047 Ic wille dine beede ontfaen
+Y_M1_4_048 Die dit aen mi sochte
+Y_M1_4_049 God sinde mi dē hemelschē traen
+Y_M1_4_050 En̄ moet minen sin dwaen
+Y_M1_4_051 Want hi mi diere cochte
+Y_M1_4_052 En̄ ict gherne volbrochte
+
+
+Y_M1_5_053 Martijn doē de werelt began
+Y_M1_5_054 man te verheffen bouen man
+Y_M1_5_055 Doen sciet mijn vrouwe ver eere
+Y_M1_5_056 Den dorper ende wijstem dē dan
+Y_M1_5_057 Dʼ trouwe ende eere was an
+Y_M1_5_058 Dien hiet se wesen heere
+Y_M1_5_059 Nv makē die heerē een gespan
+Y_M1_5_060 En̄ gheuē der eerē enē ban
+Y_M1_5_061 En̄ en willen niet dat si keere
+Y_M1_5_062 Sech mi wanē dit venijn ran
+Y_M1_5_063 Toech mi redene daervan
+Y_M1_5_064 Want ict gherne leere
+Y_M1_5_065 Wies scout het weere
+
+
+Y_M1_6_066 Iacob mi dunct ouerwaer
+Y_M1_6_067 Sint dat edelheit hadde vaer
+Y_M1_6_068 Te pinen om die eere
+Y_M1_6_069 En̄ so trac den scalke nare
+Y_M1_6_070 ... rade nv hier...
+Y_M1_6_071 En̄ niet en scelden den heere
+Y_M1_6_072 Soe es edelheit worden swaer
+Y_M1_6_073 Dꝫ si ... clemmē heeft ōmaer
+Y_M1_6_074 Ende daelt int lanc ... meere
+Y_M1_6_075 Dats nv alder werelt claer
+Y_M1_6_076 En̄ ...siene openbaer
+Y_M1_6_077 Dꝫ dus es vʼbannen eere
+Y_M1_6_078 Ende wedʼ staē ten keere
+
+
+Y_M1_7_079 Nv merct bider sonnē lecht
+Y_M1_7_080 Dat alder werelt ogen berecht
+Y_M1_7_081 Bi hare edelre naturen
+Y_M1_7_082 Als dat swerc daer yegē vecht
+Y_M1_7_084 Sone cā si te diere vren
+Y_M1_7_083 Entie neuel met sijnre drecht
+Y_M1_7_085 Niet getoghen hʼ scoenheit echt
+Y_M1_7_086 Aldus verdonckert die scalke knecht
+Y_M1_7_087 Die edele creaturen
+Y_M1_7_088 Alsi hem daer ane hecht.
 
 
 
-134 Dan heeft die quade dē kies
-135 Entie goede valt int vʼlies
-136 Wie sal dit voer recht curē
-137 Mijn sin seit mi als een ries
-138 Hi die adame dlijf in blies
-139 Die meester der naturen
-140 Heeft beuolen merct en besies
-141 Dese dinc es waer soe gies
-142 Dʼ blinder auonturen
-143 Die verkeert telker vren
-144 Iacob segt bestu verdoort
-145 Auonture nes maer .I. woert
-146 Uan gheueinster spraken
-147 Brincstu ongeloue voert
-148 God siet alle dinc ende hoert
-149 Wiltu den duuel maken
-150 Wat heeft dij̄ herte becoert
-151 Dattu hels aen dleger boort
-152 Die papen selent smaken
-153 Soe waerstu vʼbrant en̄ vʼsmort
-154 En gaue ō dijn ziele niet .I. oert
-155 Men mach met sulkē saken
-156 Gode niet ghenaken
-157 God en was noyt moede no mat
-158 Int wout nes loef no blat
-159 Buten sinere hoeden
-160 Al dꝫ es in elke stat
-161 Dꝫ besit hi ende besat
-162 Mꝫ godliker hoeden
-163 Al ghehincti dan dat
-164 Dattie quade gewint scat
-165 En̄ men heet den vroedē
-166 Soe hi hoger sit opt rat
-167 Soe meere val soe dieꝑ plat
-168 Indʼ helscer gloeden
-169 Onder die duuele roede
-170 Den rechten wech ter hellē wt
-171 Entie alre cortste vaert
-172 Dats geluc in sonden
-173 Alsmē gheē mesdoen en spaert
-174 En̄ men emmer voert beswʼt
-175 Die zielen gebonden
-176 En̄ dan gesciet soe mē begaert
-177 En̄ men niet en roect wie mesuʼt
-178 Nv noch te ghenē stonden
+Y_M1_7_089 Ende haer edelheit verplecht
+Y_M1_7_090 Dꝫ si laet ghedueren
+Y_M1_7_091 By haer den scalkē suerē
+
+
+Y_M1_8_092 Sint dat scalke droeghē ouʼeē
+Y_M1_8_093 Dat neen was Ia neen
+Y_M1_8_094 Ende hem dat wijsheit dochte
+Y_M1_8_095 En̄ edelheit daer ōme green
+Y_M1_8_096 Want dʼ wasdom vut scheen
+Y_M1_8_097 Wanē dꝫ comen mochte
+Y_M1_8_098 Soe es edelhert worden steen
+Y_M1_8_099 Want hʼ ontfermt dinc gheen
+Y_M1_8_100 Dan dʼ men gelt vut knochte
+Y_M1_8_101 God gheue hem dē langen weē
+Y_M1_8_102 Die te knagen gaf dit been
+Y_M1_8_103 Den edelē ghedochte
+Y_M1_8_104 Want hire mort aen wrochte
+
+
+Y_M1_9_105 Wat sal zegel ende was
+Y_M1_9_106 En̄ brieue die gewagē das
+Y_M1_9_107 Vā dat lansheerē gheuen
+Y_M1_9_108 Hets el niet dan gedwas
+Y_M1_9_109 Alsoe lief hadt mi .I. sas
+Y_M1_9_110 Oft eē vriese bescreue
+Y_M1_9_111 Trouwe es broescer dā gelas
+Y_M1_9_112 Die wilen soe starc was
+Y_M1_9_113 Es nv te broken bleuen
+Y_M1_9_114 Ic waens noyt heʼe genas
+Y_M1_9_115 Die scalke tsinē rade las
+Y_M1_9_116 Hine moeste in dinde sneuē
+Y_M1_9_117 En̄ selc sijns lants vʼdreuen
+
+
+Y_M1_10_118 Martijn du berechts mi wel
+Y_M1_10_119 Hier bi sijn die heerē fel
+Y_M1_10_120 En̄ wandelē inde tale
+Y_M1_10_121 In weeter wat toe seggē el
+Y_M1_10_122 Die scalke hout boesheit ouʼ spel
+Y_M1_10_123 Hi pijnt hoet hi doget vʼsmale
+Y_M1_10_124 Caym sloech den edelē abel
+Y_M1_10_125 Dus soect die scalke sijns heerē vel
+Y_M1_10_126 Hoe hine trect te dale
+Y_M1_10_127 God die ons noch doemē sel
+Y_M1_10_128 Hem biddic datti den duuel
+Y_M1_10_129 Inden lesten male
+Y_M1_10_130 Metten scalcken betale
+
+
+Y_M1_11_131 Martijn nv berecht mi dies
+Y_M1_11_132 Oft eē god die noyt en wies
+Y_M1_11_133 Berecht alle creaturen
 
 
 
-325 Onder der Ioden pleyt
-326 DIie mensheit liet haer besnidē
-327 Doepē ende proeuē in diē tidē
-328 Vanden ouden viant
-329 Si liet hʼ vaen en̄ beniden
-330 Doorborē voete hande en̄ zide
-331 Hi starf dus eest becant
-332 Die ziele wilde ter hellē tidē
-333 Dʼ si die ghene wilde verblidē
-334 Die de duuel bant
-335 Ay hoe si gode benediē
-336 Dingle dien sagen stridē
-337 Yegen des duuels brant
-338 Dʼ hise vut prant
-339 Die godheit wecte vā dode te liue
-340 Tfleesch dat hi vandē reinē wiue
-341 Vrouwen marien nam
-342 Hi troeste sijn lieue keytiue
-343 Hier .ij. hier .iij. hier .iiij. hier viue
-344 Met hem hi eten quam
-345 Dus es die gods sone alsic scriue
-346 God en̄ mensche elc mā bliue
-347 Hier in ghehoorsam
-348 Waer oec enich sin soe stiue
-349 Die yegē dit geloue kiue
-350 Op hem sal themelsce lam
-351 Ten Ionxstē werdē gram
-352 Inden hemel es hi geuarē
-353 Daert de sine aen sagē twarē
-354 Des vader rechte hant
-355 Daer hi altoes sonder sparē
-356 Den vadʼ bidt voer sine carē
-357 Die hem hier sijn becant
-358 Noch compt hi hē openbarē
-359 Die werelt doemē met sinē scarē
-360 Enten helscen viant
-361 Sonne mane wilt hi vʼclarē
-362 Die bi adam verdōckert warē
-363 Water luucht ende lant
-364 Sal purgeren een brant
-365 Al waest dꝫ hi dus oprande
-366 Hi liet de sine hier te pande
-367 Sijn vleesch en̄ sijn bloet
-368 Te sacreren in des priesters hande
-369 Wie was die selke gaue becāde
+Y_M1_11_134 Dan heeft die quade dē kies
+Y_M1_11_135 Entie goede valt int vʼlies
+Y_M1_11_136 Wie sal dit voer recht curē
+Y_M1_11_137 Mijn sin seit mi als een ries
+Y_M1_11_138 Hi die adame dlijf in blies
+Y_M1_11_139 Die meester der naturen
+Y_M1_11_140 Heeft beuolen merct en besies
+Y_M1_11_141 Dese dinc es waer soe gies
+Y_M1_11_142 Dʼ blinder auonturen
+Y_M1_11_143 Die verkeert telker vren
+
+
+Y_M1_12_144 Iacob segt bestu verdoort
+Y_M1_12_145 Auonture nes maer .I. woert
+Y_M1_12_146 Uan gheueinster spraken
+Y_M1_12_147 Brincstu ongeloue voert
+Y_M1_12_148 God siet alle dinc ende hoert
+Y_M1_12_149 Wiltu den duuel maken
+Y_M1_12_150 Wat heeft dij̄ herte becoert
+Y_M1_12_151 Dattu hels aen dleger boort
+Y_M1_12_152 Die papen selent smaken
+Y_M1_12_153 Soe waerstu vʼbrant en̄ vʼsmort
+Y_M1_12_154 En gaue ō dijn ziele niet .I. oert
+Y_M1_12_155 Men mach met sulkē saken
+Y_M1_12_156 Gode niet ghenaken
+
+
+Y_M1_13_157 God en was noyt moede no mat
+Y_M1_13_158 Int wout nes loef no blat
+Y_M1_13_159 Buten sinere hoeden
+Y_M1_13_160 Al dꝫ es in elke stat
+Y_M1_13_161 Dꝫ besit hi ende besat
+Y_M1_13_162 Mꝫ godliker hoeden
+Y_M1_13_163 Al ghehincti dan dat
+Y_M1_13_164 Dattie quade gewint scat
+Y_M1_13_165 En̄ men heet den vroedē
+Y_M1_13_166 Soe hi hoger sit opt rat
+Y_M1_13_167 Soe meere val soe dieꝑ plat
+Y_M1_13_168 Indʼ helscer gloeden
+Y_M1_13_169 Onder die duuele roede
+
+
+Y_M1_14_170 Den rechten wech ter hellē wt
+Y_M1_14_171 Entie alre cortste vaert
+Y_M1_14_172 Dats geluc in sonden
+Y_M1_14_173 Alsmē gheē mesdoen en spaert
+Y_M1_14_174 En̄ men emmer voert beswʼt
+Y_M1_14_175 Die zielen gebonden
+Y_M1_14_176 En̄ dan gesciet soe mē begaert
+Y_M1_14_177 En̄ men niet en roect wie mesuʼt
+Y_M1_14_178 Nv noch te ghenē stonden
 
 
 
-370 Oft beter oft alsoe 
-371 Ay god nv brect on
-372 Ende vʼgeeft ons di
-373 En̄ dinen euelē mo
-374 Dꝫ onse mont en̄ o
-375 Smakē moet sond
-376 Sine vleesch en̄ sijn
-377 Dat vut sijnre zidē 
-378 Uvt desen sone vu
-379 Wies godheit ny
-380 Noch wies mensch
-381 Soe vloyden ende b
-382 Die sacramentē t
-383 En̄ alle salicheit 
-384 Nv hebbic di tgelo
-385 Soe ic naest hebbe
-386 Na mijnre mogent
-387 Die dit geloue vast 
-388 Aflaet vā harē zon
-389 Es hē altoes gereit
-390 Opdat mer in vols
-391 Iacob du berecht m
-392 Berecht mi vand
-393 Die mē heet heilic
-394 Hoe mē tgeloue son
-395 Te hem clemmē en̄ 
-396 Die alder gauē es 
-397 Want vandē vader 
-398 Hebbic di bediet dꝫ 
-399 Scone berecht vulle
-400 Des danck dʼ martel
-401 Dʼ bouē inden hogē 
-402 En̄ gheue di vullees
-403 Die ...t wʼt en̄ wa
-404 Martijn ons leert die 
-405 Dat een god en̄ .i
-406 Emmer sijn dese ... 
-407 Altoes euē na geb
-408 En̄ versciedē te ghe
-409 Noch en verscieden 
-410 Vader kint vʼstant 
-411 Vut desen dobbelē g
-412 Wie cant gegrondē w
-413 Dā comt die geest 
-414 Die reine godheit en
+
+
+Y_M3_25_325 Onder der Ioden pleyt
+
+
+Y_M3_26_326 DIie mensheit liet haer besnidē
+Y_M3_26_327 Doepē ende proeuē in diē tidē
+Y_M3_26_328 Vanden ouden viant
+Y_M3_26_329 Si liet hʼ vaen en̄ beniden
+Y_M3_26_330 Doorborē voete hande en̄ zide
+Y_M3_26_331 Hi starf dus eest becant
+Y_M3_26_332 Die ziele wilde ter hellē tidē
+Y_M3_26_333 Dʼ si die ghene wilde verblidē
+Y_M3_26_334 Die de duuel bant
+Y_M3_26_335 Ay hoe si gode benediē
+Y_M3_26_336 Dingle dien sagen stridē
+Y_M3_26_337 Yegen des duuels brant
+Y_M3_26_338 Dʼ hise vut prant
+Y_M3_26_339 Die godheit wecte vā dode te liue
+
+
+Y_M3_27_340 Tfleesch dat hi vandē reinē wiue
+Y_M3_27_341 Vrouwen marien nam
+Y_M3_27_342 Hi troeste sijn lieue keytiue
+Y_M3_27_343 Hier .ij. hier .iij. hier .iiij. hier viue
+Y_M3_27_344 Met hem hi eten quam
+Y_M3_27_345 Dus es die gods sone alsic scriue
+Y_M3_27_346 God en̄ mensche elc mā bliue
+Y_M3_27_347 Hier in ghehoorsam
+Y_M3_27_348 Waer oec enich sin soe stiue
+Y_M3_27_349 Die yegē dit geloue kiue
+Y_M3_27_350 Op hem sal themelsce lam
+Y_M3_27_351 Ten Ionxstē werdē gram
+
+
+Y_M3_28_352 Inden hemel es hi geuarē
+Y_M3_28_353 Daert de sine aen sagē twarē
+Y_M3_28_354 Des vader rechte hant
+Y_M3_28_355 Daer hi altoes sonder sparē
+Y_M3_28_356 Den vadʼ bidt voer sine carē
+Y_M3_28_357 Die hem hier sijn becant
+Y_M3_28_358 Noch compt hi hē openbarē
+Y_M3_28_359 Die werelt doemē met sinē scarē
+Y_M3_28_360 Enten helscen viant
+Y_M3_28_361 Sonne mane wilt hi vʼclarē
+Y_M3_28_362 Die bi adam verdōckert warē
+Y_M3_28_363 Water luucht ende lant
+Y_M3_28_364 Sal purgeren een brant
+
+
+Y_M3_29_365 Al waest dꝫ hi dus oprande
+Y_M3_29_366 Hi liet de sine hier te pande
+Y_M3_29_367 Sijn vleesch en̄ sijn bloet
+Y_M3_29_368 Te sacreren in des priesters hande
+Y_M3_29_369 Wie was die selke gaue becāde
 
 
 
-415 proeft ende sie
-416 ten ende des gye
-417 troest dalder meeste
-418 dye arm sijn van geeste
-419 i blide sijn
-420  pinen altoes feeste
-421  menegē die was beeste
-422 uer ende fijn
-423 ne god die dat verheeste
-424 n sinen volleeste
-425 te een droepelkijn
-426 are gode dalre meeste
-427 geen vreese van tempeeste
-428 gheen venijn
-429 edde der zielen sijn
-430 Ø
-431 Ø
-432 Ø
-433 Ø
-434 Ø
-435 Ø
-436 Ø
-437 Ø
-438 Ø
-439 Ø
-440 Ø
-441 Ø
-442 Ø
-443 vaders ende tsoens minne
-444 s caritate daer altoes inne
-445 die triniteyt
-446  die der prophetē Sinne
-447 e en̄ maecte .I. inne
-448 soens menschelicheit
-449 s coninc noch coningin̄e
-450 emmermeer aflaet gewinnē
-451 sijnre onsalicheit
-452  hebbe een traen al wʼt dinne
-453  desen dauwe tsine beginne
-454 weluarē es hem ontseit
-455 r dese sijn ongereyt
-456 se leerde den apostelē twaren
-457 lle tongen die doē waren
-458 ese werelt breyt
-459  gaf den martelaren
-460 t si conden sondʼ sparen
-461 gen menich leyt
-462 se can die sinne vʼclaren
-463 e hem met sonden vʼswarē
-464  dat coude maken heit
-465 nen lieuen sinē caren
-466 lt hi stille al sondʼ sparē
-467 at godlike cleet
-468  ewelike steet
+Y_M3_29_370 Oft beter oft alsoe
+Y_M3_29_371 Ay god nv brect on
+Y_M3_29_372 Ende vʼgeeft ons di
+Y_M3_29_373 En̄ dinen euelē mo
+Y_M3_29_374 Dꝫ onse mont en̄ o
+Y_M3_29_375 Smakē moet sond
+Y_M3_29_376 Sine vleesch en̄ sijn
+Y_M3_29_377 Dat vut sijnre zidē 
+
+
+Y_M3_30_378 Uvt desen sone vu
+Y_M3_30_379 Wies godheit ny
+Y_M3_30_380 Noch wies mensch
+Y_M3_30_381 Soe vloyden ende b
+Y_M3_30_382 Die sacramentē t
+Y_M3_30_383 En̄ alle salicheit 
+Y_M3_30_384 Nv hebbic di tgelo
+Y_M3_30_385 Soe ic naest hebbe
+Y_M3_30_386 Na mijnre mogent
+Y_M3_30_387 Die dit geloue vast 
+Y_M3_30_388 Aflaet vā harē zon
+Y_M3_30_389 Es hē altoes gereit
+Y_M3_30_390 Opdat mer in vols
+
+
+Y_M3_31_391 Iacob du berecht m
+Y_M3_31_392 Berecht mi vand
+Y_M3_31_393 Die mē heet heilic
+Y_M3_31_394 Hoe mē tgeloue son
+Y_M3_31_395 Te hem clemmē en̄ 
+Y_M3_31_396 Die alder gauē es 
+Y_M3_31_397 Want vandē vader 
+Y_M3_31_398 Hebbic di bediet dꝫ 
+Y_M3_31_399 Scone berecht vulle
+Y_M3_31_400 Des danck dʼ martel
+Y_M3_31_401 Dʼ bouē inden hogē 
+Y_M3_31_402 En̄ gheue di vullees
+Y_M3_31_403 Die ...t wʼt en̄ wa
+
+
+Y_M3_32_404 Martijn ons leert die 
+Y_M3_32_405 Dat een god en̄ .i
+Y_M3_32_406 Emmer sijn dese ... 
+Y_M3_32_407 Altoes euē na geb
+Y_M3_32_408 En̄ versciedē te ghe
+Y_M3_32_409 Noch en verscieden 
+Y_M3_32_410 Vader kint vʼstant 
+Y_M3_32_411 Vut desen dobbelē g
+Y_M3_32_412 Wie cant gegrondē w
+Y_M3_32_413 Dā comt die geest 
+Y_M3_32_414 Die reine godheit en
 
 
 
-469 Wat hulpt merten sin ende tale
-470 Die begheuē mi alte male
-471 Meer te spreeken voert
-472 Elc persoen vʼstant mi wale
-473 Es een god dats geen hale
-474 Van drien daer mē af hoort
-475 Doch eest maer eē die berch en̄ dale
-476 Sciep groet ende smale
-477 Daer af telle alle woert
-478 Ne ganc niet ouer dese pale
-479 Hout in dijnre herten sale
-480 So en waerstu niet versmoert
-481 Inder helscer poert
-482 Waer yement die wedʼ sprake
-483 Dit gheloue en̄ dese sake
-484 Die ware ewelijc verdoemt
-485 Recht wʼt dꝫmē indē brant stake
-486 En̄ hi dʼna thelsce vier smake
-487 Dʼ men den duuel in droemt
-488 Helpt god dat ic dʼ gerake
-489 Daer ic sie ende smake
-490 Die godheit ongenoemt
-491 Sone trect mi niet die helsce drake
-492 Mꝫ hem ter eweliker wrake
-493 Daer niemen vut en comt
-494 Wien dat scaet oft vroemt
-495 Amen Iacob lieue geselle
-496 Mi dunct dꝫ ic v zeere quelle
-497 Doch haddics groten noet
-498 Alsic dit lese ende spelle
-499 Magic leeren alsic vertelle
-500 Mijn gheleue al bloet
-501 Daer ic bi scuwē mach die helle
-502 Opdat mi daer toe versnelle
-503 Te doene dat god gheboet
-504 God dye de doot wrac van abelle
-505 Hi bringe ons ter hoger selle
-506 Dats in abrahams schoet
-507 Na dese corte doot
-                    
+Y_M3_32_415 proeft ende sie
+Y_M3_32_416 ten ende des gye
+
+
+Y_M3_33_417 troest dalder meeste
+Y_M3_33_418 dye arm sijn van geeste
+Y_M3_33_419 i blide sijn
+Y_M3_33_420  pinen altoes feeste
+Y_M3_33_421  menegē die was beeste
+Y_M3_33_422 uer ende fijn
+Y_M3_33_423 ne god die dat verheeste
+Y_M3_33_424 n sinen volleeste
+Y_M3_33_425 te een droepelkijn
+Y_M3_33_426 are gode dalre meeste
+Y_M3_33_427 geen vreese van tempeeste
+Y_M3_33_428 gheen venijn
+Y_M3_33_429 edde der zielen sijn
+
+
+
+Line_number 430 is missing
+
+Line_number 431 is missing
+
+Line_number 432 is missing
+
+Line_number 433 is missing
+
+Line_number 434 is missing
+
+Line_number 435 is missing
+
+Line_number 436 is missing
+
+Line_number 437 is missing
+
+Line_number 438 is missing
+
+Line_number 439 is missing
+
+Line_number 440 is missing
+
+Line_number 441 is missing
+
+Line_number 442 is missing
+
+
+Y_M3_35_443 vaders ende tsoens minne
+Y_M3_35_444 s caritate daer altoes inne
+Y_M3_35_445 die triniteyt
+Y_M3_35_446  die der prophetē Sinne
+Y_M3_35_447 e en̄ maecte .I. inne
+Y_M3_35_448 soens menschelicheit
+Y_M3_35_449 s coninc noch coningin̄e
+Y_M3_35_450 emmermeer aflaet gewinnē
+Y_M3_35_451 sijnre onsalicheit
+Y_M3_35_452  hebbe een traen al wʼt dinne
+Y_M3_35_453  desen dauwe tsine beginne
+Y_M3_35_454 weluarē es hem ontseit
+Y_M3_35_455 r dese sijn ongereyt
+
+
+Y_M3_36_456 se leerde den apostelē twaren
+Y_M3_36_457 lle tongen die doē waren
+Y_M3_36_458 ese werelt breyt
+Y_M3_36_459  gaf den martelaren
+Y_M3_36_460 t si conden sondʼ sparen
+Y_M3_36_461 gen menich leyt
+Y_M3_36_462 se can die sinne vʼclaren
+Y_M3_36_463 e hem met sonden vʼswarē
+Y_M3_36_464  dat coude maken heit
+Y_M3_36_465 nen lieuen sinē caren
+Y_M3_36_466 lt hi stille al sondʼ sparē
+Y_M3_36_467 at godlike cleet
+Y_M3_36_468  ewelike steet
+
+
+
+
+
+Y_M3_37_469 Wat hulpt merten sin ende tale
+Y_M3_37_470 Die begheuē mi alte male
+Y_M3_37_471 Meer te spreeken voert
+Y_M3_37_472 Elc persoen vʼstant mi wale
+Y_M3_37_473 Es een god dats geen hale
+Y_M3_37_474 Van drien daer mē af hoort
+Y_M3_37_475 Doch eest maer eē die berch en̄ dale
+Y_M3_37_476 Sciep groet ende smale
+Y_M3_37_477 Daer af telle alle woert
+Y_M3_37_478 Ne ganc niet ouer dese pale
+Y_M3_37_479 Hout in dijnre herten sale
+Y_M3_37_480 So en waerstu niet versmoert
+Y_M3_37_481 Inder helscer poert
+
+
+Y_M3_38_482 Waer yement die wedʼ sprake
+Y_M3_38_483 Dit gheloue en̄ dese sake
+Y_M3_38_484 Die ware ewelijc verdoemt
+Y_M3_38_485 Recht wʼt dꝫmē indē brant stake
+Y_M3_38_486 En̄ hi dʼna thelsce vier smake
+Y_M3_38_487 Dʼ men den duuel in droemt
+Y_M3_38_488 Helpt god dat ic dʼ gerake
+Y_M3_38_489 Daer ic sie ende smake
+Y_M3_38_490 Die godheit ongenoemt
+Y_M3_38_491 Sone trect mi niet die helsce drake
+Y_M3_38_492 Mꝫ hem ter eweliker wrake
+Y_M3_38_493 Daer niemen vut en comt
+Y_M3_38_494 Wien dat scaet oft vroemt
+
+
+Y_M3_39_495 Amen Iacob lieue geselle
+Y_M3_39_496 Mi dunct dꝫ ic v zeere quelle
+Y_M3_39_497 Doch haddics groten noet
+Y_M3_39_498 Alsic dit lese ende spelle
+Y_M3_39_499 Magic leeren alsic vertelle
+Y_M3_39_500 Mijn gheleue al bloet
+Y_M3_39_501 Daer ic bi scuwē mach die helle
+Y_M3_39_502 Opdat mi daer toe versnelle
+Y_M3_39_503 Te doene dat god gheboet
+Y_M3_39_504 God dye de doot wrac van abelle
+Y_M3_39_505 Hi bringe ons ter hoger selle
+Y_M3_39_506 Dats in abrahams schoet
+Y_M3_39_507 Na dese corte doot
+
