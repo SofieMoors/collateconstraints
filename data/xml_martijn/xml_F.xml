@@ -46,6 +46,8 @@
 <text n="Eerste Martijn" xml:id="M1">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="F_M1_1_000">Line_number 000 is missing</note>
 <lb n="1" xml:id="Ff1ra.1"/><l n="F_M1_1_001"><hi rend="capitalsize4">W</hi>Apene merten hoe saelt gaen.</l>
 <lb n="2" xml:id="Ff1ra.2"/><l n="F_M1_1_002"><hi rend="capitalsize1">S</hi>al dese werelt yet <choice><abbr>la<g ref="#bar"/>ge</abbr><expan>la<ex>n</ex>ge</expan></choice> <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice></l>
 <lb n="3" xml:id="Ff1ra.3"/><l n="F_M1_1_003"><hi rend="capitalsize1">I</hi>n dus <choice><abbr>crancke<g ref="#bar"/></abbr><expan>crancke<ex>n</ex></expan></choice> geloue.</l>
@@ -1250,6 +1252,8 @@
 <lb n="2" xml:id="Ff7vb.2"/><l n="F_M1_75_973"><hi rend="capitalsize1">I</hi>n haer bin ic tendene bout</l>
 <lb n="3" xml:id="Ff7vb.3"/><l n="F_M1_75_974"><hi rend="capitalsize1">O</hi>nse dyaloghe.</l>
 <lb n="4" xml:id="Ff7vb.4"/><l n="F_M1_75_975"><hi rend="capitalsize1">E</hi>n vraghe <choice><abbr>ne<g ref="#bar"/>meer</abbr><expan>ne<ex>m</ex>meer</expan></choice> no en toghe.</l>
+
+<note n="F_M1_75_976">Line_number 976 is missing</note>
 </lg>
 </p>
 </body>
@@ -1675,6 +1679,8 @@
 <lb n="17" xml:id="Ff10ra.17"/><l n="F_M2_26_336"><hi rend="capitalsize1">D</hi>aer minne niet en ent <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> iaer</l>
 <lb n="18" xml:id="Ff10ra.18"/><l n="F_M2_26_337"><hi rend="capitalsize1">N</hi>u enten lesten stonden</l>
 <lb n="19" xml:id="Ff10ra.19"/><l n="F_M2_26_338"><hi rend="capitalsize1">V</hi>ryen met sinen wonden</l>
+
+<note n="F_M2_26_339">Line_number 339 is missing</note>
 </lg>
 </p>
 </body>
@@ -1709,9 +1715,9 @@
 <lb n="1" xml:id="Ff10rb.1"/><l n="F_M3_2_017"><hi rend="capitalsize1">L</hi>eere mi eer ic di ontspringhe</l>
 <lb n="2" xml:id="Ff10rb.2"/><l n="F_M3_2_018"><hi rend="capitalsize1">H</hi>oe ic miin herte <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> toe dwinge</l>
 
-<note>Line_number 019 is missing</note>
+<note n="F_M3_2_019">Line_number 019 is missing</note>
 
-<note>Line_number 020 is missing</note>
+<note n="F_M3_2_020">Line_number 020 is missing</note>
 <lb n="3" xml:id="Ff10rb.3"/><l n="F_M3_2_021"><hi rend="capitalsize1">H</hi>em te kennen bi <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> gehinge</l>
 <lb n="4" xml:id="Ff10rb.4"/><l n="F_M3_2_022"><hi rend="capitalsize1">D</hi>ie leuende es sonder ween</l>
 <lb n="5" xml:id="Ff10rb.5"/><l n="F_M3_2_023"><hi rend="capitalsize1">D</hi>its waerheit claerheit <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gehinge</l>

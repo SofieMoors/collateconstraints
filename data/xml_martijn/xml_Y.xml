@@ -42,6 +42,8 @@
 <text n="Eerste Martijn" xml:id="M1">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="Y_M1_1_000">Line_number 000 is missing</note>
 <lb n="1" xml:id="Yf1ra.1"/><l n="Y_M1_1_001"><hi rend="capitalsize6">W</hi>Aphene martijn hoe saelt gaen</l>
 <lb n="2" xml:id="Yf1ra.2"/><l n="Y_M1_1_002"><hi rend="capitalsize1">S</hi>al dese weerelt langhe staen.</l>
 <lb n="3" xml:id="Yf1ra.3"/><l n="Y_M1_1_003"><hi rend="capitalsize1">I</hi>n dus crancken loue</l>
@@ -283,9 +285,9 @@
 <lb n="12" xml:id="Yf2ra.12"/><l n="Y_M3_26_336"><hi rend="capitalsize1">D</hi>ingle dien sagen <choice><abbr>stride<g ref="#bar"/></abbr><expan>stride<ex>n</ex></expan></choice></l>
 <lb n="13" xml:id="Yf2ra.13"/><l n="Y_M3_26_337"><hi rend="capitalsize1">Y</hi>egen des duuels brant</l>
 <lb n="14" xml:id="Yf2ra.14"/><l n="Y_M3_26_338"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> hise vut prant</l>
-<lb n="15" xml:id="Yf2ra.15"/><l n="Y_M3_26_339"><hi rend="capitalsize2">D</hi>ie godheit wecte <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> dode te liue</l>
 </lg>
 <lg type="stanza" n="27">
+<lb n="15" xml:id="Yf2ra.15"/><l n="Y_M3_27_339"><hi rend="capitalsize2">D</hi>ie godheit wecte <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> dode te liue</l>
 <lb n="16" xml:id="Yf2ra.16"/><l n="Y_M3_27_340"><hi rend="capitalsize1">T</hi>fleesch dat hi <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> <choice><abbr>reine<g ref="#bar"/></abbr><expan>reine<ex>n</ex></expan></choice> wiue</l>
 <lb n="17" xml:id="Yf2ra.17"/><l n="Y_M3_27_341"><hi rend="capitalsize1">V</hi>rouwen marien nam</l>
 <lb n="18" xml:id="Yf2ra.18"/><l n="Y_M3_27_342"><hi rend="capitalsize1">H</hi>i troeste sijn lieue keytiue</l>
@@ -397,31 +399,31 @@
 </lg>
 <lg type="stanza" n="34">
 
-<note>Line_number 430 is missing</note>
+<note n="Y_M3_34_430">Line_number 430 is missing</note>
 
-<note>Line_number 431 is missing</note>
+<note n="Y_M3_34_431">Line_number 431 is missing</note>
 
-<note>Line_number 432 is missing</note>
+<note n="Y_M3_34_432">Line_number 432 is missing</note>
 
-<note>Line_number 433 is missing</note>
+<note n="Y_M3_34_433">Line_number 433 is missing</note>
 
-<note>Line_number 434 is missing</note>
+<note n="Y_M3_34_434">Line_number 434 is missing</note>
 
-<note>Line_number 435 is missing</note>
+<note n="Y_M3_34_435">Line_number 435 is missing</note>
 
-<note>Line_number 436 is missing</note>
+<note n="Y_M3_34_436">Line_number 436 is missing</note>
 
-<note>Line_number 437 is missing</note>
+<note n="Y_M3_34_437">Line_number 437 is missing</note>
 
-<note>Line_number 438 is missing</note>
+<note n="Y_M3_34_438">Line_number 438 is missing</note>
 
-<note>Line_number 439 is missing</note>
+<note n="Y_M3_34_439">Line_number 439 is missing</note>
 
-<note>Line_number 440 is missing</note>
+<note n="Y_M3_34_440">Line_number 440 is missing</note>
 
-<note>Line_number 441 is missing</note>
+<note n="Y_M3_34_441">Line_number 441 is missing</note>
 
-<note>Line_number 442 is missing</note>
+<note n="Y_M3_34_442">Line_number 442 is missing</note>
 </lg>
 <lg type="stanza" n="35">
 <lb n="16" xml:id="Yf2va.16"/><l n="Y_M3_35_443"><damage><gap></gap></damage>vaders ende tsoens minne</l>
@@ -500,6 +502,8 @@
 <lb n="37" xml:id="Yf2vb.37"/><l n="Y_M3_39_505"><hi rend="capitalsize1">H</hi>i bringe ons ter hoger selle</l>
 <lb n="38" xml:id="Yf2vb.38"/><l n="Y_M3_39_506"><hi rend="capitalsize1">D</hi>ats in abrahams schoet</l>
 <lb n="39" xml:id="Yf2vb.39"/><l n="Y_M3_39_507"><hi rend="capitalsize1">N</hi>a dese corte doot</l>
+
+<note n="Y_M3_39_508">Line_number 508 is missing</note>
 </lg>
 </p>
 </body>

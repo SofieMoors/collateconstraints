@@ -43,6 +43,8 @@
 <text n="Eerste Martijn" xml:id="M1">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="A_M1_1_000">Line_number 000 is missing</note>
 <lb n="1" xml:id="Af112rb.1"/><l n="A_M1_1_001"><hi rend="capitalsize4">V</hi>Vaphene <choice><abbr>m<g ref="#apomod"/>tin</abbr><expan>m<ex>ar</ex>tin</expan></choice> hoe salt gaen</l>
 <lb n="2" xml:id="Af112rb.2"/><l n="A_M1_1_002"><hi rend="capitalsize1">S</hi>al die <choice><abbr>w<g ref="#apomod"/>elt</abbr><expan>w<ex>eer</ex>elt</expan></choice> hiet <choice><abbr>la<g ref="#bar"/>ghe</abbr><expan>la<ex>n</ex>ghe</expan></choice> <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice></l>
 <lb n="3" xml:id="Af112rb.3"/><l n="A_M1_1_003"><hi rend="capitalsize1">I</hi>n dus <choice><abbr>crancke<g ref="#bar"/></abbr><expan>crancke<ex>n</ex></expan></choice> loue</l>
@@ -183,7 +185,7 @@
 <lb n="22" xml:id="Af113ra.22"/><l n="A_M1_9_113"><hi rend="capitalsize1">S</hi>o es te broken bleuen</l>
 <lb n="23" xml:id="Af113ra.23"/><l n="A_M1_9_114"><hi rend="capitalsize1">I</hi>c wane noyt dies lands <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> genas</l>
 
-<note>Line_number 115 is missing</note>
+<note n="A_M1_9_115">Line_number 115 is missing</note>
 <lb n="24" xml:id="Af113ra.24"/><l n="A_M1_9_116"><hi rend="capitalsize1">H</hi>ine moeste int hende <choice><abbr>sneue<g ref="#bar"/></abbr><expan>sneue<ex>n</ex></expan></choice></l>
 <lb n="25" xml:id="Af113ra.25"/><l n="A_M1_9_117"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> sulc es slands <choice><abbr>v<g ref="#apomod"/>dreue<g ref="#bar"/></abbr><expan>v<ex>er</ex>dreue<ex>n</ex></expan></choice></l>
 </lg>
@@ -217,7 +219,7 @@
 <lb n="11" xml:id="Af113rb.11"/><l n="A_M1_11_139"><hi rend="capitalsize1">D</hi>ie meester der natueren</l>
 <lb n="12" xml:id="Af113rb.12"/><l n="A_M1_11_140"><hi rend="capitalsize1">H</hi>euet <choice><abbr>beuole<g ref="#bar"/></abbr><expan>beuole<ex>n</ex></expan></choice> merc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> besies</l>
 
-<note>Line_number 141 is missing</note>
+<note n="A_M1_11_141">Line_number 141 is missing</note>
 <lb n="13" xml:id="Af113rb.13"/><l n="A_M1_11_142"><hi rend="capitalsize1">D</hi>er <choice><abbr>blend<g ref="#apomod"/></abbr><expan>blend<ex>er</ex></expan></choice> auentueren</l>
 <lb n="14" xml:id="Af113rb.14"/><l n="A_M1_11_143"><hi rend="capitalsize1">D</hi>ie <choice><abbr>v<g ref="#apomod"/>keert</abbr><expan>v<ex>er</ex>keert</expan></choice> telker vren</l>
 </lg>
@@ -860,7 +862,7 @@
 <lb n="27" xml:id="Af116vb.27"/><l n="A_M1_51_659"><hi rend="capitalsize1">M</hi>ac mi dies in inne</l>
 <lb n="28" xml:id="Af116vb.28"/><l n="A_M1_51_660"><hi rend="capitalsize1">M</hi>ine redene bliuet onghesont</l>
 
-<note>Line_number 661 is missing</note>
+<note n="A_M1_51_661">Line_number 661 is missing</note>
 <lb n="29" xml:id="Af116vb.29"/><l n="A_M1_51_662"><hi rend="capitalsize1">H</hi>ennes wijsheit niet dinne</l>
 <lb n="30" xml:id="Af116vb.30"/><l n="A_M1_51_663"><hi rend="capitalsize1">N</hi>aer dat ic redene kinne</l>
 </lg>
@@ -987,7 +989,7 @@
 <lb n="22" xml:id="Af117va.22"/><l n="A_M1_59_763"><choice><abbr><hi rend="capitalsize1">N</hi>ieme<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">N</hi>ieme<ex>n</ex></expan></choice> dorstem <choice><abbr>v<g ref="#apomod"/>moeden</abbr><expan>v<ex>er</ex>moeden</expan></choice></l>
 <lb n="23" xml:id="Af117va.23"/><l n="A_M1_59_764"><hi rend="capitalsize1">D</hi>at hi beuen soude daer</l>
 
-<note>Line_number 765 is missing</note>
+<note n="A_M1_59_765">Line_number 765 is missing</note>
 <lb n="24" xml:id="Af117va.24"/><l n="A_M1_59_766"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>wise<g ref="#bar"/></abbr><expan>wise<ex>n</ex></expan></choice> ten gloeden</l>
 <lb n="25" xml:id="Af117va.25"/><l n="A_M1_59_767"><hi rend="capitalsize1">D</hi>ie hier ten sonden spoeden</l>
 </lg>
@@ -1085,9 +1087,9 @@
 <lb n="28" xml:id="Af118ra.28"/><l n="A_M1_65_842"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> wert <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> leuene een rent</l>
 <lb n="29" xml:id="Af118ra.29"/><l n="A_M1_65_843"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> valt <choice><abbr>me<g ref="#bar"/></abbr><expan>me<ex>n</ex></expan></choice> <choice><abbr>inde<g ref="#bar"/></abbr><expan>inde<ex>n</ex></expan></choice> <choice><abbr>helsche<g ref="#bar"/></abbr><expan>helsche<ex>n</ex></expan></choice> scent</l>
 <lb n="30" xml:id="Af118ra.30"/><l n="A_M1_65_844"><hi rend="capitalsize1">D</hi>us bringhet in die echte</l>
+<lb n="31" xml:id="Af118ra.31"/><l n="A_M1_65_845"><hi rend="capitalsize1">D</hi>ie duuel sine knechte</l>
 </lg>
 <lg type="stanza" n="66">
-<lb n="31" xml:id="Af118ra.31"/><l n="A_M1_66_845"><hi rend="capitalsize1">D</hi>ie duuel sine knechte</l>
 <lb n="32" xml:id="Af118ra.32"/><l n="A_M1_66_846"><hi rend="capitalsize1">I</hi>acop du spreex wel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> waer</l>
 <lb n="33" xml:id="Af118ra.33"/><l n="A_M1_66_847"><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> die wech es nauwe <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> zwaer</l>
 <lb n="34" xml:id="Af118ra.34"/><l n="A_M1_66_848"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>ze<g ref="#apomod"/>e</abbr><expan>ze<ex>er</ex>e</expan></choice> onghetreden</l>
@@ -1248,6 +1250,8 @@
 <lb n="15" xml:id="Af119ra.15"/><l n="A_M1_75_973"><hi rend="capitalsize1">I</hi>n hare bem ic te hendene bout</l>
 <lb n="16" xml:id="Af119ra.16"/><l n="A_M1_75_974"><hi rend="capitalsize1">O</hi>nse dyaloghe</l>
 <lb n="17" xml:id="Af119ra.17"/><l n="A_M1_75_975"><hi rend="capitalsize1">I</hi>n vraghe <choice><abbr>ne<g ref="#bar"/>meer</abbr><expan>ne<ex>m</ex>meer</expan></choice> no ne toghe</l>
+
+<note n="A_M1_75_976">Line_number 976 is missing</note>
 </lg>
 </p>
 </body>
@@ -1433,9 +1437,9 @@
 <lb n="15" xml:id="Af120ra.15"/><l n="A_M2_11_141"><hi rend="capitalsize1">H</hi>en sal niet wert sijn een bal</l>
 <lb n="16" xml:id="Af120ra.16"/><l n="A_M2_11_142"><hi rend="capitalsize1">G</hi>hevullet met draue</l>
 <lb n="17" xml:id="Af120ra.17"/><l n="A_M2_11_143"><hi rend="capitalsize1">A</hi>lso helpe mi sente baue</l>
-<lb n="18" xml:id="Af120ra.18"/><l n="A_M2_11_144"><hi rend="capitalsize1">I</hi>acop du best een stout seriant</l>
 </lg>
 <lg type="stanza" n="12">
+<lb n="18" xml:id="Af120ra.18"/><l n="A_M2_12_144"><hi rend="capitalsize1">I</hi>acop du best een stout seriant</l>
 <lb n="19" xml:id="Af120ra.19"/><l n="A_M2_12_145"><hi rend="capitalsize1">D</hi>ats .I. vast cnoep <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> .I. vast bant</l>
 <lb n="20" xml:id="Af120ra.20"/><l n="A_M2_12_146"><hi rend="capitalsize1">D</hi>ie <choice><abbr>nieme<g ref="#bar"/></abbr><expan>nieme<ex>n</ex></expan></choice> mach ontbinden</l>
 <lb n="21" xml:id="Af120ra.21"/><l n="A_M2_12_147"><hi rend="capitalsize1">D</hi>ie cnoep die <choice><abbr>alexand<g ref="#apomod"/></abbr><expan>alexand<ex>er</ex></expan></choice> bant</l>
@@ -1448,9 +1452,9 @@
 <lb n="28" xml:id="Af120ra.28"/><l n="A_M2_12_154"><choice><abbr><hi rend="capitalsize1">I</hi>eghe<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">I</hi>eghe<ex>n</ex></expan></choice> <choice><abbr>casselb<g ref="#apomod"/>ghe</abbr><expan>casselb<ex>er</ex>ghe</expan></choice> in <choice><abbr>vlaend<g ref="#apomod"/>lant</abbr><expan>vlaend<ex>er</ex>lant</expan></choice></l>
 <lb n="29" xml:id="Af120ra.29"/><l n="A_M2_12_155"><hi rend="capitalsize1">S</hi>al <choice><abbr>diede<g ref="#bar"/></abbr><expan>diede<ex>n</ex></expan></choice> hier hu vinden</l>
 <lb n="30" xml:id="Af120ra.30"/><l n="A_M2_12_156"><hi rend="capitalsize1">A</hi>l waendi mi <choice><abbr>v<g ref="#apomod"/>blinden</abbr><expan>v<ex>er</ex>blinden</expan></choice></l>
-<lb n="31" xml:id="Af120ra.31"/><l n="A_M2_12_157"><hi rend="capitalsize1">G</hi>hi wilt <choice><abbr>sterke<g ref="#bar"/></abbr><expan>sterke<ex>n</ex></expan></choice> uwe wort</l>
 </lg>
 <lg type="stanza" n="13">
+<lb n="31" xml:id="Af120ra.31"/><l n="A_M2_13_157"><hi rend="capitalsize1">G</hi>hi wilt <choice><abbr>sterke<g ref="#bar"/></abbr><expan>sterke<ex>n</ex></expan></choice> uwe wort</l>
 <lb n="32" xml:id="Af120ra.32"/><l n="A_M2_13_158"><hi rend="capitalsize1">D</hi>ie ghi nv hier bringhet vort</l>
 <lb n="33" xml:id="Af120ra.33"/><l n="A_M2_13_159"><hi rend="capitalsize1">M</hi>et truffen <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> met poetrien</l>
 <lb n="34" xml:id="Af120ra.34"/><l n="A_M2_13_160"><hi rend="capitalsize1">O</hi>f medea dede moort</l>
@@ -1595,9 +1599,9 @@
 <lb n="1" xml:id="Af121ra.1"/><l n="A_M2_21_271"><hi rend="capitalsize1">M</hi>et mi oftu best een paijen</l>
 <lb n="2" xml:id="Af121ra.2"/><l n="A_M2_21_272"><hi rend="capitalsize1">O</hi>fte in heresien</l>
 <lb n="3" xml:id="Af121ra.3"/><l n="A_M2_21_273"><hi rend="capitalsize1">O</hi>f van sduuels partien</l>
-<lb n="4" xml:id="Af121ra.4"/><l n="A_M2_21_274"><hi rend="capitalsize1">N</hi>u hore na mi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>stant</abbr><expan>v<ex>er</ex>stant</expan></choice></l>
 </lg>
 <lg type="stanza" n="22">
+<lb n="4" xml:id="Af121ra.4"/><l n="A_M2_22_274"><hi rend="capitalsize1">N</hi>u hore na mi <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>stant</abbr><expan>v<ex>er</ex>stant</expan></choice></l>
 <lb n="5" xml:id="Af121ra.5"/><l n="A_M2_22_275"><hi rend="capitalsize1">W</hi>ie was die eerst <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> vant</l>
 <lb n="6" xml:id="Af121ra.6"/><l n="A_M2_22_276"><hi rend="capitalsize1">D</hi>an god die selue es minne</l>
 <lb n="7" xml:id="Af121ra.7"/><l n="A_M2_22_277"><hi rend="capitalsize1">A</hi>l dat oint maecte sine hant</l>
@@ -1673,6 +1677,8 @@
 <lb n="30" xml:id="Af121rb.30"/><l n="A_M2_26_336"><hi rend="capitalsize1">M</hi>inne niet en end <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> jaer</l>
 <lb n="31" xml:id="Af121rb.31"/><l n="A_M2_26_337"><hi rend="capitalsize1">E</hi>nten lesten stonden</l>
 <lb n="32" xml:id="Af121rb.32"/><l n="A_M2_26_338"><hi rend="capitalsize1">V</hi>rien met <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> wonden</l>
+
+<note n="A_M2_26_339">Line_number 339 is missing</note>
 </lg>
 </p>
 </body>
@@ -1973,6 +1979,118 @@
 <lb n="14" xml:id="Af123ra.14"/><l n="A_M3_18_233"><hi rend="capitalsize1">N</hi>u antwort mi bet vort</l>
 <lb n="15" xml:id="Af123ra.15"/><l n="A_M3_18_234"><hi rend="capitalsize1">O</hi>f ics niet en hebbe <choice><abbr>v<g ref="#apomod"/>bort</abbr><expan>v<ex>er</ex>bort</expan></choice></l>
 </lg>
+<lg type="stanza" n="19">
+
+<note n="A_M3_19_235">Line_number 235 is missing</note>
+
+<note n="A_M3_19_236">Line_number 236 is missing</note>
+
+<note n="A_M3_19_237">Line_number 237 is missing</note>
+
+<note n="A_M3_19_238">Line_number 238 is missing</note>
+
+<note n="A_M3_19_239">Line_number 239 is missing</note>
+
+<note n="A_M3_19_240">Line_number 240 is missing</note>
+
+<note n="A_M3_19_241">Line_number 241 is missing</note>
+
+<note n="A_M3_19_242">Line_number 242 is missing</note>
+
+<note n="A_M3_19_243">Line_number 243 is missing</note>
+
+<note n="A_M3_19_244">Line_number 244 is missing</note>
+
+<note n="A_M3_19_245">Line_number 245 is missing</note>
+
+<note n="A_M3_19_246">Line_number 246 is missing</note>
+
+<note n="A_M3_19_247">Line_number 247 is missing</note>
+</lg>
+<lg type="stanza" n="20">
+
+<note n="A_M3_20_248">Line_number 248 is missing</note>
+
+<note n="A_M3_20_249">Line_number 249 is missing</note>
+
+<note n="A_M3_20_250">Line_number 250 is missing</note>
+
+<note n="A_M3_20_251">Line_number 251 is missing</note>
+
+<note n="A_M3_20_252">Line_number 252 is missing</note>
+
+<note n="A_M3_20_253">Line_number 253 is missing</note>
+
+<note n="A_M3_20_254">Line_number 254 is missing</note>
+
+<note n="A_M3_20_255">Line_number 255 is missing</note>
+
+<note n="A_M3_20_256">Line_number 256 is missing</note>
+
+<note n="A_M3_20_257">Line_number 257 is missing</note>
+
+<note n="A_M3_20_258">Line_number 258 is missing</note>
+
+<note n="A_M3_20_259">Line_number 259 is missing</note>
+
+<note n="A_M3_20_260">Line_number 260 is missing</note>
+</lg>
+<lg type="stanza" n="21">
+
+<note n="A_M3_21_261">Line_number 261 is missing</note>
+
+<note n="A_M3_21_262">Line_number 262 is missing</note>
+
+<note n="A_M3_21_263">Line_number 263 is missing</note>
+
+<note n="A_M3_21_264">Line_number 264 is missing</note>
+
+<note n="A_M3_21_265">Line_number 265 is missing</note>
+
+<note n="A_M3_21_266">Line_number 266 is missing</note>
+
+<note n="A_M3_21_267">Line_number 267 is missing</note>
+
+<note n="A_M3_21_268">Line_number 268 is missing</note>
+
+<note n="A_M3_21_269">Line_number 269 is missing</note>
+
+<note n="A_M3_21_270">Line_number 270 is missing</note>
+
+<note n="A_M3_21_271">Line_number 271 is missing</note>
+
+<note n="A_M3_21_272">Line_number 272 is missing</note>
+
+<note n="A_M3_21_273">Line_number 273 is missing</note>
+</lg>
+<lg type="stanza" n="22">
+
+<note n="A_M3_22_274">Line_number 274 is missing</note>
+
+<note n="A_M3_22_275">Line_number 275 is missing</note>
+
+<note n="A_M3_22_276">Line_number 276 is missing</note>
+
+<note n="A_M3_22_277">Line_number 277 is missing</note>
+
+<note n="A_M3_22_278">Line_number 278 is missing</note>
+
+<note n="A_M3_22_279">Line_number 279 is missing</note>
+
+<note n="A_M3_22_280">Line_number 280 is missing</note>
+
+<note n="A_M3_22_281">Line_number 281 is missing</note>
+
+<note n="A_M3_22_282">Line_number 282 is missing</note>
+
+<note n="A_M3_22_283">Line_number 283 is missing</note>
+
+<note n="A_M3_22_284">Line_number 284 is missing</note>
+
+<note n="A_M3_22_285">Line_number 285 is missing</note>
+
+<note n="A_M3_22_286">Line_number 286 is missing</note>
+</lg>
 <lg type="stanza" n="23">
 <lb n="16" xml:id="Af123ra.16"/><l n="A_M3_23_287"><hi rend="capitalsize1">D</hi>Ie gods sone sach <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>ma<g ref="#bar"/></abbr><expan>ma<ex>n</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>lade<g ref="#bar"/></abbr><expan>v<ex>er</ex>lade<ex>n</ex></expan></choice></l>
 <lb n="17" xml:id="Af123ra.17"/><l n="A_M3_23_288"><choice><abbr><hi rend="capitalsize1">E</hi>nte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>nte<ex>n</ex></expan></choice> viant <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> ouerdaden</l>
@@ -2245,6 +2363,8 @@
 <lb n="18" xml:id="Af124va.18"/><l n="A_M3_39_505"><hi rend="capitalsize1">B</hi>ringhe ons noch ter <choice><abbr>hogh<g ref="#apomod"/></abbr><expan>hogh<ex>er</ex></expan></choice> celle</l>
 <lb n="19" xml:id="Af124va.19"/><l n="A_M3_39_506"><hi rend="capitalsize1">D</hi>ats in abrahams scoot</l>
 <lb n="20" xml:id="Af124va.20"/><l n="A_M3_39_507"><hi rend="capitalsize1">N</hi>aer dese corte doot. Amen.</l>
+
+<note n="A_M3_39_508">Line_number 508 is missing</note>
 </lg>
 </p>
 </body>

@@ -95,7 +95,7 @@
 <lb n="43" xml:id="Zf1ra.43"/><l n="Z_M1_31_398"><hi rend="capitalsize1">W</hi>as noit wert eenre ogen winc</l>
 <lb n="44" xml:id="Zf1ra.44"/><l n="Z_M1_31_399"><hi rend="capitalsize1">O</hi>nder die goede werde</l>
 
-<note>Line_number 400 is missing</note>
+<note n="Z_M1_31_400">Line_number 400 is missing</note>
 
 
 <pb xml:id="Z.f1rb" n="1rb"/>
@@ -159,7 +159,7 @@
 <lb n="2" xml:id="Zf2ra.2"/><l n="Z_M1_35_446"><hi rend="capitalsize1">I</hi>n sanghe in rime slecht</l>
 <lb n="3" xml:id="Zf2ra.3"/><l n="Z_M1_35_447"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>si</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>si</expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> sijn <choice><abbr>u<g ref="#apomod"/>plecht</abbr><expan>u<ex>er</ex>plecht</expan></choice></l>
 
-<note>Line_number 448 is missing</note>
+<note n="Z_M1_35_448">Line_number 448 is missing</note>
 <lb n="4" xml:id="Zf2ra.4"/><l n="Z_M1_35_449"><hi rend="capitalsize1">M</hi>i dunct <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> alde <choice><abbr>w<g ref="#apomod"/>lt</abbr><expan>w<ex>ere</ex>lt</expan></choice> vecht</l>
 <lb n="5" xml:id="Zf2ra.5"/><l n="Z_M1_35_450"><choice><abbr><hi rend="capitalsize1">I</hi>ege<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">I</hi>ege<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>reind<g ref="#apomod"/></abbr><expan>reind<ex>er</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>mi<ex>n</ex>ne<ex>n</ex></expan></choice> plecht</l>
 <lb n="6" xml:id="Zf2ra.6"/><l n="Z_M1_35_451"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>volge<g ref="#bar"/></abbr><expan>volge<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> ontrouwen</l>
@@ -207,7 +207,7 @@
 <lb n="42" xml:id="Zf2ra.42"/><l n="Z_M1_38_487"><hi rend="capitalsize1">H</hi>i wilt sonder merre</l>
 <lb n="43" xml:id="Zf2ra.43"/><l n="Z_M1_38_488"><choice><abbr><hi rend="capitalsize1">O</hi>nd<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">O</hi>nd<ex>er</ex></expan></choice> die edel <choice><abbr>zij<g ref="#bar"/></abbr><expan>zij<ex>n</ex></expan></choice> getrect</l>
 
-<note>Line_number 489 is missing</note>
+<note n="Z_M1_38_489">Line_number 489 is missing</note>
 <lb n="44" xml:id="Zf2ra.44"/><l n="Z_M1_38_490"><hi rend="capitalsize1">T</hi>gelt cl<unclear>aer</unclear> <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> terre</l>
 
 
@@ -260,7 +260,7 @@
 <lb n="40" xml:id="Zf2rb.40"/><l n="Z_M1_41_530"><choice><abbr><hi rend="capitalsize1">N</hi>atu<g ref="#apomod"/>e</abbr><expan><hi rend="capitalsize1">N</hi>atu<ex>er</ex>e</expan></choice> gaet <choice><abbr>hare<g ref="#bar"/></abbr><expan>hare<ex>n</ex></expan></choice> telt</l>
 <lb n="41" xml:id="Zf2rb.41"/><l n="Z_M1_41_531"><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>aer</ex></expan></choice> <choice><abbr>aue<g ref="#bar"/>tu<g ref="#apomod"/>e</abbr><expan>aue<ex>n</ex>tu<ex>er</ex>e</expan></choice> vast <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> smelt</l>
 
-<note>Line_number 532 is missing</note>
+<note n="Z_M1_41_532">Line_number 532 is missing</note>
 <lb n="42" xml:id="Zf2rb.42"/><l n="Z_M1_41_533"><choice><abbr><hi rend="capitalsize1">T</hi>onne<g ref="#apomod"/>en</abbr><expan><hi rend="capitalsize1">T</hi>onne<ex>er</ex>en</expan></choice> hem somen</l>
 </lg>
 <lg type="stanza" n="42">
@@ -451,9 +451,9 @@
 <lb n="5" xml:id="Zf5rb.5"/><l n="Z_M2_13_163"><hi rend="capitalsize1">M</hi>inne <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/>t<g ref="#apomod"/></abbr><expan>d<ex>at</ex>t<ex>er</ex></expan></choice> toe hoert</l>
 <lb n="6" xml:id="Zf5rb.6"/><l n="Z_M2_13_164"><choice><abbr><hi rend="capitalsize1">W</hi><g ref="#usmod"/></abbr><expan><hi rend="capitalsize1">W</hi><ex>as</ex></expan></choice> met sonde noit becort</l>
 
-<note>Line_number 165 is missing</note>
+<note n="Z_M2_13_165">Line_number 165 is missing</note>
 
-<note>Line_number 166 is missing</note>
+<note n="Z_M2_13_166">Line_number 166 is missing</note>
 <lb n="7" xml:id="Zf5rb.7"/><l n="Z_M2_13_167"><hi rend="capitalsize1">H</hi>ine mach <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> sijn <choice><abbr>u<g ref="#apomod"/>dort</abbr><expan>u<ex>er</ex>dort</expan></choice></l>
 <lb n="8" xml:id="Zf5rb.8"/><l n="Z_M2_13_168"><hi rend="capitalsize1">D</hi>es selen <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> lien</l>
 <lb n="9" xml:id="Zf5rb.9"/><l n="Z_M2_13_169"><hi rend="capitalsize1">D</hi>ie meesters <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> <choice><abbr>cl<g ref="#apomod"/>gien</abbr><expan>cl<ex>er</ex>gien</expan></choice></l>
@@ -512,6 +512,8 @@
 <lb n="4" xml:id="Zf7ra.4"/><l n="Z_M2_24_301"><choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> god <choice><abbr>nieme<g ref="#bar"/></abbr><expan>nieme<ex>n</ex></expan></choice> <choice><abbr>heu<g ref="#etfin"/></abbr><expan>heu<ex>et</ex></expan></choice> leet</l>
 <lb n="5" xml:id="Zf7ra.5"/><l n="Z_M2_24_302"><choice><abbr><hi rend="capitalsize1">W</hi>ie<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">W</hi>ie<ex>n</ex></expan></choice> geeft hi dlange <choice><abbr>leue<g ref="#bar"/></abbr><expan>leue<ex>n</ex></expan></choice></l>
 <lb n="6" xml:id="Zf7ra.6"/><l n="Z_M2_24_303"><hi rend="capitalsize1">S</hi>oe <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>gene<g ref="#bar"/></abbr><expan>gene<ex>n</ex></expan></choice> die gereet</l>
+
+<note n="Z_M2_24_304">Line_number 304 is missing</note>
 <lb n="7" xml:id="Zf7ra.7"/><l n="Z_M2_24_305"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>ond<g ref="#apomod"/>dae<g ref="#bar"/></abbr><expan>ond<ex>er</ex>dae<ex>n</ex></expan></choice> es bleuen</l>
 <lb n="8" xml:id="Zf7ra.8"/><l n="Z_M2_24_306"><hi rend="capitalsize1">J</hi>c <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>er</ex></expan></choice> <choice><abbr>segge<g ref="#bar"/></abbr><expan>segge<ex>n</ex></expan></choice> op <choice><abbr>mine<g ref="#bar"/></abbr><expan>mine<ex>n</ex></expan></choice> eet</l>
 <lb n="9" xml:id="Zf7ra.9"/><l n="Z_M2_24_307"><choice><abbr><hi rend="capitalsize1">S</hi>ij<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">S</hi>ij<ex>n</ex></expan></choice> <choice><abbr>houesch<hi rend="superscript">t</hi></abbr><expan>houesch<ex>eit</ex></expan></choice> es <choice><abbr>o<g ref="#bar"/>gecleet</abbr><expan>o<ex>n</ex>gecleet</expan></choice></l>
@@ -550,6 +552,8 @@
 <lb n="38" xml:id="Zf7ra.38"/><l n="Z_M2_26_336"><choice><abbr><hi rend="capitalsize1">M</hi>i<g ref="#bar"/>ne</abbr><expan><hi rend="capitalsize1">M</hi>i<ex>n</ex>ne</expan></choice> <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> ent <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> iaer</l>
 <lb n="39" xml:id="Zf7ra.39"/><l n="Z_M2_26_337"><choice><abbr><hi rend="capitalsize1">E</hi>nte<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>nte<ex>n</ex></expan></choice> <choice><abbr>leste<g ref="#bar"/></abbr><expan>leste<ex>n</ex></expan></choice> stonden</l>
 <lb n="40" xml:id="Zf7ra.40"/><l n="Z_M2_26_338"><choice><abbr><hi rend="capitalsize1">V</hi>rie<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>rie<ex>n</ex></expan></choice> <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>h<g ref="#apomod"/>n</abbr><expan>h<ex>are</ex>n</expan></choice> wonden</l>
+
+<note n="Z_M2_26_339">Line_number 339 is missing</note>
 </lg>
 </p>
 </body>
@@ -564,7 +568,7 @@
 <lb n="43" xml:id="Zf7ra.43"/><l n="Z_M3_1_002">die dit <choice><abbr>lese<g ref="#bar"/></abbr><expan>lese<ex>n</ex></expan></choice> of <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice></l>
 <lb n="44" xml:id="Zf7ra.44"/><l n="Z_M3_1_003"><choice><abbr><hi rend="capitalsize1">O</hi>pde<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">O</hi>pde<ex>n</ex></expan></choice> hoechten ban</l>
 
-<note>Line_number 004 is missing</note>
+<note n="Z_M3_1_004">Line_number 004 is missing</note>
 
 
 <pb xml:id="Z.f7rb" n="7rb"/>
@@ -618,7 +622,7 @@
 <lb n="42" xml:id="Zf7rb.42"/><l n="Z_M3_4_046"><hi rend="capitalsize1">D</hi>u sout mi in <choice><abbr>alle<g ref="#bar"/></abbr><expan>alle<ex>n</ex></expan></choice> hoeken</l>
 <lb n="43" xml:id="Zf7rb.43"/><l n="Z_M3_4_047"><choice><abbr><hi rend="capitalsize1">M</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">M</hi><ex>et</ex></expan></choice> rine <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> valsch <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> doek<damage><gap></gap></damage></l>
 
-<note>Line_number 048 is missing</note>
+<note n="Z_M3_4_048">Line_number 048 is missing</note>
 <lb n="44" xml:id="Zf7rb.44"/><l n="Z_M3_4_049"><hi rend="capitalsize1">E</hi>s dit goet ic wane neent</l>
 
 

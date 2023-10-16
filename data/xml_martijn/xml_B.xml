@@ -44,6 +44,8 @@
 <text n="Eerste Martijn" xml:id="M1">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="B_M1_1_000">Line_number 000 is missing</note>
 <lb n="1" xml:id="Bf141ra.1"/><l n="B_M1_1_001"><hi rend="capitalsize4">W</hi>aphene martin hoe salt <choice><abbr>gae<g ref="#bar"/></abbr><expan>gae<ex>n</ex></expan></choice></l>
 <lb n="2" xml:id="Bf141ra.2"/><l n="B_M1_1_002"><hi rend="capitalsize1">S</hi>al de <choice><abbr>we<g ref="#apomod"/>lt</abbr><expan>we<ex>re</ex>lt</expan></choice> yet lang staen</l>
 <lb n="3" xml:id="Bf141ra.3"/><l n="B_M1_1_003"><hi rend="capitalsize1">I</hi>n dus <choice><abbr>crancke<g ref="#bar"/></abbr><expan>crancke<ex>n</ex></expan></choice> loue</l>
@@ -358,7 +360,7 @@
 <lb n="7" xml:id="Bf142va.7"/><l n="B_M1_20_256"><hi rend="capitalsize1">D</hi>atsi gods woort dus <choice><abbr>wonde<g ref="#bar"/></abbr><expan>wonde<ex>n</ex></expan></choice></l>
 <lb n="8" xml:id="Bf142va.8"/><l n="B_M1_20_257"><hi rend="capitalsize1">H</hi>ier naeyen zijt hier ist gescoirt</l>
 
-<note>Line_number 258 is missing</note>
+<note n="B_M1_20_258">Line_number 258 is missing</note>
 <lb n="9" xml:id="Bf142va.9"/><l n="B_M1_20_259"><hi rend="capitalsize1">W</hi>aphene <choice><abbr>vande<g ref="#bar"/></abbr><expan>vande<ex>n</ex></expan></choice> <choice><abbr>honde<g ref="#bar"/></abbr><expan>honde<ex>n</ex></expan></choice></l>
 <lb n="10" xml:id="Bf142va.10"/><l n="B_M1_20_260"><hi rend="capitalsize1">N</hi>u <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> te allen <choice><abbr>stonde<g ref="#bar"/></abbr><expan>stonde<ex>n</ex></expan></choice></l>
 </lg>
@@ -725,10 +727,10 @@
 <lb n="20" xml:id="Bf144rb.20"/><l n="B_M1_43_555"><hi rend="capitalsize1">S</hi>ire doechtachticheiden</l>
 <lb n="21" xml:id="Bf144rb.21"/><l n="B_M1_43_556"><hi rend="capitalsize1">M</hi>i dincke dat eydelhede began</l>
 
-<note>Line_number 557 is missing</note>
+<note n="B_M1_43_557">Line_number 557 is missing</note>
 <lb n="22" xml:id="Bf144rb.22"/><l n="B_M1_43_558"><hi rend="capitalsize1">M</hi>it douchden besneiden</l>
 
-<note>Line_number 559 is missing</note>
+<note n="B_M1_43_559">Line_number 559 is missing</note>
 </lg>
 <lg type="stanza" n="44">
 <lb n="23" xml:id="Bf144rb.23"/><l n="B_M1_44_560"><hi rend="capitalsize1">M</hi>artijn oftu <choice><abbr>clemme<g ref="#bar"/></abbr><expan>clemme<ex>n</ex></expan></choice> wout</l>
@@ -1160,7 +1162,7 @@
 <lb n="7" xml:id="Bf146va.7"/><l n="B_M1_70_907"><hi rend="capitalsize1">W</hi>ilde die clagher te tijt vlien</l>
 <lb n="8" xml:id="Bf146va.8"/><l n="B_M1_70_908"><hi rend="capitalsize1">S</hi>o en mochte <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> niet <choice><abbr>meschie<g ref="#bar"/></abbr><expan>meschie<ex>n</ex></expan></choice></l>
 
-<note>Line_number 909 is missing</note>
+<note n="B_M1_70_909">Line_number 909 is missing</note>
 <lb n="9" xml:id="Bf146va.9"/><l n="B_M1_70_910"><hi rend="capitalsize1">E</hi>er <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <choice><abbr>th<g ref="#apomod"/>te</abbr><expan>th<ex>er</ex>te</expan></choice> daelde</l>
 </lg>
 <lg type="stanza" n="71">
@@ -1229,7 +1231,7 @@
 <lg type="stanza" n="75">
 <lb n="22" xml:id="Bf146vb.22"/><l n="B_M1_75_963"><hi rend="capitalsize1">I</hi>acop du best <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>v<hi rend="superscript">a</hi>uwe<g ref="#bar"/></abbr><expan>v<ex>ra</ex>uwe<ex>n</ex></expan></choice> houdt</l>
 
-<note>Line_number 964 is missing</note>
+<note n="B_M1_75_964">Line_number 964 is missing</note>
 <lb n="23" xml:id="Bf146vb.23"/><l n="B_M1_75_965"><hi rend="capitalsize1">I</hi>c wane ic best ghedoghe</l>
 <lb n="24" xml:id="Bf146vb.24"/><l n="B_M1_75_966"><hi rend="capitalsize1">I</hi>c <choice><abbr>v<g ref="#apomod"/>gheue</abbr><expan>v<ex>er</ex>gheue</expan></choice> al ongedout</l>
 <lb n="25" xml:id="Bf146vb.25"/><l n="B_M1_75_967"><choice><abbr><hi rend="capitalsize1">A</hi>lle<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">A</hi>lle<ex>n</ex></expan></choice> <choice><abbr>v<hi rend="superscript">a</hi>uwe<g ref="#bar"/></abbr><expan>v<ex>ra</ex>uwe<ex>n</ex></expan></choice> jonc <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> out</l>
@@ -1241,6 +1243,8 @@
 <lb n="31" xml:id="Bf146vb.31"/><l n="B_M1_75_973"><hi rend="capitalsize1">I</hi>n hare ben ic te endene bout</l>
 <lb n="32" xml:id="Bf146vb.32"/><l n="B_M1_75_974"><hi rend="capitalsize1">O</hi>nse dyaloghe</l>
 <lb n="33" xml:id="Bf146vb.33"/><l n="B_M1_75_975"><hi rend="capitalsize1">I</hi>c en vraghe <choice><abbr>ne<g ref="#bar"/>mer</abbr><expan>ne<ex>m</ex>mer</expan></choice> no toghe</l>
+
+<note n="B_M1_75_976">Line_number 976 is missing</note>
 </lg>
 </p>
 </body>
@@ -1250,6 +1254,8 @@
 <text n="Tweede Martijn" xml:id="M2">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="B_M2_1_000">Line_number 000 is missing</note>
 <lb n="34" xml:id="Bf146vb.34"/><l n="B_M2_1_001"><hi rend="capitalsize1">M</hi>aertijn slaepstu slaep dijn zin</l>
 <lb n="35" xml:id="Bf146vb.35"/><l n="B_M2_1_002"><hi rend="capitalsize1">S</hi>prec hebstu gheen <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> jn</l>
 <lb n="36" xml:id="Bf146vb.36"/><l n="B_M2_1_003"><hi rend="capitalsize1">D</hi>u dincts mi <choice><abbr>v<g ref="#apomod"/>dore<g ref="#bar"/></abbr><expan>v<ex>er</ex>dore<ex>n</ex></expan></choice></l>
@@ -1665,6 +1671,8 @@
 <lb n="9" xml:id="Bf149ra.9"/><l n="B_M2_26_336"><hi rend="capitalsize1">D</hi>air <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> <choice><abbr>n<hi rend="superscript">t</hi></abbr><expan>n<ex>iet</ex></expan></choice> ent haer jaer</l>
 <lb n="10" xml:id="Bf149ra.10"/><l n="B_M2_26_337"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ten laetsten <choice><abbr>stonde<g ref="#bar"/></abbr><expan>stonde<ex>n</ex></expan></choice></l>
 <lb n="11" xml:id="Bf149ra.11"/><l n="B_M2_26_338"><hi rend="capitalsize1">V</hi>rien mit <choice><abbr>zine<g ref="#bar"/></abbr><expan>zine<ex>n</ex></expan></choice> <choice><abbr>wonde<g ref="#bar"/></abbr><expan>wonde<ex>n</ex></expan></choice></l>
+
+<note n="B_M2_26_339">Line_number 339 is missing</note>
 </lg>
 </p>
 </body>
@@ -1674,6 +1682,8 @@
 <text n="Derde Martijn" xml:id="M3">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="B_M3_1_000">Line_number 000 is missing</note>
 <lb n="12" xml:id="Bf149ra.12"/><l n="B_M3_1_001"><hi rend="capitalsize1">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>ne<g ref="#bar"/></abbr><expan>ma<ex>n</ex>ne<ex>n</ex></expan></choice> <choice><abbr>mitte<g ref="#bar"/></abbr><expan>mitte<ex>n</ex></expan></choice> <choice><abbr>wiue<g ref="#bar"/></abbr><expan>wiue<ex>n</ex></expan></choice></l>
 <lb n="13" xml:id="Bf149ra.13"/><l n="B_M3_1_002"><hi rend="capitalsize1">D</hi>ie dit dicht <choice><abbr>sulle<g ref="#bar"/></abbr><expan>sulle<ex>n</ex></expan></choice> lesen of <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice></l>
 <lb n="14" xml:id="Bf149ra.14"/><l n="B_M3_1_003"><hi rend="capitalsize1">O</hi>p den <choice><abbr>hoichste<g ref="#bar"/></abbr><expan>hoichste<ex>n</ex></expan></choice> ban</l>

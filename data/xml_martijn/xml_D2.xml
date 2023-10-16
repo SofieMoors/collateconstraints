@@ -52,6 +52,8 @@
 <lb n="8" xml:id="D2f1r.8"/><l n="D2_M1_75_973"><hi rend="capitalsize1">I</hi>n haer ben ic te <choice><abbr>eynde<g ref="#bar"/></abbr><expan>eynde<ex>n</ex></expan></choice> b<damage><gap></gap></damage></l>
 <lb n="9" xml:id="D2f1r.9"/><l n="D2_M1_75_974"><hi rend="capitalsize1">O</hi>nser beider dyaloghe</l>
 <lb n="10" xml:id="D2f1r.10"/><l n="D2_M1_75_975"><hi rend="capitalsize1">I</hi>c en vrage niet meer no<damage><gap></gap></damage></l>
+
+<note n="D2_M1_75_976">Line_number 976 is missing</note>
 </lg>
 </p>
 </body>
@@ -182,7 +184,7 @@
 <lb n="6" xml:id="D2f3v.6"/><l n="D2_M2_8_100"><damage><gap></gap></damage> tot allen stonden</l>
 <lb n="7" xml:id="D2f3v.7"/><l n="D2_M2_8_101"><damage><gap></gap></damage>e die mi therte beswaert</l>
 <lb n="8" xml:id="D2f3v.8"/><l n="D2_M2_8_102"><damage><gap></gap></damage>ick haer <choice><abbr>late<g ref="#bar"/></abbr><expan>late<ex>n</ex></expan></choice> <choice><abbr>smake<g ref="#bar"/></abbr><expan>smake<ex>n</ex></expan></choice> tswaert</l>
-<lb n="9" xml:id="D2f3v.9"/><l n="D2_M2_8_103"><choice><abbr><g ref="#apomod"/></abbr><expan><ex>.</ex></expan></choice> <pc>.</pc> .are dan ondervonden</l>
+<lb n="9" xml:id="D2f3v.9"/><l n="D2_M2_8_103"><damage><gap></gap></damage>are dan ondervonden</l>
 <lb n="10" xml:id="D2f3v.10"/><l n="D2_M2_8_104"><damage><gap></gap></damage>ermoort dan sonden</l>
 
 
@@ -271,9 +273,9 @@
 
 <pb xml:id="D2.f6v" n="6v"/>
 <lb n="1" xml:id="D2f6v.1"/><l n="D2_M2_17_221"><hi rend="capitalsize1">S</hi>ijns willen ontbeeren</l>
-<lb n="2" xml:id="D2f6v.2"/><l n="D2_M2_17_222">¶ <hi rend="capitalsize1">W</hi>at macht hadde sampsoen</l>
 </lg>
 <lg type="stanza" n="18">
+<lb n="2" xml:id="D2f6v.2"/><l n="D2_M2_18_222">¶ <hi rend="capitalsize1">W</hi>at macht hadde sampsoen</l>
 <lb n="3" xml:id="D2f6v.3"/><l n="D2_M2_18_223"><hi rend="capitalsize1">D</hi>auid <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> salomoen</l>
 <lb n="4" xml:id="D2f6v.4"/><l n="D2_M2_18_224"><hi rend="capitalsize1">T</hi>eghen die cracht <choice><abbr>va<g ref="#bar"/></abbr><expan>va<ex>n</ex></expan></choice> minnen</l>
 <lb n="5" xml:id="D2f6v.5"/><l n="D2_M2_18_225"><hi rend="capitalsize1">D</hi>aer en is tsegen geen doen</l>

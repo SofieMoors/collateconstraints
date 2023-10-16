@@ -85,7 +85,6 @@
 <lb n="35" xml:id="Gef1va.35"/><l n="Ge_M1_67_868"><hi rend="capitalsize1">G</hi>od selue die nie en loech</l>
 <lb n="36" xml:id="Gef1va.36"/><l n="Ge_M1_67_869"><hi rend="capitalsize1">E</hi>nten <choice><abbr>milde<g ref="#bar"/></abbr><expan>milde<ex>n</ex></expan></choice> <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> en bedroech</l>
 <lb n="37" xml:id="Gef1va.37"/><l n="Ge_M1_67_870"><hi rend="capitalsize1">S</hi>ette di in sijnre hoeden</l>
-<lb n="38" xml:id="Gef1va.38"/><l n="Ge_M1_67_871"><damage><gap></gap></damage></l>
 
 
 <pb xml:id="Ge.f1vb" n="1vb"/>
@@ -132,7 +131,6 @@
 <lb n="35" xml:id="Gef1vb.35"/><l n="Ge_M1_70_906"><hi rend="capitalsize1">W</hi>ie es dieser toe hael<damage><gap></gap></damage></l>
 <lb n="36" xml:id="Gef1vb.36"/><l n="Ge_M1_70_907"><hi rend="capitalsize1">W</hi>ilde die clager te tid<damage><gap></gap></damage></l>
 <lb n="37" xml:id="Gef1vb.37"/><l n="Ge_M1_70_908"><hi rend="capitalsize1">S</hi>one mocht <choice><abbr>he<g ref="#bar"/></abbr><expan>he<ex>m</ex></expan></choice> <unclear>ni</unclear><damage><gap></gap></damage></l>
-<lb n="38" xml:id="Gef1vb.38"/><l n="Ge_M1_70_909"><damage><gap></gap></damage></l>
 
 
 <pb xml:id="Ge.f2ra" n="2ra"/>
@@ -179,7 +177,6 @@
 <lb n="35" xml:id="Gef2ra.35"/><l n="Ge_M1_73_944"><damage><gap></gap></damage> wijsde ons den dam</l>
 <lb n="36" xml:id="Gef2ra.36"/><l n="Ge_M1_73_945"><damage><gap></gap></damage>ter hoger eruen</l>
 <lb n="37" xml:id="Gef2ra.37"/><l n="Ge_M1_73_946"><choice><abbr><damage><gap></gap></damage>d<g ref="#apomod"/></abbr><expan><damage><gap></gap></damage>d<ex>er</ex></expan></choice> dinc <choice><abbr>niema<g ref="#bar"/></abbr><expan>niema<ex>n</ex></expan></choice> <choice><abbr>v<g ref="#apomod"/>na<g ref="#bar"/></abbr><expan>v<ex>er</ex>na<ex>m</ex></expan></choice></l>
-<lb n="38" xml:id="Gef2ra.38"/><l n="Ge_M1_73_947"><damage><gap></gap></damage></l>
 
 
 <pb xml:id="Ge.f2rb" n="2rb"/>
@@ -215,6 +212,8 @@
 <lb n="26" xml:id="Gef2rb.26"/><l n="Ge_M1_75_973"><hi rend="capitalsize1">I</hi>n haer benic <choice><abbr>tende<g ref="#bar"/></abbr><expan>tende<ex>n</ex></expan></choice> bout</l>
 <lb n="27" xml:id="Gef2rb.27"/><l n="Ge_M1_75_974"><hi rend="capitalsize1">I</hi>n onsen dyaloge</l>
 <lb n="28" xml:id="Gef2rb.28"/><l n="Ge_M1_75_975"><hi rend="capitalsize1">E</hi>n vrage no en toghe</l>
+
+<note n="Ge_M1_75_976">Line_number 976 is missing</note>
 </lg>
 </p>
 </body>
@@ -233,7 +232,6 @@
 <lb n="35" xml:id="Gef2rb.35"/><l n="Ge_M2_1_006"><hi rend="capitalsize1">W</hi>iltu di dus versmoren</l>
 <lb n="36" xml:id="Gef2rb.36"/><l n="Ge_M2_1_007"><hi rend="capitalsize1">A</hi>lwaert <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> comt <choice><abbr>i<g ref="#bar"/>t</abbr><expan>i<ex>n</ex>t</expan></choice> <choice><abbr>tswi<g ref="#bar"/></abbr><expan>tswi<ex>n</ex></expan></choice></l>
 <lb n="37" xml:id="Gef2rb.37"/><l n="Ge_M2_1_008"><hi rend="capitalsize1">G</hi>out siluer loed iser tin</l>
-<lb n="38" xml:id="Gef2rb.38"/><l n="Ge_M2_1_009"><damage><gap></gap></damage></l>
 </lg>
 </p>
 </body>

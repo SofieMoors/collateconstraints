@@ -46,6 +46,8 @@
 <text n="Eerste Martijn" xml:id="M1">
 <body>
 <p><lg type="stanza" n="1">
+
+<note n="O_M1_1_000">Line_number 000 is missing</note>
 <lb n="1" xml:id="Of19r.1"/><l n="O_M1_1_001"><hi rend="capitalsize7">W</hi>Aphene martin hoe salt gaen</l>
 <lb n="2" xml:id="Of19r.2"/><l n="O_M1_1_002"><hi rend="capitalsize1">S</hi>al dese weerelt yet langhe staen.</l>
 <lb n="3" xml:id="Of19r.3"/><l n="O_M1_1_003"><hi rend="capitalsize1">I</hi>n dus cranken loue</l>
@@ -186,10 +188,10 @@
 
 
 <pb xml:id="O.f23r" n="23r"/>
+<lb n="1" xml:id="Of23r.1"/><l n="O_M1_8_103"><hi rend="capitalsize1">D</hi>en edelen ghedochte</l>
+<lb n="2" xml:id="Of23r.2"/><l n="O_M1_8_104"><hi rend="capitalsize1">W</hi>ant hier moort an wrochte</l>
 </lg>
 <lg type="stanza" n="9">
-<lb n="1" xml:id="Of23r.1"/><l n="O_M1_9_103"><hi rend="capitalsize1">D</hi>en edelen ghedochte</l>
-<lb n="2" xml:id="Of23r.2"/><l n="O_M1_9_104"><hi rend="capitalsize1">W</hi>ant hier moort an wrochte</l>
 <lb n="3" xml:id="Of23r.3"/><l n="O_M1_9_105"><hi rend="capitalsize2">W</hi>at zal zeghel <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> was</l>
 <lb n="4" xml:id="Of23r.4"/><l n="O_M1_9_106"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>brieue<g ref="#bar"/></abbr><expan>brieue<ex>n</ex></expan></choice> die <choice><abbr>ghewaghe<g ref="#bar"/></abbr><expan>ghewaghe<ex>n</ex></expan></choice> das</l>
 <lb n="5" xml:id="Of23r.5"/><l n="O_M1_9_107"><hi rend="capitalsize1">V</hi>an dat deese heeren gheuen</l>
@@ -418,7 +420,7 @@
 <lb n="9" xml:id="Of29v.9"/><l n="O_M1_21_267"><hi rend="capitalsize1">H</hi>ier af latic mijn <choice><abbr>vraghe<g ref="#bar"/></abbr><expan>vraghe<ex>n</ex></expan></choice> staen</l>
 <lb n="10" xml:id="Of29v.10"/><l n="O_M1_21_268"><hi rend="capitalsize1">W</hi>ant het dijnct my best ghedaen</l>
 
-<note>Line_number 269 is missing</note>
+<note n="O_M1_21_269">Line_number 269 is missing</note>
 <lb n="11" xml:id="Of29v.11"/><l n="O_M1_21_270"><hi rend="capitalsize1">D</hi>anne ic viele in <choice><abbr>do<g ref="#bar"/>me</abbr><expan>do<ex>m</ex>me</expan></choice> waen</l>
 
 
@@ -1420,7 +1422,7 @@
 <text n="Tweede Martijn" xml:id="M2">
 <body>
 <p><lg type="stanza" n="1">
-<lb n="2" xml:id="Of59v.2"/><l n="O_M2_1_977"><hi rend="capitalsize1">I</hi>ncipit liber <choice><abbr>secund<g ref="#usmod"/></abbr><expan>secund<ex>us</ex></expan></choice></l>
+<lb n="2" xml:id="Of59v.2"/><l n="O_M2_1_000"><hi rend="capitalsize1">I</hi>ncipit liber <choice><abbr>secund<g ref="#usmod"/></abbr><expan>secund<ex>us</ex></expan></choice></l>
 <lb n="3" xml:id="Of59v.3"/><l n="O_M2_1_001"><hi rend="capitalsize3">M</hi>Artin slaepstu slaept <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> zin</l>
 <lb n="4" xml:id="Of59v.4"/><l n="O_M2_1_002"><hi rend="capitalsize1">S</hi>prec hebstu <choice><abbr>ghee<g ref="#bar"/></abbr><expan>ghee<ex>n</ex></expan></choice> <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> jn</l>
 <lb n="5" xml:id="Of59v.5"/><l n="O_M2_1_003"><hi rend="capitalsize1">D</hi>u dijncs my verdoren</l>
@@ -1903,7 +1905,7 @@
 <text n="Derde Martijn" xml:id="M3">
 <body>
 <p><lg type="stanza" n="1">
-<lb n="2" xml:id="Of73v.2"/><l n="O_M3_1_340"><hi rend="capitalsize1">I</hi>ncipit tertius.</l>
+<lb n="2" xml:id="Of73v.2"/><l n="O_M3_1_000"><hi rend="capitalsize1">I</hi>ncipit tertius.</l>
 <lb n="3" xml:id="Of73v.3"/><l n="O_M3_1_001"><hi rend="capitalsize4">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>nen</abbr><expan>ma<ex>n</ex>nen</expan></choice> <choice><abbr>mette<g ref="#bar"/></abbr><expan>mette<ex>n</ex></expan></choice> <choice><abbr>wiue<g ref="#bar"/></abbr><expan>wiue<ex>n</ex></expan></choice></l>
 <lb n="4" xml:id="Of73v.4"/><l n="O_M3_1_002"><hi rend="capitalsize1">D</hi>ie dit ghedichte <choice><abbr>lese<g ref="#bar"/></abbr><expan>lese<ex>n</ex></expan></choice> of <choice><abbr>scriue<g ref="#bar"/></abbr><expan>scriue<ex>n</ex></expan></choice></l>
 <lb n="5" xml:id="Of73v.5"/><l n="O_M3_1_003"><hi rend="capitalsize1">V</hi>p den hoechsten ban</l>
@@ -2059,11 +2061,11 @@
 <lb n="9" xml:id="Of78r.9"/><l n="O_M3_9_113"><hi rend="capitalsize1">V</hi>ocht weert ende niet gast</l>
 <lb n="10" xml:id="Of78r.10"/><l n="O_M3_9_114"><choice><abbr><hi rend="capitalsize1">B</hi>inne<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">B</hi>inne<ex>n</ex></expan></choice> veruult hijt <choice><abbr>zond<g ref="#apomod"/></abbr><expan>zond<ex>er</ex></expan></choice> <choice><abbr>plaghe<g ref="#bar"/></abbr><expan>plaghe<ex>n</ex></expan></choice></l>
 
-<note>Line_number 115 is missing</note>
+<note n="O_M3_9_115">Line_number 115 is missing</note>
 
-<note>Line_number 116 is missing</note>
+<note n="O_M3_9_116">Line_number 116 is missing</note>
 
-<note>Line_number 117 is missing</note>
+<note n="O_M3_9_117">Line_number 117 is missing</note>
 
 
 <pb xml:id="O.f78v" n="78v"/>

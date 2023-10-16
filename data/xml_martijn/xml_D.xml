@@ -1306,6 +1306,8 @@
 <lb n="11" xml:id="Df24r.11"/><l n="D_M1_75_973"><hi rend="capitalsize1">I</hi>n haer ben ick te eynden bout:</l>
 <lb n="12" xml:id="Df24r.12"/><l n="D_M1_75_974"><hi rend="capitalsize1">O</hi>nser beyder dyaloghe</l>
 <lb n="13" xml:id="Df24r.13"/><l n="D_M1_75_975"><hi rend="capitalsize1">I</hi>ck en vrage niet meer noch en toge</l>
+
+<note n="D_M1_75_976">Line_number 976 is missing</note>
 </lg>
 </p>
 </body>
@@ -1752,6 +1754,8 @@
 <lb n="15" xml:id="Df32r.15"/><l n="D_M2_26_336"><hi rend="capitalsize1">D</hi>aer <choice><abbr>mi<g ref="#bar"/>me</abbr><expan>mi<ex>n</ex>me</expan></choice> niet en <choice><abbr>ey<g ref="#bar"/>det</abbr><expan>ey<ex>n</ex>det</expan></choice> haer iaer</l>
 <lb n="16" xml:id="Df32r.16"/><l n="D_M2_26_337"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ten <choice><abbr>leste<g ref="#bar"/></abbr><expan>leste<ex>n</ex></expan></choice> <choice><abbr>stonde<g ref="#bar"/>.</abbr><expan>stonde<ex>n</ex>.</expan></choice></l>
 <lb n="17" xml:id="Df32r.17"/><l n="D_M2_26_338"><choice><abbr><hi rend="capitalsize1">V</hi>rye<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>rye<ex>n</ex></expan></choice> met sinen <choice><abbr>wo<g ref="#bar"/>de<g ref="#bar"/>:</abbr><expan>wo<ex>n</ex>de<ex>n</ex>:</expan></choice></l>
+
+<note n="D_M2_26_339">Line_number 339 is missing</note>
 </lg>
 </p>
 </body>
@@ -2289,7 +2293,7 @@
 <lg type="stanza" n="32">
 <lb n="4" xml:id="Df42r.4"/><l n="D_M3_32_404"><hi rend="capitalsize1">M</hi>artijn ons leert die scriftuere</l>
 <lb n="5" xml:id="Df42r.5"/><l n="D_M3_32_405"><hi rend="capitalsize1">D</hi>at een god ende een natuere</l>
-<lb n="6" xml:id="Df42r.6"/><l n="D_M3_32_406"><hi rend="capitalsize1">A</hi>ltoos sijn dese drie</l>
+<lb n="6" xml:id="Df42r.6"/><l n="D_M3_32_406"><hi rend="capitalsize1">A</hi>altoos sijn dese drie</l>
 <lb n="7" xml:id="Df42r.7"/><l n="D_M3_32_407"><hi rend="capitalsize1">E</hi>mmer euen na ghebuere</l>
 <lb n="8" xml:id="Df42r.8"/><l n="D_M3_32_408"><hi rend="capitalsize1">E</hi>nde verscheden te gheender vre</l>
 <lb n="9" xml:id="Df42r.9"/><l n="D_M3_32_409"><hi rend="capitalsize1">N</hi>och en verschieden nie</l>
@@ -2300,32 +2304,34 @@
 <lb n="14" xml:id="Df42r.14"/><l n="D_M3_32_414"><hi rend="capitalsize1">D</hi>ie reyne godheyt ende die puere</l>
 <lb n="15" xml:id="Df42r.15"/><l n="D_M3_32_415"><hi rend="capitalsize1">H</hi>ier proeft ende sie</l>
 <lb n="16" xml:id="Df42r.16"/><l n="D_M3_32_416"><hi rend="capitalsize1">M</hi>et herten ende ghie</l>
+</lg>
+<lg type="stanza" n="33">
 
-<note>Line_number 417 is missing</note>
+<note n="D_M3_33_417">Line_number 417 is missing</note>
 
-<note>Line_number 418 is missing</note>
+<note n="D_M3_33_418">Line_number 418 is missing</note>
 
-<note>Line_number 419 is missing</note>
+<note n="D_M3_33_419">Line_number 419 is missing</note>
 
-<note>Line_number 420 is missing</note>
+<note n="D_M3_33_420">Line_number 420 is missing</note>
 
-<note>Line_number 421 is missing</note>
+<note n="D_M3_33_421">Line_number 421 is missing</note>
 
-<note>Line_number 422 is missing</note>
+<note n="D_M3_33_422">Line_number 422 is missing</note>
 
-<note>Line_number 423 is missing</note>
+<note n="D_M3_33_423">Line_number 423 is missing</note>
 
-<note>Line_number 424 is missing</note>
+<note n="D_M3_33_424">Line_number 424 is missing</note>
 
-<note>Line_number 425 is missing</note>
+<note n="D_M3_33_425">Line_number 425 is missing</note>
 
-<note>Line_number 426 is missing</note>
+<note n="D_M3_33_426">Line_number 426 is missing</note>
 
-<note>Line_number 427 is missing</note>
+<note n="D_M3_33_427">Line_number 427 is missing</note>
 
-<note>Line_number 428 is missing</note>
+<note n="D_M3_33_428">Line_number 428 is missing</note>
 
-<note>Line_number 429 is missing</note>
+<note n="D_M3_33_429">Line_number 429 is missing</note>
 </lg>
 <lg type="stanza" n="34">
 <lb n="17" xml:id="Df42r.17"/><l n="D_M3_34_430"><hi rend="capitalsize1">D</hi>its vader ende soens gaue.</l>

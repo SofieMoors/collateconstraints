@@ -305,6 +305,8 @@
 <lb n="23" xml:id="Ef2ra.23"/><l n="E_M2_26_336"><choice><abbr><hi rend="capitalsize1">D</hi>a<g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi>a<ex>er</ex></expan></choice> <choice><abbr>mi<g ref="#bar"/>ne</abbr><expan>mi<ex>n</ex>ne</expan></choice> <choice><abbr>n<g ref="#etfin"/></abbr><expan>n<ex>iet</ex></expan></choice> en int <choice><abbr>ha<g ref="#apomod"/></abbr><expan>ha<ex>er</ex></expan></choice> iaer</l>
 <lb n="24" xml:id="Ef2ra.24"/><l n="E_M2_26_337"><hi rend="capitalsize1">E</hi>nten lesten stonden</l>
 <lb n="25" xml:id="Ef2ra.25"/><l n="E_M2_26_338"><hi rend="capitalsize1">V</hi>rien <choice><abbr>m<g ref="#etfin"/></abbr><expan>m<ex>et</ex></expan></choice> <choice><abbr>sine<g ref="#bar"/></abbr><expan>sine<ex>n</ex></expan></choice> wonden</l>
+
+<note n="E_M2_26_339">Line_number 339 is missing</note>
 </lg>
 </p>
 </body>
@@ -314,7 +316,7 @@
 <text n="Derde Martijn" xml:id="M3">
 <body>
 <p><lg type="stanza" n="1">
-<lb n="26" xml:id="Ef2ra.26"/><l n="E_M3_1_339"><hi rend="capitalsize1">D</hi>en derden bouc</l>
+<lb n="26" xml:id="Ef2ra.26"/><l n="E_M3_1_000"><hi rend="capitalsize1">D</hi>en derden bouc</l>
 <lb n="27" xml:id="Ef2ra.27"/><l n="E_M3_1_001"><hi rend="capitalsize7">I</hi>C mane <choice><abbr>ma<g ref="#bar"/>ne</abbr><expan>ma<ex>n</ex>ne</expan></choice> <choice><abbr>m<g ref="#etfin"/>te<g ref="#bar"/></abbr><expan>m<ex>et</ex>te<ex>n</ex></expan></choice> wiuen</l>
 <lb n="28" xml:id="Ef2ra.28"/><l n="E_M3_1_002"><hi rend="capitalsize1">D</hi>ie dit <choice><abbr>lese<g ref="#bar"/></abbr><expan>lese<ex>n</ex></expan></choice> oft scriuen</l>
 <lb n="29" xml:id="Ef2ra.29"/><l n="E_M3_1_003"><hi rend="capitalsize1">O</hi>pten hoechsten ban</l>
