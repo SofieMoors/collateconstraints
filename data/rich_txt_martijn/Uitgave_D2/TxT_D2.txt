@@ -11,6 +11,7 @@ _M1_
 <I>n haer ben ic te eynde(n) b[...]
 <O>nser beider dyaloghe
 975 <I>c en vrage niet meer no[...]
+Ø
 ____
 _M2_
 §1§
@@ -127,7 +128,7 @@ _M2_
 100 [...] tot allen stonden
 [...]e die mi therte beswaert
 [...]ick haer late(n) smake(n) tswaert
-[. . .]are dan ondervonden
+[...]are dan ondervonden
 104 [...]ermoort dan sonden
 
 &4r& 
@@ -203,8 +204,8 @@ _M2_
 &6v& 
 
 221 <S>ijns willen ontbeeren
-222 ¶ <W>at macht hadde sampsoen
 §18§
+222 ¶ <W>at macht hadde sampsoen
 223 <D>auid en(de) salomoen
 224 <T>eghen die cracht va(n) minnen
 225 <D>aer en is tsegen geen doen

@@ -1185,6 +1185,7 @@ _M1_
 <I>n haer ben ick te eynden bout:
 <O>nser beyder dyaloghe
 975 <I>ck en vrage niet meer noch en toge
+Ø
 ____
 _M2_
 §1§
@@ -1599,6 +1600,7 @@ du wrecs mi als een ghestoten ram
 <D>aer mi(n)me niet en ey(n)det haer iaer
 <E>n(de) ten leste(n) stonde(n).
 <V>rye(n) met sinen wo(n)de(n):
+Ø
 ____
 _M3_
 §1§ 
@@ -2097,7 +2099,7 @@ _M3_
 §32§
 <M_1>artijn ons leert die scriftuere
 405 <D>at een god ende een natuere
-<A>ltoos sijn dese drie
+<A>altoos sijn dese drie
 <E>mmer euen na ghebuere
 <E>nde verscheden te gheender vre
 <N>och en verschieden nie
@@ -2108,6 +2110,7 @@ _M3_
 <D>ie reyne godheyt ende die puere
 415 <H>ier proeft ende sie
 <M>et herten ende ghie
+§33§
 Ø
 Ø
 Ø

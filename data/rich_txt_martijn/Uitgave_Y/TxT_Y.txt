@@ -1,6 +1,7 @@
 &1ra&	
 _M1_
 §1§
+0 Ø
 1 <W_6><A>phene martijn	hoe saelt gaen 
 2 <S>al dese weerelt langhe staen. 
 3 <I>n dus crancken loue 
@@ -219,9 +220,9 @@ _M3_
 335 <A>y hoe si gode benedie(n)		      
 <D>ingle dien sagen stride(n)		
 <Y>egen des duuels brant			
-<D>[aer] hise vut prant			
-<D_2>ie godheit wecte va(n) dode te liue
-§27§	
+<D>[aer] hise vut prant
+§27§			
+<D_2>ie godheit wecte va(n) dode te liue	
 340 <T>fleesch dat hi vande(n) reine(n) wiue	
 <V>rouwen marien nam			
 <H>i troeste sijn lieue keytiue		
@@ -410,4 +411,5 @@ _M3_
 505 <H>i bringe ons ter hoger selle		
 <D>ats in abrahams schoet		      
 507 <N>a dese corte doot
+Ø
 ____			

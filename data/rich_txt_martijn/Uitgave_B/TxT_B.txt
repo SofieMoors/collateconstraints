@@ -1,6 +1,7 @@
 &141ra&
 _M1_
 §1§
+0 Ø
 1 <W_4>aphene martin hoe salt gae(n)
 <S>al de we[re]lt yet lang staen
 <I>n dus crancke(n) loue
@@ -1116,11 +1117,12 @@ gaen <I>nt gheemee(n) en(de) he(m) o(n)tfaen
 <I>n hare ben ic te endene bout
 <O>nse dyaloghe
 975 <I>c en vraghe ne(m)mer no toghe
-
+Ø
 ____
 
 _M2_
 §1§
+0 Ø
 1 <M_1>aertijn slaepstu slaep dijn zin
 <S>prec hebstu gheen spreke(n) jn
 <D>u dincts mi v[er]dore(n)
@@ -1510,10 +1512,12 @@ _M2_
 <D>air mi(n)ne n%iet% ent haer jaer
 <E>n(de) ten laetsten stonde(n)
 <V>rien mit zine(n) wonde(n)
+Ø
 ____
 
 _M3_
 §1§
+0 Ø
 1 <I_1><C> mane ma(n)ne(n) mitte(n) wiue(n)
 <D>ie dit dicht sulle(n) lesen of scriue(n)
 <O>p den hoichste(n) ban

@@ -423,6 +423,7 @@ die sine amie v[er]heffe(n) bega(n)
 d{at} god nieme(n) heu{et} leet
 <W>ie(n) geeft hi dlange leue(n)
 <S>oe de(n) gene(n) die gereet
+Ø
 305 <E>n(de) ond[er]dae(n) es bleuen
 <J>c d[er] segge(n) op mine(n) eet
 <S>ij(n) houesch%eit% es o(n)gecleet
@@ -459,6 +460,7 @@ d{at} de me(n)sche heuet noet
 <M>i(n)ne n{iet} ent h[aer] iaer
 <E>nte(n) leste(n) stonden
 <V>rie(n) m{et} h[are]n wonden
+Ø
 ____
 _M3_
 §1§

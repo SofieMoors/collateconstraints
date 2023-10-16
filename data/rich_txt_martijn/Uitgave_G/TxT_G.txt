@@ -178,6 +178,20 @@ rumen h[er]en houe:
 <J>n gaue o(m) di n%iet% ene(n) to[er]t:
 155 <M>e(n) mach m{et} selke(n) sake(n): 
 156 <G>ode n%iet% genake(n):
+§13§
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
 §14§
 170 <D>ie rechste wech t[er] helle(n) wa[er]t: 
 <E>n(de) die alre snelste va[er]t: 
@@ -296,6 +310,20 @@ plege(n) o(m)me te gane:
 <B>et[er] es d{at} hi vlie die waen: 
 <D>a(n) hi te ca(m)pe strike:
 <J>ege(n) de(n) kimpe eerlike:
+§22§
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
 §23§
 287 <D_1>at seget tgeloeue mij(n): 
 <G>od mo{et} i(n) he(m) selue(n) sij(n): 
@@ -326,9 +354,8 @@ plege(n) o(m)me te gane:
 <T>en io(n)xste(n) dage no gete(n):
 §25§
 <M_1>erte(n) menech {per}lem(en)t:
-314 <E>n(de) segge(n) d{at} die m%inne% es ble(n)t
-314 ⸫⸫ <E>s om die minne dat si es blent .
-315: <O>ec eest een woert gemeene: 
+314 <E>n(de) segge(n) d{at} die m%inne% es ble(n)t ⸫⸫ <E>s om die minne dat si es blent .
+315 <O>ec eest een woert gemeene: 
 <O>m d{at} ic be(n) een o(n)wijs re(n)t: 
 <S>o maect mi dese wo[er]de beke(n)t: 
 <W>a(n)t e(n) es n%iet% cleene: 
@@ -415,6 +442,34 @@ plege(n) o(m)me te gane:
 <D>a[er] die menege m{et} o(m)me geet: 
 <W>a(n)t hare to(n)ge(n) platte: 
 390 <S>melte(n) als die snee clatte ⸫ 
+§31§
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+§32§
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
+Ø
 §33§
 417 <D>ie d[er]de m%inne% eyscht de(n) tijt: 
 <A>lso die nat%ur%e o(n)tbijdt: 
@@ -1048,12 +1103,14 @@ plege(n) o(m)me te gane:
 969 <V>an hare co(m)t o(n)s dbehout: 
 973 <J>n hare benic tinde(n)ne bout: 
 974 <O>nse dyaloge: 
-975 <J>n v%ra%ge ne(m)meer no e(n) toge: 
+975 <J>n v%ra%ge ne(m)meer no e(n) toge:
+Ø
 
 ____
 
 _M2_
 §1§
+0 Ø
 1 <S_2>laepstu m[er]tijn slaep dij(n) sin: 
 <S>p%re%c heefstu geen sp%re%ke(n) i(n): 
 <D>u du(n)cs mi v[er]dore(n):
@@ -1326,8 +1383,8 @@ porri(n)ge die de(n) sin ontiet:
 <D>ie de redene tontmoetene pliet: 
 245 <D>us o(n)tba(n)t mi en(de) besciet: 
 <M>ij(n) meest[er] alsoe ict v[er]si(n)ne:
-§20§
 <O_1>chte mij(n) v[er]stae(n) es di(n)ne:
+§20§
 <O>chte dit m%inne% es alst es: 
 <S>o sijt des sek[er] en(de) gewes:
 
@@ -1430,11 +1487,13 @@ porri(n)ge die de(n) sin ontiet:
 335 <N>u moete o(n)s god b%ri%nge(n) da[er]: 
 <D>aer m%inne% n%iet% e(n) endt hare iaer: 
 <E>n(de) te(n) leste(n) stonde(n): 
-<V>rien m{et} sinen wonde(n): 
+<V>rien m{et} sinen wonde(n):
+Ø
 ____
 
 _M3_
 §1§
+0 Ø
 1 <I_4><C> ma(n)ne mette(n) wiue(n):
 <D>ie dit gedichte lese(n) en(de) sc%ri%ue(n): 
 <O>p de(n) hoechste(n) ban: 
@@ -2011,4 +2070,5 @@ meer te sp%re%kene vort:
 505 <M>o{et} o(n)s bringe(n) t[er] hoegh[er] celle: 
 <D>ats i(n) abraha(n)s sco{et}: 
 <N>a dese corte doot: <A>me(n):
+Ø
 ____

@@ -350,6 +350,7 @@ _M1_
 755 <I_2>acop dine redene es claer
 756 <A>l dunct si den ghene(n) swaer
 757 <D>ie luttel geuroeden
+
 ____
 
 &4ra&
@@ -398,8 +399,6 @@ _M2_
 
 &4rb&
 
-[...]
-[...]
 125 <W>ijsde h[aer] redene den rechte(n) pat
 <A>l volget si den loeder
 <M>[aer] th[er]te was h[aer] soe mat

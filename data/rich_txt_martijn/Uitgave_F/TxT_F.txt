@@ -1,6 +1,7 @@
 &1ra&
 _M1_
 §1§
+0 Ø
 1 <W_4><A>pene merten hoe saelt gaen. 
 2 <S>al dese werelt yet la(n)ge stae(n)
 3 <I>n dus crancke(n) geloue.
@@ -1129,6 +1130,8 @@ _M1_
 <I>n haer bin ic tendene bout
 <O>nse dyaloghe.
 975 <E>n vraghe ne(m)meer no en toghe.
+Ø
+
 ____
 _M2_
 §1§
@@ -1523,6 +1526,7 @@ _M2_
 <D>aer minne niet en ent h[aer] iaer
 <N>u enten lesten stonden
 <V>ryen met sinen wonden
+Ø
 ____
 _M3_
 §1§

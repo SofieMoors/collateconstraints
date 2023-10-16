@@ -1,6 +1,7 @@
 &1ra&
 _M1_
 §1§
+0 Ø
 1 <W_7><A>phene m*e*rten hoe saelt gaen
 2 <S>al dese werelt lange stae(n)
 3 <I>n dus crancken loeue		
@@ -43,7 +44,7 @@ _M1_
 <L>edicheit es vroeme gheen			
 <A>erbeit vint vier in den st*e*en
 *<D>*[...] *droeghe* 	
-*...*
+[...]
 §4§
 40 [...]				
 
@@ -301,11 +302,11 @@ _M1_
 <H>ier in waert sekerst *...*[...]	
 <D>ie he(m) int doe*psel* [...]	
 805 [...]
-§63§				
+				
 806 [...]	 
 
 &2va&	
-
+§63§
 807 [...] gods sone toget ons dat 	
 808 <D>ie euen gheweldich sit en(de) sat	
 809 [...]en vader inden rike		
@@ -496,6 +497,8 @@ _M1_
 <I>n haer benic tinden bout 	
 <O>nse dyaloeghe 			
 975 <E>n vraege ne(m)meer no en toege
+Ø
+
 ____
 _M2_
 §1§
@@ -713,13 +716,11 @@ _M3_
 <D>{at} hi va(n) sinen vol*...*		
 425 <S>maecte ee(n) droepelkin		
 <D>ie ware gode die ald[er] neeste	
-<G>heen vrese va(n) tempeeste	
-[...]				
-[...]	 
+<G>heen vrese va(n) tempeeste		 
 				
 &4va&	
 §34§
-<D_2><I>ts tfaders en(de) tsoens gaue	
+430 <D_2><I>ts tfaders en(de) tsoens gaue	
 <R>ijcheit bouen allen haue	
 <F>onteine des leuens al 		
 <S>oe wie geproeft w[er]t hier aue 	
@@ -764,9 +765,8 @@ _M3_
 <W_2><A>t hulpt merte(n) sin en(de) taele	
 470 <D>ie begheue(n) mi alte maele
 <M>eer te sprekene voort
-*...*				
-*...*				
 [...]				
+[...]						
 			
 &4vb&	
 

@@ -1,6 +1,7 @@
 &19r&
 _M1_
 §1§
+0 Ø
 1 <W_7><A>phene martin hoe salt gaen 
 2 <S>al dese weerelt yet langhe staen. 
 3 <I>n dus cranken loue
@@ -126,9 +127,10 @@ den dorpere. ende den wijsen dan
 <D>ie te cnaghene gaf dit been
 
 &23r&
-§9§
+
 <D>en edelen ghedochte
 <W>ant hier moort an wrochte
+§9§
 105 <W_2>at zal zeghel en(de) was
 <E>n(de) brieue(n) die ghewaghe(n) das
 <V>an dat deese heeren gheuen
@@ -1245,7 +1247,7 @@ den dorpere. ende den wijsen dan
 ____
 _M2_
 §1§
-<I>ncipit liber secund{us}
+0 <I>ncipit liber secund{us}
 1 <M_3><A>rtin slaepstu slaept dij(n) zin
 <S>prec hebstu ghee(n) spreke(n) jn
 <D>u dijncs my verdoren
@@ -1680,7 +1682,7 @@ _M2_
 ____
 _M3_
 §1§
-<I>ncipit tertius.
+0 <I>ncipit tertius.
 1 <I_4><C> mane ma(n)nen mette(n) wiue(n)
 <D>ie dit ghedichte lese(n) of scriue(n)
 <V>p den hoechsten ban

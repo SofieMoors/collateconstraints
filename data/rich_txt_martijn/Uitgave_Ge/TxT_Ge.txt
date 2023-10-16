@@ -40,11 +40,10 @@ _M1_
 <G>od selue die nie en loech
 <E>nten milde(n) n{iet} en bedroech
 870 <S>ette di in sijnre hoeden	
-[...]
 
 &1vb& 
 §68§
-<I_2><A>cop die werelt maec[...]
+872 <I_2><A>cop die werelt maec[...]
 <E>nde tient den vro[...]
 <D>at wi in sonden sne[...]
 875 <E>ua viel den ierste(n) v[...]	
@@ -83,7 +82,6 @@ _M1_
 <W>ie es dieser toe hael[...]
 <W>ilde die clager te tid[...]
 <S>one mocht he(m) *ni*[...]
-[...]
 
 &2ra& 
 
@@ -127,11 +125,10 @@ _M1_
 [...] wijsde ons den dam
 945 [...]ter hoger eruen	
 [...]d[er] dinc niema(n) v[er]na(m)
-[...]
 
 &2rb& 
 
-<D>atti hem eruen weruen
+948 <D>atti hem eruen weruen
 <D>oor ons liet bederuen
 §74§
 950 <W_2><A>t maect quaet spreke(n) gescal 
@@ -161,6 +158,7 @@ _M1_
 <I>n haer benic tende(n) bout
 <I>n onsen dyaloge
 975 <E>n vrage no en toghe
+Ø
 ____
 _M2_
 §1§
@@ -173,5 +171,4 @@ _M2_
 <W>iltu di dus versmoren
 <A>lwaert dij(n) d{at} comt i(n)t tswi(n)
 <G>out siluer loed iser tin
-[...]
 ____

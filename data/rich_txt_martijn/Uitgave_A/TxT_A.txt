@@ -1,6 +1,7 @@
 &112rb&
 _M1_
 §1§
+0 Ø
 1 <V_4>Vaphene m[ar]tin hoe salt gaen
 <S>al die w[eer]elt hiet la(n)ghe stae(n)
 <I>n dus crancke(n) loue
@@ -973,8 +974,8 @@ _M1_
 <E>n(de) wert va(n) leuene een rent
 <D>[aer] valt me(n) inde(n) helsche(n) scent
 <D>us bringhet in die echte
-§66§
 845 <D>ie duuel sine knechte
+§66§
 <I_1>acop du spreex wel en(de) waer
 <M>[aer] die wech es nauwe en(de) zwaer
 <E>n(de) ze[er]e onghetreden
@@ -1126,6 +1127,7 @@ _M1_
 <I>n hare bem ic te hendene bout
 <O>nse dyaloghe
 975 <I>n vraghe ne(m)meer no ne toghe
+Ø
 ____
 
 _M2_
@@ -1296,8 +1298,8 @@ _M2_
 <H>en sal niet wert sijn een bal
 <G>hevullet met draue
 <A>lso helpe mi sente baue
-<I_1>acop du best een stout seriant
 §12§
+<I_1>acop du best een stout seriant
 145 <D>ats .I. vast cnoep en(de) .I. vast bant
 <D>ie nieme(n) mach ontbinden
 <D>ie cnoep die alexand[er] bant
@@ -1310,8 +1312,8 @@ _M2_
 <I>eghe(n) casselb[er]ghe in vlaend[er]lant
 155 <S>al diede(n) hier hu vinden
 <A>l waendi mi v[er]blinden
-<G_1>hi wilt sterke(n) uwe wort
 §13§
+<G_1>hi wilt sterke(n) uwe wort
 <D>ie ghi nv hier bringhet vort
 <M>et truffen en(de) met poetrien
 160 <O>f medea dede moort
@@ -1447,8 +1449,8 @@ _M2_
 <M>et mi oftu best een paijen
 <O>fte in heresien
 <O>f van sduuels partien
-<N_1>u hore na mi en(de) v[er]stant
 §22§
+<N_1>u hore na mi en(de) v[er]stant
 275 <W>ie was die eerst mi(n)ne vant
 <D>an god die selue es minne
 <A>l dat oint maecte sine hant
@@ -1520,6 +1522,7 @@ _M2_
 <M>inne niet en end h[aer] jaer
 <E>nten lesten stonden
 <V>rien met sine(n) wonden
+Ø
 ____
 
 _M3_
@@ -1797,6 +1800,63 @@ _M3_
 233 <N>u antwort mi bet vort
 234 <O>f ics niet en hebbe v[er]bort
 
+§19§
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+§20§
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+§21§
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+§22§
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+Ø 
+
 §23§
 287 <D_1><I>e gods sone sach de(n) ma(n) v[er]lade(n)
 288 <E>nte(n) viant va(n) ouerdaden
@@ -2054,5 +2114,6 @@ _M3_
 505 <B>ringhe ons noch ter hogh[er] celle
 <D>ats in abrahams scoot
 507 <N>aer dese corte doot. Amen.
+Ø
 
 ____

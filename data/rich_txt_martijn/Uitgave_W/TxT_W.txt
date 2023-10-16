@@ -1,6 +1,7 @@
 &218ra&
 _M3_
 §1§
+0 Ø
 1 <I_6>c mane mannen metten wiuen
 <D>ie dit gedichte lesen en(de) scriuen
 <O>p ten hoechsten ban
@@ -571,4 +572,5 @@ _M3_
 505 <M>oet ons bringen t[er] hoegh[er] celle
 <D>ats i(n) abrahams scoet
 <N>a dese corte doot <A>men 
+Ø
 ____

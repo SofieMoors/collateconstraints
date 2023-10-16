@@ -238,10 +238,11 @@ _M2_
 <D>a[er] mi(n)ne n{iet} en int ha[er] iaer
 <E>nten lesten stonden
 <V>rien m{et} sine(n) wonden
+Ø
 ____
 _M3_
 §1§
-<D_1>en derden bouc
+0 <D_1>en derden bouc
 1 <I_7><C> mane ma(n)ne m{et}te(n) wiuen
 <D>ie dit lese(n) oft scriuen
 <O>pten hoechsten ban
