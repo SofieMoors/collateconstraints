@@ -16,10 +16,6 @@ The 17 different text witnesses of the *Martijn Trilogy* are manuscripts, fragme
 
 For most of the witnesses, [existing editions](#references) of the text could be digitized using Optical Character Recognition.
 
-![image](https://github.com/SofieMoors/collateconstraints/blob/main/data/figures_images_tables/DataCollectionMartijnTrilogy.drawio.png)
-
-
-
 | SIGLA (ALTERNATIVE TITLE)  |  REPOSITORY AND SIGNATURE | CURRENT CONDITION AND CONTENT | EDITION | IMAGES |
 |----------|----------|----------|----------|----------|
 |1. C (Gronings-Zutphens Maerlant Manuscript)|University of Groningen Library HS 405|M1, M3|Staring van den Wildenborch (1834); Meijer (1838) | [Digital](https://facsimile.ub.rug.nl/digital/collection/manuscripts/id/3332) |
