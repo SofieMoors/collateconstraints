@@ -18,6 +18,28 @@ For most of the witnesses, [existing editions](#references) of the text could be
 
 ![image](https://github.com/SofieMoors/collateconstraints/blob/main/data/figures_images_tables/DataCollectionMartijnTrilogy.drawio.png)
 
+
+
+| SIGLA (ALTERNATIVE TITLE)  |  REPOSITORY AND SIGNATURE | CURRENT CONDITION AND CONTENT | EDITION | IMAGES |
+|----------|----------|----------|----------|----------|
+|1. C (Gronings-Zutphens Maerlant Manuscript)|University of Groningen Library HS 405|M1, M3|Staring van den Wildenborch (1834); Meijer (1838) | [Digital](https://facsimile.ub.rug.nl/digital/collection/manuscripts/id/3332) |
+| 2. E | Heidelberg University Library HS 200 (olim: HS. 362a, 83) | Fragmentary M1, M2, M3 | Mone (1838); Mertens (1978) |[Digital](https://digi.ub.uni-heidelberg.de/diglit/heidhs200/0001/image,info)|
+| 3. GE  | Cologny, Fondation Martin Bodmer Cod. Bodmer 101 | Fragmentary M1, M2 | Gruijs & Mertens (1975) | [IIIF](https://www.e-codices.unifr.ch/en/fmb/cb-0101/bindingE/0/) |
+| 4. K  | Koblenz, Landeshauptarchiv Best. 701 Nr. 262 | Fragmentary M1 | Overgaauw (1996) |[Digital](https://apertus.rlp.de/index.php?PLINK=1&ID=ca23ec55-096e-4c81-aaca-9cfef51067dd) |
+| 5. G (Heber-Serrure codex)| Ghent University Library HS 1374 |M1, M2, M3| Gabriël & Kestemont (2023) | [IIIF](https://lib.ugent.be/viewer/archive.ugent.be%3A293E7132-AABB-11E7-8DE6-2C4519B1B84C#?c=&m=&s=&cv=&xywh=-668%2C-151%2C3454%2C2956) |
+| 6. W    |Vienna Austrian National Library Cod. 13708 | M3 |Gabriël (2023) | [Digital](https://digital.onb.ac.at/RepViewer/viewer.faces?doc=DTL_8500569&order=1&view=SINGLE) |
+| 7. L  | Lyon Bibliothèque Municipal MS 6848 | Fragmentary M1, M2, M3| Moors (2022)| / |
+| 8. Ant |  Antwerp University Library Special Collections MAG-P 64.20 | Fragmentary M1 | Sleiderink, Moors, & De Schepper (2020)|[IIIF](https://anet.be/brocade/imageviewer/universalviewer/uv.html#?manifest=/iiif/de5dca9511b65c5195720e597f32a207f1737d7a/manifest&config=/iiif/viewercfg.phtml%3Fcg=uauniversalviewer)|
+| 9. Y | Montigny-le-Bretonneux - Archives départementales des Yvelines HS 1F 180 | Fragmentary M1, M3 | Bosmans & Sleiderink (2019)| / |
+| 10. BR | Brussels Royal Library of Belgium MS 19570  | Fragmentary M1, M2, M3 | Mertens (1978) | [Digital](https://uurl.kbr.be/2059677) |
+| 11. A (Comburg manuscript) |  Stuttgart Württemberg State Library Cod. Poet. Et phil. 2° 22 | M1, M2, M3| Brinkman & Schenkel (1997) | [Digital](https://digital.wlb-stuttgart.de/index.php?id=6&tx_dlf%5Bid%5D=14451&tx_dlf%5Bpage%5D=227) |
+| 12. B (Haagse Pelgrimage-handschrift) | The Hague National Library of the Netherlands 76 E 6 | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
+| 13. Z   |  Ghent Royal Academy of Dutch Language and Literature KANTL: 6 | Fragmentary M1, M2, M3 |  Gailliard (1905); Mertens (1978) | / |
+| 14. F (Clignett-Serrure-handschrift)|The Hague National Library of the Netherlands 73 F 19  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | / |
+| 15. O   |  Oxford Bodleian Library Canonici Miscellanei 278 | M1, M2, M3 | Verdam and Leendertz (1918); Mertens (1978)| / |
+| 16. D (Antwerpse druk, Hendrik den Lettersnider) | The Hague National Library of the Netherlands 150 F 40  | M1, M2, M3 | Verdam & Leendertz (1918); Mertens (1978) | [Digital](https://books.google.be/books?id=n2RXCGiiqusC&printsec=frontcover&hl=nl&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false) |
+| 17. D2 (Print) | Leiden University Library LTK 1021 | Fragmentary M1, M2 | Breugelmans (1986) | / |
+
 # REFERENCES: 
 1) Bosmans, G. and Sleiderink, R. (2019). Maerlant in Yvelines. Een nieuw fragment van de Martijns van Jacob van Maerlant (Montigny-le-Bretonneux, Archives départementales des Yvelines, 1F 180). *Queeste*, 26: 66–93.
 2) Breugelmans, R. (1986). ‘Een fragment van een onbekende druk van de Wapene Martijn. Beschrijving, commentaar en transcriptie.’ G. Van Eemeren and F. Willaert  (eds.), *’t Ondersoeck leert. Studies over middeleeuwse en 17de-eeuwse literatuur ter nagedachtenis van prof. Dr. L. Rens.* Louvain/Amersfoort: Acco, pp. 125–136.
