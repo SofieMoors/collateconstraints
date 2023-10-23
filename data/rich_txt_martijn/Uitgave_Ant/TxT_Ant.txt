@@ -43,7 +43,7 @@ _M1_
 [...]
 [...]
 
-&5rb&
+&brb&
 
 <S>oe viel [...]
 645 <D>us moch[...]
@@ -58,7 +58,7 @@ _M1_
 <V>an gher[...]
 <D>oet d[er] og[...]
 655 <O>ft comt[...]
-<D>it euel t[...]
+<D>it fuel t[...]
 <I>c liet m[...]
 <E>n(de) ics vr[...]
 <M>aect mi [...]
