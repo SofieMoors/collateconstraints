@@ -1,0 +1,134 @@
+{
+  "verbose": true,
+  "report_freq": 10, //mike has 200
+  "modelname": "pos_model",
+  "modelpath": "./",
+  "seed": "auto",
+  "input_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/train_data_manual.tsv",
+  "dev_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/val_data_manual.tsv",
+  "test_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/test_data_manual.tsv",
+  //"input_path":"/Users/sofiemoors/Downloads/oc_gold-ud-train.tsv",
+  //"dev_path":"/Users/sofiemoors/Downloads/oc_gold-ud-dev.tsv",
+  //"test_path":"/Users/sofiemoors/Downloads/oc_gold-ud-test.tsv",
+  "breakline_ref": "",
+  "breakline_data": "",
+  "max_sent_len": 35,
+  "max_sents": 1000000,
+  //"word_max_size": 50000,
+  "word_max_size": 50002,
+  "word_min_freq": 1,
+  "word_lower": false,
+  //"char_max_size": 52,
+  "char_max_size": 56,
+  "char_min_freq": 1,
+  "char_lower": false,
+  "char_eos": true,
+  "char_bos": true,
+  "utfnorm": false,
+  "utfnorm_type": "NFKD",
+  "drop_diacritics": false,
+  "header": true,
+  "sep": "\t",
+  "tasks_order": ["pos"],
+  "tasks": [
+    {
+      "name": "pos",
+      "level": "token",
+      "decoder": "linear",
+      "context": "sentence",
+      "layer": -1,
+      "settings": {
+        "bos": false,
+        "eos": false,
+        "lower": false
+      },
+      //"target": true,
+      "target": "pos",
+      "schedule": {
+        "patience": 2,
+        "threshold": 0.001,
+        "evaluation": "accuracy"
+      },
+      "default": "copy",
+      "read_only": false
+    }
+  ],
+  "task_defaults": {
+    "level": "token",
+    "layer": -1,
+    "decoder": "linear",
+    "context": "sentence",
+    "schedule": {
+      "evaluation": "accuracy"
+    }
+  },
+  "patience": 10,
+  "factor": 1,
+  "threshold": 0,
+  "min_weight": 0,
+  "include_lm": false,
+  "lm_shared_softmax": true,
+  "lm_schedule": {
+    "patience": 2,
+    "factor": 0.5,
+    "weight": 0.2,
+    "mode": "min"
+  },
+  "buffer_size": 10000,
+  "cache_dataset": false,
+  "minimize_pad": false,
+  "epochs": 100,
+  //"batch_size": 32, //mike has 25
+  "batch_size": 25,
+  "shuffle": true,
+  "device": "cpu",
+  "run_test": false,
+  "pretrain_embeddings": false,
+  "load_pretrained_embeddings": "",
+  "load_pretrained_encoder": "",
+  "freeze_embeddings": false,
+  "load_pretrained_model": {
+    "pretrained": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/pos.tar",
+    "exclude": [],
+    "labels_mode": "expand"
+  },
+  "dropout": 0.2,
+  "word_dropout": 0.2,
+  //"optimizer": "Ranger", //mike has Adam
+  "optimizer": "Adam",
+  "optimizer_params": {},
+  "clip_norm": 5.0,
+ // "lr": 0.001, //mike has 0.002
+  "lr": 0.002,
+  "lr_scheduler": "ReduceLROnPlateau",
+  "lr_scheduler_delay": 0,
+  "lr_scheduler_params": {
+    "mode": "max",
+   // "factor": 0.75, //mike has 0.25
+    "factor": 0.25,
+    "patience": 2,
+    "min_lr": 0.000001
+  },
+  "checks_per_epoch": 1,
+  "wemb_dim": 64,
+  "cemb_dim": 100,
+  "cemb_type": "rnn",
+  "custom_cemb_cell": true,
+  "cemb_layers": 1,
+  "merge_type": "concat",
+  "scorer": "general",
+  "linear_layers": 1,
+  "hidden_size": 100,
+  "num_layers": 1,
+  "cell": "LSTM",
+ // "init_rnn": "default", //mike has xavier_uniform
+  "init_rnn": "xavier_uniform",
+  "noise_strategies": {
+    "uppercase": {
+      "apply": false,
+      "ratio": 0.10,
+      "params": {}
+    }
+  }
+}
+

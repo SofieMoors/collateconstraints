@@ -1,0 +1,66 @@
+{
+  "modelpath": "./",
+  "modelname": "pos_model", // any model prefix relevant to the experiment
+
+  "input_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/train_data_manual.tsv",
+  "dev_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/val_data_manual.tsv",
+  "test_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/test_data_manual.tsv",
+
+
+  //"input_path": "../data/tagger_files/train.tsv",
+  //"dev_path": "../data/tagger_files/dev.tsv",
+  "sep": "\t",
+
+  "report_freq": 200,
+  "max_sent_len": 35,
+  "device": "cpu",
+
+  "tasks": [
+    {
+      "name": "lemma",
+      "target": true,
+      "context": "sentence",
+      "level": "char",
+      "decoder": "attentional",
+      "settings": {
+        "bos": true,
+        "eos": true,
+        "lower": true,
+        "target": "lemma"
+      },
+      "layer": -1
+    }
+  ],
+
+  "epochs": 100,
+  "batch_size": 25,
+  "dropout": 0.25,
+  "clip_norm": 5,
+ "load_pretrained_model": {
+    "pretrained": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/pos.tar",
+    "exclude": [],
+    "labels_mode": "expand"
+},
+  "cell": "GRU",
+  "num_layers": 1,
+  "hidden_size": 150,
+  "wemb_dim": 0,
+  "cemb_dim": 300,
+  "cemb_type": "rnn",
+  "cemb_layers": 2,
+  "scorer": "general",
+
+  "optimizer": "Adam",
+  "lr": 0.001,
+  "lr_factor": 0.75,
+  "lr_patience": 2,
+  
+  "include_lm": true,
+  "lm_shared_softmax": true,
+  "lm_schedule": {
+    "patience": 2,
+    "factor": 0.5,
+    "weight": 0.2,
+    "mode": "min"
+  }
+}

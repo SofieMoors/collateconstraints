@@ -1,0 +1,1729 @@
+INFO:pie.data.dataset:Original 'word' vocab contains 50000 entries (reserved not included)
+INFO:pie.data.dataset:Added 2 new entries to the vocabulary of label_encoder 'word'
+INFO:pie.data.dataset:Original 'char' vocab contains 52 entries (reserved not included)
+INFO:pie.data.dataset:Added 1 new entries to the vocabulary of label_encoder 'char'
+INFO:pie.data.dataset:Original 'lemma' vocab contains 59 entries (reserved not included)
+INFO:pie.data.dataset:Added 3 new entries to the vocabulary of label_encoder 'lemma'
+INFO:root:Starting epoch [1]
+INFO:root:Batch [10/44] || lemma:0.1754  lm_bwd:7.2222  lm_fwd:7.8438   || 174 w/s
+INFO:root:Batch [20/44] || lemma:0.1806  lm_bwd:7.2545  lm_fwd:7.8379   || 194 w/s
+INFO:root:Batch [30/44] || lemma:0.1522  lm_bwd:7.1780  lm_fwd:7.8143   || 187 w/s
+INFO:root:Batch [40/44] || lemma:0.1736  lm_bwd:7.2293  lm_fwd:7.8557   || 190 w/s
+
+::: Loaded Config :::
+
+batch_size: 32
+breakline_data: ''
+breakline_ref: ''
+buffer_size: 10000
+cache_dataset: false
+cell: GRU
+cemb_dim: 300
+cemb_layers: 2
+cemb_type: rnn
+char_bos: true
+char_eos: true
+char_lower: false
+char_max_size: 56
+char_min_freq: 1
+checks_per_epoch: 1
+clip_norm: 5.0
+config_path: json_defaultforlemma.json
+custom_cemb_cell: false
+dev_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/val_data_manual.tsv
+device: cpu
+drop_diacritics: false
+dropout: 0.25
+epochs: 100
+factor: 1
+freeze_embeddings: false
+header: true
+hidden_size: 150
+include_lm: true
+init_rnn: default
+input_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/train_data_manual.tsv
+linear_layers: 1
+lm_schedule:
+  factor: 0.5
+  mode: min
+  patience: 2
+  weight: 0.2
+lm_shared_softmax: true
+load_pretrained_embeddings: ''
+load_pretrained_encoder: ''
+load_pretrained_model:
+  exclude: []
+  labels_mode: expand
+  pretrained: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/lemma.tar
+lr: 0.001
+lr_scheduler: ReduceLROnPlateau
+lr_scheduler_delay: 0
+lr_scheduler_params:
+  factor: 0.75
+  min_lr: 1.0e-06
+  mode: max
+  patience: 2
+max_sent_len: 35
+max_sents: 1000000
+merge_type: concat
+min_weight: 0
+minimize_pad: false
+modelname: lemma_model
+modelpath: ./
+noise_strategies:
+  uppercase:
+    apply: false
+    params: {}
+    ratio: 0.1
+num_layers: 1
+optimizer: Ranger
+optimizer_params: {}
+patience: 10
+pretrain_embeddings: false
+report_freq: 10
+run_test: false
+scorer: general
+seed: auto
+sep: "\t"
+shuffle: true
+task_defaults:
+  context: sentence
+  decoder: linear
+  layer: -1
+  level: token
+  schedule:
+    evaluation: accuracy
+tasks:
+- context: sentence
+  decoder: attentional
+  default: copy
+  layer: -1
+  level: char
+  name: lemma
+  read_only: false
+  schedule:
+    evaluation: accuracy
+    patience: 2
+    threshold: 0.001
+  settings:
+    bos: true
+    eos: true
+    lower: true
+  target: lemma
+tasks_order:
+- lemma
+test_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/test_data_manual.tsv
+threshold: 0
+utfnorm: false
+utfnorm_type: NFKD
+verbose: true
+wemb_dim: 0
+word_dropout: 0
+word_lower: false
+word_max_size: 50002
+word_min_freq: 1
+
+Using seed: 114518
+::: Available tasks :::
+
+- pos
+- lemma
+
+::: Fitting/Expanding MultiLabelEncoder with data :::
+
+
+::: Vocabulary :::
+
+- word            types=50002/122778=0.41 tokens=1618189/1694587=0.95
+- char            types=53/53=1.00 tokens=8427733/8427733=1.00
+
+::: Tasks :::
+
+- lemma           target=lemma  level=char   vocab=66    
+
+Initializing GRU with scheme: xavier_uniform
+Initializing GRU with scheme: xavier_uniform
+Initializing GRU with scheme: xavier_uniform
+Loading pretrained model /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/lemma.tar
+Initialized 56/57 params from module cemb.emb (56 in pretrained model) - params ['weight'] of module 'cemb.emb' loaded
+Loaded module 'cemb.rnn'
+Loaded module 'encoder.rnn'
+Initialized 50002/50004 params from module lm_fwd_decoder (50002 in pretrained model) - params ['nll_weight', 'decoder.weight', 'decoder.bias'] of module 'lm_fwd_decoder' loaded
+Initialized 50002/50004 params from module lm_bwd_decoder (50002 in pretrained model) - params ['nll_weight', 'decoder.weight', 'decoder.bias'] of module 'lm_bwd_decoder' loaded
+Initialized 63/66 params from module lemma_decoder (63 in pretrained model) - params ['nll_weight', 'embs.weight', 'proj.weight', 'proj.bias'] of module 'lemma_decoder' loaded
+Loaded module 'lemma_decoder.rnn'
+Loaded module 'lemma_decoder.attn'
+::: Model :::
+
+SimpleModel(
+  (cemb): RNNEmbedding(
+    (emb): Embedding(57, 300, padding_idx=2)
+    (rnn): GRU(300, 300, num_layers=2, dropout=0.25, bidirectional=True)
+  )
+  (encoder): RNNEncoder(
+    (rnn): ModuleList(
+      (0): GRU(600, 150, bidirectional=True)
+    )
+  )
+  (lemma_decoder): AttentionalDecoder(
+    (embs): Embedding(66, 300)
+    (rnn): GRU(600, 600, num_layers=2, dropout=0.25)
+    (attn): Attention(
+      (scorer): GeneralScorer(
+        (W_a): Linear(in_features=600, out_features=600, bias=False)
+      )
+      (linear_out): Linear(in_features=1200, out_features=600, bias=False)
+    )
+    (proj): Linear(in_features=600, out_features=66, bias=True)
+  )
+  (lm_fwd_decoder): LinearDecoder(
+    (decoder): Linear(in_features=150, out_features=50004, bias=True)
+  )
+  (lm_bwd_decoder): LinearDecoder(
+    (decoder): Linear(in_features=150, out_features=50004, bias=True)
+  )
+)
+
+::: Model parameters :::
+
+16418370/16418370 trainable/total
+
+Starting training
+
+Evaluation check every 43/44 batches
+
+::: Task schedules :::
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="lemma" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="-inf"/>
+    <Task name="lm_fwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="inf"/>
+    <Task name="lm_bwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="inf"/>
+</TaskScheduler>
+
+::: LR schedule :::
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="0" best="-inf" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="0" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]1it [00:00,  2.31it/s]2it [00:00,  2.33it/s]3it [00:01,  2.60it/s]4it [00:01,  2.73it/s]5it [00:01,  2.83it/s]6it [00:02,  3.24it/s]6it [00:02,  2.88it/s]
+
+::: Dev losses :::
+
+lemma: 0.1127
+lm_fwd: 7.6037
+lm_bwd: 7.0383
+
+0it [00:00, ?it/s]1it [00:00,  3.45it/s]2it [00:00,  3.89it/s]4it [00:00,  5.36it/s]5it [00:01,  5.01it/s]6it [00:01,  4.99it/s]6it [00:01,  4.82it/s]
+INFO:root:Evaluation time: 4 sec
+INFO:root:Finished epoch [1] in [42] secs
+INFO:root:Starting epoch [2]
+INFO:root:Batch [10/44] || lemma:0.1625  lm_bwd:7.2235  lm_fwd:7.8004   || 164 w/s
+INFO:root:Batch [20/44] || lemma:0.1538  lm_bwd:7.0429  lm_fwd:7.7504   || 177 w/s
+INFO:root:Batch [30/44] || lemma:0.1344  lm_bwd:7.0746  lm_fwd:7.6816   || 173 w/s
+INFO:root:Batch [40/44] || lemma:0.1480  lm_bwd:7.0518  lm_fwd:7.6281   || 169 w/s
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.8913   | 0.729     | 0.7292 | 0.7244 | 0.7292            | 874     |
+| known-tokens     | 0.9219   | 0.7946    | 0.792  | 0.7888 | 0.792             | 679     |
+| unknown-tokens   | 0.7846   | 0.6494    | 0.6517 | 0.6494 | 0.6517            | 195     |
+| ambiguous-tokens | 0.8618   | 0.6097    | 0.6074 | 0.6015 | 0.6074            | 217     |
+| unknown-targets  | 0.1538   | 0.087     | 0.087  | 0.087  | 0.087             | 13      |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="lemma" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.8913"/>
+    <Task name="lm_fwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="7.603710810343425"/>
+    <Task name="lm_bwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="7.038317839304606"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="1" best="0.8913" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="1" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]1it [00:00,  2.93it/s]2it [00:00,  3.08it/s]3it [00:00,  3.08it/s]4it [00:01,  4.04it/s]5it [00:01,  3.66it/s]6it [00:01,  3.50it/s]6it [00:01,  3.46it/s]
+
+::: Dev losses :::
+
+lemma: 0.0968
+lm_fwd: 7.5653
+lm_bwd: 6.9432
+
+0it [00:00, ?it/s]1it [00:00,  8.07it/s]2it [00:00,  6.17it/s]3it [00:00,  5.87it/s]4it [00:00,  5.57it/s]5it [00:00,  5.38it/s]6it [00:01,  5.24it/s]6it [00:01,  5.53it/s]
+INFO:root:Evaluation time: 3 sec
+INFO:root:Finished epoch [2] in [44] secs
+INFO:root:Starting epoch [3]
+INFO:root:Batch [10/44] || lemma:0.1406  lm_bwd:6.8297  lm_fwd:7.3568   || 183 w/s
+INFO:root:Batch [20/44] || lemma:0.1209  lm_bwd:7.0631  lm_fwd:7.6379   || 182 w/s
+INFO:root:Batch [30/44] || lemma:0.1299  lm_bwd:6.9194  lm_fwd:7.4380   || 184 w/s
+INFO:root:Batch [40/44] || lemma:0.1419  lm_bwd:6.9323  lm_fwd:7.5272   || 179 w/s
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.9005   | 0.7478    | 0.7493 | 0.7438 | 0.7493            | 874     |
+| known-tokens     | 0.9323   | 0.8149    | 0.8113 | 0.8083 | 0.8113            | 679     |
+| unknown-tokens   | 0.7897   | 0.6651    | 0.6699 | 0.6667 | 0.6699            | 195     |
+| ambiguous-tokens | 0.8802   | 0.6449    | 0.6492 | 0.6393 | 0.6492            | 217     |
+| unknown-targets  | 0.1538   | 0.0909    | 0.0909 | 0.0909 | 0.0909            | 13      |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="lemma" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.9005"/>
+    <Task name="lm_fwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="7.5652627150217695"/>
+    <Task name="lm_bwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="6.9432447751363116"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="2" best="0.9005" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="2" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]1it [00:00,  2.91it/s]2it [00:00,  3.01it/s]3it [00:00,  3.10it/s]4it [00:01,  3.05it/s]5it [00:01,  3.07it/s]6it [00:01,  3.89it/s]6it [00:01,  3.41it/s]
+
+::: Dev losses :::
+
+lemma: 0.0849
+lm_fwd: 7.4587
+lm_bwd: 6.8178
+
+0it [00:00, ?it/s]1it [00:00,  5.26it/s]2it [00:00,  5.24it/s]4it [00:00,  6.22it/s]5it [00:00,  5.80it/s]6it [00:01,  5.66it/s]6it [00:01,  5.70it/s]
+INFO:root:Evaluation time: 3 sec
+INFO:root:Finished epoch [3] in [42] secs
+INFO:root:Starting epoch [4]
+INFO:root:Batch [10/44] || lemma:0.1159  lm_bwd:6.8091  lm_fwd:7.3540   || 183 w/s
+INFO:root:Batch [20/44] || lemma:0.1171  lm_bwd:6.8313  lm_fwd:7.4323   || 183 w/s
+INFO:root:Batch [30/44] || lemma:0.1137  lm_bwd:6.8934  lm_fwd:7.5281   || 192 w/s
+INFO:root:Batch [40/44] || lemma:0.1326  lm_bwd:6.5443  lm_fwd:7.0223   || 182 w/s
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.9096   | 0.7572    | 0.7595 | 0.7548 | 0.7595            | 874     |
+| known-tokens     | 0.9455   | 0.8301    | 0.8315 | 0.8284 | 0.8315            | 679     |
+| unknown-tokens   | 0.7846   | 0.6603    | 0.6651 | 0.6619 | 0.6651            | 195     |
+| ambiguous-tokens | 0.9124   | 0.6913    | 0.7048 | 0.6933 | 0.7048            | 217     |
+| unknown-targets  | 0.1538   | 0.0909    | 0.0909 | 0.0909 | 0.0909            | 13      |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="lemma" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.9096"/>
+    <Task name="lm_fwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="7.458724657694499"/>
+    <Task name="lm_bwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="6.817827383677165"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="3" best="0.9096" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="3" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]1it [00:00,  3.20it/s]2it [00:00,  3.16it/s]3it [00:00,  3.07it/s]4it [00:01,  3.11it/s]5it [00:01,  3.07it/s]6it [00:01,  3.79it/s]6it [00:01,  3.41it/s]
+
+::: Dev losses :::
+
+lemma: 0.0734
+lm_fwd: 7.3563
+lm_bwd: 6.7844
+
+0it [00:00, ?it/s]1it [00:00,  4.76it/s]2it [00:00,  4.96it/s]3it [00:00,  5.19it/s]4it [00:00,  5.03it/s]5it [00:00,  5.23it/s]6it [00:01,  5.68it/s]
+INFO:root:Evaluation time: 3 sec
+INFO:root:Finished epoch [4] in [41] secs
+INFO:root:Starting epoch [5]
+INFO:root:Batch [10/44] || lemma:0.1107  lm_bwd:6.9140  lm_fwd:7.3855   || 191 w/s
+INFO:root:Batch [20/44] || lemma:0.1150  lm_bwd:6.5280  lm_fwd:7.1425   || 193 w/s
+INFO:root:Batch [30/44] || lemma:0.0912  lm_bwd:6.5817  lm_fwd:7.1476   || 3 w/s
+INFO:root:Batch [40/44] || lemma:0.0848  lm_bwd:6.5911  lm_fwd:7.0967   || 177 w/s
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.9176   | 0.7643    | 0.7696 | 0.7637 | 0.7696            | 874     |
+| known-tokens     | 0.9573   | 0.8538    | 0.8583 | 0.8543 | 0.8583            | 679     |
+| unknown-tokens   | 0.7795   | 0.6587    | 0.6659 | 0.6603 | 0.6659            | 195     |
+| ambiguous-tokens | 0.9263   | 0.6972    | 0.7232 | 0.7063 | 0.7232            | 217     |
+| unknown-targets  | 0.0769   | 0.0435    | 0.0435 | 0.0435 | 0.0435            | 13      |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="lemma" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.9176"/>
+    <Task name="lm_fwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="7.356326738993327"/>
+    <Task name="lm_bwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="0" best="6.784417788187663"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="4" best="0.9176" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="4" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]1it [00:00,  2.99it/s]2it [00:00,  2.72it/s]3it [00:01,  2.92it/s]4it [00:01,  3.03it/s]5it [00:01,  2.89it/s]6it [00:01,  3.61it/s]6it [00:01,  3.21it/s]
+
+::: Dev losses :::
+
+lemma: 0.0696
+lm_fwd: 7.3850
+lm_bwd: 6.7847
+
+0it [00:00, ?it/s]1it [00:00,  4.73it/s]2it [00:51, 30.03s/it]3it [00:51, 16.42s/it]4it [00:52, 10.33s/it]5it [00:52,  6.70s/it]6it [00:52,  4.55s/it]6it [00:52,  8.83s/it]
+INFO:root:Evaluation time: 55 sec
+INFO:root:Finished epoch [5] in [573] secs
+INFO:root:Starting epoch [6]
+INFO:root:Batch [10/44] || lemma:0.1003  lm_bwd:6.5579  lm_fwd:7.0883   || 113 w/s
+INFO:root:Batch [20/44] || lemma:0.0842  lm_bwd:6.5294  lm_fwd:7.1128   || 166 w/s
+INFO:root:Batch [30/44] || lemma:0.0891  lm_bwd:6.6047  lm_fwd:7.1402   || 183 w/s
+INFO:root:Batch [40/44] || lemma:0.0776  lm_bwd:6.4579  lm_fwd:7.0620   || 187 w/s
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.9176   | 0.7646    | 0.7653 | 0.7612 | 0.7653            | 874     |
+| known-tokens     | 0.9558   | 0.853     | 0.8558 | 0.8519 | 0.8558            | 679     |
+| unknown-tokens   | 0.7846   | 0.6627    | 0.6643 | 0.6611 | 0.6643            | 195     |
+| ambiguous-tokens | 0.9171   | 0.6832    | 0.6981 | 0.6836 | 0.6981            | 217     |
+| unknown-targets  | 0.0769   | 0.0435    | 0.0435 | 0.0435 | 0.0435            | 13      |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="lemma" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="1" mode="max" weight="1.0" best="0.9176"/>
+    <Task name="lm_fwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="1" best="7.356326738993327"/>
+    <Task name="lm_bwd" patience="2" factor="0.5" weight="0.2" mode="min" steps="1" best="6.784417788187663"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="5" best="0.9176" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="5" mode="max" mode_worse="-inf" num_bad_epochs="1" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]1it [00:00,  2.92it/s]2it [00:00,  4.48it/s]3it [00:00,  3.72it/s]4it [00:01,  3.44it/s]5it [00:01,  3.27it/s]6it [00:01,  3.19it/s]6it [00:01,  3.35it/s]
+
+::: Dev losses :::
+
+lemma: 0.0694
+lm_fwd: 7.2120
+lm_bwd: 6.7115
+
+0it [00:00, ?it/s]1it [00:00,  4.98it/s]2it [00:00,  5.33it/s]3it [00:00,  5.31it/s]4it [00:00,  5.10it/s]5it [00:00,  4.87it/s]6it [00:01,  5.71it/s]6it [00:01,  5.38it/s]
+INFO:root:Early stopping training: task [lemma] with best score 0.9176
+INFO:root:Finished training in [789] secs
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.9153   | 0.7615    | 0.7627 | 0.7585 | 0.7627            | 874     |
+| known-tokens     | 0.9514   | 0.8519    | 0.8525 | 0.8494 | 0.8525            | 679     |
+| unknown-tokens   | 0.7897   | 0.6579    | 0.6627 | 0.6587 | 0.6627            | 195     |
+| ambiguous-tokens | 0.9124   | 0.6896    | 0.6982 | 0.6884 | 0.6982            | 217     |
+| unknown-targets  | 0.0769   | 0.0417    | 0.0417 | 0.0417 | 0.0417            | 13      |
+
+Evaluating model on test set
+0it [00:00, ?it/s]1it [00:00,  4.81it/s]2it [00:00,  5.02it/s]3it [00:00,  5.08it/s]4it [00:00,  5.01it/s]5it [00:00,  5.72it/s]6it [00:01,  5.64it/s]6it [00:01,  5.39it/s]
+
+## lemma
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.9135   | 0.7619    | 0.7673 | 0.7601 | 0.7673            | 879     |
+| known-tokens     | 0.9415   | 0.8225    | 0.8253 | 0.82   | 0.8253            | 667     |
+| unknown-tokens   | 0.8255   | 0.6906    | 0.6944 | 0.6904 | 0.6944            | 212     |
+| ambiguous-tokens | 0.895    | 0.7048    | 0.6932 | 0.6918 | 0.6932            | 181     |
+| unknown-targets  | 0.1667   | 0.0909    | 0.0909 | 0.0909 | 0.0909            | 12      |
+
+Saved best model to: [./lemma_model-lemma-2024_08_06-11_58_30.tar]
+0it [00:00, ?it/s]1it [00:00,  4.67it/s]3it [00:00,  5.91it/s]4it [00:00,  5.61it/s]5it [00:00,  5.35it/s]6it [00:01,  5.30it/s]6it [00:01,  5.39it/s]
+Bye!
+INFO:pie.data.dataset:Original 'word' vocab contains 50000 entries (reserved not included)
+INFO:pie.data.dataset:Added 2 new entries to the vocabulary of label_encoder 'word'
+INFO:pie.data.dataset:Original 'char' vocab contains 52 entries (reserved not included)
+INFO:pie.data.dataset:Added 1 new entries to the vocabulary of label_encoder 'char'
+INFO:pie.data.dataset:Original 'pos' vocab contains 1411 entries (reserved not included)
+INFO:pie.data.dataset:Added 22 new entries to the vocabulary of label_encoder 'pos'
+INFO:root:Starting epoch [1]
+INFO:root:Batch [10/44] || pos:11.3302   || 1548 w/s
+INFO:root:Batch [20/44] || pos:11.0851   || 1831 w/s
+INFO:root:Batch [30/44] || pos:11.1138   || 1758 w/s
+INFO:root:Batch [40/44] || pos:10.5800   || 1934 w/s
+
+::: Loaded Config :::
+
+batch_size: 32
+breakline_data: ''
+breakline_ref: ''
+buffer_size: 10000
+cache_dataset: false
+cell: LSTM
+cemb_dim: 100
+cemb_layers: 1
+cemb_type: rnn
+char_bos: true
+char_eos: true
+char_lower: false
+char_max_size: 56
+char_min_freq: 1
+checks_per_epoch: 1
+clip_norm: 5.0
+config_path: json_defaultforpos.json
+custom_cemb_cell: true
+dev_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/val_data_manual.tsv
+device: cpu
+drop_diacritics: false
+dropout: 0.2
+epochs: 100
+factor: 1
+freeze_embeddings: false
+header: true
+hidden_size: 100
+include_lm: false
+init_rnn: default
+input_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/train_data_manual.tsv
+linear_layers: 1
+lm_schedule:
+  factor: 0.5
+  mode: min
+  patience: 2
+  weight: 0.2
+lm_shared_softmax: true
+load_pretrained_embeddings: ''
+load_pretrained_encoder: ''
+load_pretrained_model:
+  exclude: []
+  labels_mode: expand
+  pretrained: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/pos.tar
+lr: 0.001
+lr_scheduler: ReduceLROnPlateau
+lr_scheduler_delay: 0
+lr_scheduler_params:
+  factor: 0.75
+  min_lr: 1.0e-06
+  mode: max
+  patience: 2
+max_sent_len: 35
+max_sents: 1000000
+merge_type: concat
+min_weight: 0
+minimize_pad: false
+modelname: pos_model
+modelpath: ./
+noise_strategies:
+  uppercase:
+    apply: false
+    params: {}
+    ratio: 0.1
+num_layers: 1
+optimizer: Ranger
+optimizer_params: {}
+patience: 10
+pretrain_embeddings: false
+report_freq: 10
+run_test: false
+scorer: general
+seed: auto
+sep: "\t"
+shuffle: true
+task_defaults:
+  context: sentence
+  decoder: linear
+  layer: -1
+  level: token
+  schedule:
+    evaluation: accuracy
+tasks:
+- context: sentence
+  decoder: linear
+  default: copy
+  layer: -1
+  level: token
+  name: pos
+  read_only: false
+  schedule:
+    evaluation: accuracy
+    patience: 2
+    threshold: 0.001
+  settings:
+    bos: false
+    eos: false
+    lower: false
+  target: pos
+tasks_order:
+- pos
+test_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/test_data_manual.tsv
+threshold: 0
+utfnorm: false
+utfnorm_type: NFKD
+verbose: true
+wemb_dim: 64
+word_dropout: 0.2
+word_lower: false
+word_max_size: 50002
+word_min_freq: 1
+
+Using seed: 115932
+::: Available tasks :::
+
+- lemma
+- pos
+
+::: Fitting/Expanding MultiLabelEncoder with data :::
+
+
+::: Vocabulary :::
+
+- word            types=50002/122778=0.41 tokens=1618189/1694587=0.95
+- char            types=53/53=1.00 tokens=8427733/8427733=1.00
+
+::: Tasks :::
+
+- pos             target=pos    level=token  vocab=1435  
+
+Initializing LSTM with scheme: xavier_uniform
+Loading pretrained model /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/pos.tar
+Initialized 56/57 params from module cemb.emb (56 in pretrained model) - params ['weight'] of module 'cemb.emb' loaded
+Loaded module 'cemb.rnn'
+Loaded module 'encoder.rnn'
+Initialized 1413/1435 params from module pos_decoder (1413 in pretrained model) - params ['nll_weight', 'decoder.weight', 'decoder.bias'] of module 'pos_decoder' loaded
+The following modules were not loaded from the pretrained state_dict: 
+	- wemb.weight
+::: Model :::
+
+SimpleModel(
+  (wemb): Embedding(50004, 64, padding_idx=1)
+  (cemb): RNNEmbedding(
+    (emb): Embedding(57, 100, padding_idx=2)
+    (rnn): CustomBiLSTM(
+      (fwd_0): CustomLSTM(
+        (cell): CustomLSTMCell(100, 100)
+      )
+      (bwd_0): CustomLSTM(
+        (cell): CustomLSTMCell(100, 100)
+      )
+    )
+  )
+  (encoder): RNNEncoder(
+    (rnn): ModuleList(
+      (0): LSTM(264, 100, bidirectional=True)
+    )
+  )
+  (pos_decoder): LinearDecoder(
+    (decoder): Linear(in_features=200, out_features=1435, bias=True)
+  )
+)
+
+::: Model parameters :::
+
+3947991/3947991 trainable/total
+
+Starting training
+
+Evaluation check every 43/44 batches
+
+::: Task schedules :::
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="-inf"/>
+</TaskScheduler>
+
+::: LR schedule :::
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="0" best="-inf" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="0" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]2it [00:00, 17.68it/s]6it [00:00, 25.12it/s]6it [00:00, 24.08it/s]
+
+::: Dev losses :::
+
+pos: 10.1342
+
+0it [00:00, ?it/s]3it [00:00, 27.52it/s]6it [00:00, 26.45it/s]6it [00:00, 26.59it/s]
+INFO:root:Evaluation time: 1 sec
+INFO:root:Finished epoch [1] in [5] secs
+INFO:root:Starting epoch [2]
+INFO:root:Batch [10/44] || pos:10.1619   || 1845 w/s
+INFO:root:Batch [20/44] || pos:9.8070   || 1780 w/s
+INFO:root:Batch [30/44] || pos:9.2591   || 1822 w/s
+INFO:root:Batch [40/44] || pos:8.9635   || 1636 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.0046   | 0.0341    | 0.0034 | 0.0059 | 0.0034            | 874     |
+| known-tokens     | 0.0029   | 0.0282    | 0.0034 | 0.0059 | 0.0034            | 679     |
+| unknown-tokens   | 0.0103   | 0.0192    | 0.0021 | 0.0038 | 0.0021            | 195     |
+| ambiguous-tokens | 0.0026   | 0.0189    | 0.0047 | 0.0075 | 0.0047            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.0046"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="1" best="0.0046" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="1" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 26.09it/s]6it [00:00, 27.15it/s]6it [00:00, 26.96it/s]
+
+::: Dev losses :::
+
+pos: 8.4027
+
+0it [00:00, ?it/s]3it [00:00, 24.78it/s]6it [00:00, 28.97it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [2] in [4] secs
+INFO:root:Starting epoch [3]
+INFO:root:Batch [10/44] || pos:8.3284   || 1774 w/s
+INFO:root:Batch [20/44] || pos:8.0107   || 1753 w/s
+INFO:root:Batch [30/44] || pos:7.7691   || 1557 w/s
+INFO:root:Batch [40/44] || pos:7.1884   || 1802 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.0343   | 0.1063    | 0.0159 | 0.0253 | 0.0159            | 874     |
+| known-tokens     | 0.0324   | 0.1091    | 0.0189 | 0.0289 | 0.0189            | 679     |
+| unknown-tokens   | 0.041    | 0.0481    | 0.0049 | 0.0089 | 0.0049            | 195     |
+| ambiguous-tokens | 0.0434   | 0.1294    | 0.0274 | 0.0427 | 0.0274            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.0343"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="2" best="0.0343" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="2" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 25.25it/s]6it [00:00, 27.21it/s]6it [00:00, 26.87it/s]
+
+::: Dev losses :::
+
+pos: 6.6301
+
+0it [00:00, ?it/s]4it [00:00, 31.90it/s]6it [00:00, 28.66it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [3] in [5] secs
+INFO:root:Starting epoch [4]
+INFO:root:Batch [10/44] || pos:6.6275   || 1825 w/s
+INFO:root:Batch [20/44] || pos:6.1727   || 1899 w/s
+INFO:root:Batch [30/44] || pos:6.0255   || 1898 w/s
+INFO:root:Batch [40/44] || pos:5.6763   || 1896 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.127    | 0.1696    | 0.0469 | 0.0649 | 0.0469            | 874     |
+| known-tokens     | 0.137    | 0.1935    | 0.0614 | 0.0838 | 0.0614            | 679     |
+| unknown-tokens   | 0.0923   | 0.0539    | 0.0112 | 0.0184 | 0.0112            | 195     |
+| ambiguous-tokens | 0.1786   | 0.2219    | 0.0771 | 0.1008 | 0.0771            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.127"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="3" best="0.127" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="3" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 25.57it/s]6it [00:00, 31.27it/s]
+
+::: Dev losses :::
+
+pos: 5.0211
+
+0it [00:00, ?it/s]4it [00:00, 32.48it/s]6it [00:00, 32.38it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [4] in [4] secs
+INFO:root:Starting epoch [5]
+INFO:root:Batch [10/44] || pos:5.0574   || 1671 w/s
+INFO:root:Batch [20/44] || pos:4.8342   || 1779 w/s
+INFO:root:Batch [30/44] || pos:4.5449   || 1769 w/s
+INFO:root:Batch [40/44] || pos:4.3126   || 1807 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.2746   | 0.2393    | 0.0969 | 0.1225 | 0.0969            | 874     |
+| known-tokens     | 0.2887   | 0.2648    | 0.1137 | 0.1426 | 0.1137            | 679     |
+| unknown-tokens   | 0.2256   | 0.1407    | 0.0543 | 0.072  | 0.0543            | 195     |
+| ambiguous-tokens | 0.3393   | 0.2699    | 0.1497 | 0.1751 | 0.1497            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.2746"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="4" best="0.2746" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="4" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 29.97it/s]6it [00:00, 29.47it/s]
+
+::: Dev losses :::
+
+pos: 3.8308
+
+0it [00:00, ?it/s]3it [00:00, 29.02it/s]6it [00:00, 30.49it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [5] in [4] secs
+INFO:root:Starting epoch [6]
+INFO:root:Batch [10/44] || pos:3.7944   || 1876 w/s
+INFO:root:Batch [20/44] || pos:3.6745   || 1810 w/s
+INFO:root:Batch [30/44] || pos:3.4336   || 1952 w/s
+INFO:root:Batch [40/44] || pos:3.2439   || 1929 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.4256   | 0.2837    | 0.1488 | 0.177  | 0.1488            | 874     |
+| known-tokens     | 0.4374   | 0.3202    | 0.1819 | 0.2104 | 0.1819            | 679     |
+| unknown-tokens   | 0.3846   | 0.1698    | 0.0985 | 0.1109 | 0.0985            | 195     |
+| ambiguous-tokens | 0.4923   | 0.3052    | 0.2089 | 0.228  | 0.2089            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.4256"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="5" best="0.4256" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="5" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 30.81it/s]6it [00:00, 29.00it/s]
+
+::: Dev losses :::
+
+pos: 2.9082
+
+0it [00:00, ?it/s]4it [00:00, 33.87it/s]6it [00:00, 30.34it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [6] in [4] secs
+INFO:root:Starting epoch [7]
+INFO:root:Batch [10/44] || pos:3.0569   || 1826 w/s
+INFO:root:Batch [20/44] || pos:2.7104   || 1936 w/s
+INFO:root:Batch [30/44] || pos:2.6720   || 1848 w/s
+INFO:root:Batch [40/44] || pos:2.6007   || 1971 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.5595   | 0.293     | 0.2002 | 0.2161 | 0.2002            | 874     |
+| known-tokens     | 0.5803   | 0.3415    | 0.2517 | 0.2639 | 0.2517            | 679     |
+| unknown-tokens   | 0.4872   | 0.1864    | 0.1516 | 0.1559 | 0.1516            | 195     |
+| ambiguous-tokens | 0.6097   | 0.3779    | 0.297  | 0.3046 | 0.297             | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.5595"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="6" best="0.5595" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="6" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 28.11it/s]6it [00:00, 30.15it/s]
+
+::: Dev losses :::
+
+pos: 2.5288
+
+0it [00:00, ?it/s]3it [00:00, 27.01it/s]6it [00:00, 30.52it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [7] in [4] secs
+INFO:root:Starting epoch [8]
+INFO:root:Batch [10/44] || pos:2.3169   || 1822 w/s
+INFO:root:Batch [20/44] || pos:2.2344   || 1934 w/s
+INFO:root:Batch [30/44] || pos:2.1468   || 1910 w/s
+INFO:root:Batch [40/44] || pos:2.0874   || 1789 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.6247   | 0.2946    | 0.237  | 0.243  | 0.237             | 874     |
+| known-tokens     | 0.648    | 0.3684    | 0.3088 | 0.3093 | 0.3088            | 679     |
+| unknown-tokens   | 0.5436   | 0.1925    | 0.1715 | 0.1712 | 0.1715            | 195     |
+| ambiguous-tokens | 0.6658   | 0.4328    | 0.3646 | 0.3617 | 0.3646            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.6247"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="7" best="0.6247" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="7" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 34.08it/s]6it [00:00, 32.37it/s]
+
+::: Dev losses :::
+
+pos: 2.0210
+
+0it [00:00, ?it/s]3it [00:00, 28.37it/s]6it [00:00, 31.46it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [8] in [4] secs
+INFO:root:Starting epoch [9]
+INFO:root:Batch [10/44] || pos:1.8776   || 1864 w/s
+INFO:root:Batch [20/44] || pos:2.0255   || 1992 w/s
+INFO:root:Batch [30/44] || pos:1.7560   || 1947 w/s
+INFO:root:Batch [40/44] || pos:1.7140   || 1881 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.6762   | 0.3126    | 0.2724 | 0.2781 | 0.2724            | 874     |
+| known-tokens     | 0.701    | 0.3619    | 0.3345 | 0.3332 | 0.3345            | 679     |
+| unknown-tokens   | 0.5897   | 0.2324    | 0.2236 | 0.2139 | 0.2236            | 195     |
+| ambiguous-tokens | 0.7143   | 0.4275    | 0.4104 | 0.4012 | 0.4104            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.6762"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="8" best="0.6762" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="8" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 29.06it/s]6it [00:00, 26.86it/s]6it [00:00, 27.14it/s]
+
+::: Dev losses :::
+
+pos: 1.7413
+
+0it [00:00, ?it/s]3it [00:00, 29.06it/s]6it [00:00, 30.20it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [9] in [4] secs
+INFO:root:Starting epoch [10]
+INFO:root:Batch [10/44] || pos:1.7543   || 1916 w/s
+INFO:root:Batch [20/44] || pos:1.5976   || 1929 w/s
+INFO:root:Batch [30/44] || pos:1.5474   || 1874 w/s
+INFO:root:Batch [40/44] || pos:1.5093   || 2005 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.6968   | 0.3312    | 0.3019 | 0.3053 | 0.3019            | 874     |
+| known-tokens     | 0.7216   | 0.3848    | 0.3696 | 0.3655 | 0.3696            | 679     |
+| unknown-tokens   | 0.6103   | 0.2169    | 0.2266 | 0.211  | 0.2266            | 195     |
+| ambiguous-tokens | 0.7372   | 0.4599    | 0.4491 | 0.4395 | 0.4491            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.6968"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="9" best="0.6968" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="9" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 29.73it/s]6it [00:00, 29.25it/s]6it [00:00, 29.29it/s]
+
+::: Dev losses :::
+
+pos: 1.5277
+
+0it [00:00, ?it/s]3it [00:00, 29.05it/s]6it [00:00, 28.12it/s]6it [00:00, 28.23it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [10] in [4] secs
+INFO:root:Starting epoch [11]
+INFO:root:Batch [10/44] || pos:1.4564   || 1776 w/s
+INFO:root:Batch [20/44] || pos:1.5316   || 1808 w/s
+INFO:root:Batch [30/44] || pos:1.3787   || 1930 w/s
+INFO:root:Batch [40/44] || pos:1.2724   || 1943 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7265   | 0.3568    | 0.3424 | 0.3356 | 0.3424            | 874     |
+| known-tokens     | 0.7496   | 0.4186    | 0.4277 | 0.4106 | 0.4277            | 679     |
+| unknown-tokens   | 0.6462   | 0.2389    | 0.2576 | 0.239  | 0.2576            | 195     |
+| ambiguous-tokens | 0.7628   | 0.5073    | 0.5166 | 0.4955 | 0.5166            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7265"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="10" best="0.7265" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="10" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 27.60it/s]6it [00:00, 30.86it/s]
+
+::: Dev losses :::
+
+pos: 1.4201
+
+0it [00:00, ?it/s]4it [00:00, 38.50it/s]6it [00:00, 31.71it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [11] in [4] secs
+INFO:root:Starting epoch [12]
+INFO:root:Batch [10/44] || pos:1.2970   || 1866 w/s
+INFO:root:Batch [20/44] || pos:1.2166   || 1892 w/s
+INFO:root:Batch [30/44] || pos:1.2831   || 1927 w/s
+INFO:root:Batch [40/44] || pos:1.2080   || 1808 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7334   | 0.3594    | 0.3449 | 0.3378 | 0.3449            | 874     |
+| known-tokens     | 0.757    | 0.4341    | 0.4339 | 0.4204 | 0.4339            | 679     |
+| unknown-tokens   | 0.6513   | 0.2395    | 0.2624 | 0.2415 | 0.2624            | 195     |
+| ambiguous-tokens | 0.7602   | 0.527     | 0.5155 | 0.4986 | 0.5155            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7334"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="11" best="0.7334" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="11" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 33.82it/s]6it [00:00, 29.06it/s]
+
+::: Dev losses :::
+
+pos: 1.3558
+
+0it [00:00, ?it/s]4it [00:00, 29.50it/s]6it [00:00, 32.97it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [12] in [4] secs
+INFO:root:Starting epoch [13]
+INFO:root:Batch [10/44] || pos:1.2156   || 1759 w/s
+INFO:root:Batch [20/44] || pos:1.1283   || 1869 w/s
+INFO:root:Batch [30/44] || pos:1.1456   || 1834 w/s
+INFO:root:Batch [40/44] || pos:1.0563   || 1648 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7437   | 0.3898    | 0.3665 | 0.3586 | 0.3665            | 874     |
+| known-tokens     | 0.7688   | 0.4635    | 0.4515 | 0.4399 | 0.4515            | 679     |
+| unknown-tokens   | 0.6564   | 0.2823    | 0.3061 | 0.2846 | 0.3061            | 195     |
+| ambiguous-tokens | 0.7602   | 0.5246    | 0.5282 | 0.5039 | 0.5282            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7437"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="12" best="0.7437" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="12" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 28.16it/s]6it [00:00, 28.54it/s]6it [00:00, 28.46it/s]
+
+::: Dev losses :::
+
+pos: 1.2072
+
+0it [00:00, ?it/s]3it [00:00, 28.63it/s]6it [00:00, 26.35it/s]6it [00:00, 26.63it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [13] in [4] secs
+INFO:root:Starting epoch [14]
+INFO:root:Batch [10/44] || pos:1.0722   || 1873 w/s
+INFO:root:Batch [20/44] || pos:0.9764   || 1741 w/s
+INFO:root:Batch [30/44] || pos:1.0134   || 1710 w/s
+INFO:root:Batch [40/44] || pos:1.0406   || 2041 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7506   | 0.4102    | 0.3851 | 0.3778 | 0.3851            | 874     |
+| known-tokens     | 0.7761   | 0.4932    | 0.4879 | 0.4757 | 0.4879            | 679     |
+| unknown-tokens   | 0.6615   | 0.288     | 0.3138 | 0.2907 | 0.3138            | 195     |
+| ambiguous-tokens | 0.7577   | 0.5086    | 0.5137 | 0.4887 | 0.5137            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7506"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="13" best="0.7506" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="13" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]2it [00:00, 11.36it/s]5it [00:00, 18.41it/s]6it [00:00, 19.48it/s]
+
+::: Dev losses :::
+
+pos: 1.2039
+
+0it [00:00, ?it/s]3it [00:00, 28.42it/s]6it [00:00, 28.37it/s]6it [00:00, 28.35it/s]
+INFO:root:Evaluation time: 1 sec
+INFO:root:Finished epoch [14] in [4] secs
+INFO:root:Starting epoch [15]
+INFO:root:Batch [10/44] || pos:1.0001   || 1595 w/s
+INFO:root:Batch [20/44] || pos:0.9261   || 1717 w/s
+INFO:root:Batch [30/44] || pos:1.0241   || 1754 w/s
+INFO:root:Batch [40/44] || pos:0.8495   || 1843 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7586   | 0.4099    | 0.3915 | 0.3839 | 0.3915            | 874     |
+| known-tokens     | 0.7894   | 0.5116    | 0.497  | 0.4856 | 0.497             | 679     |
+| unknown-tokens   | 0.6513   | 0.2864    | 0.3119 | 0.2889 | 0.3119            | 195     |
+| ambiguous-tokens | 0.773    | 0.5223    | 0.5371 | 0.5121 | 0.5371            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7586"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="14" best="0.7586" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="14" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 24.40it/s]6it [00:00, 28.88it/s]
+
+::: Dev losses :::
+
+pos: 1.1343
+
+0it [00:00, ?it/s]3it [00:00, 25.30it/s]6it [00:00, 30.80it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [15] in [5] secs
+INFO:root:Starting epoch [16]
+INFO:root:Batch [10/44] || pos:0.8738   || 1689 w/s
+INFO:root:Batch [20/44] || pos:0.8533   || 1754 w/s
+INFO:root:Batch [30/44] || pos:0.8996   || 1663 w/s
+INFO:root:Batch [40/44] || pos:0.8381   || 1688 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.762    | 0.4183    | 0.4069 | 0.3957 | 0.4069            | 874     |
+| known-tokens     | 0.7938   | 0.5324    | 0.5217 | 0.5064 | 0.5217            | 679     |
+| unknown-tokens   | 0.6513   | 0.2855    | 0.3126 | 0.2887 | 0.3126            | 195     |
+| ambiguous-tokens | 0.773    | 0.5328    | 0.5408 | 0.5165 | 0.5408            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.762"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="15" best="0.762" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="15" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 27.38it/s]6it [00:00, 28.91it/s]
+
+::: Dev losses :::
+
+pos: 1.0744
+
+0it [00:00, ?it/s]4it [00:00, 37.17it/s]6it [00:00, 30.81it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [16] in [5] secs
+INFO:root:Starting epoch [17]
+INFO:root:Batch [10/44] || pos:0.8461   || 1691 w/s
+INFO:root:Batch [20/44] || pos:0.7659   || 1726 w/s
+INFO:root:Batch [30/44] || pos:0.7711   || 1889 w/s
+INFO:root:Batch [40/44] || pos:0.8574   || 1734 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7677   | 0.4418    | 0.4372 | 0.4233 | 0.4372            | 874     |
+| known-tokens     | 0.7968   | 0.5623    | 0.5585 | 0.5392 | 0.5585            | 679     |
+| unknown-tokens   | 0.6667   | 0.3083    | 0.3446 | 0.3178 | 0.3446            | 195     |
+| ambiguous-tokens | 0.7679   | 0.5436    | 0.5456 | 0.5243 | 0.5456            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7677"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="16" best="0.7677" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="16" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 26.81it/s]6it [00:00, 25.34it/s]6it [00:00, 25.52it/s]
+
+::: Dev losses :::
+
+pos: 1.0482
+
+0it [00:00, ?it/s]3it [00:00, 26.25it/s]6it [00:00, 31.00it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [17] in [4] secs
+INFO:root:Starting epoch [18]
+INFO:root:Batch [10/44] || pos:0.7677   || 1575 w/s
+INFO:root:Batch [20/44] || pos:0.7279   || 1846 w/s
+INFO:root:Batch [30/44] || pos:0.7432   || 1814 w/s
+INFO:root:Batch [40/44] || pos:0.7005   || 1757 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7746   | 0.436     | 0.4341 | 0.4206 | 0.4341            | 874     |
+| known-tokens     | 0.7997   | 0.5656    | 0.5598 | 0.5418 | 0.5598            | 679     |
+| unknown-tokens   | 0.6872   | 0.3249    | 0.3418 | 0.3192 | 0.3418            | 195     |
+| ambiguous-tokens | 0.7679   | 0.5579    | 0.5597 | 0.5372 | 0.5597            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7746"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="17" best="0.7746" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="17" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 28.12it/s]6it [00:00, 27.32it/s]
+
+::: Dev losses :::
+
+pos: 0.9954
+
+0it [00:00, ?it/s]3it [00:00, 27.37it/s]6it [00:00, 28.19it/s]6it [00:00, 28.01it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [18] in [5] secs
+INFO:root:Starting epoch [19]
+INFO:root:Batch [10/44] || pos:0.6924   || 1786 w/s
+INFO:root:Batch [20/44] || pos:0.7022   || 1638 w/s
+INFO:root:Batch [30/44] || pos:0.6544   || 1635 w/s
+INFO:root:Batch [40/44] || pos:0.7233   || 1706 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7803   | 0.4344    | 0.4346 | 0.4208 | 0.4346            | 874     |
+| known-tokens     | 0.8085   | 0.5701    | 0.5692 | 0.5507 | 0.5692            | 679     |
+| unknown-tokens   | 0.6821   | 0.3183    | 0.3351 | 0.3125 | 0.3351            | 195     |
+| ambiguous-tokens | 0.7781   | 0.5626    | 0.5668 | 0.544  | 0.5668            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7803"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="18" best="0.7803" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="18" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 27.53it/s]6it [00:00, 28.59it/s]6it [00:00, 28.39it/s]
+
+::: Dev losses :::
+
+pos: 0.9527
+
+0it [00:00, ?it/s]2it [00:00, 19.79it/s]5it [00:00, 23.63it/s]6it [00:00, 22.88it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [19] in [5] secs
+INFO:root:Starting epoch [20]
+INFO:root:Batch [10/44] || pos:0.6881   || 1626 w/s
+INFO:root:Batch [20/44] || pos:0.6347   || 1729 w/s
+INFO:root:Batch [30/44] || pos:0.6217   || 1880 w/s
+INFO:root:Batch [40/44] || pos:0.6206   || 1658 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.778    | 0.4292    | 0.4302 | 0.4157 | 0.4302            | 874     |
+| known-tokens     | 0.8041   | 0.5622    | 0.5631 | 0.5432 | 0.5631            | 679     |
+| unknown-tokens   | 0.6872   | 0.3191    | 0.3362 | 0.3136 | 0.3362            | 195     |
+| ambiguous-tokens | 0.7704   | 0.5441    | 0.5571 | 0.5315 | 0.5571            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="1" mode="max" weight="1.0" best="0.7803"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="19" best="0.7803" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="19" mode="max" mode_worse="-inf" num_bad_epochs="1" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 28.54it/s]6it [00:00, 26.69it/s]
+
+::: Dev losses :::
+
+pos: 0.9370
+
+0it [00:00, ?it/s]3it [00:00, 27.84it/s]6it [00:00, 32.30it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [20] in [5] secs
+INFO:root:Starting epoch [21]
+INFO:root:Batch [10/44] || pos:0.5907   || 1653 w/s
+INFO:root:Batch [20/44] || pos:0.5965   || 1813 w/s
+INFO:root:Batch [30/44] || pos:0.5596   || 1622 w/s
+INFO:root:Batch [40/44] || pos:0.5793   || 1870 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7838   | 0.4327    | 0.4326 | 0.418  | 0.4326            | 874     |
+| known-tokens     | 0.81     | 0.5665    | 0.5649 | 0.5456 | 0.5649            | 679     |
+| unknown-tokens   | 0.6923   | 0.32      | 0.3386 | 0.3151 | 0.3386            | 195     |
+| ambiguous-tokens | 0.7781   | 0.5508    | 0.5601 | 0.5357 | 0.5601            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7838"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="20" best="0.7838" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="20" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 26.13it/s]6it [00:00, 29.03it/s]
+
+::: Dev losses :::
+
+pos: 0.9347
+
+0it [00:00, ?it/s]3it [00:00, 27.61it/s]6it [00:00, 30.38it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [21] in [4] secs
+INFO:root:Starting epoch [22]
+INFO:root:Batch [10/44] || pos:0.5876   || 1888 w/s
+INFO:root:Batch [20/44] || pos:0.5883   || 1800 w/s
+INFO:root:Batch [30/44] || pos:0.5011   || 1896 w/s
+INFO:root:Batch [40/44] || pos:0.5549   || 1724 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7803   | 0.4372    | 0.4373 | 0.4225 | 0.4373            | 874     |
+| known-tokens     | 0.8071   | 0.5659    | 0.5645 | 0.5451 | 0.5645            | 679     |
+| unknown-tokens   | 0.6872   | 0.3248    | 0.345  | 0.3206 | 0.345             | 195     |
+| ambiguous-tokens | 0.7755   | 0.55      | 0.5596 | 0.535  | 0.5596            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="1" mode="max" weight="1.0" best="0.7838"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.001" delay="0" steps="21" best="0.7838" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.75" in_cooldown="False" last_epoch="21" mode="max" mode_worse="-inf" num_bad_epochs="1" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 33.14it/s]6it [00:00, 29.45it/s]
+
+::: Dev losses :::
+
+pos: 0.9722
+
+0it [00:00, ?it/s]4it [00:00, 29.50it/s]6it [00:00, 31.36it/s]
+INFO:root:Early stopping training: task [pos] with best score 0.7838
+INFO:root:Finished training in [96] secs
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7838   | 0.4423    | 0.4439 | 0.4298 | 0.4439            | 874     |
+| known-tokens     | 0.8115   | 0.5793    | 0.582  | 0.5618 | 0.582             | 679     |
+| unknown-tokens   | 0.6872   | 0.3181    | 0.3365 | 0.3139 | 0.3365            | 195     |
+| ambiguous-tokens | 0.7806   | 0.5764    | 0.5847 | 0.561  | 0.5847            | 392     |
+
+Evaluating model on test set
+0it [00:00, ?it/s]4it [00:00, 34.36it/s]6it [00:00, 32.54it/s]
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.76     | 0.5376    | 0.5475 | 0.5217 | 0.5475            | 879     |
+| known-tokens     | 0.7961   | 0.5777    | 0.5825 | 0.563  | 0.5825            | 667     |
+| unknown-tokens   | 0.6462   | 0.4223    | 0.4769 | 0.4269 | 0.4769            | 212     |
+| ambiguous-tokens | 0.7339   | 0.5295    | 0.5371 | 0.5028 | 0.5371            | 357     |
+
+Saved best model to: [./pos_model-pos-2024_08_06-12_01_08.tar]
+0it [00:00, ?it/s]3it [00:00, 29.36it/s]6it [00:00, 28.02it/s]6it [00:00, 28.17it/s]
+Bye!
+INFO:pie.data.dataset:Original 'word' vocab contains 50000 entries (reserved not included)
+INFO:pie.data.dataset:Added 2 new entries to the vocabulary of label_encoder 'word'
+INFO:pie.data.dataset:Original 'char' vocab contains 52 entries (reserved not included)
+INFO:pie.data.dataset:Added 1 new entries to the vocabulary of label_encoder 'char'
+INFO:pie.data.dataset:Original 'pos' vocab contains 1411 entries (reserved not included)
+INFO:pie.data.dataset:Added 22 new entries to the vocabulary of label_encoder 'pos'
+INFO:root:Starting epoch [1]
+INFO:root:Batch [10/56] || pos:7.5114   || 1452 w/s
+INFO:root:Batch [20/56] || pos:3.2380   || 1542 w/s
+INFO:root:Batch [30/56] || pos:2.0733   || 1793 w/s
+INFO:root:Batch [40/56] || pos:1.6068   || 1830 w/s
+INFO:root:Batch [50/56] || pos:1.3464   || 1751 w/s
+
+::: Loaded Config :::
+
+batch_size: 25
+breakline_data: ''
+breakline_ref: ''
+buffer_size: 10000
+cache_dataset: false
+cell: LSTM
+cemb_dim: 100
+cemb_layers: 1
+cemb_type: rnn
+char_bos: true
+char_eos: true
+char_lower: false
+char_max_size: 56
+char_min_freq: 1
+checks_per_epoch: 1
+clip_norm: 5.0
+config_path: json_defaultforpos.json
+custom_cemb_cell: true
+dev_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/val_data_manual.tsv
+device: cpu
+drop_diacritics: false
+dropout: 0.2
+epochs: 100
+factor: 1
+freeze_embeddings: false
+header: true
+hidden_size: 100
+include_lm: false
+init_rnn: xavier_uniform
+input_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/train_data_manual.tsv
+linear_layers: 1
+lm_schedule:
+  factor: 0.5
+  mode: min
+  patience: 2
+  weight: 0.2
+lm_shared_softmax: true
+load_pretrained_embeddings: ''
+load_pretrained_encoder: ''
+load_pretrained_model:
+  exclude: []
+  labels_mode: expand
+  pretrained: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/pos.tar
+lr: 0.002
+lr_scheduler: ReduceLROnPlateau
+lr_scheduler_delay: 0
+lr_scheduler_params:
+  factor: 0.25
+  min_lr: 1.0e-06
+  mode: max
+  patience: 2
+max_sent_len: 35
+max_sents: 1000000
+merge_type: concat
+min_weight: 0
+minimize_pad: false
+modelname: pos_model
+modelpath: ./
+noise_strategies:
+  uppercase:
+    apply: false
+    params: {}
+    ratio: 0.1
+num_layers: 1
+optimizer: Adam
+optimizer_params: {}
+patience: 10
+pretrain_embeddings: false
+report_freq: 10
+run_test: false
+scorer: general
+seed: auto
+sep: "\t"
+shuffle: true
+task_defaults:
+  context: sentence
+  decoder: linear
+  layer: -1
+  level: token
+  schedule:
+    evaluation: accuracy
+tasks:
+- context: sentence
+  decoder: linear
+  default: copy
+  layer: -1
+  level: token
+  name: pos
+  read_only: false
+  schedule:
+    evaluation: accuracy
+    patience: 2
+    threshold: 0.001
+  settings:
+    bos: false
+    eos: false
+    lower: false
+  target: pos
+tasks_order:
+- pos
+test_path: /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/test_data_manual.tsv
+threshold: 0
+utfnorm: false
+utfnorm_type: NFKD
+verbose: true
+wemb_dim: 64
+word_dropout: 0.2
+word_lower: false
+word_max_size: 50002
+word_min_freq: 1
+
+Using seed: 120444
+::: Available tasks :::
+
+- pos
+- lemma
+
+::: Fitting/Expanding MultiLabelEncoder with data :::
+
+
+::: Vocabulary :::
+
+- word            types=50002/122778=0.41 tokens=1618189/1694587=0.95
+- char            types=53/53=1.00 tokens=8427733/8427733=1.00
+
+::: Tasks :::
+
+- pos             target=pos    level=token  vocab=1435  
+
+Initializing LSTM with scheme: xavier_uniform
+Loading pretrained model /Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/pos.tar
+Initialized 56/57 params from module cemb.emb (56 in pretrained model) - params ['weight'] of module 'cemb.emb' loaded
+Loaded module 'cemb.rnn'
+Loaded module 'encoder.rnn'
+Initialized 1413/1435 params from module pos_decoder (1413 in pretrained model) - params ['nll_weight', 'decoder.weight', 'decoder.bias'] of module 'pos_decoder' loaded
+The following modules were not loaded from the pretrained state_dict: 
+	- wemb.weight
+::: Model :::
+
+SimpleModel(
+  (wemb): Embedding(50004, 64, padding_idx=1)
+  (cemb): RNNEmbedding(
+    (emb): Embedding(57, 100, padding_idx=2)
+    (rnn): CustomBiLSTM(
+      (fwd_0): CustomLSTM(
+        (cell): CustomLSTMCell(100, 100)
+      )
+      (bwd_0): CustomLSTM(
+        (cell): CustomLSTMCell(100, 100)
+      )
+    )
+  )
+  (encoder): RNNEncoder(
+    (rnn): ModuleList(
+      (0): LSTM(264, 100, bidirectional=True)
+    )
+  )
+  (pos_decoder): LinearDecoder(
+    (decoder): Linear(in_features=200, out_features=1435, bias=True)
+  )
+)
+
+::: Model parameters :::
+
+3947991/3947991 trainable/total
+
+Starting training
+
+Evaluation check every 55/56 batches
+
+::: Task schedules :::
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="-inf"/>
+</TaskScheduler>
+
+::: LR schedule :::
+
+<LrScheduler="ReduceLROnPlateau" lr="0.002" delay="0" steps="0" best="-inf" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.25" in_cooldown="False" last_epoch="0" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]3it [00:00, 20.03it/s]6it [00:00, 21.81it/s]7it [00:00, 23.31it/s]
+
+::: Dev losses :::
+
+pos: 1.1827
+
+0it [00:00, ?it/s]3it [00:00, 24.63it/s]7it [00:00, 29.93it/s]7it [00:00, 29.11it/s]
+INFO:root:Evaluation time: 1 sec
+INFO:root:Finished epoch [1] in [5] secs
+INFO:root:Starting epoch [2]
+INFO:root:Batch [10/56] || pos:0.9243   || 1645 w/s
+INFO:root:Batch [20/56] || pos:0.8740   || 1744 w/s
+INFO:root:Batch [30/56] || pos:0.7857   || 1842 w/s
+INFO:root:Batch [40/56] || pos:0.8679   || 1725 w/s
+INFO:root:Batch [50/56] || pos:0.8253   || 1843 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7426   | 0.395     | 0.3711 | 0.365  | 0.3711            | 874     |
+| known-tokens     | 0.7688   | 0.4877    | 0.4697 | 0.4546 | 0.4697            | 679     |
+| unknown-tokens   | 0.6513   | 0.2857    | 0.3201 | 0.2952 | 0.3201            | 195     |
+| ambiguous-tokens | 0.773    | 0.5415    | 0.5224 | 0.5043 | 0.5224            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7426"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.002" delay="0" steps="1" best="0.7426" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.25" in_cooldown="False" last_epoch="1" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 32.89it/s]7it [00:00, 33.36it/s]
+
+::: Dev losses :::
+
+pos: 0.9217
+
+0it [00:00, ?it/s]4it [00:00, 36.96it/s]7it [00:00, 35.11it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [2] in [4] secs
+INFO:root:Starting epoch [3]
+INFO:root:Batch [10/56] || pos:0.5151   || 1800 w/s
+INFO:root:Batch [20/56] || pos:0.5663   || 1765 w/s
+INFO:root:Batch [30/56] || pos:0.4973   || 1444 w/s
+INFO:root:Batch [40/56] || pos:0.5038   || 1577 w/s
+INFO:root:Batch [50/56] || pos:0.5288   || 1759 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.786    | 0.4538    | 0.4547 | 0.4393 | 0.4547            | 874     |
+| known-tokens     | 0.813    | 0.5718    | 0.5746 | 0.5541 | 0.5746            | 679     |
+| unknown-tokens   | 0.6923   | 0.2986    | 0.3504 | 0.3133 | 0.3504            | 195     |
+| ambiguous-tokens | 0.7883   | 0.5692    | 0.5711 | 0.5538 | 0.5711            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.786"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.002" delay="0" steps="2" best="0.786" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.25" in_cooldown="False" last_epoch="2" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 35.30it/s]7it [00:00, 35.00it/s]
+
+::: Dev losses :::
+
+pos: 0.8738
+
+0it [00:00, ?it/s]4it [00:00, 31.73it/s]7it [00:00, 33.81it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [3] in [5] secs
+INFO:root:Starting epoch [4]
+INFO:root:Batch [10/56] || pos:0.3602   || 1409 w/s
+INFO:root:Batch [20/56] || pos:0.3367   || 1710 w/s
+INFO:root:Batch [30/56] || pos:0.3439   || 1763 w/s
+INFO:root:Batch [40/56] || pos:0.3549   || 1748 w/s
+INFO:root:Batch [50/56] || pos:0.3100   || 1778 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7929   | 0.4707    | 0.4782 | 0.4617 | 0.4782            | 874     |
+| known-tokens     | 0.8247   | 0.6018    | 0.5975 | 0.5849 | 0.5975            | 679     |
+| unknown-tokens   | 0.6821   | 0.2912    | 0.3332 | 0.3041 | 0.3332            | 195     |
+| ambiguous-tokens | 0.7857   | 0.5715    | 0.5985 | 0.5728 | 0.5985            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="0" mode="max" weight="1.0" best="0.7929"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.002" delay="0" steps="3" best="0.7929" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.25" in_cooldown="False" last_epoch="3" mode="max" mode_worse="-inf" num_bad_epochs="0" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 32.21it/s]7it [00:00, 34.02it/s]
+
+::: Dev losses :::
+
+pos: 0.8610
+
+0it [00:00, ?it/s]4it [00:00, 35.19it/s]7it [00:00, 33.91it/s]
+INFO:root:Evaluation time: 0 sec
+INFO:root:Finished epoch [4] in [5] secs
+INFO:root:Starting epoch [5]
+INFO:root:Batch [10/56] || pos:0.2776   || 1869 w/s
+INFO:root:Batch [20/56] || pos:0.2506   || 1932 w/s
+INFO:root:Batch [30/56] || pos:0.2568   || 1810 w/s
+INFO:root:Batch [40/56] || pos:0.2578   || 1853 w/s
+INFO:root:Batch [50/56] || pos:0.2153   || 1821 w/s
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7895   | 0.4825    | 0.4928 | 0.473  | 0.4928            | 874     |
+| known-tokens     | 0.8247   | 0.614     | 0.6163 | 0.5975 | 0.6163            | 679     |
+| unknown-tokens   | 0.6667   | 0.2988    | 0.3283 | 0.3032 | 0.3283            | 195     |
+| ambiguous-tokens | 0.7857   | 0.6251    | 0.6325 | 0.6107 | 0.6325            | 392     |
+
+<TaskScheduler patience="10" factor="1" threshold="0" min_weight="0">
+    <Task name="pos" patience="2" threshold="0.001" evaluation="accuracy" target="True" steps="1" mode="max" weight="1.0" best="0.7929"/>
+</TaskScheduler>
+
+<LrScheduler="ReduceLROnPlateau" lr="0.002" delay="0" steps="4" best="0.7929" cooldown="0" cooldown_counter="0" eps="1e-08" factor="0.25" in_cooldown="False" last_epoch="4" mode="max" mode_worse="-inf" num_bad_epochs="1" patience="2" threshold="0.0001" threshold_mode="rel" verbose="False"/>
+
+
+Evaluating model on dev set...
+
+0it [00:00, ?it/s]4it [00:00, 34.09it/s]7it [00:00, 34.13it/s]
+
+::: Dev losses :::
+
+pos: 0.8724
+
+0it [00:00, ?it/s]4it [00:00, 33.70it/s]7it [00:00, 34.89it/s]
+INFO:root:Early stopping training: task [pos] with best score 0.7929
+INFO:root:Finished training in [23] secs
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7895   | 0.4893    | 0.4975 | 0.4799 | 0.4975            | 874     |
+| known-tokens     | 0.8233   | 0.6158    | 0.6221 | 0.602  | 0.6221            | 679     |
+| unknown-tokens   | 0.6718   | 0.3166    | 0.348  | 0.3229 | 0.348             | 195     |
+| ambiguous-tokens | 0.7806   | 0.6234    | 0.6422 | 0.6116 | 0.6422            | 392     |
+
+Evaluating model on test set
+0it [00:00, ?it/s]5it [00:00, 40.52it/s]8it [00:00, 42.13it/s]
+
+## pos
+
+|                  | accuracy | precision | recall | f1     | balanced-accuracy | support |
+|------------------|----------|-----------|--------|--------|-------------------|---------|
+| all              | 0.7782   | 0.5612    | 0.5778 | 0.551  | 0.5778            | 879     |
+| known-tokens     | 0.8231   | 0.6535    | 0.6541 | 0.6365 | 0.6541            | 667     |
+| unknown-tokens   | 0.6368   | 0.3388    | 0.4032 | 0.3525 | 0.4032            | 212     |
+| ambiguous-tokens | 0.7759   | 0.5996    | 0.5981 | 0.5755 | 0.5981            | 357     |
+
+Saved best model to: [./pos_model-pos-2024_08_06-12_05_08.tar]
+0it [00:00, ?it/s]4it [00:00, 32.13it/s]7it [00:00, 29.15it/s]
+Bye!

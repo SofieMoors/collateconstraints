@@ -1,0 +1,42 @@
+OUTPUT: lemma.tar
+
+Label encoder:
+<MultiLabelEncoder>
+	<LabelEncoder name="word" lower="False" utfnorm="False" utfnorm_type="False" target="None" vocab="token" level="50002" fitted="True"/>
+	<LabelEncoder name="char" lower="False" utfnorm="False" utfnorm_type="False" target="None" vocab="char" level="56" fitted="True"/>
+	<LabelEncoder name="lemma" lower="True" utfnorm="False" utfnorm_type="False" target="lemma" vocab="char" level="63" fitted="True"/>
+</MultiLabelEncoder>
+
+Model params:
+{'args': [0, 300, 150, 1], 'kwargs': {'dropout': 0.25, 'word_dropout': 0, 'cell': 'GRU', 'merge_type': 'concat', 'linear_layers': 1, 'cemb_type': 'rnn', 'cemb_layers': 2, 'include_lm': True, 'scorer': 'general', 'custom_cemb_cell': False}}
+
+Model layers:
+['cemb.emb.weight', 'cemb.rnn.weight_ih_l0', 'cemb.rnn.weight_hh_l0', 'cemb.rnn.bias_ih_l0', 'cemb.rnn.bias_hh_l0', 'cemb.rnn.weight_ih_l0_reverse', 'cemb.rnn.weight_hh_l0_reverse', 'cemb.rnn.bias_ih_l0_reverse', 'cemb.rnn.bias_hh_l0_reverse', 'cemb.rnn.weight_ih_l1', 'cemb.rnn.weight_hh_l1', 'cemb.rnn.bias_ih_l1', 'cemb.rnn.bias_hh_l1', 'cemb.rnn.weight_ih_l1_reverse', 'cemb.rnn.weight_hh_l1_reverse', 'cemb.rnn.bias_ih_l1_reverse', 'cemb.rnn.bias_hh_l1_reverse', 'encoder.rnn.0.weight_ih_l0', 'encoder.rnn.0.weight_hh_l0', 'encoder.rnn.0.bias_ih_l0', 'encoder.rnn.0.bias_hh_l0', 'encoder.rnn.0.weight_ih_l0_reverse', 'encoder.rnn.0.weight_hh_l0_reverse', 'encoder.rnn.0.bias_ih_l0_reverse', 'encoder.rnn.0.bias_hh_l0_reverse', 'lemma_decoder.nll_weight', 'lemma_decoder.embs.weight', 'lemma_decoder.rnn.weight_ih_l0', 'lemma_decoder.rnn.weight_hh_l0', 'lemma_decoder.rnn.bias_ih_l0', 'lemma_decoder.rnn.bias_hh_l0', 'lemma_decoder.rnn.weight_ih_l1', 'lemma_decoder.rnn.weight_hh_l1', 'lemma_decoder.rnn.bias_ih_l1', 'lemma_decoder.rnn.bias_hh_l1', 'lemma_decoder.attn.scorer.W_a.weight', 'lemma_decoder.attn.linear_out.weight', 'lemma_decoder.proj.weight', 'lemma_decoder.proj.bias', 'lm_fwd_decoder.nll_weight', 'lm_fwd_decoder.decoder.weight', 'lm_fwd_decoder.decoder.bias', 'lm_bwd_decoder.nll_weight', 'lm_bwd_decoder.decoder.weight', 'lm_bwd_decoder.decoder.bias']
+hidden_size: 150
+num_layers: 1
+cemb_dim: 300
+Size of characters vocabulary (incl. 2 extra/default chars): 56
+Size of words vocabulary (incl. 2 extra/default words): 50002
+Number of labels for task lemma (incl. 1 extra/default label ??): 63
+
+OUTPUT: pos.tar
+
+Label encoder:
+<MultiLabelEncoder>
+	<LabelEncoder name="word" lower="False" utfnorm="False" utfnorm_type="False" target="None" vocab="token" level="50002" fitted="True"/>
+	<LabelEncoder name="char" lower="False" utfnorm="False" utfnorm_type="False" target="None" vocab="char" level="56" fitted="True"/>
+	<LabelEncoder name="pos" lower="False" utfnorm="False" utfnorm_type="False" target="pos" vocab="token" level="1413" fitted="True"/>
+</MultiLabelEncoder>
+
+Model params:
+{'args': [64, 100, 100, 1], 'kwargs': {'dropout': 0.2, 'word_dropout': 0.2, 'cell': 'LSTM', 'merge_type': 'concat', 'linear_layers': 1, 'cemb_type': 'rnn', 'cemb_layers': 1, 'include_lm': False, 'scorer': 'general', 'custom_cemb_cell': True}}
+
+Model layers:
+['wemb.weight', 'cemb.emb.weight', 'cemb.rnn.fwd_0.cell.weight_ih', 'cemb.rnn.fwd_0.cell.weight_hh', 'cemb.rnn.fwd_0.cell.bias', 'cemb.rnn.bwd_0.cell.weight_ih', 'cemb.rnn.bwd_0.cell.weight_hh', 'cemb.rnn.bwd_0.cell.bias', 'encoder.rnn.0.weight_ih_l0', 'encoder.rnn.0.weight_hh_l0', 'encoder.rnn.0.bias_ih_l0', 'encoder.rnn.0.bias_hh_l0', 'encoder.rnn.0.weight_ih_l0_reverse', 'encoder.rnn.0.weight_hh_l0_reverse', 'encoder.rnn.0.bias_ih_l0_reverse', 'encoder.rnn.0.bias_hh_l0_reverse', 'pos_decoder.nll_weight', 'pos_decoder.decoder.weight', 'pos_decoder.decoder.bias']
+hidden_size: 100
+num_layers: 1
+cemb_dim: 100
+Size of characters vocabulary (incl. 2 extra/default chars): 56
+wemb_dim: 64
+Size of words vocabulary (incl. 2 extra/default words): 50002
+Number of labels for task pos (incl. 1 extra/default label ??): 1413

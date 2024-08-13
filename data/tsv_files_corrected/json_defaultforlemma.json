@@ -1,0 +1,131 @@
+{
+  "verbose": true,
+  "report_freq": 10, //how frequently progress information (such as training loss) is reported (mike has 200)
+  "modelname": "lemma_model",
+  "modelpath": "./",
+  "seed": "auto",
+  "input_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/train_data_manual.tsv",
+  "dev_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/val_data_manual.tsv",
+  "test_path": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/test_data_manual.tsv",
+  //"input_path":"/Users/sofiemoors/Downloads/oc_gold-ud-train.tsv",
+  //"dev_path":"/Users/sofiemoors/Downloads/oc_gold-ud-dev.tsv",
+  //"test_path":"/Users/sofiemoors/Downloads/oc_gold-ud-test.tsv",
+  "breakline_ref": "",
+  "breakline_data": "",
+  "max_sent_len": 35,
+  "max_sents": 1000000,
+  //"word_max_size": 50000,
+  "word_max_size": 50002,
+  "word_min_freq": 1,
+  "word_lower": false,
+  "char_max_size": 56,
+  //"char_max_size": 52,
+  "char_min_freq": 1,
+  "char_lower": false,
+  "char_eos": true,
+  "char_bos": true,
+  "utfnorm": false,
+  "utfnorm_type": "NFKD",
+  "drop_diacritics": false,
+  "header": true,
+  "sep": "\t",
+  "tasks_order": ["lemma"],
+  "tasks": [
+    {
+      "name": "lemma",
+      "level": "char",
+      "decoder": "attentional",
+      "context": "sentence",
+      "layer": -1,
+      "settings": {
+        "bos": true,
+        "eos": true,
+        "lower": true //mike has true (not false)
+      },
+      "target": "lemma", //mike has 'lemma' (not true)
+      "schedule": {
+        "patience": 2,
+        "threshold": 0.001,
+        "evaluation": "accuracy"
+      },
+      "default": "copy",
+      "read_only": false
+    }
+  ],
+  "task_defaults": {
+    "level": "token",
+    "layer": -1,
+    "decoder": "linear",
+    "context": "sentence",
+    "schedule": {
+      "evaluation": "accuracy"
+    }
+  },
+  "patience": 10,
+  "factor": 1,
+  "threshold": 0,
+  "min_weight": 0,
+  "include_lm": true,
+  "lm_shared_softmax": true,
+  "lm_schedule": {
+    "patience": 2,
+    "factor": 0.5,
+    "weight": 0.2,
+    "mode": "min"
+  },
+  "buffer_size": 10000,
+  "cache_dataset": false,
+  "minimize_pad": false,
+  "epochs": 100,
+  "batch_size": 32, //mike has 25
+  "shuffle": true,
+  "device": "cpu",
+  "run_test": false,
+  "pretrain_embeddings": false,
+  "load_pretrained_embeddings": "",
+  "load_pretrained_encoder": "",
+  "freeze_embeddings": false,
+  "load_pretrained_model": {
+    "pretrained": "/Users/sofiemoors/Library/CloudStorage/OneDrive-UniversiteitAntwerpen/Documenten/Vormvast/collate_constraints/data/tsv_files_corrected/lemma.tar",
+    "exclude": [],
+    "labels_mode": "expand"
+  },
+  "dropout": 0.25,
+  "word_dropout": 0,
+  "optimizer": "Ranger", //mike has Adam
+  "optimizer_params": {},
+  "clip_norm": 5.0,
+  "lr": 0.001,
+  "lr_scheduler": "ReduceLROnPlateau",
+  "lr_scheduler_delay": 0,
+  "lr_scheduler_params": {
+    "mode": "max",
+    "factor": 0.75,
+    "patience": 2,
+    "min_lr": 0.000001
+  },
+  "checks_per_epoch": 1,
+  "wemb_dim": 0,
+  "cemb_dim": 300,
+  //"cemb_dim": 150,
+  "cemb_type": "rnn",
+  "custom_cemb_cell": false,
+  "cemb_layers": 2,
+  //"cemb_layers": 1,
+  "merge_type": "concat",
+  "scorer": "general",
+  "linear_layers": 1,
+  "hidden_size": 150,
+  //"hidden_size": 300,
+  "num_layers": 1,
+  "cell": "GRU",
+  "init_rnn": "default",
+  "noise_strategies": {
+    "uppercase": {
+      "apply": false,
+      "ratio": 0.10,
+      "params": {}
+    }
+  }
+}
+
