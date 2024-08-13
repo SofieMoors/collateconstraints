@@ -132,4 +132,4 @@ dmypy.json
 *.DS_Store
 .DS_Store
 
-data/tsv_files_corrected/*.tar
+../data/tsv_files_corrected/*.tar
