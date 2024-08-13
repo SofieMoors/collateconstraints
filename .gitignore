@@ -134,3 +134,7 @@ dmypy.json
 
 data/tsv_files_corrected/*.tar
 src/collation/collationmartijns/*.csv
+data/tsv_files_corrected/lemma.tar
+data/tsv_files_corrected/lemma_model-lemma-2024_08_06-11_58_30.tar
+data/tsv_files_corrected/lemma_model-lemma-2024_08_05-16_39_17.tar
+src/collation/collationmartijns/matches.csv
