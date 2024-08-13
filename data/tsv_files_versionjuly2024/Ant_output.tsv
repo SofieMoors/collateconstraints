@@ -1,0 +1,222 @@
+line_id	form	lemma	pos	corr_lemma	corr_pos	damage
+
+
+Ant_M1_47_608	ijt	iet	pron(indef)	iet	pron(indef)	True
+
+
+
+
+
+
+
+
+Ant_M1_48_616	jn	in	adp()	in	adp()	True
+
+
+
+
+
+
+
+
+
+
+Ant_M1_49_626	t	te	pron(pers,3,sing)	te	pron(pers,3,sing)	True
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ant_M1_50_644	soe	zij	adv(resum)	zij	adv(resum)	True
+Ant_M1_50_644	viel	vallen	v(fin,past,lex)	vallen	v(fin,past,lex)	True
+
+Ant_M1_50_645	dus	dus	adv(dem)	dus	adv(dem)	True
+Ant_M1_50_645	moch	mogen	v(fin,pres,aux_cop)	mogen	v(fin,pres,aux_cop)	True
+
+Ant_M1_50_646	ende	en	conj(coord)	en	conj(coord)	True
+Ant_M1_50_646	clare	klaar	adj()	klaar	adj()	True
+
+Ant_M1_50_647	miltheit	mildheid	n(sing)	mildheid	n(sing)	True
+Ant_M1_50_647	h	hij	n(sing)	hij	n(sing)	True
+
+Ant_M1_50_648	vrecheit	vrekheid	n(sing)	vrekheid	n(sing)	True
+Ant_M1_50_648	l	v	num(card)	v	num(card)	True
+
+Ant_M1_50_649	dit	dit	pron(dem)	dit	pron(dem)	True
+Ant_M1_50_649	proeu	proef	n(sing)	proef	n(sing)	True
+
+Ant_M1_50_650	die	de	art(def)	de	art(def)	True
+Ant_M1_50_650	winn	win	n(plu)	win	n(plu)	True
+
+Ant_M1_51_651	iacob	jacob	n(prop)	jacob	n(prop)	True
+Ant_M1_51_651	e	en	conj(coord)	en	conj(coord)	True
+
+Ant_M1_51_652	als	als	conj(subord)	als	conj(subord)	True
+Ant_M1_51_652	d	d	n(plu)	d	n(plu)	True
+
+Ant_M1_51_653	van	van	adp()	van	adp()	True
+Ant_M1_51_653	gher	gerhard	n(prop)	gerhard	n(prop)	True
+
+Ant_M1_51_654	doet	doen	n(sing)	doen	n(sing)	True
+Ant_M1_51_654	der	de	art(def)	de	art(def)	True
+Ant_M1_51_654	og	of	n(sing)	of	n(sing)	True
+
+Ant_M1_51_655	oft	of	conj(coord)	of	conj(coord)	True
+Ant_M1_51_655	comt	komen	v(fin,pres,lex)	komen	v(fin,pres,lex)	True
+
+Ant_M1_51_656	dit	dit	pron(dem)	dit	pron(dem)	True
+Ant_M1_51_656	euel	euvel	n(sing)	euvel	n(sing)	True
+Ant_M1_51_656	t	tot	pron(pers,3,sing)	tot	pron(pers,3,sing)	True
+
+Ant_M1_51_657	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ant_M1_51_657	liet	laten	v(fin,past,lex)	laten	v(fin,past,lex)	True
+Ant_M1_51_657	m	m	num(card)	m	num(card)	True
+
+Ant_M1_51_658	ende	en	conj(coord)	en	conj(coord)	True
+Ant_M1_51_658	ics	het+ik	pron(pers,3,sing)+pron(pers,1,sing)	het+ik	pron(pers,3,sing)+pron(pers,1,sing)	True
+Ant_M1_51_658	vr	uw	pron(pers,3,sing)	uw	pron(pers,3,sing)	True
+
+Ant_M1_51_659	maect	maken	v(fin,pres,lex)	maken	v(fin,pres,lex)	True
+Ant_M1_51_659	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+
+Ant_M1_51_660	mijn	mijn	pron(poss)	mijn	pron(poss)	True
+Ant_M1_51_660	hert	hart	n(sing)	hart	n(sing)	True
+
+Ant_M1_51_661	mine	mijn	pron(poss)	mijn	pron(poss)	True
+Ant_M1_51_661	besce	bis	n(plu)	bis	n(plu)	True
+
+Ant_M1_51_662	en	ne	adv(neg)	ne	adv(neg)	True
+Ant_M1_51_662	es	zijn	v(fin,pres,aux_cop)	zijn	v(fin,pres,aux_cop)	True
+Ant_M1_51_662	niet	niet	adv(neg)	niet	adv(neg)	True
+
+Ant_M1_51_663	na	na	adp()	na	adp()	True
+Ant_M1_51_663	dat	dat	pron(rel)	dat	pron(rel)	True
+Ant_M1_51_663	ic	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+
+Ant_M1_52_664	merten	martin	n(prop)	martin	n(prop)	True
+Ant_M1_52_664	du	du	pron(pers,2,sing)	du	pron(pers,2,sing)	True
+
+Ant_M1_52_665	du	du	pron(pers,2,sing)	du	pron(pers,2,sing)	True
+Ant_M1_52_665	spr	spreken	n(sing)	spreken	n(sing)	True
+
+Ant_M1_52_666	die	de	pron(rel)	de	pron(rel)	True
+Ant_M1_52_666	noch	nog	adv(gener)	nog	adv(gener)	True
+Ant_M1_52_666	n	na	misc()	na	misc()	True
+
+Ant_M1_52_667	alrehand	allerhande	adv(gener)	allerhande	adv(gener)	True
+
+Ant_M1_52_668	comt	komen	v(fin,pres,lex)	komen	v(fin,pres,lex)	True
+Ant_M1_52_668	van	van	adp()	van	adp()	True
+
+Ant_M1_52_669	dat	dat	conj(subord)	dat	conj(subord)	True
+Ant_M1_52_669	noit	nooit	adv(neg)	nooit	adv(neg)	True
+Ant_M1_52_669	do	toen	adv(dem)	toen	adv(dem)	True
+
+Ant_M1_52_670	hem	hij	pron(pers,3,sing)	hij	pron(pers,3,sing)	True
+Ant_M1_52_670	en	en	art(indef)	en	art(indef)	True
+Ant_M1_52_670	m	m	num(card)	m	num(card)	True
+
+Ant_M1_52_671	die	de	pron(rel)	de	pron(rel)	True
+Ant_M1_52_671	stille	stil	adv(gener)	stil	adv(gener)	True
+
+
+
+
+
+
+
+
+
+
+
+Ant_M1_53_682	en	en	adv(neg)	en	adv(neg)	True
+
+Ant_M1_53_683	n	n	misc()	n	misc()	True
+Ant_M1_53_683	wijt	wijd	adj()	wijd	adj()	True
+
+Ant_M1_53_684	r	r	misc()	r	misc()	True
+Ant_M1_53_684	di	du	pron(pers,2,sing)	du	pron(pers,2,sing)	True
+Ant_M1_53_684	lijt	lijden	v(fin,pres,lex)	lijden	v(fin,pres,lex)	True
+
+Ant_M1_53_685	ts	dat	pron(dem)	dat	pron(dem)	True
+Ant_M1_53_685	gelogen	liegen	v(participle,past)	liegen	v(participle,past)	True
+
+Ant_M1_53_686	neger	negeen	pron(indef)	negeen	pron(indef)	True
+Ant_M1_53_686	tijt	tijd	n(sing)	tijd	n(sing)	True
+
+Ant_M1_53_687	vor	voor	adp()	voor	adp()	True
+Ant_M1_53_687	lijt	lijden	v(fin,pres,lex)	lijden	v(fin,pres,lex)	True
+
+Ant_M1_53_688	gen	geen	pron(indef)	geen	pron(indef)	True
+
+Ant_M1_53_689	n	na	misc()	na	misc()	True
+
+Ant_M1_54_690	elijc	elk	pron(indef)	elk	pron(indef)	True
+Ant_M1_54_690	viant	vijand	n(sing)	vijand	n(sing)	True
+
+Ant_M1_54_691	menegen	menig	num(indef)	menig	num(indef)	True
+Ant_M1_54_691	pant	pand	n(sing)	pand	n(sing)	True
+
+
+Ant_M1_54_693	ere	eer	n(sing)	eer	n(sing)	True
+Ant_M1_54_693	di	du	pron(rel)	du	pron(rel)	True
+Ant_M1_54_693	vant	vinden	v(fin,past,lex)	vinden	v(fin,past,lex)	True
+
+Ant_M1_54_694	uus	usus	n(sing)	usus	n(sing)	True
+Ant_M1_54_694	ende	en	conj(coord)	en	conj(coord)	True
+Ant_M1_54_694	lant	land	n(sing)	land	n(sing)	True
+
+Ant_M1_54_695	houde	houden	adj()	houden	adj()	True
+
+Ant_M1_54_696	en	een	art(indef)	een	art(indef)	True
+Ant_M1_54_696	bant	band	v(fin,past,lex)	band	v(fin,past,lex)	True
+
+Ant_M1_54_697	n	na	misc()	na	misc()	True
+Ant_M1_54_697	i	1	num(card)	1	num(card)	True
+Ant_M1_54_697	sant	zand	n(sing)	zand	n(sing)	True
+
+Ant_M1_54_698	ude	ude	n(sing)	ude	n(sing)	True
+
+Ant_M1_54_699	metterhant	met+de+attan	adv(gener)	met+de+attan	adv(gener)	True
+
+Ant_M1_54_700	lken	lijken	n(prop)	lijken	n(prop)	True
+Ant_M1_54_700	pant	pand	n(sing)	pand	n(sing)	True
+
+Ant_M1_54_701	moude	moude	n(sing)	moude	n(sing)	True
+
+Ant_M1_54_702	woude	willen	v(fin,past,aux_cop)	willen	v(fin,past,aux_cop)	True
+
+Ant_M1_55_703	ge	ge	pron(pers,2,plu)	ge	pron(pers,2,plu)	True
+Ant_M1_55_703	sprac	spreken	v(fin,past,lex)	spreken	v(fin,past,lex)	True
+
+Ant_M1_55_704	ins	in+de	adp()+art(def)	in+de	adp()+art(def)	True
+Ant_M1_55_704	gebrac	gebreken	v(fin,past,lex)	gebreken	v(fin,past,lex)	True
+
+Ant_M1_55_705	nne	ne	adv(neg)	ne	adv(neg)	True
+
+Ant_M1_55_706	ongemac	ongemak	n(sing)	ongemak	n(sing)	True
+
+Ant_M1_55_707	uwert	uitwaart	n(sing)	uitwaart	n(sing)	True
+Ant_M1_55_707	lac	liggen	n(sing)	liggen	n(sing)	True
+
+Ant_M1_55_708	emt	het+men	v(fin,pres,lex)	het+men	v(fin,pres,lex)	True
+Ant_M1_55_708	mi	ik	pron(pers,1,sing)	ik	pron(pers,1,sing)	True
+Ant_M1_55_708	inne	in	pronadv(prep)	in	pronadv(prep)	True
+
+Ant_M1_55_709	le	le	adv(gener)	le	adv(gener)	True
+Ant_M1_55_709	wt	uit	adv(gener)	uit	adv(gener)	True
+Ant_M1_55_709	stac	steken	v(fin,past,lex)	steken	v(fin,past,lex)	True
+
