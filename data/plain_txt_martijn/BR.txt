@@ -381,42 +381,42 @@ Br_M1_59_757 Die luttel geuroeden
 
 
 
-Br_M2_7_086 Den liefsten die ...
-Br_M2_7_087 Hiertoe sijn si verdreuen
-Br_M2_7_088 Liecht mi nꝫ als een truwant
-Br_M2_7_089 Mʼ sech mi an welken cant
-Br_M2_7_090 Dijn hʼte es bleuen
-Br_M2_7_091 En̄ welker du liets sneuen
+Br_M2_07_086 Den liefsten die ...
+Br_M2_07_087 Hiertoe sijn si verdreuen
+Br_M2_07_088 Liecht mi nꝫ als een truwant
+Br_M2_07_089 Mʼ sech mi an welken cant
+Br_M2_07_090 Dijn hʼte es bleuen
+Br_M2_07_091 En̄ welker du liets sneuen
 
 
-Br_M2_8_092 Iacop dits geens vragens wʼt
-Br_M2_8_093 Die de wʼheit niet en sꝑt
-Br_M2_8_094 Heeft dit saen ontbonden
-Br_M2_8_095 Hets emmer dʼ hertē aert
-Br_M2_8_096 Dꝫ sider wʼt tijt en̄ vaert
-Br_M2_8_097 Danen hʼ quamen die wondē
-Br_M2_8_098 Al sout al varen gindʼwaert
-Br_M2_8_099 Dꝫ weluarens begaert
-Br_M2_8_100 Nv en̄ tallen stonden
-Br_M2_8_101 Jc vʼloeste die mi thʼte vʼswaert
-Br_M2_8_102 Soudic hʼ laten smakē tswʼt
-Br_M2_8_103 Dꝫ ware onderuonden
-Br_M2_8_104 Meerder moert dan sonde
+Br_M2_08_092 Iacop dits geens vragens wʼt
+Br_M2_08_093 Die de wʼheit niet en sꝑt
+Br_M2_08_094 Heeft dit saen ontbonden
+Br_M2_08_095 Hets emmer dʼ hertē aert
+Br_M2_08_096 Dꝫ sider wʼt tijt en̄ vaert
+Br_M2_08_097 Danen hʼ quamen die wondē
+Br_M2_08_098 Al sout al varen gindʼwaert
+Br_M2_08_099 Dꝫ weluarens begaert
+Br_M2_08_100 Nv en̄ tallen stonden
+Br_M2_08_101 Jc vʼloeste die mi thʼte vʼswaert
+Br_M2_08_102 Soudic hʼ laten smakē tswʼt
+Br_M2_08_103 Dꝫ ware onderuonden
+Br_M2_08_104 Meerder moert dan sonde
 
 
-Br_M2_9_105 Tonghe liecht mer thʼte niet
-Br_M2_9_106 Mʼ wat therte ghebiet
-Br_M2_9_107 Dꝫ wiltmen volbringen
-Br_M2_9_108 Wat es narsisus gesciet
-Br_M2_9_109 Die sine vorme spiegelt en̄ siet
-Br_M2_9_110 Jnt water sondʼ mingen
-Br_M2_9_111 Hant en̄ mont hi derwʼt biet
-Br_M2_9_112 Hi bidt hi claecht sij̄ verdriet
-Br_M2_9_113 Natuere wils niet gehingē
-Br_M2_9_114 Dꝫ hem can gehulpē iet
-Br_M2_9_115 Hine doelt soe hi selue siet
-Br_M2_9_116 Hine conste sijn hʼte nꝫ bedwingē
-Br_M2_9_117 Hine sterf bi desen dingen
+Br_M2_09_105 Tonghe liecht mer thʼte niet
+Br_M2_09_106 Mʼ wat therte ghebiet
+Br_M2_09_107 Dꝫ wiltmen volbringen
+Br_M2_09_108 Wat es narsisus gesciet
+Br_M2_09_109 Die sine vorme spiegelt en̄ siet
+Br_M2_09_110 Jnt water sondʼ mingen
+Br_M2_09_111 Hant en̄ mont hi derwʼt biet
+Br_M2_09_112 Hi bidt hi claecht sij̄ verdriet
+Br_M2_09_113 Natuere wils niet gehingē
+Br_M2_09_114 Dꝫ hem can gehulpē iet
+Br_M2_09_115 Hine doelt soe hi selue siet
+Br_M2_09_116 Hine conste sijn hʼte nꝫ bedwingē
+Br_M2_09_117 Hine sterf bi desen dingen
 
 
 Br_M2_10_118 MEdea toent ons selue dꝫ
@@ -427,8 +427,6 @@ Br_M2_10_122 Si liet conincrike en̄ scat
 
 
 
-Br_M2_10_123 
-Br_M2_10_124 
 Br_M2_10_125 Wijsde hʼ redene den rechtē pat
 Br_M2_10_126 Al volget si den loeder
 Br_M2_10_127 Mʼ thʼte was hʼ soe mat

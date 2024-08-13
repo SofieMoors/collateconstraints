@@ -339,10 +339,10 @@ Z_M1_55_715 En̄ mij̄ godinne
 
 
 
-Z_M2_9_114 Dꝫ hē cā gehulpen iet
-Z_M2_9_115 Hine doelt alse hi wel ziet
-Z_M2_9_116 Sine conste sij̄ hʼte bedwingē
-Z_M2_9_117 Hi sterf bi desen dingen
+Z_M2_09_114 Dꝫ hē cā gehulpen iet
+Z_M2_09_115 Hine doelt alse hi wel ziet
+Z_M2_09_116 Sine conste sij̄ hʼte bedwingē
+Z_M2_09_117 Hi sterf bi desen dingen
 
 
 Z_M2_10_118 Medea toēt ōs selue dat
@@ -463,6 +463,8 @@ Z_M2_24_300 Dꝫmē dit bi redenē weet
 Z_M2_24_301 dꝫ god niemē heuꝫ leet
 Z_M2_24_302 Wiē geeft hi dlange leuē
 Z_M2_24_303 Soe dē genē die gereet
+
+Line_number 304 is missing
 Z_M2_24_305 En̄ ondʼdaē es bleuen
 Z_M2_24_306 Jc dʼ seggē op minē eet
 Z_M2_24_307 Sij̄ houeschᵗ es ōgecleet
@@ -502,152 +504,154 @@ Z_M2_26_336 Mīne nꝫ ent hʼ iaer
 Z_M2_26_337 Entē lestē stonden
 Z_M2_26_338 Vriē mꝫ hʼn wonden
 
+Line_number 339 is missing
 
-Z_M3_1_000 Die dʼde merten boec
-Z_M3_1_001 Ic mane māne mꝫten wiuē
-Z_M3_1_002 die dit lesē of scriuē
-Z_M3_1_003 Opdē hoechten ban
+
+Z_M3_01_000 Die dʼde merten boec
+Z_M3_01_001 Ic mane māne mꝫten wiuē
+Z_M3_01_002 die dit lesē of scriuē
+Z_M3_01_003 Opdē hoechten ban
 
 Line_number 004 is missing
 
 
 
-Z_M3_1_005 En̄ sieʼ nꝫ in en driuen
-Z_M3_1_006 Wort lettʼe af no an
-Z_M3_1_007 Doē sijt oec hē sal becliuē
-Z_M3_1_008 Minē ban sine zelē afwriuen
-Z_M3_1_009 Niet mogē nochtan
-Z_M3_1_010 Dits geē spot vā ketiuē
-Z_M3_1_011 Hꝫs dʼ ic mi om liet ōtliuē
-Z_M3_1_012 Eer ickʼ sciede van
-Z_M3_1_013 Nv leʼe die leerē can
+Z_M3_01_005 En̄ sieʼ nꝫ in en driuen
+Z_M3_01_006 Wort lettʼe af no an
+Z_M3_01_007 Doē sijt oec hē sal becliuē
+Z_M3_01_008 Minē ban sine zelē afwriuen
+Z_M3_01_009 Niet mogē nochtan
+Z_M3_01_010 Dits geē spot vā ketiuē
+Z_M3_01_011 Hꝫs dʼ ic mi om liet ōtliuē
+Z_M3_01_012 Eer ickʼ sciede van
+Z_M3_01_013 Nv leʼe die leerē can
 
 
-Z_M3_2_014 Iacop wi hebbē ondʼlinge
-Z_M3_2_015 gehandelt messelike dinge
-Z_M3_2_016 Nv antwʼt mi op een
-Z_M3_2_017 Leʼe mi eer ic di ōspringe
-Z_M3_2_018 Hoe ic mij̄ hʼte dʼ toe dwīge
-Z_M3_2_019 Hē te kīnen die wi vleē
-Z_M3_2_020 Ic lese somtijt en̄ singe
-Z_M3_2_021 Gode te kīnen bi sinē gehinge
-Z_M3_2_022 Es leuē sondʼ ween
-Z_M3_2_023 Dꝫs wʼheyt claer en̄ gehinge
-Z_M3_2_024 Suptijl wʼ thʼte diet beuīge
-Z_M3_2_025 Wāt hogʼ dinc nes gheē
-Z_M3_2_026 Antwert tusschē ōs tweē
+Z_M3_02_014 Iacop wi hebbē ondʼlinge
+Z_M3_02_015 gehandelt messelike dinge
+Z_M3_02_016 Nv antwʼt mi op een
+Z_M3_02_017 Leʼe mi eer ic di ōspringe
+Z_M3_02_018 Hoe ic mij̄ hʼte dʼ toe dwīge
+Z_M3_02_019 Hē te kīnen die wi vleē
+Z_M3_02_020 Ic lese somtijt en̄ singe
+Z_M3_02_021 Gode te kīnen bi sinē gehinge
+Z_M3_02_022 Es leuē sondʼ ween
+Z_M3_02_023 Dꝫs wʼheyt claer en̄ gehinge
+Z_M3_02_024 Suptijl wʼ thʼte diet beuīge
+Z_M3_02_025 Wāt hogʼ dinc nes gheē
+Z_M3_02_026 Antwert tusschē ōs tweē
 
 
-Z_M3_3_027 Mertē du vrages te hoge
-Z_M3_3_028 al vlogic bouē dʼ inglen v
-Z_M3_3_029 Bouē cerub en̄ ceraph
-Z_M3_3_030 So wetic wel dꝫ ic en moge
-Z_M3_3_031 Berechtē dꝫ te vollen doge
-Z_M3_3_032 Mꝫ wʼdē nꝫ hʼ af
-Z_M3_3_033 Alle sinne sijn te droge
-Z_M3_3_034 Alle naturē hoemēt poge
-Z_M3_3_035 Ne dogē nꝫ eē caf
-Z_M3_3_036 Dꝫ hʼ enich te vollē doghe
-Z_M3_3_037 Mʼ vʼscarp dij̄s sins oge
-Z_M3_3_038 Hort wꝫ natuʼe di gaf
-Z_M3_3_039 Horet in diʼe hʼtē graf
+Z_M3_03_027 Mertē du vrages te hoge
+Z_M3_03_028 al vlogic bouē dʼ inglen v
+Z_M3_03_029 Bouē cerub en̄ ceraph
+Z_M3_03_030 So wetic wel dꝫ ic en moge
+Z_M3_03_031 Berechtē dꝫ te vollen doge
+Z_M3_03_032 Mꝫ wʼdē nꝫ hʼ af
+Z_M3_03_033 Alle sinne sijn te droge
+Z_M3_03_034 Alle naturē hoemēt poge
+Z_M3_03_035 Ne dogē nꝫ eē caf
+Z_M3_03_036 Dꝫ hʼ enich te vollē doghe
+Z_M3_03_037 Mʼ vʼscarp dij̄s sins oge
+Z_M3_03_038 Hort wꝫ natuʼe di gaf
+Z_M3_03_039 Horet in diʼe hʼtē graf
 
 
-Z_M3_4_040 Moyses spᵃct in sinē boeken
-Z_M3_4_041 Beestē die dē berch besoeke
-Z_M3_4_042 Moetē sijn gescent
-Z_M3_4_043 Beeste es hi de wille roekē
-Z_M3_4_044 Te nauwe om de godhᵗ loe
-Z_M3_4_045 Hets recht dꝫ hijt beweēt
-Z_M3_4_046 Du sout mi in allē hoeken
-Z_M3_4_047 Mꝫ rine sondʼ valsch vā doek
+Z_M3_04_040 Moyses spᵃct in sinē boeken
+Z_M3_04_041 Beestē die dē berch besoeke
+Z_M3_04_042 Moetē sijn gescent
+Z_M3_04_043 Beeste es hi de wille roekē
+Z_M3_04_044 Te nauwe om de godhᵗ loe
+Z_M3_04_045 Hets recht dꝫ hijt beweēt
+Z_M3_04_046 Du sout mi in allē hoeken
+Z_M3_04_047 Mꝫ rine sondʼ valsch vā doek
 
 Line_number 048 is missing
-Z_M3_4_049 Es dit goet ic wane neent
+Z_M3_04_049 Es dit goet ic wane neent
 
 
 
-Z_M3_4_050 Wʼt goet ic soudʼ di om vloeken
-Z_M3_4_051 Ic wane dij̄ herte meent
-Z_M3_4_052 Dꝫtu mi heues verbeent
+Z_M3_04_050 Wʼt goet ic soudʼ di om vloeken
+Z_M3_04_051 Ic wane dij̄ herte meent
+Z_M3_04_052 Dꝫtu mi heues verbeent
 
 
-Z_M3_5_053 Iacop dune salti nꝫ vʼgᵃmē
-Z_M3_5_054 Ic souts mi in mi seluē scamē
-Z_M3_5_055 Haddict oit gedocht
-Z_M3_5_056 Oec lie ic mꝫti te samē
-Z_M3_5_057 Dꝫ de hoechᵗ dʼ hogʼ namē
-Z_M3_5_058 Nꝫ te vʼre doech gesocht
-Z_M3_5_059 Al wʼt dꝫ alle dīgle qᵃmē
-Z_M3_5_060 Sij cōdē de godhᵗ nꝫ gehamē
-Z_M3_5_061 Dits al af gecnocht
-Z_M3_5_062 Mʼ leʼe minē cᵃckē sin lamē
-Z_M3_5_063 Gewōt mꝫtʼ sondē bramē
-Z_M3_5_064 Van dattu vermocht
-Z_M3_5_065 Soe es minē wil volbrocht
+Z_M3_05_053 Iacop dune salti nꝫ vʼgᵃmē
+Z_M3_05_054 Ic souts mi in mi seluē scamē
+Z_M3_05_055 Haddict oit gedocht
+Z_M3_05_056 Oec lie ic mꝫti te samē
+Z_M3_05_057 Dꝫ de hoechᵗ dʼ hogʼ namē
+Z_M3_05_058 Nꝫ te vʼre doech gesocht
+Z_M3_05_059 Al wʼt dꝫ alle dīgle qᵃmē
+Z_M3_05_060 Sij cōdē de godhᵗ nꝫ gehamē
+Z_M3_05_061 Dits al af gecnocht
+Z_M3_05_062 Mʼ leʼe minē cᵃckē sin lamē
+Z_M3_05_063 Gewōt mꝫtʼ sondē bramē
+Z_M3_05_064 Van dattu vermocht
+Z_M3_05_065 Soe es minē wil volbrocht
 
 
-Z_M3_6_066 MErtē mʼct in dinē sinne
-Z_M3_6_067 God es wesē vor al begīne
-Z_M3_6_068 Dedelste bouē al
-Z_M3_6_069 Sijn wesen es alsic kinne
-Z_M3_6_070 Dupperste god dupꝑste mīne
-Z_M3_6_071 Die es oft wesen sal
-Z_M3_6_072 Sij̄ wʼkē dʼmē kint inne
-Z_M3_6_073 Sij̄ so gᵒt dꝫsi sij̄ dunne
-Z_M3_6_074 Diet kīnē gᵒt en̄ smal
-Z_M3_6_075 Sijn wesē es conīginne
-Z_M3_6_076 Bouē aldʼhande gewinne
-Z_M3_6_077 En̄ bouē alle geual
-Z_M3_6_078 Dʼ bouē en̄ int dal
+Z_M3_06_066 MErtē mʼct in dinē sinne
+Z_M3_06_067 God es wesē vor al begīne
+Z_M3_06_068 Dedelste bouē al
+Z_M3_06_069 Sijn wesen es alsic kinne
+Z_M3_06_070 Dupperste god dupꝑste mīne
+Z_M3_06_071 Die es oft wesen sal
+Z_M3_06_072 Sij̄ wʼkē dʼmē kint inne
+Z_M3_06_073 Sij̄ so gᵒt dꝫsi sij̄ dunne
+Z_M3_06_074 Diet kīnē gᵒt en̄ smal
+Z_M3_06_075 Sijn wesē es conīginne
+Z_M3_06_076 Bouē aldʼhande gewinne
+Z_M3_06_077 En̄ bouē alle geual
+Z_M3_06_078 Dʼ bouē en̄ int dal
 
 
-Z_M3_7_079 DĒ hemel en̄ tē troē mʼke
-Z_M3_7_080 God es bouē zij̄ wʼke
-Z_M3_7_081 En̄ ondʼ al sij̄ dinc
-Z_M3_7_082 Hi es butē als in herke
-Z_M3_7_083 En̄ bīnē dꝫ hout sterke
-Z_M3_7_084 Hʼ ute nꝫ en sprinc
-Z_M3_7_085 Oec seggen ons wise clerke
-Z_M3_7_086 Hi nes nꝫ gedeilt in pʼke
-Z_M3_7_087 Hʼtoe dijn herte dwinc
-Z_M3_7_088 Mʼ geheel nu merke
-Z_M3_7_089 Butē binnē in watʼ in swʼke
-Z_M3_7_090 Hʼ in dij̄ hertte dwinc
-Z_M3_7_091 Sondʼ lose winc
+Z_M3_07_079 DĒ hemel en̄ tē troē mʼke
+Z_M3_07_080 God es bouē zij̄ wʼke
+Z_M3_07_081 En̄ ondʼ al sij̄ dinc
+Z_M3_07_082 Hi es butē als in herke
+Z_M3_07_083 En̄ bīnē dꝫ hout sterke
+Z_M3_07_084 Hʼ ute nꝫ en sprinc
+Z_M3_07_085 Oec seggen ons wise clerke
+Z_M3_07_086 Hi nes nꝫ gedeilt in pʼke
+Z_M3_07_087 Hʼtoe dijn herte dwinc
+Z_M3_07_088 Mʼ geheel nu merke
+Z_M3_07_089 Butē binnē in watʼ in swʼke
+Z_M3_07_090 Hʼ in dij̄ hertte dwinc
+Z_M3_07_091 Sondʼ lose winc
 
 
-Z_M3_8_092 Boven es god als heere
-Z_M3_8_093 Die besitter es emmermeere
-Z_M3_8_094 Alles dies men weet
+Z_M3_08_092 Boven es god als heere
+Z_M3_08_093 Die besitter es emmermeere
+Z_M3_08_094 Alles dies men weet
 
 
 
-Z_M3_8_095 Onder als in elkē keʼe
-Z_M3_8_096 Sij̄ dinc hout mogēde zeʼe
-Z_M3_8_097 Jegē alle vʼsceet
-Z_M3_8_098 Butē als die mꝫ siʼe were
-Z_M3_8_099 Sij̄ were behōt dꝫ hē en dere
-Z_M3_8_100 Gheē dinc cout no heet
-Z_M3_8_101 Binnē als de mꝫ siʼe leere
-Z_M3_8_102 Sij̄ wʼc uʼwlt mꝫ selkʼ eʼe
-Z_M3_8_103 Dꝫ ewelijc steet
-Z_M3_8_104 Wiēt lief si ofte leet
+Z_M3_08_095 Onder als in elkē keʼe
+Z_M3_08_096 Sij̄ dinc hout mogēde zeʼe
+Z_M3_08_097 Jegē alle vʼsceet
+Z_M3_08_098 Butē als die mꝫ siʼe were
+Z_M3_08_099 Sij̄ were behōt dꝫ hē en dere
+Z_M3_08_100 Gheē dinc cout no heet
+Z_M3_08_101 Binnē als de mꝫ siʼe leere
+Z_M3_08_102 Sij̄ wʼc uʼwlt mꝫ selkʼ eʼe
+Z_M3_08_103 Dꝫ ewelijc steet
+Z_M3_08_104 Wiēt lief si ofte leet
 
 
-Z_M3_9_105 Bouē es god algedragē
-Z_M3_9_106 Geē dinc mach hē beclagē
-Z_M3_9_107 Dꝫ hise iet vʼlast
-Z_M3_9_108 Ondʼ sondʼ last van wagē
-Z_M3_9_109 Wāt hē mach rustē no iagē
-Z_M3_9_110 Sij̄ wesē es soe vast
-Z_M3_9_111 Butē breet hi niewʼ sij̄ dagē
-Z_M3_9_112 Wāt hi es sondʼ vragen
-Z_M3_9_113 Wʼt uogꝫ en̄ niet gast
-Z_M3_9_114 Bīnē uʼwlt hijt iegē plagē
-Z_M3_9_115 Dꝫ sij̄ dinc mꝫ geēre vlagē
-Z_M3_9_116 Ne si ongerast
-Z_M3_9_117 Noch gequests eē bast
+Z_M3_09_105 Bouē es god algedragē
+Z_M3_09_106 Geē dinc mach hē beclagē
+Z_M3_09_107 Dꝫ hise iet vʼlast
+Z_M3_09_108 Ondʼ sondʼ last van wagē
+Z_M3_09_109 Wāt hē mach rustē no iagē
+Z_M3_09_110 Sij̄ wesē es soe vast
+Z_M3_09_111 Butē breet hi niewʼ sij̄ dagē
+Z_M3_09_112 Wāt hi es sondʼ vragen
+Z_M3_09_113 Wʼt uogꝫ en̄ niet gast
+Z_M3_09_114 Bīnē uʼwlt hijt iegē plagē
+Z_M3_09_115 Dꝫ sij̄ dinc mꝫ geēre vlagē
+Z_M3_09_116 Ne si ongerast
+Z_M3_09_117 Noch gequests eē bast
 
 
 Z_M3_10_118 Vā eenē god spʼkē wi vā enē

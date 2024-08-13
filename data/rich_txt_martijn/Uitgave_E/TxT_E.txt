@@ -241,7 +241,7 @@ _M2_
 Ø
 ____
 _M3_
-§1§
+§01§
 0 <D_1>en derden bouc
 1 <I_7><C> mane ma(n)ne m{et}te(n) wiuen
 <D>ie dit lese(n) oft scriuen
@@ -256,7 +256,7 @@ _M3_
 <H>ets da[er] ic my o(m) liet o(n)liue(n)
 <E>er ick[er] sciede van
 <N>v lere die lere(n) can
-§2§
+§02§
 <I_2>acop wi hebbe(n) ond[er]linghe
 15 <G>hehandelt messelike di(n)ghe
 <N>v antw[oer]t my op een
@@ -266,7 +266,7 @@ _M3_
 20 <I>c lese so(m)wile en(de) singhe
 
 &2vb&
-§9§
+§09§
 114 <B>i(n)ne(n) v[er]hoedt hijt ieghe(n) plaghe(n)
 115 <D>{at} sij(n) di(n)c m{et} ghene(n) vlaghe(n)
 <N>iet en si ongherast

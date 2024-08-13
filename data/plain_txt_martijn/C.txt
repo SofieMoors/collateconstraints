@@ -2,146 +2,146 @@
 
 
 
-C_M3_1_000 Van der drieuoudicheide..
-C_M3_1_001 Ic mane den mannen metten wiuen
-C_M3_1_002 die dit lesen zoelen ofte scriuen
-C_M3_1_003 op den hoechsden ban
-C_M3_1_004 dat zij dit dicht laten bliuen
-C_M3_1_005 reine en̄ zire niet in en driuen
-C_M3_1_006 woert litter af noch an
-C_M3_1_007 doen zijt oec hem zal becliuen
-C_M3_1_008 mijn ban en̄ zine zoelent afwriuen
-C_M3_1_009 moeghen oec niet nochtan
-C_M3_1_010 dit en is gheen spot van keytiuen
-C_M3_1_011 hets daer ic mi eer om liet ontliuen
-C_M3_1_012 eer icker sciede van
-C_M3_1_013 hoert mi dat ict leren can.
+C_M3_01_000 Van der drieuoudicheide..
+C_M3_01_001 Ic mane den mannen metten wiuen
+C_M3_01_002 die dit lesen zoelen ofte scriuen
+C_M3_01_003 op den hoechsden ban
+C_M3_01_004 dat zij dit dicht laten bliuen
+C_M3_01_005 reine en̄ zire niet in en driuen
+C_M3_01_006 woert litter af noch an
+C_M3_01_007 doen zijt oec hem zal becliuen
+C_M3_01_008 mijn ban en̄ zine zoelent afwriuen
+C_M3_01_009 moeghen oec niet nochtan
+C_M3_01_010 dit en is gheen spot van keytiuen
+C_M3_01_011 hets daer ic mi eer om liet ontliuen
+C_M3_01_012 eer icker sciede van
+C_M3_01_013 hoert mi dat ict leren can.
 
 
-C_M3_2_014 Iacob wij hebben onderlinghe
-C_M3_2_015 ghehandelt menegherande dinghe
-C_M3_2_016 andworde mi op een
-C_M3_2_017 leer mi eer ic di ontspringhe
-C_M3_2_018 hoe ic mijn herte daer toe bringhe
-C_M3_2_019 te kennen hem dien wij vleen
-C_M3_2_020 ic lese zomwile en̄ zinghe
-C_M3_2_021 dat gode te kennen bi zinē ghehinghe
-C_M3_2_022 is leuen zonder ween
-C_M3_2_023 dits waereit claer en̄ biechtinghe
-C_M3_2_024 subtijl waer therte diet beuinghe
-C_M3_2_025 want hogher dinc en is engheen
-C_M3_2_026 nu andworde mi tusghen ons tween.
+C_M3_02_014 Iacob wij hebben onderlinghe
+C_M3_02_015 ghehandelt menegherande dinghe
+C_M3_02_016 andworde mi op een
+C_M3_02_017 leer mi eer ic di ontspringhe
+C_M3_02_018 hoe ic mijn herte daer toe bringhe
+C_M3_02_019 te kennen hem dien wij vleen
+C_M3_02_020 ic lese zomwile en̄ zinghe
+C_M3_02_021 dat gode te kennen bi zinē ghehinghe
+C_M3_02_022 is leuen zonder ween
+C_M3_02_023 dits waereit claer en̄ biechtinghe
+C_M3_02_024 subtijl waer therte diet beuinghe
+C_M3_02_025 want hogher dinc en is engheen
+C_M3_02_026 nu andworde mi tusghen ons tween.
 
 
-C_M3_3_027 Martijn du vraghes mi tehoghe
-C_M3_3_028 al vloghic bouen der yngle vloghe
-C_M3_3_029 bouuen cerub en̄ seraf
-C_M3_3_030 zoe weet ic wel dat ic en moghe
-C_M3_3_031 berichten dat te uollen doghe
-C_M3_3_032 in woerden hier af
-C_M3_3_033 alle zinne zijn te droghe
-C_M3_3_034 alle creaturen hoe men poghe
-C_M3_3_035 en doeghen niet een caf
-C_M3_3_036 dat hoer enich te uollen toghe
-C_M3_3_037 mer nu verscarp dijns zins oghe
-C_M3_3_038 hoer wat mi scrifture gaf
-C_M3_3_039 hout in dijnre herten graf.
+C_M3_03_027 Martijn du vraghes mi tehoghe
+C_M3_03_028 al vloghic bouen der yngle vloghe
+C_M3_03_029 bouuen cerub en̄ seraf
+C_M3_03_030 zoe weet ic wel dat ic en moghe
+C_M3_03_031 berichten dat te uollen doghe
+C_M3_03_032 in woerden hier af
+C_M3_03_033 alle zinne zijn te droghe
+C_M3_03_034 alle creaturen hoe men poghe
+C_M3_03_035 en doeghen niet een caf
+C_M3_03_036 dat hoer enich te uollen toghe
+C_M3_03_037 mer nu verscarp dijns zins oghe
+C_M3_03_038 hoer wat mi scrifture gaf
+C_M3_03_039 hout in dijnre herten graf.
 
 
-C_M3_4_040 Moyses spreect in zinen boeken
-C_M3_4_041 die beesten die den bergh besoeken
-C_M3_4_042 moeten zijn ghesteent
-C_M3_4_043 beest is die mensche die wil roeken
-C_M3_4_044 tenauwe om die godheit loeken
-C_M3_4_045 hets recht dat hijt beweent
-C_M3_4_046 du zoecs mi in allen hoeken
-C_M3_4_047 mit rime zonder valscheit van doeken
-C_M3_4_048 is dit goet ic waene neent
-C_M3_4_049 du telles mi niet wisen cloeken
-C_M3_4_050 dorstic ic zouder di om vloeken
-C_M3_4_051 ic waen dijn herte meent.
-C_M3_4_052 dat du nu heues verleent.
-
-
-
-
-
-C_M3_5_053 Iacob du ne zoelt di niet vergramen
-C_M3_5_054 ic zouds mi in mi zeluen scamen
-C_M3_5_055 haddict ie ghedocht
-C_M3_5_056 oec lie ics met di tesamen
-C_M3_5_057 dat die hoecheit der hogher namen
-C_M3_5_058 te uerre niet en doech ghesocht
-C_M3_5_059 al waert dat alle die ingle quamen
-C_M3_5_060 zine consten die hoecheit niet ghehamen
-C_M3_5_061 dit al af ghecnocht
-C_M3_5_062 mer eer minen cranken zin minen lamē
-C_M3_5_063 ghewont metter zonden bramen
-C_M3_5_064 van dat du vermocht
-C_M3_5_065 zoe is mijn wille volbrocht.
-
-
-C_M3_6_066 Martijn merc wel in dinen zinne
-C_M3_6_067 god is een wesen voer alle beghinne
-C_M3_6_068 ende tedelste bouuen al
-C_M3_6_069 zijn wesen is alse ict kinne
-C_M3_6_070 die ouerste god en̄ die hoechste minne
-C_M3_6_071 die is of wesen zal
-C_M3_6_072 zine ghewerke daer men kent inne
-C_M3_6_073 is zo groet dat zij zijn dinne
-C_M3_6_074 diet kinnen ende smal
-C_M3_6_075 zine wijsheit is conninghinne
-C_M3_6_076 bouuen alrehande ghewinne
-C_M3_6_077 en̄ bouuen al gheual
-C_M3_6_078 daer bouuen of hier int dal.
-
-
-C_M3_7_079 Den hemel en̄ den troen die merke
-C_M3_7_080 god is bouuen alle zine ghewerke
-C_M3_7_081 en̄ onder alle zine dinc
-C_M3_7_082 noch is hi buten al nu herke
-C_M3_7_083 en̄ binnen al dit hout wel sterke
-C_M3_7_084 en̄ hier vut niet en sprinc
-C_M3_7_085 noch zegghen ons die wise clerke
-C_M3_7_086 hi en is niet ghedeelt in perke
-C_M3_7_087 hiertoe dijn herte dwinc
-C_M3_7_088 mer al gheheel in elke merke
-C_M3_7_089 buten binnen in water in swerke
-C_M3_7_090 in dit dijn herte brinc
-C_M3_7_091 zonder bosen winc.
-
-
-C_M3_8_092 Bouen al is god alse here
-C_M3_8_093 die besitter is emmermere
-C_M3_8_094 alre dinc die men weet.
-C_M3_8_095 onder die in alle kere
-C_M3_8_096 die dinc houdt moghentlike sere
-C_M3_8_097 jeghens al versceet
-C_M3_8_098 buten alse die met zire were
-C_M3_8_099 zijn werc behoedt dat hem en dere
-C_M3_8_100 gheen dinc cout noch heet
-C_M3_8_101 binnen alse die met zire lere
-C_M3_8_102 zijn werc veruult met zulker ere
-C_M3_8_103 daert ewelike steet.
-C_M3_8_104 wient lief zi ofte leet.
+C_M3_04_040 Moyses spreect in zinen boeken
+C_M3_04_041 die beesten die den bergh besoeken
+C_M3_04_042 moeten zijn ghesteent
+C_M3_04_043 beest is die mensche die wil roeken
+C_M3_04_044 tenauwe om die godheit loeken
+C_M3_04_045 hets recht dat hijt beweent
+C_M3_04_046 du zoecs mi in allen hoeken
+C_M3_04_047 mit rime zonder valscheit van doeken
+C_M3_04_048 is dit goet ic waene neent
+C_M3_04_049 du telles mi niet wisen cloeken
+C_M3_04_050 dorstic ic zouder di om vloeken
+C_M3_04_051 ic waen dijn herte meent.
+C_M3_04_052 dat du nu heues verleent.
 
 
 
 
 
-C_M3_9_105 Bouuen is god onghedraghen
-C_M3_9_106 noch ghene dinc mach haer beclaghen
-C_M3_9_107 dat hi ze verlast
-C_M3_9_108 onder zonder last van waghen
-C_M3_9_109 want hem en moyet rasten noch jaghen
-C_M3_9_110 zijn wesen is zo vast
-C_M3_9_111 buten en breet niewer zijn draghen
-C_M3_9_112 want hi is altoes zonder vraghen
-C_M3_9_113 weert voghet en̄ niet gast
-C_M3_9_114 binnen veruult hi ieghens plaghen
-C_M3_9_115 dat zine dinc met ghenen vlaghen
-C_M3_9_116 en zi ongherast
-C_M3_9_117 noch ghequest van enen bast.
+C_M3_05_053 Iacob du ne zoelt di niet vergramen
+C_M3_05_054 ic zouds mi in mi zeluen scamen
+C_M3_05_055 haddict ie ghedocht
+C_M3_05_056 oec lie ics met di tesamen
+C_M3_05_057 dat die hoecheit der hogher namen
+C_M3_05_058 te uerre niet en doech ghesocht
+C_M3_05_059 al waert dat alle die ingle quamen
+C_M3_05_060 zine consten die hoecheit niet ghehamen
+C_M3_05_061 dit al af ghecnocht
+C_M3_05_062 mer eer minen cranken zin minen lamē
+C_M3_05_063 ghewont metter zonden bramen
+C_M3_05_064 van dat du vermocht
+C_M3_05_065 zoe is mijn wille volbrocht.
+
+
+C_M3_06_066 Martijn merc wel in dinen zinne
+C_M3_06_067 god is een wesen voer alle beghinne
+C_M3_06_068 ende tedelste bouuen al
+C_M3_06_069 zijn wesen is alse ict kinne
+C_M3_06_070 die ouerste god en̄ die hoechste minne
+C_M3_06_071 die is of wesen zal
+C_M3_06_072 zine ghewerke daer men kent inne
+C_M3_06_073 is zo groet dat zij zijn dinne
+C_M3_06_074 diet kinnen ende smal
+C_M3_06_075 zine wijsheit is conninghinne
+C_M3_06_076 bouuen alrehande ghewinne
+C_M3_06_077 en̄ bouuen al gheual
+C_M3_06_078 daer bouuen of hier int dal.
+
+
+C_M3_07_079 Den hemel en̄ den troen die merke
+C_M3_07_080 god is bouuen alle zine ghewerke
+C_M3_07_081 en̄ onder alle zine dinc
+C_M3_07_082 noch is hi buten al nu herke
+C_M3_07_083 en̄ binnen al dit hout wel sterke
+C_M3_07_084 en̄ hier vut niet en sprinc
+C_M3_07_085 noch zegghen ons die wise clerke
+C_M3_07_086 hi en is niet ghedeelt in perke
+C_M3_07_087 hiertoe dijn herte dwinc
+C_M3_07_088 mer al gheheel in elke merke
+C_M3_07_089 buten binnen in water in swerke
+C_M3_07_090 in dit dijn herte brinc
+C_M3_07_091 zonder bosen winc.
+
+
+C_M3_08_092 Bouen al is god alse here
+C_M3_08_093 die besitter is emmermere
+C_M3_08_094 alre dinc die men weet.
+C_M3_08_095 onder die in alle kere
+C_M3_08_096 die dinc houdt moghentlike sere
+C_M3_08_097 jeghens al versceet
+C_M3_08_098 buten alse die met zire were
+C_M3_08_099 zijn werc behoedt dat hem en dere
+C_M3_08_100 gheen dinc cout noch heet
+C_M3_08_101 binnen alse die met zire lere
+C_M3_08_102 zijn werc veruult met zulker ere
+C_M3_08_103 daert ewelike steet.
+C_M3_08_104 wient lief zi ofte leet.
+
+
+
+
+
+C_M3_09_105 Bouuen is god onghedraghen
+C_M3_09_106 noch ghene dinc mach haer beclaghen
+C_M3_09_107 dat hi ze verlast
+C_M3_09_108 onder zonder last van waghen
+C_M3_09_109 want hem en moyet rasten noch jaghen
+C_M3_09_110 zijn wesen is zo vast
+C_M3_09_111 buten en breet niewer zijn draghen
+C_M3_09_112 want hi is altoes zonder vraghen
+C_M3_09_113 weert voghet en̄ niet gast
+C_M3_09_114 binnen veruult hi ieghens plaghen
+C_M3_09_115 dat zine dinc met ghenen vlaghen
+C_M3_09_116 en zi ongherast
+C_M3_09_117 noch ghequest van enen bast.
 
 
 C_M3_10_118 Van enen god spreke wij en̄ van enen
@@ -570,6 +570,34 @@ C_M3_36_467 dat godlijc cleet
 C_M3_36_468 dat nummermeer tegheet.
 
 
+
+Line_number 469 is missing
+
+Line_number 470 is missing
+
+Line_number 471 is missing
+
+Line_number 472 is missing
+
+Line_number 473 is missing
+
+Line_number 474 is missing
+
+Line_number 475 is missing
+
+Line_number 476 is missing
+
+Line_number 477 is missing
+
+Line_number 478 is missing
+
+Line_number 479 is missing
+
+Line_number 480 is missing
+
+Line_number 481 is missing
+
+
 C_M3_38_482 Waer iement diet wedersprake
 C_M3_38_483 dese gheloue en̄ dese zake
 C_M3_38_484 die waer ewelijc verdoemt
@@ -604,146 +632,146 @@ C_M3_39_508 Amen - Amē - Am̄.
 
 
 
-C_M1_1_000 Van iacob en̄ van martijn.
-C_M1_1_001 Uuapene martijn hoe zalt gaen
-C_M1_1_002 zal dese werelt iet langhe staen
-C_M1_1_003 in dus cranken loue
-C_M1_1_004 so zal mijn vrouwe eere zaen
-C_M1_1_005 zonder twiuel en̄ waen
-C_M1_1_006 rumen heren houe.
-C_M1_1_007 ic zie den valschen wel ontfaen
-C_M1_1_008 die de heren connen dwaen
-C_M1_1_009 en̄ plucken van den stoue
-C_M1_1_010 en̄ ic zie den rechten slaen
-C_M1_1_011 beide bescatten en̄ vaen
-C_M1_1_012 alse die mese in die cloue
-C_M1_1_013 recht of hen god verscroue.
+C_M1_01_000 Van iacob en̄ van martijn.
+C_M1_01_001 Uuapene martijn hoe zalt gaen
+C_M1_01_002 zal dese werelt iet langhe staen
+C_M1_01_003 in dus cranken loue
+C_M1_01_004 so zal mijn vrouwe eere zaen
+C_M1_01_005 zonder twiuel en̄ waen
+C_M1_01_006 rumen heren houe.
+C_M1_01_007 ic zie den valschen wel ontfaen
+C_M1_01_008 die de heren connen dwaen
+C_M1_01_009 en̄ plucken van den stoue
+C_M1_01_010 en̄ ic zie den rechten slaen
+C_M1_01_011 beide bescatten en̄ vaen
+C_M1_01_012 alse die mese in die cloue
+C_M1_01_013 recht of hen god verscroue.
 
 
-C_M1_2_014 Hoe langhe zal ghedoghen dit
-C_M1_2_015 god die alle dinc besit
-C_M1_2_016 in zijnre heerscappie
-C_M1_2_017 dat die goede vleet en̄ bidt
-C_M1_2_018 en̄ hem en doech noch dat noch dit,
-C_M1_2_019 zoe dat hi iet ghedie
-C_M1_2_023 recht man deluet onderspit
-C_M1_2_024 hine heeft tepointe diet ghehit
-C_M1_2_025 in enghene baelgye
-C_M1_2_020 al gaet in den helschen pit
-C_M1_2_021 eest blau eest grau eest swart eest wit
-C_M1_2_022 hets ghetrouwe als die zye
-C_M1_2_026 mi is leet dat ic waer lye.
+C_M1_02_014 Hoe langhe zal ghedoghen dit
+C_M1_02_015 god die alle dinc besit
+C_M1_02_016 in zijnre heerscappie
+C_M1_02_017 dat die goede vleet en̄ bidt
+C_M1_02_018 en̄ hem en doech noch dat noch dit,
+C_M1_02_019 zoe dat hi iet ghedie
+C_M1_02_023 recht man deluet onderspit
+C_M1_02_024 hine heeft tepointe diet ghehit
+C_M1_02_025 in enghene baelgye
+C_M1_02_020 al gaet in den helschen pit
+C_M1_02_021 eest blau eest grau eest swart eest wit
+C_M1_02_022 hets ghetrouwe als die zye
+C_M1_02_026 mi is leet dat ic waer lye.
 
 
-C_M1_3_027 Laet ons martijn over een
-C_M1_3_028 hier af spreken onder ons tween
-C_M1_3_029 in dit dyaloghe
-C_M1_3_030 wanne quam ons dese ween
-C_M1_3_031 dat die wilen zo onwaert sceen
-C_M1_3_032 nu zit also hoghe
-C_M1_3_033 ic zal vraghen en̄ vleen
-C_M1_3_034 en̄ andworde mi ja of neen
-C_M1_3_035 van dat ic betoghe
-C_M1_3_036 ledicheit is vroem en gheen
-C_M1_3_037 arbeit vijnt vier in den steen
-C_M1_3_038 waerbi ontsteect dat droghe
-C_M1_3_039 nu sprec en̄ ic ghedoghe.
+C_M1_03_027 Laet ons martijn over een
+C_M1_03_028 hier af spreken onder ons tween
+C_M1_03_029 in dit dyaloghe
+C_M1_03_030 wanne quam ons dese ween
+C_M1_03_031 dat die wilen zo onwaert sceen
+C_M1_03_032 nu zit also hoghe
+C_M1_03_033 ic zal vraghen en̄ vleen
+C_M1_03_034 en̄ andworde mi ja of neen
+C_M1_03_035 van dat ic betoghe
+C_M1_03_036 ledicheit is vroem en gheen
+C_M1_03_037 arbeit vijnt vier in den steen
+C_M1_03_038 waerbi ontsteect dat droghe
+C_M1_03_039 nu sprec en̄ ic ghedoghe.
 
 
-C_M1_4_040 Spreken jacob lieue compaen
-C_M1_4_041 waer zoudict hebben verstaen
-C_M1_4_042 dat ic daer toe dochte
-C_M1_4_043 te uerclaren dinen waen
-C_M1_4_044 die in twiuel is beuaen
-C_M1_4_045 dats dat ic niene vermochte
-C_M1_4_046 doch en wil ics niet ontgaen
-C_M1_4_047 in wille dine bede ontfaen
-C_M1_4_048 die dit aen mi besochte
-C_M1_4_049 god zeinde mi den hemelscen traen
-C_M1_4_050 en̄ moet mine zinne dwaen
-
-
-
-C_M1_4_051 want hi mi diere cochte
-C_M1_4_052 en̄ ict gherne volbrochte.
-
-
-C_M1_5_053 Martijn doe die werelt began
-C_M1_5_054 man teuerheffen bouen man
-C_M1_5_055 doe sciet mijn vrouwe ver eere
-C_M1_5_056 den dorper en̄ wijsde hem den dan
-C_M1_5_057 daer trouwe en̄ doeghede was an
-C_M1_5_058 dien hiet zi zijn here
-C_M1_5_059 nu maken die heren een ghespan
-C_M1_5_060 en̄ gheuen der eren enen ban
-C_M1_5_061 en̄ willen niet dat zi kere
-C_M1_5_062 zech mi wanne dit venijn ran
-C_M1_5_063 toegh mi redene daer van
-C_M1_5_065 wies scout dat dit were
-C_M1_5_064 want ic gherne lere.
-
-
-C_M1_6_066 Martijn mi dunct ouerwaer
-C_M1_6_067 zijnt dat edelheit hadde vaer
-C_M1_6_068 te pinen om die eere
-C_M1_6_069 en̄ zi trecte den scalken naer
-C_M1_6_070 die raden nu hier nu daer
-C_M1_6_071 en̄ niet scelden den here
-C_M1_6_072 zo is edelheit worden zo swaer
-C_M1_6_073 dat zi teclimmene heeft ommaer
-C_M1_6_074 en̄ daelt je lanc zo mere
-C_M1_6_075 dats nu alder werelt claer
-C_M1_6_076 en̄ oeghscijn al openbaer
-C_M1_6_077 dus is verbanden eere
-C_M1_6_078 en̄ wederstaen ten kere.
-
-
-C_M1_7_079 Nu merct bi der zonnen lecht
-C_M1_7_080 dat alder werelt oghen berecht
-C_M1_7_081 bi ziere edelre naturen
-C_M1_7_082 als dat swerc daer jeghen uecht
-C_M1_7_083 en̄ die neuel met zire drecht
-C_M1_7_084 zo en can zi tier vren
-C_M1_7_085 niet ghetonen haer sconeit echt
-C_M1_7_086 aldus verdonkert die scalke knecht
-C_M1_7_087 die edele creaturen
-C_M1_7_088 alse hi hem daer ane hecht
-C_M1_7_089 en̄ haer edelheit verplecht
-C_M1_7_090 dat zi laet gheduren
-C_M1_7_091 bi haer die scalke zuren.
-
-
-C_M1_8_092 Zint dat scalke droeghen ouereen
-C_M1_8_093 dat neen was ja en̄ ja was neen
-C_M1_8_094 en̄ hem dat wijsheit dochte
-C_M1_8_095 en̄ edelheit daer omme green
-C_M1_8_096 want daer wasdoem vtesceen
-C_M1_8_097 wane zoet comen mochte
-C_M1_8_098 zo is edele herte worden steen
-C_M1_8_099 want haer ontfaermet dinghe engheen
-C_M1_8_100 dan daer men tghelt vut cnochte
-C_M1_8_101 ay god ghef hem den langhen ween
+C_M1_04_040 Spreken jacob lieue compaen
+C_M1_04_041 waer zoudict hebben verstaen
+C_M1_04_042 dat ic daer toe dochte
+C_M1_04_043 te uerclaren dinen waen
+C_M1_04_044 die in twiuel is beuaen
+C_M1_04_045 dats dat ic niene vermochte
+C_M1_04_046 doch en wil ics niet ontgaen
+C_M1_04_047 in wille dine bede ontfaen
+C_M1_04_048 die dit aen mi besochte
+C_M1_04_049 god zeinde mi den hemelscen traen
+C_M1_04_050 en̄ moet mine zinne dwaen
 
 
 
-C_M1_8_102 die te cnauwene gaf dit been
-C_M1_8_103 den edelen ghedochte
-C_M1_8_104 want hire moert anwrochte.
+C_M1_04_051 want hi mi diere cochte
+C_M1_04_052 en̄ ict gherne volbrochte.
 
 
-C_M1_9_105 Vuat zal zeghel en̄ was
-C_M1_9_106 en̄ brieue die ghewaghen das
-C_M1_9_107 van dat landsheren gheuen
-C_M1_9_108 hets al niet hets een ghedwas
-C_M1_9_109 als lief hadt mi een wilt zas
-C_M1_9_110 oft een vriese bescreuen
-C_M1_9_111 trouwe is broescer dan glas
-C_M1_9_112 die hier teuoren zo starke was
-C_M1_9_113 zi is nu tebroken bleuen
-C_M1_9_114 ic waen dies noyt here ghenas
-C_M1_9_115 die scalke te sinen raden las
-C_M1_9_116 hi ne moeste int einde sneuen
-C_M1_9_117 en̄ zulke zijns lands verdreuen.
+C_M1_05_053 Martijn doe die werelt began
+C_M1_05_054 man teuerheffen bouen man
+C_M1_05_055 doe sciet mijn vrouwe ver eere
+C_M1_05_056 den dorper en̄ wijsde hem den dan
+C_M1_05_057 daer trouwe en̄ doeghede was an
+C_M1_05_058 dien hiet zi zijn here
+C_M1_05_059 nu maken die heren een ghespan
+C_M1_05_060 en̄ gheuen der eren enen ban
+C_M1_05_061 en̄ willen niet dat zi kere
+C_M1_05_062 zech mi wanne dit venijn ran
+C_M1_05_063 toegh mi redene daer van
+C_M1_05_065 wies scout dat dit were
+C_M1_05_064 want ic gherne lere.
+
+
+C_M1_06_066 Martijn mi dunct ouerwaer
+C_M1_06_067 zijnt dat edelheit hadde vaer
+C_M1_06_068 te pinen om die eere
+C_M1_06_069 en̄ zi trecte den scalken naer
+C_M1_06_070 die raden nu hier nu daer
+C_M1_06_071 en̄ niet scelden den here
+C_M1_06_072 zo is edelheit worden zo swaer
+C_M1_06_073 dat zi teclimmene heeft ommaer
+C_M1_06_074 en̄ daelt je lanc zo mere
+C_M1_06_075 dats nu alder werelt claer
+C_M1_06_076 en̄ oeghscijn al openbaer
+C_M1_06_077 dus is verbanden eere
+C_M1_06_078 en̄ wederstaen ten kere.
+
+
+C_M1_07_079 Nu merct bi der zonnen lecht
+C_M1_07_080 dat alder werelt oghen berecht
+C_M1_07_081 bi ziere edelre naturen
+C_M1_07_082 als dat swerc daer jeghen uecht
+C_M1_07_083 en̄ die neuel met zire drecht
+C_M1_07_084 zo en can zi tier vren
+C_M1_07_085 niet ghetonen haer sconeit echt
+C_M1_07_086 aldus verdonkert die scalke knecht
+C_M1_07_087 die edele creaturen
+C_M1_07_088 alse hi hem daer ane hecht
+C_M1_07_089 en̄ haer edelheit verplecht
+C_M1_07_090 dat zi laet gheduren
+C_M1_07_091 bi haer die scalke zuren.
+
+
+C_M1_08_092 Zint dat scalke droeghen ouereen
+C_M1_08_093 dat neen was ja en̄ ja was neen
+C_M1_08_094 en̄ hem dat wijsheit dochte
+C_M1_08_095 en̄ edelheit daer omme green
+C_M1_08_096 want daer wasdoem vtesceen
+C_M1_08_097 wane zoet comen mochte
+C_M1_08_098 zo is edele herte worden steen
+C_M1_08_099 want haer ontfaermet dinghe engheen
+C_M1_08_100 dan daer men tghelt vut cnochte
+C_M1_08_101 ay god ghef hem den langhen ween
+
+
+
+C_M1_08_102 die te cnauwene gaf dit been
+C_M1_08_103 den edelen ghedochte
+C_M1_08_104 want hire moert anwrochte.
+
+
+C_M1_09_105 Vuat zal zeghel en̄ was
+C_M1_09_106 en̄ brieue die ghewaghen das
+C_M1_09_107 van dat landsheren gheuen
+C_M1_09_108 hets al niet hets een ghedwas
+C_M1_09_109 als lief hadt mi een wilt zas
+C_M1_09_110 oft een vriese bescreuen
+C_M1_09_111 trouwe is broescer dan glas
+C_M1_09_112 die hier teuoren zo starke was
+C_M1_09_113 zi is nu tebroken bleuen
+C_M1_09_114 ic waen dies noyt here ghenas
+C_M1_09_115 die scalke te sinen raden las
+C_M1_09_116 hi ne moeste int einde sneuen
+C_M1_09_117 en̄ zulke zijns lands verdreuen.
 
 
 C_M1_10_118 Martijn du berechts mi wel
@@ -1785,4 +1813,6 @@ C_M1_75_972 die ons benam dat helsce cout
 C_M1_75_973 tot haer ben ic ten einde bout
 C_M1_75_974 onze dyaloghe
 C_M1_75_975 in vraghe niet meer noch en toghe.
+
+Line_number 976 is missing
 

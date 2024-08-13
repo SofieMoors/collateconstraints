@@ -222,16 +222,16 @@
 
 <text n="Tweede Martijn" xml:id="M2">
 <body>
-<p><lg type="stanza" n="1">
-<lb n="29" xml:id="Gef2rb.29"/><l n="Ge_M2_1_000"><hi rend="capitalsize1">D</hi>en anderen merten</l>
-<lb n="30" xml:id="Gef2rb.30"/><l n="Ge_M2_1_001"><hi rend="capitalsize2">S</hi>Laeptu <choice><abbr>merte<g ref="#bar"/></abbr><expan>merte<ex>n</ex></expan></choice> slaept <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> sin</l>
-<lb n="31" xml:id="Gef2rb.31"/><l n="Ge_M2_1_002"><hi rend="capitalsize1">S</hi>prect hebdi <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> in</l>
-<lb n="32" xml:id="Gef2rb.32"/><l n="Ge_M2_1_003"><hi rend="capitalsize1">D</hi>u dunckes mi verdoren</l>
-<lb n="33" xml:id="Gef2rb.33"/><l n="Ge_M2_1_004"><hi rend="capitalsize1">D</hi>une achtes meer no min</l>
-<lb n="34" xml:id="Gef2rb.34"/><l n="Ge_M2_1_005"><hi rend="capitalsize1">D</hi>an op weelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gewin</l>
-<lb n="35" xml:id="Gef2rb.35"/><l n="Ge_M2_1_006"><hi rend="capitalsize1">W</hi>iltu di dus versmoren</l>
-<lb n="36" xml:id="Gef2rb.36"/><l n="Ge_M2_1_007"><hi rend="capitalsize1">A</hi>lwaert <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> comt <choice><abbr>i<g ref="#bar"/>t</abbr><expan>i<ex>n</ex>t</expan></choice> <choice><abbr>tswi<g ref="#bar"/></abbr><expan>tswi<ex>n</ex></expan></choice></l>
-<lb n="37" xml:id="Gef2rb.37"/><l n="Ge_M2_1_008"><hi rend="capitalsize1">G</hi>out siluer loed iser tin</l>
+<p><lg type="stanza" n="01">
+<lb n="29" xml:id="Gef2rb.29"/><l n="Ge_M2_01_000"><hi rend="capitalsize1">D</hi>en anderen merten</l>
+<lb n="30" xml:id="Gef2rb.30"/><l n="Ge_M2_01_001"><hi rend="capitalsize2">S</hi>Laeptu <choice><abbr>merte<g ref="#bar"/></abbr><expan>merte<ex>n</ex></expan></choice> slaept <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> sin</l>
+<lb n="31" xml:id="Gef2rb.31"/><l n="Ge_M2_01_002"><hi rend="capitalsize1">S</hi>prect hebdi <choice><abbr>spreke<g ref="#bar"/></abbr><expan>spreke<ex>n</ex></expan></choice> in</l>
+<lb n="32" xml:id="Gef2rb.32"/><l n="Ge_M2_01_003"><hi rend="capitalsize1">D</hi>u dunckes mi verdoren</l>
+<lb n="33" xml:id="Gef2rb.33"/><l n="Ge_M2_01_004"><hi rend="capitalsize1">D</hi>une achtes meer no min</l>
+<lb n="34" xml:id="Gef2rb.34"/><l n="Ge_M2_01_005"><hi rend="capitalsize1">D</hi>an op weelde <choice><abbr>en<g ref="#bar"/></abbr><expan>en<ex>de</ex></expan></choice> gewin</l>
+<lb n="35" xml:id="Gef2rb.35"/><l n="Ge_M2_01_006"><hi rend="capitalsize1">W</hi>iltu di dus versmoren</l>
+<lb n="36" xml:id="Gef2rb.36"/><l n="Ge_M2_01_007"><hi rend="capitalsize1">A</hi>lwaert <choice><abbr>dij<g ref="#bar"/></abbr><expan>dij<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> comt <choice><abbr>i<g ref="#bar"/>t</abbr><expan>i<ex>n</ex>t</expan></choice> <choice><abbr>tswi<g ref="#bar"/></abbr><expan>tswi<ex>n</ex></expan></choice></l>
+<lb n="37" xml:id="Gef2rb.37"/><l n="Ge_M2_01_008"><hi rend="capitalsize1">G</hi>out siluer loed iser tin</l>
 </lg>
 </p>
 </body>

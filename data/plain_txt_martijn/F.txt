@@ -2,34 +2,36 @@
 
 
 
-F_M1_1_001 WApene merten hoe saelt gaen.
-F_M1_1_002 Sal dese werelt yet lāge staē
-F_M1_1_003 In dus cranckē geloue.
-F_M1_1_004 Soe sal mijn vrouwe vā eerē saen
-F_M1_1_005 Sonder twiuel ende waen
-F_M1_1_006 Rumen der heeren houe.
-F_M1_1_007 Ic zie den scalkē wel ontfaen
-F_M1_1_008 Die de heeren connē dwaen
-F_M1_1_009 Ende plucken vanden stoue
-F_M1_1_010 Ic zye den gherechten slaen
-F_M1_1_011 Beyde bescatten en̄ vaen
-F_M1_1_012 Alse die meese in die cloue
-F_M1_1_013 Recht often god verscroue.
+
+Line_number 000 is missing
+F_M1_01_001 WApene merten hoe saelt gaen.
+F_M1_01_002 Sal dese werelt yet lāge staē
+F_M1_01_003 In dus cranckē geloue.
+F_M1_01_004 Soe sal mijn vrouwe vā eerē saen
+F_M1_01_005 Sonder twiuel ende waen
+F_M1_01_006 Rumen der heeren houe.
+F_M1_01_007 Ic zie den scalkē wel ontfaen
+F_M1_01_008 Die de heeren connē dwaen
+F_M1_01_009 Ende plucken vanden stoue
+F_M1_01_010 Ic zye den gherechten slaen
+F_M1_01_011 Beyde bescatten en̄ vaen
+F_M1_01_012 Alse die meese in die cloue
+F_M1_01_013 Recht often god verscroue.
 
 
-F_M1_2_014 HOe langhe sal gedogen dit
-F_M1_2_015 God. die alle dinc besit
-F_M1_2_016 In ziine heerscappie
-F_M1_2_017 Dattie goede vleeut en̄ bid
-F_M1_2_018 Hem en doech dat no dit
-F_M1_2_019 Datti ye ghedye.
-F_M1_2_020 Al gaet inden helschen pit/
-F_M1_2_021 Eest grau blau zwert oft wit
-F_M1_2_022 Hets ghetrouwe als die zie
-F_M1_2_023 Recht man deluet sonder spit/
-F_M1_2_024 Hine heeft te poynte niet gehit/
-F_M1_2_025 In gheene baelgye/.
-F_M1_2_026 Mi es leet dat ic waer lye/
+F_M1_02_014 HOe langhe sal gedogen dit
+F_M1_02_015 God. die alle dinc besit
+F_M1_02_016 In ziine heerscappie
+F_M1_02_017 Dattie goede vleeut en̄ bid
+F_M1_02_018 Hem en doech dat no dit
+F_M1_02_019 Datti ye ghedye.
+F_M1_02_020 Al gaet inden helschen pit/
+F_M1_02_021 Eest grau blau zwert oft wit
+F_M1_02_022 Hets ghetrouwe als die zie
+F_M1_02_023 Recht man deluet sonder spit/
+F_M1_02_024 Hine heeft te poynte niet gehit/
+F_M1_02_025 In gheene baelgye/.
+F_M1_02_026 Mi es leet dat ic waer lye/
 
 
 F_M1_3_027 LAet ons mertē ouer een
@@ -65,85 +67,85 @@ F_M1_4_051 Want hij mi diere cochte
 F_M1_4_052 Ende ict gheerne volbrochte
 
 
-F_M1_5_053 MErten doē die werelt begā
-F_M1_5_054 Man te verheffen bouē mā
-F_M1_5_055 Doen schiet mij̄ vrouwe ver eere
-F_M1_5_056 Vāden dorper en̄ wijsde hē dē dan
-F_M1_5_057 En̄ dʼ trouwe en̄ doghet was an
-F_M1_5_058 Dien hiet zij sijn heere
-F_M1_5_059 Nu maken die heerē een gespan
-F_M1_5_060 En̄ gheuē der eeren eenē ban
-F_M1_5_061 En̄ en willē niet dat zij keere
-F_M1_5_062 Zeght mi wanē dit fenijn ran
-F_M1_5_063 Toecht mi redene daer van
-F_M1_5_064 Want ict gheerne leere
-F_M1_5_065 Wies scult dat het weere.
+F_M1_05_053 MErten doē die werelt begā
+F_M1_05_054 Man te verheffen bouē mā
+F_M1_05_055 Doen schiet mij̄ vrouwe ver eere
+F_M1_05_056 Vāden dorper en̄ wijsde hē dē dan
+F_M1_05_057 En̄ dʼ trouwe en̄ doghet was an
+F_M1_05_058 Dien hiet zij sijn heere
+F_M1_05_059 Nu maken die heerē een gespan
+F_M1_05_060 En̄ gheuē der eeren eenē ban
+F_M1_05_061 En̄ en willē niet dat zij keere
+F_M1_05_062 Zeght mi wanē dit fenijn ran
+F_M1_05_063 Toecht mi redene daer van
+F_M1_05_064 Want ict gheerne leere
+F_M1_05_065 Wies scult dat het weere.
 
 
-F_M1_6_066 IAcop mi dunct ouerwair
-F_M1_6_067 Sint dat edelheit hadde vaer
-F_M1_6_068 Te pinen om die eere
-F_M1_6_069 En̄ zij trac den scalken naer
-F_M1_6_070 Die raden nu hier nv daer
-F_M1_6_071 En̄ niet en scelden den heere.
-
-
-
-F_M1_6_072 So es del herte worden zo zwair
-F_M1_6_073 Dat sij te clymmē heeft ommaer
-F_M1_6_074 En̄ daelt int lanc zo meer
-F_M1_6_075 Dits nu alder werelt claer
-F_M1_6_076 En̄ oic zietment wel openbaer
-F_M1_6_077 Dus es verbannen eere
-F_M1_6_078 Ende wederstaen ten keere
-
-
-F_M1_7_079 NU merct bidʼ zōnen licht
-F_M1_7_080 Dat alder werelt oge bericht
-F_M1_7_081 Bij hare edelre natuere
-F_M1_7_082 Als dat zwerc dair iegen vecht
-F_M1_7_083 Entie neuel met sire drecht
-F_M1_7_084 Sone can sij te diere vren
-F_M1_7_085 Niet ghetonē haer scone lecht
-F_M1_7_086 Dus verdonckert die scalke knecht
-F_M1_7_087 Die edele creatueren.
-F_M1_7_088 Als hij hem daer ane hecht
-F_M1_7_089 En̄ haer edelheyt verplecht
-F_M1_7_090 Dat zij laet ghedueren
-F_M1_7_091 Bij haer. den scalken sueren
-
-
-F_M1_8_092 SInt dat scalke droegē ouʼ een
-F_M1_8_093 Dat neen wʼt ia en̄ ia neen
-F_M1_8_094 En̄ hem dat wijsheyt dochte.
-F_M1_8_095 En̄ edelheyt daer om green
-F_M1_8_096 Want daer wasdom vut scheen
-F_M1_8_097 Wanen soet comen mochte
-F_M1_8_098 So es edel herte worden steen
-F_M1_8_099 Dat haer ontfermde dinc ne gheē
-F_M1_8_100 Dan daermē ghelt vut knochte
-F_M1_8_101 God geue hē den langen ween
-F_M1_8_102 Die te knaghen gaff dit been
-F_M1_8_103 Den edelen ghedochte.
-F_M1_8_104 Want hire moort an wrochte
-
-
-F_M1_9_105 Wat zal zeghel en̄ was
-F_M1_9_106 Off brieue die gewagē das
-F_M1_9_107 Van dat lantsheeren gheuen
+F_M1_06_066 IAcop mi dunct ouerwair
+F_M1_06_067 Sint dat edelheit hadde vaer
+F_M1_06_068 Te pinen om die eere
+F_M1_06_069 En̄ zij trac den scalken naer
+F_M1_06_070 Die raden nu hier nv daer
+F_M1_06_071 En̄ niet en scelden den heere.
 
 
 
-F_M1_9_108 Hets el niet dan ghedwas
-F_M1_9_109 Also lief had my een sas
-F_M1_9_110 Oft een vriese bescreuen
-F_M1_9_111 Trouwe es broesscher dan .I. glas
-F_M1_9_112 Die wilen eer zoe sterck was
-F_M1_9_113 Es nu te nieute bleuen
-F_M1_9_114 Ic waens noyt heere ghenas
-F_M1_9_115 Die scalke te sinen rade las
-F_M1_9_116 Hine moeste int eynde sneuē
-F_M1_9_117 En̄ sulke es slans verdreuen
+F_M1_06_072 So es del herte worden zo zwair
+F_M1_06_073 Dat sij te clymmē heeft ommaer
+F_M1_06_074 En̄ daelt int lanc zo meer
+F_M1_06_075 Dits nu alder werelt claer
+F_M1_06_076 En̄ oic zietment wel openbaer
+F_M1_06_077 Dus es verbannen eere
+F_M1_06_078 Ende wederstaen ten keere
+
+
+F_M1_07_079 NU merct bidʼ zōnen licht
+F_M1_07_080 Dat alder werelt oge bericht
+F_M1_07_081 Bij hare edelre natuere
+F_M1_07_082 Als dat zwerc dair iegen vecht
+F_M1_07_083 Entie neuel met sire drecht
+F_M1_07_084 Sone can sij te diere vren
+F_M1_07_085 Niet ghetonē haer scone lecht
+F_M1_07_086 Dus verdonckert die scalke knecht
+F_M1_07_087 Die edele creatueren.
+F_M1_07_088 Als hij hem daer ane hecht
+F_M1_07_089 En̄ haer edelheyt verplecht
+F_M1_07_090 Dat zij laet ghedueren
+F_M1_07_091 Bij haer. den scalken sueren
+
+
+F_M1_08_092 SInt dat scalke droegē ouʼ een
+F_M1_08_093 Dat neen wʼt ia en̄ ia neen
+F_M1_08_094 En̄ hem dat wijsheyt dochte.
+F_M1_08_095 En̄ edelheyt daer om green
+F_M1_08_096 Want daer wasdom vut scheen
+F_M1_08_097 Wanen soet comen mochte
+F_M1_08_098 So es edel herte worden steen
+F_M1_08_099 Dat haer ontfermde dinc ne gheē
+F_M1_08_100 Dan daermē ghelt vut knochte
+F_M1_08_101 God geue hē den langen ween
+F_M1_08_102 Die te knaghen gaff dit been
+F_M1_08_103 Den edelen ghedochte.
+F_M1_08_104 Want hire moort an wrochte
+
+
+F_M1_09_105 Wat zal zeghel en̄ was
+F_M1_09_106 Off brieue die gewagē das
+F_M1_09_107 Van dat lantsheeren gheuen
+
+
+
+F_M1_09_108 Hets el niet dan ghedwas
+F_M1_09_109 Also lief had my een sas
+F_M1_09_110 Oft een vriese bescreuen
+F_M1_09_111 Trouwe es broesscher dan .I. glas
+F_M1_09_112 Die wilen eer zoe sterck was
+F_M1_09_113 Es nu te nieute bleuen
+F_M1_09_114 Ic waens noyt heere ghenas
+F_M1_09_115 Die scalke te sinen rade las
+F_M1_09_116 Hine moeste int eynde sneuē
+F_M1_09_117 En̄ sulke es slans verdreuen
 
 
 F_M1_10_118 MErten du berechts mi wel
@@ -1207,150 +1209,152 @@ F_M1_75_973 In haer bin ic tendene bout
 F_M1_75_974 Onse dyaloghe.
 F_M1_75_975 En vraghe nēmeer no en toghe.
 
-
-F_M2_1_000 Hier begint den anderen boeck
-F_M2_1_001 Slaepstu mʼtē slaept diin sin
-F_M2_1_002 Sprect hebdi gheē sprekē in
-F_M2_1_003 Du dunckes mi verdoren
-F_M2_1_004 Dune achtes meer no min
-F_M2_1_005 Dan op weelde ende ghewin
-F_M2_1_006 Wiltu dij dus versmoren
-F_M2_1_007 Alwaert al diin dat comt int zwijn
-F_M2_1_008 Gout siluer loot yser tin
-F_M2_1_009 Nochtan bleuestu verloren
-F_M2_1_010 Hadstu der doghet gheen beghin
-F_M2_1_011 Heft op diin hoot en̄ diin kin
-F_M2_1_012 Tontide waerstu gheboren
-F_M2_1_013 Hebdi dichtens verzworen
+Line_number 976 is missing
 
 
-F_M2_2_014 Iacob du wones inden dam
-F_M2_2_015 En̄ ic tutrecht des ben ic grā
-F_M2_2_016 Dat wij dus siin verscheeden
-F_M2_2_017 Wetti watter mi ane mesquā
-F_M2_2_018 Dat ic noyt bate en vernam
-F_M2_2_019 Aent dichten van ons beeden
-F_M2_2_020 So es mijn sin worden soe lam
-F_M2_2_021 Dat icker node wedʼ aen quā
-F_M2_2_022 Dit doet mi verleeden
-F_M2_2_023 Du wecs mi als eē stotel ram
-F_M2_2_024 Bestu wilt du worts noch tam
-F_M2_2_025 Leere dine woirde cleeden
-F_M2_2_026 Soetelijc ende ghereeden
+F_M2_01_000 Hier begint den anderen boeck
+F_M2_01_001 Slaepstu mʼtē slaept diin sin
+F_M2_01_002 Sprect hebdi gheē sprekē in
+F_M2_01_003 Du dunckes mi verdoren
+F_M2_01_004 Dune achtes meer no min
+F_M2_01_005 Dan op weelde ende ghewin
+F_M2_01_006 Wiltu dij dus versmoren
+F_M2_01_007 Alwaert al diin dat comt int zwijn
+F_M2_01_008 Gout siluer loot yser tin
+F_M2_01_009 Nochtan bleuestu verloren
+F_M2_01_010 Hadstu der doghet gheen beghin
+F_M2_01_011 Heft op diin hoot en̄ diin kin
+F_M2_01_012 Tontide waerstu gheboren
+F_M2_01_013 Hebdi dichtens verzworen
 
 
-F_M2_3_027 MErten vrient heb ic messeit
-F_M2_3_028 Ic bins te beteren bereit
-F_M2_3_029 Is wils al op dy bliuen
-F_M2_3_030 Mʼ verstant mi ende ontbeit
-F_M2_3_031 Een dinc die mi opt herte leit
+F_M2_02_014 Iacob du wones inden dam
+F_M2_02_015 En̄ ic tutrecht des ben ic grā
+F_M2_02_016 Dat wij dus siin verscheeden
+F_M2_02_017 Wetti watter mi ane mesquā
+F_M2_02_018 Dat ic noyt bate en vernam
+F_M2_02_019 Aent dichten van ons beeden
+F_M2_02_020 So es mijn sin worden soe lam
+F_M2_02_021 Dat icker node wedʼ aen quā
+F_M2_02_022 Dit doet mi verleeden
+F_M2_02_023 Du wecs mi als eē stotel ram
+F_M2_02_024 Bestu wilt du worts noch tam
+F_M2_02_025 Leere dine woirde cleeden
+F_M2_02_026 Soetelijc ende ghereeden
 
 
-
-F_M2_3_032 Willic dij bescriuen/
-F_M2_3_033 Daer hier die werelt mede meyt
-F_M2_3_034 En dade dat/ lief waer leyt
-F_M2_3_035 Dats minne van wiuen
-F_M2_3_036 Al dat is in die werelt breyt/
-F_M2_3_037 Stede bossche borghe preit/
-F_M2_3_038 Soudemen verdriuen/
-F_M2_3_039 Woudemen minne ontliuen
-
-
-F_M2_4_040 Iacob dit was oyt diin doen
-F_M2_4_041 Dat van vrouwen diin sʼmoen
-F_M2_4_042 Beghinnen meest oft eynden
-F_M2_4_043 Waerstu een dorꝑ du sprakes vā coen
-F_M2_4_044 Nu es diin herte dus ontvloen
-F_M2_4_045 Doch willics mi ghenenden
-F_M2_4_046 En̄ steken off minē caproen
-F_M2_4_047 En̄ horen watti hier toe spoen
-F_M2_4_048 Dattu den ombekenden
-F_M2_4_049 Merten. niet en laet gheroen
-F_M2_4_050 Al haddic aen twee yserē schoen
-F_M2_4_051 En mocht dij niet ontwenden
-F_M2_4_052 Nu vraecht en̄ ic saelt ontbendē
-
-
-F_M2_5_053 Merten du salt mi verstaen
-F_M2_5_054 Eene vrouwe wel gedaen
-F_M2_5_055 Heeft mi beuaen met mīnen
-F_M2_5_056 Al dat gode es onderdaen
-F_M2_5_057 Lietic om harē wille gaen
-F_M2_5_058 Mochticse ghewinnen
-F_M2_5_059 Nochtan ly ic sondʼ waen
-F_M2_5_060 Sine acht mij̄s niet een spaen
-F_M2_5_061 Mijn sin doet mi bekinnē
-F_M2_5_062 Al souder die werelt om vʼgaen
-F_M2_5_063 Sine soude mi niet ontfaen
-F_M2_5_064 In haer herte binnen/
-F_M2_5_065 Hier toe en es gheen verwinnē
-
-
-F_M2_6_066 Een andʼ vrouwe es die mi mint
-F_M2_6_067 Bouen al dat sij leuende kint
+F_M2_03_027 MErten vrient heb ic messeit
+F_M2_03_028 Ic bins te beteren bereit
+F_M2_03_029 Is wils al op dy bliuen
+F_M2_03_030 Mʼ verstant mi ende ontbeit
+F_M2_03_031 Een dinc die mi opt herte leit
 
 
 
-F_M2_6_068 Met ghestader trouwen
-F_M2_6_069 Die in mi gheprijst es twint
-F_M2_6_070 Sij es die scoenste diemē vint
-F_M2_6_071 En̄ spiegel van alle vrouwen
-F_M2_6_072 Nu es mijn herte soe verblint
-F_M2_6_073 Dat sij haer dair toe niet vʼbint
-F_M2_6_074 Dat sijse yet wille scouwen
-F_M2_6_075 Hoe lief opsien zij mi toe sint
-F_M2_6_076 Het dunct mijnre hʼte zijn wijnt
-F_M2_6_077 Sij liet haer eer te stuckē houwē
-F_M2_6_078 Eer zire om quame in rouwen
+F_M2_03_032 Willic dij bescriuen/
+F_M2_03_033 Daer hier die werelt mede meyt
+F_M2_03_034 En dade dat/ lief waer leyt
+F_M2_03_035 Dats minne van wiuen
+F_M2_03_036 Al dat is in die werelt breyt/
+F_M2_03_037 Stede bossche borghe preit/
+F_M2_03_038 Soudemen verdriuen/
+F_M2_03_039 Woudemen minne ontliuen
 
 
-F_M2_7_079 MErten hore ende verstant
-F_M2_7_080 Dese .ij. siin in een bewant
-F_M2_7_081 Dat costen moet dʼ eenre dleuē
-F_M2_7_082 Nu hebbic die macht ī mij̄ hant
-F_M2_7_083 Welker ic wil brekic den bant
-F_M2_7_084 En̄ macht haer al vʼgheuen
-F_M2_7_085 Deen moet emmer biten den cant
-F_M2_7_086 Den liefsten die god ye vant
-F_M2_7_087 Hier toe siin zij verdreuen
-F_M2_7_088 Liecht mi niet als een truwant
-F_M2_7_089 Mʼ zeght mi aen welkē cant
-F_M2_7_090 Diin herte es bleuen
-F_M2_7_091 En̄ welker du liets sneuen
+F_M2_04_040 Iacob dit was oyt diin doen
+F_M2_04_041 Dat van vrouwen diin sʼmoen
+F_M2_04_042 Beghinnen meest oft eynden
+F_M2_04_043 Waerstu een dorꝑ du sprakes vā coen
+F_M2_04_044 Nu es diin herte dus ontvloen
+F_M2_04_045 Doch willics mi ghenenden
+F_M2_04_046 En̄ steken off minē caproen
+F_M2_04_047 En̄ horen watti hier toe spoen
+F_M2_04_048 Dattu den ombekenden
+F_M2_04_049 Merten. niet en laet gheroen
+F_M2_04_050 Al haddic aen twee yserē schoen
+F_M2_04_051 En mocht dij niet ontwenden
+F_M2_04_052 Nu vraecht en̄ ic saelt ontbendē
 
 
-F_M2_8_092 Iacop dits geens vragens wʼt
-F_M2_8_093 Die de waerheit niet en spaert
-F_M2_8_094 Heeft dit saen ontbonden
-F_M2_8_095 Hets emmer der herten aert
-F_M2_8_096 Dat zij derwaert tijt en̄ vaert
-F_M2_8_097 Danē haer quamen die wonden
-F_M2_8_098 Al sout al varen ghinder waert
-F_M2_8_099 Al dat weluarens begheert
-F_M2_8_100 Nu ende tallen stonden
-F_M2_8_101 Ic verloste die mi therte bezwaert
-F_M2_8_102 Soudic haer latē smakē tzweert
-F_M2_8_103 Dat ware onderuonden/
+F_M2_05_053 Merten du salt mi verstaen
+F_M2_05_054 Eene vrouwe wel gedaen
+F_M2_05_055 Heeft mi beuaen met mīnen
+F_M2_05_056 Al dat gode es onderdaen
+F_M2_05_057 Lietic om harē wille gaen
+F_M2_05_058 Mochticse ghewinnen
+F_M2_05_059 Nochtan ly ic sondʼ waen
+F_M2_05_060 Sine acht mij̄s niet een spaen
+F_M2_05_061 Mijn sin doet mi bekinnē
+F_M2_05_062 Al souder die werelt om vʼgaen
+F_M2_05_063 Sine soude mi niet ontfaen
+F_M2_05_064 In haer herte binnen/
+F_M2_05_065 Hier toe en es gheen verwinnē
+
+
+F_M2_06_066 Een andʼ vrouwe es die mi mint
+F_M2_06_067 Bouen al dat sij leuende kint
 
 
 
-F_M2_8_104 Meerder moort dan sonden
+F_M2_06_068 Met ghestader trouwen
+F_M2_06_069 Die in mi gheprijst es twint
+F_M2_06_070 Sij es die scoenste diemē vint
+F_M2_06_071 En̄ spiegel van alle vrouwen
+F_M2_06_072 Nu es mijn herte soe verblint
+F_M2_06_073 Dat sij haer dair toe niet vʼbint
+F_M2_06_074 Dat sijse yet wille scouwen
+F_M2_06_075 Hoe lief opsien zij mi toe sint
+F_M2_06_076 Het dunct mijnre hʼte zijn wijnt
+F_M2_06_077 Sij liet haer eer te stuckē houwē
+F_M2_06_078 Eer zire om quame in rouwen
 
 
-F_M2_9_105 Tonghe liecht mʼ thʼte niet
-F_M2_9_106 Soe wat therte ghebiet
-F_M2_9_107 Dat wiltmen volbringhen
-F_M2_9_108 Was es narsisus gheschiet
-F_M2_9_109 Die sine forme spiegelt en̄ liet
-F_M2_9_110 Int water sonder minghen
-F_M2_9_111 Hant en̄ mont hij derwaert biet
-F_M2_9_112 Hij bit hij claecht siin vʼdriet
-F_M2_9_113 Nature en wils niet ghehingē
-F_M2_9_114 Datti hem can ghehelpen yet
-F_M2_9_115 Hine doelt als hijt selue siet
-F_M2_9_116 Hine const hem niet bedwingē
-F_M2_9_117 Hine sterf bij desen dinghen
+F_M2_07_079 MErten hore ende verstant
+F_M2_07_080 Dese .ij. siin in een bewant
+F_M2_07_081 Dat costen moet dʼ eenre dleuē
+F_M2_07_082 Nu hebbic die macht ī mij̄ hant
+F_M2_07_083 Welker ic wil brekic den bant
+F_M2_07_084 En̄ macht haer al vʼgheuen
+F_M2_07_085 Deen moet emmer biten den cant
+F_M2_07_086 Den liefsten die god ye vant
+F_M2_07_087 Hier toe siin zij verdreuen
+F_M2_07_088 Liecht mi niet als een truwant
+F_M2_07_089 Mʼ zeght mi aen welkē cant
+F_M2_07_090 Diin herte es bleuen
+F_M2_07_091 En̄ welker du liets sneuen
+
+
+F_M2_08_092 Iacop dits geens vragens wʼt
+F_M2_08_093 Die de waerheit niet en spaert
+F_M2_08_094 Heeft dit saen ontbonden
+F_M2_08_095 Hets emmer der herten aert
+F_M2_08_096 Dat zij derwaert tijt en̄ vaert
+F_M2_08_097 Danē haer quamen die wonden
+F_M2_08_098 Al sout al varen ghinder waert
+F_M2_08_099 Al dat weluarens begheert
+F_M2_08_100 Nu ende tallen stonden
+F_M2_08_101 Ic verloste die mi therte bezwaert
+F_M2_08_102 Soudic haer latē smakē tzweert
+F_M2_08_103 Dat ware onderuonden/
+
+
+
+F_M2_08_104 Meerder moort dan sonden
+
+
+F_M2_09_105 Tonghe liecht mʼ thʼte niet
+F_M2_09_106 Soe wat therte ghebiet
+F_M2_09_107 Dat wiltmen volbringhen
+F_M2_09_108 Was es narsisus gheschiet
+F_M2_09_109 Die sine forme spiegelt en̄ liet
+F_M2_09_110 Int water sonder minghen
+F_M2_09_111 Hant en̄ mont hij derwaert biet
+F_M2_09_112 Hij bit hij claecht siin vʼdriet
+F_M2_09_113 Nature en wils niet ghehingē
+F_M2_09_114 Datti hem can ghehelpen yet
+F_M2_09_115 Hine doelt als hijt selue siet
+F_M2_09_116 Hine const hem niet bedwingē
+F_M2_09_117 Hine sterf bij desen dinghen
 
 
 F_M2_10_118 Medea toont ons selue dat
@@ -1625,152 +1629,154 @@ F_M2_26_336 Daer minne niet en ent hʼ iaer
 F_M2_26_337 Nu enten lesten stonden
 F_M2_26_338 Vryen met sinen wonden
 
-
-F_M3_1_000 Hier begint den derden boeck.
-F_M3_1_001 IC mane mānen metten wiuē
-F_M3_1_002 Die dit dicht lesen ofte scriuen
-F_M3_1_003 Opten hoechsten ban
-F_M3_1_004 Dat sijt reyne laten bliuē
-F_M3_1_005 En̄ siere niet in en driuen
-F_M3_1_006 Woort letter af oft an/
-F_M3_1_007 Doen zijt oic hem sal becliuē
-F_M3_1_008 Minen ban sij zelen afwriuen
-F_M3_1_009 Niet moghen nochtan
-F_M3_1_010 En es gheen spot van keytiuen
-F_M3_1_011 Hets daer ic mi om liet ontliuen
-F_M3_1_012 Eer icker schiede van
-F_M3_1_013 Nu hoirt die leeren can
+Line_number 339 is missing
 
 
-F_M3_2_014 Iacob wij hebben onderlinge
-F_M3_2_015 Ghehandelt misselike dingen
-F_M3_2_016 Nu antwoort my op een
+F_M3_01_000 Hier begint den derden boeck.
+F_M3_01_001 IC mane mānen metten wiuē
+F_M3_01_002 Die dit dicht lesen ofte scriuen
+F_M3_01_003 Opten hoechsten ban
+F_M3_01_004 Dat sijt reyne laten bliuē
+F_M3_01_005 En̄ siere niet in en driuen
+F_M3_01_006 Woort letter af oft an/
+F_M3_01_007 Doen zijt oic hem sal becliuē
+F_M3_01_008 Minen ban sij zelen afwriuen
+F_M3_01_009 Niet moghen nochtan
+F_M3_01_010 En es gheen spot van keytiuen
+F_M3_01_011 Hets daer ic mi om liet ontliuen
+F_M3_01_012 Eer icker schiede van
+F_M3_01_013 Nu hoirt die leeren can
+
+
+F_M3_02_014 Iacob wij hebben onderlinge
+F_M3_02_015 Ghehandelt misselike dingen
+F_M3_02_016 Nu antwoort my op een
 
 
 
-F_M3_2_017 Leere mi eer ic di ontspringhe
-F_M3_2_018 Hoe ic miin herte dʼ toe dwinge
+F_M3_02_017 Leere mi eer ic di ontspringhe
+F_M3_02_018 Hoe ic miin herte dʼ toe dwinge
 
 Line_number 019 is missing
 
 Line_number 020 is missing
-F_M3_2_021 Hem te kennen bi sinē gehinge
-F_M3_2_022 Die leuende es sonder ween
-F_M3_2_023 Dits waerheit claerheit en̄ gehinge
-F_M3_2_024 Subtijl waer therte diet beuīghe
-F_M3_2_025 Want hoger dinc en es gheen
-F_M3_2_026 Nu antwoort tusschē ons tween
+F_M3_02_021 Hem te kennen bi sinē gehinge
+F_M3_02_022 Die leuende es sonder ween
+F_M3_02_023 Dits waerheit claerheit en̄ gehinge
+F_M3_02_024 Subtijl waer therte diet beuīghe
+F_M3_02_025 Want hoger dinc en es gheen
+F_M3_02_026 Nu antwoort tusschē ons tween
 
 
-F_M3_3_027 Merten du vrages mi te hoge
-F_M3_3_028 Al vlogic bouē dʼ ingelē vloge
-F_M3_3_029 Bouen cherub ende cheraf
-F_M3_3_030 Soe weet ic wel dat ic en moge
-F_M3_3_031 Berechten dat te vollē gedoge
-F_M3_3_032 Met wonden niet hier af
-F_M3_3_033 Alle sinne siin te droghe
-F_M3_3_034 Alle creatueren hoement poge
-F_M3_3_035 En doghen niet een caf
-F_M3_3_036 Dat hier eenich te vollē doge
-F_M3_3_037 Maer verscerpe dijns sins oge
-F_M3_3_038 Hoort wat scriftuere dij gaff
-F_M3_3_039 Sluut met diinre hʼten graf
+F_M3_03_027 Merten du vrages mi te hoge
+F_M3_03_028 Al vlogic bouē dʼ ingelē vloge
+F_M3_03_029 Bouen cherub ende cheraf
+F_M3_03_030 Soe weet ic wel dat ic en moge
+F_M3_03_031 Berechten dat te vollē gedoge
+F_M3_03_032 Met wonden niet hier af
+F_M3_03_033 Alle sinne siin te droghe
+F_M3_03_034 Alle creatueren hoement poge
+F_M3_03_035 En doghen niet een caf
+F_M3_03_036 Dat hier eenich te vollē doge
+F_M3_03_037 Maer verscerpe dijns sins oge
+F_M3_03_038 Hoort wat scriftuere dij gaff
+F_M3_03_039 Sluut met diinre hʼten graf
 
 
-F_M3_4_040 Moyses sprect in sine bouckē
-F_M3_4_041 Beesten die den berch besouckē
-F_M3_4_042 Moeten siin vereent./
-F_M3_4_043 Beeste es hij die wille roeken
-F_M3_4_044 Te nauwe om die godheit loeken
-F_M3_4_045 Hets recht dat hijt beweent/
-F_M3_4_046 Du soecs mi in allen hoeken
-F_M3_4_047 Met rime sondʼ valsch vā doekē
-F_M3_4_048 Es dit goet ic wane neent/
-F_M3_4_049 Du telles mi mette wisen cloeken
-F_M3_4_050 Waert goet ic soudʼ dy ō vloekē
-F_M3_4_051 Ic wane diin herte dat meent/
-F_M3_4_052 Dattu mi heues verbeent
+F_M3_04_040 Moyses sprect in sine bouckē
+F_M3_04_041 Beesten die den berch besouckē
+F_M3_04_042 Moeten siin vereent./
+F_M3_04_043 Beeste es hij die wille roeken
+F_M3_04_044 Te nauwe om die godheit loeken
+F_M3_04_045 Hets recht dat hijt beweent/
+F_M3_04_046 Du soecs mi in allen hoeken
+F_M3_04_047 Met rime sondʼ valsch vā doekē
+F_M3_04_048 Es dit goet ic wane neent/
+F_M3_04_049 Du telles mi mette wisen cloeken
+F_M3_04_050 Waert goet ic soudʼ dy ō vloekē
+F_M3_04_051 Ic wane diin herte dat meent/
+F_M3_04_052 Dattu mi heues verbeent
 
 
-F_M3_5_053 Iacob dune salti niet vʼgrāmē
-F_M3_5_054 Ic souts mi al mij̄ leuē scamen.
-
-
-
-F_M3_5_055 Haddic dat oyt ghedocht
-F_M3_5_056 Oec ly ic metti te samen
-F_M3_5_057 Dat die hoecheyt dʼ hoger namē
-F_M3_5_058 Te verre en doech ghesocht
-F_M3_5_059 Al waert dat alle dingen qᵃmen
-F_M3_5_060 Sine conden die godheid nꝫ gehamē
-F_M3_5_061 Dits al aff gheknocht
-F_M3_5_062 Maer leere minē cranckē sin lamē
-F_M3_5_063 Ghewont metter sonden bramen
-F_M3_5_064 Van dattu vermocht
-F_M3_5_065 Soe es mijn wille volbrocht
-
-
-F_M3_6_066 MErten merct in dinen sinne
-F_M3_6_067 God es een wesē vor al begīne
-F_M3_6_068 Dedelste bouen al
-F_M3_6_069 Siin wesen es als ic kinne
-F_M3_6_070 Dupperste god dupperste minne
-F_M3_6_071 Die es oft wesen zal
-F_M3_6_072 Siin werken dair mē kent inne
-F_M3_6_073 Siin zo groot dat sij siin dinne
-F_M3_6_074 Diet kennen. ende smal.
-F_M3_6_075 Siin wijsheyt es coninghinne
-F_M3_6_076 Bouen alrehande ghewinne
-F_M3_6_077 En̄ bouen al gheual
-F_M3_6_078 Daer bouen en̄ hier int dal
-
-
-F_M3_7_079 DEn hemel en̄ den troen mercke
-F_M3_7_080 God es bouē al siin wercke
-F_M3_7_081 Ende onder alle siin dinc
-F_M3_7_082 Hij es buten al hert nu mercke
-F_M3_7_083 En̄ binnen al/ dit hout wel sterke
-F_M3_7_084 Hier vut niet en sprinc
-F_M3_7_085 Oec zeggē ons die wijse clercke
-F_M3_7_086 Hine es niet ghedeilt in perke
-F_M3_7_087 Hier toe diin herte dwinc
-F_M3_7_088 Maer gheheel in elke nu merke
-F_M3_7_089 Butē binnē in wateʼ in zwerke
-F_M3_7_090 Hier toe diin herte dwinc
+F_M3_05_053 Iacob dune salti niet vʼgrāmē
+F_M3_05_054 Ic souts mi al mij̄ leuē scamen.
 
 
 
-F_M3_7_091 Sonder losen winc
+F_M3_05_055 Haddic dat oyt ghedocht
+F_M3_05_056 Oec ly ic metti te samen
+F_M3_05_057 Dat die hoecheyt dʼ hoger namē
+F_M3_05_058 Te verre en doech ghesocht
+F_M3_05_059 Al waert dat alle dingen qᵃmen
+F_M3_05_060 Sine conden die godheid nꝫ gehamē
+F_M3_05_061 Dits al aff gheknocht
+F_M3_05_062 Maer leere minē cranckē sin lamē
+F_M3_05_063 Ghewont metter sonden bramen
+F_M3_05_064 Van dattu vermocht
+F_M3_05_065 Soe es mijn wille volbrocht
 
 
-F_M3_8_092 BOuen es god als heere
-F_M3_8_093 Die besittere es emmermeeʼ
-F_M3_8_094 Al dies men weet
-F_M3_8_095 Onder/ als die in alle keere
-F_M3_8_096 Die dinc hout moghende zeʼe
-F_M3_8_097 Eeuwelic sonder verscheet
-F_M3_8_098 Buten als die met siere weere
-F_M3_8_099 Siin werc behoet dat hem en deere
-F_M3_8_100 Gheen dinc cout no heet
-F_M3_8_101 Binnē als die met sire leere
-F_M3_8_102 Siin werc vervult mꝫ sulkʼ eere
-F_M3_8_103 Dat eeuwelic steet
-F_M3_8_104 Wient lief zij oft leet
+F_M3_06_066 MErten merct in dinen sinne
+F_M3_06_067 God es een wesē vor al begīne
+F_M3_06_068 Dedelste bouen al
+F_M3_06_069 Siin wesen es als ic kinne
+F_M3_06_070 Dupperste god dupperste minne
+F_M3_06_071 Die es oft wesen zal
+F_M3_06_072 Siin werken dair mē kent inne
+F_M3_06_073 Siin zo groot dat sij siin dinne
+F_M3_06_074 Diet kennen. ende smal.
+F_M3_06_075 Siin wijsheyt es coninghinne
+F_M3_06_076 Bouen alrehande ghewinne
+F_M3_06_077 En̄ bouen al gheual
+F_M3_06_078 Daer bouen en̄ hier int dal
 
 
-F_M3_9_105 BOuē es god onghedragen
-F_M3_9_106 Gheen dinc mach hem beclagen
-F_M3_9_107 Dat hijse yet verlast
-F_M3_9_108 Onder sonder last van wagen
-F_M3_9_109 Want hem en moyt rustē no iagen
-F_M3_9_110 Siin wesen es zo vast
-F_M3_9_111 Buten breyt hij niewer siin dagē
-F_M3_9_112 Want hii es al sonder vragen
-F_M3_9_113 Weert voghet en̄ niet gast
-F_M3_9_114 Binnē verwlt hijt iegen plagen
-F_M3_9_115 Dat siin dinc met gheenē vlagen
-F_M3_9_116 En zij ongherast/
-F_M3_9_117 Noch ghequest een bast
+F_M3_07_079 DEn hemel en̄ den troen mercke
+F_M3_07_080 God es bouē al siin wercke
+F_M3_07_081 Ende onder alle siin dinc
+F_M3_07_082 Hij es buten al hert nu mercke
+F_M3_07_083 En̄ binnen al/ dit hout wel sterke
+F_M3_07_084 Hier vut niet en sprinc
+F_M3_07_085 Oec zeggē ons die wijse clercke
+F_M3_07_086 Hine es niet ghedeilt in perke
+F_M3_07_087 Hier toe diin herte dwinc
+F_M3_07_088 Maer gheheel in elke nu merke
+F_M3_07_089 Butē binnē in wateʼ in zwerke
+F_M3_07_090 Hier toe diin herte dwinc
+
+
+
+F_M3_07_091 Sonder losen winc
+
+
+F_M3_08_092 BOuen es god als heere
+F_M3_08_093 Die besittere es emmermeeʼ
+F_M3_08_094 Al dies men weet
+F_M3_08_095 Onder/ als die in alle keere
+F_M3_08_096 Die dinc hout moghende zeʼe
+F_M3_08_097 Eeuwelic sonder verscheet
+F_M3_08_098 Buten als die met siere weere
+F_M3_08_099 Siin werc behoet dat hem en deere
+F_M3_08_100 Gheen dinc cout no heet
+F_M3_08_101 Binnē als die met sire leere
+F_M3_08_102 Siin werc vervult mꝫ sulkʼ eere
+F_M3_08_103 Dat eeuwelic steet
+F_M3_08_104 Wient lief zij oft leet
+
+
+F_M3_09_105 BOuē es god onghedragen
+F_M3_09_106 Gheen dinc mach hem beclagen
+F_M3_09_107 Dat hijse yet verlast
+F_M3_09_108 Onder sonder last van wagen
+F_M3_09_109 Want hem en moyt rustē no iagen
+F_M3_09_110 Siin wesen es zo vast
+F_M3_09_111 Buten breyt hij niewer siin dagē
+F_M3_09_112 Want hii es al sonder vragen
+F_M3_09_113 Weert voghet en̄ niet gast
+F_M3_09_114 Binnē verwlt hijt iegen plagen
+F_M3_09_115 Dat siin dinc met gheenē vlagen
+F_M3_09_116 En zij ongherast/
+F_M3_09_117 Noch ghequest een bast
 
 
 F_M3_10_118 Van eenē god sprekē wij vā eenē

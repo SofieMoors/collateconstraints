@@ -256,39 +256,41 @@ E_M2_26_336 Daʼ mīne nꝫ en int haʼ iaer
 E_M2_26_337 Enten lesten stonden
 E_M2_26_338 Vrien mꝫ sinē wonden
 
-
-E_M3_1_339 Den derden bouc
-E_M3_1_001 IC mane māne mꝫtē wiuen
-E_M3_1_002 Die dit lesē oft scriuen
-E_M3_1_003 Opten hoechsten ban
-E_M3_1_004 Dꝫ sijt reine latē bliuē
-E_M3_1_005 En̄ zieʼ nꝫ toe en driuen
-E_M3_1_006 Wort lʼrē af noch an
-E_M3_1_007 Doē sijt oec hē sal becliuē
-E_M3_1_008 Minē ban sine selē af wriuē
-E_M3_1_009 Niet moghē nochtan
-E_M3_1_010 En es gheē spot vā keytiuē
-E_M3_1_011 Hets daʼ ic my ō liet ōliuē
-E_M3_1_012 Eer ickʼ sciede van
-E_M3_1_013 Nv lere die lerē can
+Line_number 339 is missing
 
 
-E_M3_2_014 Iacop wi hebbē ondʼlinghe
-E_M3_2_015 Ghehandelt messelike dīghe
-E_M3_2_016 Nv antwʼt my op een
-E_M3_2_017 Leert my eer ic di ōtsprīghe
-E_M3_2_018 Hoe ic mij̄ hʼte daʼ toe dwīghe
-E_M3_2_019 Hē te kīnē dien wi vlien
-E_M3_2_020 Ic lese sōwile en̄ singhe
+E_M3_01_000 Den derden bouc
+E_M3_01_001 IC mane māne mꝫtē wiuen
+E_M3_01_002 Die dit lesē oft scriuen
+E_M3_01_003 Opten hoechsten ban
+E_M3_01_004 Dꝫ sijt reine latē bliuē
+E_M3_01_005 En̄ zieʼ nꝫ toe en driuen
+E_M3_01_006 Wort lʼrē af noch an
+E_M3_01_007 Doē sijt oec hē sal becliuē
+E_M3_01_008 Minē ban sine selē af wriuē
+E_M3_01_009 Niet moghē nochtan
+E_M3_01_010 En es gheē spot vā keytiuē
+E_M3_01_011 Hets daʼ ic my ō liet ōliuē
+E_M3_01_012 Eer ickʼ sciede van
+E_M3_01_013 Nv lere die lerē can
+
+
+E_M3_02_014 Iacop wi hebbē ondʼlinghe
+E_M3_02_015 Ghehandelt messelike dīghe
+E_M3_02_016 Nv antwʼt my op een
+E_M3_02_017 Leert my eer ic di ōtsprīghe
+E_M3_02_018 Hoe ic mij̄ hʼte daʼ toe dwīghe
+E_M3_02_019 Hē te kīnē dien wi vlien
+E_M3_02_020 Ic lese sōwile en̄ singhe
 
 
 
 
 
-E_M3_9_114 Bīnē vʼhoedt hijt ieghē plaghē
-E_M3_9_115 Dꝫ sij̄ dīc mꝫ ghenē vlaghē
-E_M3_9_116 Niet en si ongherast
-E_M3_9_117 Noch ghequest eē bast
+E_M3_09_114 Bīnē vʼhoedt hijt ieghē plaghē
+E_M3_09_115 Dꝫ sij̄ dīc mꝫ ghenē vlaghē
+E_M3_09_116 Niet en si ongherast
+E_M3_09_117 Noch ghequest eē bast
 
 
 E_M3_10_118 Vā enē god sprekē wi vā enē

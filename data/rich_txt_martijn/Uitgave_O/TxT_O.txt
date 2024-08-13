@@ -1,6 +1,6 @@
 &19r&
 _M1_
-§1§
+§01§
 0 Ø
 1 <W_7><A>phene martin hoe salt gaen 
 2 <S>al dese weerelt yet langhe staen. 
@@ -17,7 +17,7 @@ _M1_
 <R>echt oftene god verscoue.
 
 &19v&
-§2§
+§02§
 <H_2><O>e langhe zal ghedoghe(n) dit
 15 <G>od die alle dijnc besit
 <I>n sine heerscapie
@@ -33,7 +33,7 @@ _M1_
 <M>ij es leet dat ic waer lye
 
 &20r&
-§3§
+§03§
 <L_2><A>et ons martin ouer een
 <T>e gader spreke(n) ond[er] ons twee(n)
 <I>n dit dyaloghe
@@ -49,7 +49,7 @@ _M1_
 <N>u spreect ende ic ghedoghe.
 
 &20v&
-§4§
+§04§
 40 <S_2>preken iacob lieue co(m)paen
 <W>aer zoude ic dat hebbe(n) u[er]stae(n)
 <D>at ic daer toe dochte
@@ -65,7 +65,7 @@ _M1_
 <E>nde ict gheerne volbrochte
 
 &21r&
-§5§
+§05§
 <M_2><A>rtin als die werelt began
 <M>an te v[er]heffene boue(n) man
 55 <D>oe v[er]stac mijn vrauwe <E>ere
@@ -81,7 +81,7 @@ den dorpere. ende den wijsen dan
 65 <W>iens scult dat dit weere
 
 &21v&
-§6§
+§06§
 <I_7><A>cob mi dijnct ouerwaer
 <S>int dat edelheit hadde vaer
 <T>e pinene o(m)me die <E>ere
@@ -97,7 +97,7 @@ den dorpere. ende den wijsen dan
 <E>nde wederstaen ten keere
 
 &22r&
-§7§
+§07§
 <M_2><E>rket bi d[er] sonne(n) lecht
 80 <D>at ald[er] weerelt oghe(n) berecht
 <B>y zijnre edelre natuere
@@ -113,7 +113,7 @@ den dorpere. ende den wijsen dan
 <B>y haer den scalke(n) sueren
 
 &22v&
-§8§
+§08§
 <S_2>iden scalke droughe(n) ou[er] een
 <D>at neen was ja en(de) ia neen
 <E>nde hem dat wijsheit dochte
@@ -130,7 +130,7 @@ den dorpere. ende den wijsen dan
 
 <D>en edelen ghedochte
 <W>ant hier moort an wrochte
-§9§
+§09§
 105 <W_2>at zal zeghel en(de) was
 <E>n(de) brieue(n) die ghewaghe(n) das
 <V>an dat deese heeren gheuen
@@ -1246,7 +1246,7 @@ den dorpere. ende den wijsen dan
 <E>xplicit liber prim{us}
 ____
 _M2_
-§1§
+§01§
 0 <I>ncipit liber secund{us}
 1 <M_3><A>rtin slaepstu slaept dij(n) zin
 <S>prec hebstu ghee(n) spreke(n) jn
@@ -1263,7 +1263,7 @@ _M2_
 <H>ebstu dichten verzworen.
 
 &60r&
-§2§
+§02§
 <I_2><A>cob du woens in de(n) dam
 15 <E>n(de) ic tutrech dies be(n) ic gra(m)
 <D>at wi dus zijn versceeden
@@ -1279,7 +1279,7 @@ _M2_
 <S>oetelike ende ghereden
 
 &60v&
-§3§
+§03§
 <M_2><A>rtin vriend heb ic messeit
 <T>e beterene be(n) icx bereit
 <J>c wils al vp di bliuen
@@ -1295,7 +1295,7 @@ _M2_
 <W>ilde mense ontliuen
 
 &61r&
-§4§
+§04§
 40 <I_2><A>cob dit was oyt dij(n) doen
 <V>an vrouwen dij(n) sermoen
 <B>eghinnen ofte henden
@@ -1311,7 +1311,7 @@ _M2_
 <N>u vraech ic salt ontbenden
 
 &61v&
-§5§
+§05§
 <M_2><A>rtin du zuls my v[er]staen
 <E>ene vrauwe wel ghedaen
 55 <H>eeft my gheuaen met minne(n)
@@ -1328,7 +1328,7 @@ _M2_
 
 <J>n haer herte binnen
 65 <H>ier toe en es ghee(n) v[er]winne(n)
-§6§
+§06§
 <E_2>ene ander vrauwe es die my mint
 <B>oue(n) alle die zij leuende kint
 <M>et ghestadigher trauwen
@@ -1345,7 +1345,7 @@ _M2_
 <H>et dijnct mijnre herte(n) zij(n) een wint
 <Z>ij liet haer eer an sticken hauwe(n)
 <E>er zijer om quame in rauwen
-§7§
+§07§
 <M_2><A>rtin nu hore en(de) v[er]stant
 80 <D>e twe zijn in een v[er]bant
 <D>at costen moet der eenre leuen
@@ -1362,7 +1362,7 @@ _M2_
 <M>aer seght my an welken cant
 90 <D>ijne herte es bleuen
 <E>nde welke du liets leuen
-§8§
+§08§
 <I_2><A>cob dit en es ghee(n)s vraghe(n)s wert
 <D>ie de waerheit niet en spaert
 <H>eeft dit zaen ontbonden
@@ -1379,7 +1379,7 @@ _M2_
 <S>oudic haer late(n) smake(n) tzwaert
 <D>at waere onderuonden
 <M>eerder mort dan zonden
-§9§
+§09§
 105 <T_2><O>nghe liecht maer therte niet
 <W>ant soe wat therte ghebiet
 <W>iltmen emmer vulbringhen
@@ -1681,7 +1681,7 @@ _M2_
 <E>xplicit secund{us} liber
 ____
 _M3_
-§1§
+§01§
 0 <I>ncipit tertius.
 1 <I_4><C> mane ma(n)nen mette(n) wiue(n)
 <D>ie dit ghedichte lese(n) of scriue(n)
@@ -1698,7 +1698,7 @@ _M3_
 <N>u hoore die leere can
 
 &74r&
-§2§
+§02§
 <I_2><A>cob wi hebben onderlinghe
 15 <G>hehandelt messelike dijnghe
 <N>u andwoort my vp een
@@ -1715,7 +1715,7 @@ _M3_
 
 25 <W>ant hogher dijnc en es gheen
 <N>u antwoort ons tween
-§3§
+§03§
 <M_2><A>rtin du vraghes te hoghe
 <A>l vloghe ic boue(n) d[er] inghele(n) vloghe
 <B>ouen cherub ende cheraph
@@ -1732,7 +1732,7 @@ _M3_
 <M>aer verscerp dijns zinnes oeghe
 <E>nde hoore wat die scrifture gaf
 <S>luut in dijnre herten graf
-§4§
+§04§
 40 <M_2><O>yses spreect in zine bouken
 <B>eesten die den berch bezouke(n)
 <M>oeten zijn ghescent
@@ -1749,7 +1749,7 @@ _M3_
 50 <W>aert goet ic soud[er] di o(m)me vlouke(n)
 <I>c wane dijn herte meent
 <D>attu my heues verbeent
-§5§
+§05§
 <I_2>acob du ne souts di niet v[er]grame(n)
 <I>c souts my al mijn leue(n) scame(n)
 55 <H>adde ic yet ghedocht
@@ -1768,7 +1768,7 @@ _M3_
 65 <Z>o es mine wille vulbrocht
 
 &76v&
-§6§
+§06§
 <M_2><A>rtin nu merke i(n) dine(n) zinne
 <G>od es een wesen voor alle beghi(n)ne
 <D>eedelste bouen al
@@ -1782,7 +1782,7 @@ _M3_
 <B>ouen al andere(n) ghewinne
 <E>nde bouen alle gheual
 <D>aer bouen en(de) hier int dal
-§7§
+§07§
 <D_2><E>n hemel en(de) de(n) troen die merke
 80 <G>od es al bouen zijne ghew[er]ke
 <E>nde onder al zine dijnc
@@ -1798,7 +1798,7 @@ _M3_
 <S>onder eenighe(n) losen wijnc
 
 &77v&
-§8§
+§08§
 <B_2><O>uen es god als heere
 <D>ie bezitter es e(m)mermeere
 <A>lles dies men weet
@@ -1814,7 +1814,7 @@ _M3_
 <W>ien lief zij of leet
 
 &78r&
-§9§
+§09§
 105 <B_2><O>uen es god al onghedraghe(n)
 <G>hene dijnc mach h[aer] beclaghe(n)
 <D>at hize verlast

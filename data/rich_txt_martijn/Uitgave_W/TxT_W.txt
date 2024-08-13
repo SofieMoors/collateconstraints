@@ -1,6 +1,6 @@
 &218ra&
 _M3_
-§1§
+§01§
 0 Ø
 1 <I_6>c mane mannen metten wiuen
 <D>ie dit gedichte lesen en(de) scriuen
@@ -15,7 +15,7 @@ _M3_
 <H>et es daer ic mi lieuer o(m) liete o(n)tliue(n)
 <E>er icker schiede van
 <N>u hore die leeren can
-§2§
+§02§
 <I_2>acob wi hebben onderlinghe
 15 <G>hehandelt messeleke dinghe
 <N>v antwerdt mi op een 
@@ -29,7 +29,7 @@ _M3_
 <S>ubtijl ware th[er]te diet bevi(n)ge
 25 <W>a(n)t hoegher dinc en es negeen
 <N>u antwerdt mi tussche(n) o(n)s tween
-§3§
+§03§
 <M_1>erte(n) du vraechs te hoege
 <A>l vloghic boue(n) der jngele vloghe
 <B>ouen cherub en(de) seraph
@@ -43,7 +43,7 @@ _M3_
 <M>aer verscerp dijns sins oghe
 <E>n(de) hore wat mi screfture gaf
 <H>oudet i(n) dij(n)re herten graf
-§4§
+§04§
 40 <M_1>oyses sp[re]ct in sinen boeken
 <B>eeste(n) die de(n) berch besoeken
 <M>oeten sijn gesteent
@@ -60,7 +60,7 @@ _M3_
 50 <W>aer tgo{et} ic soud[er] +di om vloeke(n)
 <J>c wane dine herte meent
 <D>attu mi heefs verbeent
-§5§
+§05§
 <I_2>acob dune souts di n%iet% v[er]grame(n)
 <J>c souts mi i(n) mij(n) herte scamen
 55 <H>addict ye gedocht
@@ -74,7 +74,7 @@ _M3_
 <G>hewo(n)dt metter sonde(n) bramen
 <V>an dattu vermocht
 65 <S>o es mijn wille volbrocht
-§6§
+§06§
 <M_1>erte(n) nu m[er]c i(n) dinen sinne
 <G>od es een wese(n) vore alle beginne
 <D>edelste bouen al
@@ -88,7 +88,7 @@ _M3_
 <B>ouen alrehande gewinne
 <E>n(de) boue(n) alrehande geval
 <D>aer bouen ocht hier int dal 
-§7§
+§07§
 <D_1>en hemel en(de) den th%ro%en merke
 80 <G>od es boue(n) alle sine gewerke
 <E>n(de) onder alle sine dinc
@@ -102,7 +102,7 @@ _M3_
 <B>ute(n) binne(n) i(n) wat[er] i(n) swerke
 90 <H>ier i(n) dijn herte brinc
 <S>ond[er] enegen loesen winc
-§8§
+§08§
 <B_1>ouen al es god alse here
 <D>ie besittere es e(m)mer meere
 
@@ -119,7 +119,7 @@ _M3_
 102 <S>ijn werc v[er]uult met selker eere
 103 <D>at ewelike ste{et} : 
 104 <W>ie(n)t lief si ofte leet
-§9§
+§09§
 105 <B_1>ouen al es god ongedraghen
 <N>egeen dinc en mach hem beclagen
 <D>at hise iet v[er]last

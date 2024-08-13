@@ -1,6 +1,6 @@
 &1ra&	
 _M1_
-§1§
+§01§
 0 Ø
 1 <W_6><A>phene martijn	hoe saelt gaen 
 2 <S>al dese weerelt langhe staen. 
@@ -15,7 +15,7 @@ _M1_
 <B>eide bescatten en vlaen	
 <A>lse die meese in die cloue		
 <R>echt often god verscroue
-§2§	
+§02§	
 <H_2>oe lange sal gedogen dit		
 15 <G>od die alle dinc besit			
 <I>n sijn heerscaepie			
@@ -29,7 +29,7 @@ _M1_
 <H>ine heeft poente niet gehit		
 25 <I>n *...* baelgye				
 *...*et dat ic waer lye	
-§3§		
+§03§		
 <L_2>aet ons martijn ouer een		
 <H>ier af spreken ond[er] ons twee(n)	
 <I>n desen dyaloghe			
@@ -43,7 +43,7 @@ _M1_
 <A>rbeit vint vier inden steen	
 <D>aer bi ontstect dat droge		
 <N>v sprect ende ict gedoge
-§4§		
+§04§		
 40 <S_2>preken <I>acob lieue compaen		
 <W>aer soudic dat hebbe(n) verstae(n)	
 <D>at ic daer toe dochte		
@@ -60,7 +60,7 @@ _M1_
 50 <E>n(de) moet minen sin dwaen		
 <W>ant hi mi diere cochte		
 <E>n(de) ict gherne volbrochte
-§5§		
+§05§		
 <M_2>artijn doe(n) de werelt began	
 man te verheffen bouen man 		
 55 <D>oen sciet mijn vrouwe ver eere	
@@ -74,7 +74,7 @@ man te verheffen bouen man
 <T>oech mi redene daervan		
 <W>ant ict gherne leere			
 65 <W>ies scout het weere
-§6§			
+§06§			
 <I_2>acob mi dunct ouerwaer		
 <S>int dat edelheit hadde vaer	
 <T>e pinen om die eere			
@@ -88,7 +88,7 @@ man te verheffen bouen man
 <E>n(de) *...*siene openbaer		
 <D>{at} dus es v[er]bannen eere		
 <E>nde wed[er] stae(n) ten keere
-§7§		
+§07§		
 <N_2>v merct bider sonne(n) lecht		
 80 <D>at alder werelt ogen berecht	
 <B>i hare edelre naturen		
@@ -105,7 +105,7 @@ man te verheffen bouen man
 <E>nde haer edelheit verplecht	
 90 <D>{at} si laet ghedueren			
 <B>y haer den scalke(n) suere(n)
-§8§		
+§08§		
 <S_2>int dat scalke droeghe(n) ou[er]ee(n)	
 <D>at neen was <I>a neen			
 <E>nde hem dat wijsheit dochte	
@@ -119,7 +119,7 @@ man te verheffen bouen man
 <D>ie te knagen gaf dit been		
 <D>en edele(n) ghedochte			
 <W>ant hire mort aen wrochte
-§9§		
+§09§		
 105 <W_2>at sal zegel ende was		
 <E>n(de) brieue die gewage(n) das		
 <V>a(n) dat lansheere(n) gheuen		

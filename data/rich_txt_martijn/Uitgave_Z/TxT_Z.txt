@@ -310,7 +310,7 @@ en(de) d[aer]toe ee(n) ewelijc nijt
 ____
 &5ra&
 _M2_
-§9§
+§09§
 114 <D>{at} he(m) ca(n) gehulpen iet
 115 <H>ine doelt alse hi wel ziet
 <S>ine conste sij(n) h[er]te bedwinge(n)
@@ -463,7 +463,7 @@ d{at} de me(n)sche heuet noet
 Ø
 ____
 _M3_
-§1§
+§01§
 0 <D>ie d[er]de merten boec	 
 1 <I_2>c mane ma(n)ne m{et}ten wiue(n)
 die dit lese(n) of scriue(n)	
@@ -481,7 +481,7 @@ die dit lese(n) of scriue(n)
 <H>{et}s d[aer] ic mi om liet o(n)tliue(n)	
 <E>er ick[er] sciede van	
 <N>v le[er]e die leere(n) can
-§2§
+§02§
 <I_2>acop wi hebbe(n) ond[er]linge	
 15 gehandelt messelike ding*e*
 <N>v antw[er]t mi op een	
@@ -495,7 +495,7 @@ die dit lese(n) of scriue(n)
 <S>uptijl w[aer] th[er]te diet beui(n)ge	
 25 <W>a(n)t hog[er] dinc nes ghee(n)	
 <A>ntwert tussche(n) o(n)s twee(n)
-§3§
+§03§
 <M_2>erte(n) du vrages te hoge	
 al vlogic boue(n) d[er] inglen v[...]
 <B>oue(n) cerub en(de) ceraph	
@@ -509,7 +509,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <M>[aer] v[er]scarp dij(n)s sins oge
 <H>ort w{at} natu[er]e di gaf	
 <H>oret in di[er]e h[er]te(n) graf
-§4§
+§04§
 40 <M_2>oyses sp%ra%ct in sine(n) boek*en*	
 <B>eeste(n) die de(n) berch besoeke[...]
 <M>oete(n) sijn gescent	
@@ -526,7 +526,7 @@ al vlogic boue(n) d[er] inglen v[...]
 50 <W>[aer]t goet ic soud[er] di om vloeken	
 <I>c wane dij(n) herte meent	
 <D>{at}tu mi heues verbeent
-§5§
+§05§
 <I_2>acop dune salti n{iet} v[er]g%ra%me(n)
 <I>c souts mi in mi selue(n) scame(n)	
 55 <H>addict oit gedocht	
@@ -540,7 +540,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <G>ewo(n)t m{et}t[er] sonde(n) brame(n)	
 <V>an dattu vermocht
 65 <S>oe es mine(n) wil volbrocht
-§6§
+§06§
 <M_2><E>rte(n) m[er]ct in dine(n) sinne	
 <G>od es wese(n) vor al begi(n)ne	
 *<D>ede*lste boue(n) al	
@@ -554,7 +554,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <B>oue(n) ald[er]hande gewinne	
 <E>n(de) boue(n) alle geual	
 <D>[aer] boue(n) en(de) int dal
-§7§
+§07§
 <D_2><E>(n) hemel en(de) te(n) troe(n) m[er]ke
 80 <G>od es boue(n) zij(n) w[er]ke	
 <E>n(de) ond[er] al sij(n) dinc	
@@ -568,7 +568,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <B>ute(n) binne(n) in wat[er] in sw[er]ke
 90 <H>[ier] in dij(n) hertte dwinc	
 <S>ond[er] lose winc
-§8§
+§08§
 *<B>oven es god als heere*
 *<D>ie besitter es emmermeere*	
 *<A>lles dies men weet*	
@@ -585,7 +585,7 @@ al vlogic boue(n) d[er] inglen v[...]
 <S>ij(n) w[er]c u[er]wlt m{et} selk[er] e[er]e
 <D>{at} ewelijc steet	
 <W>ie(n)t lief si ofte leet
-§9§
+§09§
 105 <B_2>oue(n) es god algedrage(n)	
 <G>ee(n) dinc mach he(m) beclage(n)	
 <D>{at} hise iet v[er]last	

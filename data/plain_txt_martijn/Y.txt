@@ -2,145 +2,147 @@
 
 
 
-Y_M1_1_001 WAphene martijn hoe saelt gaen
-Y_M1_1_002 Sal dese weerelt langhe staen.
-Y_M1_1_003 In dus crancken loue
-Y_M1_1_004 Soe moet mijn vrouwe eere saen
-Y_M1_1_005 Sonder twiuel ende waen
-Y_M1_1_006 Rumē der heeren houe
-Y_M1_1_007 Ic sie dē scalcken wel ontfaen
-Y_M1_1_008 Die de heerē connen dwaen
-Y_M1_1_009 En̄ plucken vanden stoue
-Y_M1_1_010 Ic sie den gerechten slaen
-Y_M1_1_011 Beide bescatten en vlaen
-Y_M1_1_012 Alse die meese in die cloue
-Y_M1_1_013 Recht often god verscroue
+
+Line_number 000 is missing
+Y_M1_01_001 WAphene martijn hoe saelt gaen
+Y_M1_01_002 Sal dese weerelt langhe staen.
+Y_M1_01_003 In dus crancken loue
+Y_M1_01_004 Soe moet mijn vrouwe eere saen
+Y_M1_01_005 Sonder twiuel ende waen
+Y_M1_01_006 Rumē der heeren houe
+Y_M1_01_007 Ic sie dē scalcken wel ontfaen
+Y_M1_01_008 Die de heerē connen dwaen
+Y_M1_01_009 En̄ plucken vanden stoue
+Y_M1_01_010 Ic sie den gerechten slaen
+Y_M1_01_011 Beide bescatten en vlaen
+Y_M1_01_012 Alse die meese in die cloue
+Y_M1_01_013 Recht often god verscroue
 
 
-Y_M1_2_014 Hoe lange sal gedogen dit
-Y_M1_2_015 God die alle dinc besit
-Y_M1_2_016 In sijn heerscaepie
-Y_M1_2_017 Dꝫtie goede vleyt ende bit
-Y_M1_2_018 Hem en doech dat no dit
-Y_M1_2_019 Van datti yet gedye
-Y_M1_2_020 Al varet inden helschen pit
-Y_M1_2_021 Eest grau blau swʼt oft wit
-Y_M1_2_022 Hets getrouwe als die zide
-Y_M1_2_023 Recht man deluet sondʼ spit
-Y_M1_2_024 Hine heeft poente niet gehit
-Y_M1_2_025 In ... baelgye
-Y_M1_2_026 ...et dat ic waer lye
+Y_M1_02_014 Hoe lange sal gedogen dit
+Y_M1_02_015 God die alle dinc besit
+Y_M1_02_016 In sijn heerscaepie
+Y_M1_02_017 Dꝫtie goede vleyt ende bit
+Y_M1_02_018 Hem en doech dat no dit
+Y_M1_02_019 Van datti yet gedye
+Y_M1_02_020 Al varet inden helschen pit
+Y_M1_02_021 Eest grau blau swʼt oft wit
+Y_M1_02_022 Hets getrouwe als die zide
+Y_M1_02_023 Recht man deluet sondʼ spit
+Y_M1_02_024 Hine heeft poente niet gehit
+Y_M1_02_025 In ... baelgye
+Y_M1_02_026 ...et dat ic waer lye
 
 
-Y_M1_3_027 Laet ons martijn ouer een
-Y_M1_3_028 Hier af spreken ondʼ ons tweē
-Y_M1_3_029 In desen dyaloghe
-Y_M1_3_030 Wanen quam ons desen ween
-Y_M1_3_031 Die wilen soe onwert scheen
-Y_M1_3_032 En̄ nv sit soe hoeghe
-Y_M1_3_033 Ic sal vragē ende vleen
-Y_M1_3_034 Antwert nu ia oft neen
-Y_M1_3_035 Van dat ic di betoge
-Y_M1_3_036 Ledicheit es vrome gheen
-Y_M1_3_037 Arbeit vint vier inden steen
-Y_M1_3_038 Daer bi ontstect dat droge
-Y_M1_3_039 Nv sprect ende ict gedoge
+Y_M1_03_027 Laet ons martijn ouer een
+Y_M1_03_028 Hier af spreken ondʼ ons tweē
+Y_M1_03_029 In desen dyaloghe
+Y_M1_03_030 Wanen quam ons desen ween
+Y_M1_03_031 Die wilen soe onwert scheen
+Y_M1_03_032 En̄ nv sit soe hoeghe
+Y_M1_03_033 Ic sal vragē ende vleen
+Y_M1_03_034 Antwert nu ia oft neen
+Y_M1_03_035 Van dat ic di betoge
+Y_M1_03_036 Ledicheit es vrome gheen
+Y_M1_03_037 Arbeit vint vier inden steen
+Y_M1_03_038 Daer bi ontstect dat droge
+Y_M1_03_039 Nv sprect ende ict gedoge
 
 
-Y_M1_4_040 Spreken Iacob lieue compaen
-Y_M1_4_041 Waer soudic dat hebbē verstaē
-Y_M1_4_042 Dat ic daer toe dochte
-Y_M1_4_043 Te vʼclaren dinen waen
-
-
-
-Y_M1_4_044 Die met twiuel waer beuaen
-Y_M1_4_045 Dats dat ic niet en vʼmochte
-Y_M1_4_046 Doch en willicx niet ontgaen
-Y_M1_4_047 Ic wille dine beede ontfaen
-Y_M1_4_048 Die dit aen mi sochte
-Y_M1_4_049 God sinde mi dē hemelschē traen
-Y_M1_4_050 En̄ moet minen sin dwaen
-Y_M1_4_051 Want hi mi diere cochte
-Y_M1_4_052 En̄ ict gherne volbrochte
-
-
-Y_M1_5_053 Martijn doē de werelt began
-Y_M1_5_054 man te verheffen bouen man
-Y_M1_5_055 Doen sciet mijn vrouwe ver eere
-Y_M1_5_056 Den dorper ende wijstem dē dan
-Y_M1_5_057 Dʼ trouwe ende eere was an
-Y_M1_5_058 Dien hiet se wesen heere
-Y_M1_5_059 Nv makē die heerē een gespan
-Y_M1_5_060 En̄ gheuē der eerē enē ban
-Y_M1_5_061 En̄ en willen niet dat si keere
-Y_M1_5_062 Sech mi wanē dit venijn ran
-Y_M1_5_063 Toech mi redene daervan
-Y_M1_5_064 Want ict gherne leere
-Y_M1_5_065 Wies scout het weere
-
-
-Y_M1_6_066 Iacob mi dunct ouerwaer
-Y_M1_6_067 Sint dat edelheit hadde vaer
-Y_M1_6_068 Te pinen om die eere
-Y_M1_6_069 En̄ so trac den scalke nare
-Y_M1_6_070 ... rade nv hier...
-Y_M1_6_071 En̄ niet en scelden den heere
-Y_M1_6_072 Soe es edelheit worden swaer
-Y_M1_6_073 Dꝫ si ... clemmē heeft ōmaer
-Y_M1_6_074 Ende daelt int lanc ... meere
-Y_M1_6_075 Dats nv alder werelt claer
-Y_M1_6_076 En̄ ...siene openbaer
-Y_M1_6_077 Dꝫ dus es vʼbannen eere
-Y_M1_6_078 Ende wedʼ staē ten keere
-
-
-Y_M1_7_079 Nv merct bider sonnē lecht
-Y_M1_7_080 Dat alder werelt ogen berecht
-Y_M1_7_081 Bi hare edelre naturen
-Y_M1_7_082 Als dat swerc daer yegē vecht
-Y_M1_7_084 Sone cā si te diere vren
-Y_M1_7_083 Entie neuel met sijnre drecht
-Y_M1_7_085 Niet getoghen hʼ scoenheit echt
-Y_M1_7_086 Aldus verdonckert die scalke knecht
-Y_M1_7_087 Die edele creaturen
-Y_M1_7_088 Alsi hem daer ane hecht.
+Y_M1_04_040 Spreken Iacob lieue compaen
+Y_M1_04_041 Waer soudic dat hebbē verstaē
+Y_M1_04_042 Dat ic daer toe dochte
+Y_M1_04_043 Te vʼclaren dinen waen
 
 
 
-Y_M1_7_089 Ende haer edelheit verplecht
-Y_M1_7_090 Dꝫ si laet ghedueren
-Y_M1_7_091 By haer den scalkē suerē
+Y_M1_04_044 Die met twiuel waer beuaen
+Y_M1_04_045 Dats dat ic niet en vʼmochte
+Y_M1_04_046 Doch en willicx niet ontgaen
+Y_M1_04_047 Ic wille dine beede ontfaen
+Y_M1_04_048 Die dit aen mi sochte
+Y_M1_04_049 God sinde mi dē hemelschē traen
+Y_M1_04_050 En̄ moet minen sin dwaen
+Y_M1_04_051 Want hi mi diere cochte
+Y_M1_04_052 En̄ ict gherne volbrochte
 
 
-Y_M1_8_092 Sint dat scalke droeghē ouʼeē
-Y_M1_8_093 Dat neen was Ia neen
-Y_M1_8_094 Ende hem dat wijsheit dochte
-Y_M1_8_095 En̄ edelheit daer ōme green
-Y_M1_8_096 Want dʼ wasdom vut scheen
-Y_M1_8_097 Wanē dꝫ comen mochte
-Y_M1_8_098 Soe es edelhert worden steen
-Y_M1_8_099 Want hʼ ontfermt dinc gheen
-Y_M1_8_100 Dan dʼ men gelt vut knochte
-Y_M1_8_101 God gheue hem dē langen weē
-Y_M1_8_102 Die te knagen gaf dit been
-Y_M1_8_103 Den edelē ghedochte
-Y_M1_8_104 Want hire mort aen wrochte
+Y_M1_05_053 Martijn doē de werelt began
+Y_M1_05_054 man te verheffen bouen man
+Y_M1_05_055 Doen sciet mijn vrouwe ver eere
+Y_M1_05_056 Den dorper ende wijstem dē dan
+Y_M1_05_057 Dʼ trouwe ende eere was an
+Y_M1_05_058 Dien hiet se wesen heere
+Y_M1_05_059 Nv makē die heerē een gespan
+Y_M1_05_060 En̄ gheuē der eerē enē ban
+Y_M1_05_061 En̄ en willen niet dat si keere
+Y_M1_05_062 Sech mi wanē dit venijn ran
+Y_M1_05_063 Toech mi redene daervan
+Y_M1_05_064 Want ict gherne leere
+Y_M1_05_065 Wies scout het weere
 
 
-Y_M1_9_105 Wat sal zegel ende was
-Y_M1_9_106 En̄ brieue die gewagē das
-Y_M1_9_107 Vā dat lansheerē gheuen
-Y_M1_9_108 Hets el niet dan gedwas
-Y_M1_9_109 Alsoe lief hadt mi .I. sas
-Y_M1_9_110 Oft eē vriese bescreue
-Y_M1_9_111 Trouwe es broescer dā gelas
-Y_M1_9_112 Die wilen soe starc was
-Y_M1_9_113 Es nv te broken bleuen
-Y_M1_9_114 Ic waens noyt heʼe genas
-Y_M1_9_115 Die scalke tsinē rade las
-Y_M1_9_116 Hine moeste in dinde sneuē
-Y_M1_9_117 En̄ selc sijns lants vʼdreuen
+Y_M1_06_066 Iacob mi dunct ouerwaer
+Y_M1_06_067 Sint dat edelheit hadde vaer
+Y_M1_06_068 Te pinen om die eere
+Y_M1_06_069 En̄ so trac den scalke nare
+Y_M1_06_070 ... rade nv hier...
+Y_M1_06_071 En̄ niet en scelden den heere
+Y_M1_06_072 Soe es edelheit worden swaer
+Y_M1_06_073 Dꝫ si ... clemmē heeft ōmaer
+Y_M1_06_074 Ende daelt int lanc ... meere
+Y_M1_06_075 Dats nv alder werelt claer
+Y_M1_06_076 En̄ ...siene openbaer
+Y_M1_06_077 Dꝫ dus es vʼbannen eere
+Y_M1_06_078 Ende wedʼ staē ten keere
+
+
+Y_M1_07_079 Nv merct bider sonnē lecht
+Y_M1_07_080 Dat alder werelt ogen berecht
+Y_M1_07_081 Bi hare edelre naturen
+Y_M1_07_082 Als dat swerc daer yegē vecht
+Y_M1_07_084 Sone cā si te diere vren
+Y_M1_07_083 Entie neuel met sijnre drecht
+Y_M1_07_085 Niet getoghen hʼ scoenheit echt
+Y_M1_07_086 Aldus verdonckert die scalke knecht
+Y_M1_07_087 Die edele creaturen
+Y_M1_07_088 Alsi hem daer ane hecht.
+
+
+
+Y_M1_07_089 Ende haer edelheit verplecht
+Y_M1_07_090 Dꝫ si laet ghedueren
+Y_M1_07_091 By haer den scalkē suerē
+
+
+Y_M1_08_092 Sint dat scalke droeghē ouʼeē
+Y_M1_08_093 Dat neen was Ia neen
+Y_M1_08_094 Ende hem dat wijsheit dochte
+Y_M1_08_095 En̄ edelheit daer ōme green
+Y_M1_08_096 Want dʼ wasdom vut scheen
+Y_M1_08_097 Wanē dꝫ comen mochte
+Y_M1_08_098 Soe es edelhert worden steen
+Y_M1_08_099 Want hʼ ontfermt dinc gheen
+Y_M1_08_100 Dan dʼ men gelt vut knochte
+Y_M1_08_101 God gheue hem dē langen weē
+Y_M1_08_102 Die te knagen gaf dit been
+Y_M1_08_103 Den edelē ghedochte
+Y_M1_08_104 Want hire mort aen wrochte
+
+
+Y_M1_09_105 Wat sal zegel ende was
+Y_M1_09_106 En̄ brieue die gewagē das
+Y_M1_09_107 Vā dat lansheerē gheuen
+Y_M1_09_108 Hets el niet dan gedwas
+Y_M1_09_109 Alsoe lief hadt mi .I. sas
+Y_M1_09_110 Oft eē vriese bescreue
+Y_M1_09_111 Trouwe es broescer dā gelas
+Y_M1_09_112 Die wilen soe starc was
+Y_M1_09_113 Es nv te broken bleuen
+Y_M1_09_114 Ic waens noyt heʼe genas
+Y_M1_09_115 Die scalke tsinē rade las
+Y_M1_09_116 Hine moeste in dinde sneuē
+Y_M1_09_117 En̄ selc sijns lants vʼdreuen
 
 
 Y_M1_10_118 Martijn du berechts mi wel
@@ -236,9 +238,9 @@ Y_M3_26_335 Ay hoe si gode benediē
 Y_M3_26_336 Dingle dien sagen stridē
 Y_M3_26_337 Yegen des duuels brant
 Y_M3_26_338 Dʼ hise vut prant
-Y_M3_26_339 Die godheit wecte vā dode te liue
 
 
+Y_M3_27_339 Die godheit wecte vā dode te liue
 Y_M3_27_340 Tfleesch dat hi vandē reinē wiue
 Y_M3_27_341 Vrouwen marien nam
 Y_M3_27_342 Hi troeste sijn lieue keytiue
@@ -453,4 +455,6 @@ Y_M3_39_504 God dye de doot wrac van abelle
 Y_M3_39_505 Hi bringe ons ter hoger selle
 Y_M3_39_506 Dats in abrahams schoet
 Y_M3_39_507 Na dese corte doot
+
+Line_number 508 is missing
 

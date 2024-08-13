@@ -2,145 +2,147 @@
 
 
 
-W_M3_1_001 Ic mane mannen metten wiuen
-W_M3_1_002 Die dit gedichte lesen en̄ scriuen
-W_M3_1_003 Op ten hoechsten ban
-W_M3_1_004 Dat sijt reene laten bliuen
-W_M3_1_005 En̄ siere nᵗ in en driuen
-W_M3_1_006 Woert lettere af ochte an
-W_M3_1_007 Doen sijt oec hen sal becliuen
-W_M3_1_008 Mijn ban en̄ si en selēne af wriuē
-W_M3_1_009 Niet gemogen nochtan
-W_M3_1_010 Hēnes geen spot dit van katyuen
-W_M3_1_011 Het es daer ic mi lieuer ō liete ōtliuē
-W_M3_1_012 Eer icker schiede van
-W_M3_1_013 Nu hore die leeren can
+
+Line_number 000 is missing
+W_M3_01_001 Ic mane mannen metten wiuen
+W_M3_01_002 Die dit gedichte lesen en̄ scriuen
+W_M3_01_003 Op ten hoechsten ban
+W_M3_01_004 Dat sijt reene laten bliuen
+W_M3_01_005 En̄ siere nᵗ in en driuen
+W_M3_01_006 Woert lettere af ochte an
+W_M3_01_007 Doen sijt oec hen sal becliuen
+W_M3_01_008 Mijn ban en̄ si en selēne af wriuē
+W_M3_01_009 Niet gemogen nochtan
+W_M3_01_010 Hēnes geen spot dit van katyuen
+W_M3_01_011 Het es daer ic mi lieuer ō liete ōtliuē
+W_M3_01_012 Eer icker schiede van
+W_M3_01_013 Nu hore die leeren can
 
 
-W_M3_2_014 Iacob wi hebben onderlinghe
-W_M3_2_015 Ghehandelt messeleke dinghe
-W_M3_2_016 Nv antwerdt mi op een
-W_M3_2_017 En̄ leert mi eer ic di ontspringhe
-W_M3_2_018 Hoe ic mijn herte daʼ toe dwinghe
-W_M3_2_019 Te kīnēne hē dien wi vleen
-W_M3_2_020 Jc lese somwile en̄ singhe
-W_M3_2_021 Dat gode te kīnēne bi sinen gehīge
-W_M3_2_022 Es leuen sonder ween
-W_M3_2_023 Dit es waerhᵗ claer en̄ ginge
-W_M3_2_024 Subtijl ware thʼte diet bevīge
-W_M3_2_025 Wāt hoegher dinc en es negeen
-W_M3_2_026 Nu antwerdt mi tusschē ōs tween
+W_M3_02_014 Iacob wi hebben onderlinghe
+W_M3_02_015 Ghehandelt messeleke dinghe
+W_M3_02_016 Nv antwerdt mi op een
+W_M3_02_017 En̄ leert mi eer ic di ontspringhe
+W_M3_02_018 Hoe ic mijn herte daʼ toe dwinghe
+W_M3_02_019 Te kīnēne hē dien wi vleen
+W_M3_02_020 Jc lese somwile en̄ singhe
+W_M3_02_021 Dat gode te kīnēne bi sinen gehīge
+W_M3_02_022 Es leuen sonder ween
+W_M3_02_023 Dit es waerhᵗ claer en̄ ginge
+W_M3_02_024 Subtijl ware thʼte diet bevīge
+W_M3_02_025 Wāt hoegher dinc en es negeen
+W_M3_02_026 Nu antwerdt mi tusschē ōs tween
 
 
-W_M3_3_027 Mertē du vraechs te hoege
-W_M3_3_028 Al vloghic bouē der jngele vloghe
-W_M3_3_029 Bouen cherub en̄ seraph
-W_M3_3_030 So weetic wel dat ic en moge
-W_M3_3_031 Berechten dat te vollen doge
-W_M3_3_032 Met woerden niet hier af
-W_M3_3_033 Alle sinne sijn te droege
-W_M3_3_034 Alle creaturen hoement poeghe
-W_M3_3_035 En dogen niet een caf
-W_M3_3_036 Dat haʼre eenech te vollē doghe
-W_M3_3_037 Maer verscerp dijns sins oghe
-W_M3_3_038 En̄ hore wat mi screfture gaf
-W_M3_3_039 Houdet ī dij̄re herten graf
+W_M3_03_027 Mertē du vraechs te hoege
+W_M3_03_028 Al vloghic bouē der jngele vloghe
+W_M3_03_029 Bouen cherub en̄ seraph
+W_M3_03_030 So weetic wel dat ic en moge
+W_M3_03_031 Berechten dat te vollen doge
+W_M3_03_032 Met woerden niet hier af
+W_M3_03_033 Alle sinne sijn te droege
+W_M3_03_034 Alle creaturen hoement poeghe
+W_M3_03_035 En dogen niet een caf
+W_M3_03_036 Dat haʼre eenech te vollē doghe
+W_M3_03_037 Maer verscerp dijns sins oghe
+W_M3_03_038 En̄ hore wat mi screfture gaf
+W_M3_03_039 Houdet ī dij̄re herten graf
 
 
-W_M3_4_040 Moyses spʼct in sinen boeken
-W_M3_4_041 Beestē die dē berch besoeken
-W_M3_4_042 Moeten sijn gesteent
-W_M3_4_043 Beeste es die mēsche die wille roeken
-W_M3_4_044 Te nauwe ō de godheit loeken
-W_M3_4_045 Het es recht dꝫ hijt beweent
-
-
-
-W_M3_4_046 Du soecs mi ī allen hoeken
-W_M3_4_047 Met rimen sonder vlas vā doekē
-W_M3_4_048 Es dit goet ic wane neent
-W_M3_4_049 Du tels mi mettē wisē cloekē
-W_M3_4_050 Waer tgoꝫ ic soudʼ +di om vloekē
-W_M3_4_051 Jc wane dine herte meent
-W_M3_4_052 Dattu mi heefs verbeent
-
-
-W_M3_5_053 Iacob dune souts di nᵗ vʼgramē
-W_M3_5_054 Jc souts mi ī mij̄ herte scamen
-W_M3_5_055 Haddict ye gedocht
-W_M3_5_056 Oec lye ics met di te samen
-W_M3_5_057 Dat die hoecheit dʼ hoegʼ namē
-W_M3_5_058 Te vʼre nᵗ en doech gesocht
-W_M3_5_059 Al waert dat alle dīge quamē
-W_M3_5_060 Sine cōstē de godhᵗ niet geramē
-W_M3_5_061 Dits elken afgecnocht
-W_M3_5_062 Maʼ leere minē crankē sin +minē lamē
-W_M3_5_063 Ghewōdt metter sondē bramen
-W_M3_5_064 Van dattu vermocht
-W_M3_5_065 So es mijn wille volbrocht
-
-
-W_M3_6_066 Mertē nu mʼc ī dinen sinne
-W_M3_6_067 God es een wesē vore alle beginne
-W_M3_6_068 Dedelste bouen al
-W_M3_6_069 Sij̄ wesen es also ic kinne
-W_M3_6_070 Douerste goꝫ douerste mīne
-W_M3_6_071 Dat es oft wesen sal
-W_M3_6_072 Sine gewerke daʼ mēne kīt jnne
-W_M3_6_073 Sij̄ so groet dat si sij̄ dinne
-W_M3_6_074 Diet kinnen en̄ smal
-W_M3_6_075 Sine wijsheit es coninginne
-W_M3_6_076 Bouen alrehande gewinne
-W_M3_6_077 En̄ bouē alrehande geval
-W_M3_6_078 Daer bouen ocht hier int dal
-
-
-W_M3_7_079 Den hemel en̄ den thᵒen merke
-W_M3_7_080 God es bouē alle sine gewerke
-W_M3_7_081 En̄ onder alle sine dinc
-W_M3_7_082 Hi es buten alle dinc nu hʼke
-W_M3_7_083 En̄ binnē alle dīc dit houde wel stʼke
-W_M3_7_084 Hier wt niet en sprinc
-W_M3_7_085 Oec seggē ōs wise clerke
-W_M3_7_086 Hi ē es niet gedeilt ī perke
-W_M3_7_087 Hier in dijn herte dwinc
-W_M3_7_088 Maer geheel in elken werke
-W_M3_7_089 Butē binnē ī watʼ ī swerke
-W_M3_7_090 Hier ī dijn herte brinc
-W_M3_7_091 Sondʼ enegen loesen winc
-
-
-W_M3_8_092 Bouen al es god alse here
-W_M3_8_093 Die besittere es ēmer meere
+W_M3_04_040 Moyses spʼct in sinen boeken
+W_M3_04_041 Beestē die dē berch besoeken
+W_M3_04_042 Moeten sijn gesteent
+W_M3_04_043 Beeste es die mēsche die wille roeken
+W_M3_04_044 Te nauwe ō de godheit loeken
+W_M3_04_045 Het es recht dꝫ hijt beweent
 
 
 
-W_M3_8_094 Alles dies niē weet :
-W_M3_8_095 Ondʼ al als die in allē keere
-W_M3_8_096 De dīc houdt mogēdelec en̄ seere
-W_M3_8_097 Jegē alle vʼscheet :
-W_M3_8_098 Butē als die mꝫ siʼe wʼe
-W_M3_8_099 Sij̄ werc behuedt dat hem en dere
-W_M3_8_100 Negeen dinc cout noch heet
-W_M3_8_101 Binnen als die mꝫ siere leere
-W_M3_8_102 Sijn werc vʼuult met selker eere
-W_M3_8_103 Dat ewelike steꝫ :
-W_M3_8_104 Wiēt lief si ofte leet
+W_M3_04_046 Du soecs mi ī allen hoeken
+W_M3_04_047 Met rimen sonder vlas vā doekē
+W_M3_04_048 Es dit goet ic wane neent
+W_M3_04_049 Du tels mi mettē wisē cloekē
+W_M3_04_050 Waer tgoꝫ ic soudʼ +di om vloekē
+W_M3_04_051 Jc wane dine herte meent
+W_M3_04_052 Dattu mi heefs verbeent
 
 
-W_M3_9_105 Bouen al es god ongedraghen
-W_M3_9_106 Negeen dinc en mach hem beclagen
-W_M3_9_107 Dat hise iet vʼlast
-W_M3_9_108 Onder al sondʼ last vā waghen
-W_M3_9_109 Want hem en moeyt rustē no iagē
-W_M3_9_110 Sijn wesen es soe vast
-W_M3_9_111 Butē al en̄ ē breidt niewerīc sij̄ dagē
-W_M3_9_112 Wāt hi es al sōdʼ vᵃgē :
-W_M3_9_113 Weʼt voecht en̄ nᵗ gast
-W_M3_9_114 Binnē al en̄ veruullet iegē plagen
-W_M3_9_115 Dat sine dinc met geenen vlagen
-W_M3_9_116 En si ōgerast :
-W_M3_9_117 No gequetst enen bast
+W_M3_05_053 Iacob dune souts di nᵗ vʼgramē
+W_M3_05_054 Jc souts mi ī mij̄ herte scamen
+W_M3_05_055 Haddict ye gedocht
+W_M3_05_056 Oec lye ics met di te samen
+W_M3_05_057 Dat die hoecheit dʼ hoegʼ namē
+W_M3_05_058 Te vʼre nᵗ en doech gesocht
+W_M3_05_059 Al waert dat alle dīge quamē
+W_M3_05_060 Sine cōstē de godhᵗ niet geramē
+W_M3_05_061 Dits elken afgecnocht
+W_M3_05_062 Maʼ leere minē crankē sin +minē lamē
+W_M3_05_063 Ghewōdt metter sondē bramen
+W_M3_05_064 Van dattu vermocht
+W_M3_05_065 So es mijn wille volbrocht
+
+
+W_M3_06_066 Mertē nu mʼc ī dinen sinne
+W_M3_06_067 God es een wesē vore alle beginne
+W_M3_06_068 Dedelste bouen al
+W_M3_06_069 Sij̄ wesen es also ic kinne
+W_M3_06_070 Douerste goꝫ douerste mīne
+W_M3_06_071 Dat es oft wesen sal
+W_M3_06_072 Sine gewerke daʼ mēne kīt jnne
+W_M3_06_073 Sij̄ so groet dat si sij̄ dinne
+W_M3_06_074 Diet kinnen en̄ smal
+W_M3_06_075 Sine wijsheit es coninginne
+W_M3_06_076 Bouen alrehande gewinne
+W_M3_06_077 En̄ bouē alrehande geval
+W_M3_06_078 Daer bouen ocht hier int dal
+
+
+W_M3_07_079 Den hemel en̄ den thᵒen merke
+W_M3_07_080 God es bouē alle sine gewerke
+W_M3_07_081 En̄ onder alle sine dinc
+W_M3_07_082 Hi es buten alle dinc nu hʼke
+W_M3_07_083 En̄ binnē alle dīc dit houde wel stʼke
+W_M3_07_084 Hier wt niet en sprinc
+W_M3_07_085 Oec seggē ōs wise clerke
+W_M3_07_086 Hi ē es niet gedeilt ī perke
+W_M3_07_087 Hier in dijn herte dwinc
+W_M3_07_088 Maer geheel in elken werke
+W_M3_07_089 Butē binnē ī watʼ ī swerke
+W_M3_07_090 Hier ī dijn herte brinc
+W_M3_07_091 Sondʼ enegen loesen winc
+
+
+W_M3_08_092 Bouen al es god alse here
+W_M3_08_093 Die besittere es ēmer meere
+
+
+
+W_M3_08_094 Alles dies niē weet :
+W_M3_08_095 Ondʼ al als die in allē keere
+W_M3_08_096 De dīc houdt mogēdelec en̄ seere
+W_M3_08_097 Jegē alle vʼscheet :
+W_M3_08_098 Butē als die mꝫ siʼe wʼe
+W_M3_08_099 Sij̄ werc behuedt dat hem en dere
+W_M3_08_100 Negeen dinc cout noch heet
+W_M3_08_101 Binnen als die mꝫ siere leere
+W_M3_08_102 Sijn werc vʼuult met selker eere
+W_M3_08_103 Dat ewelike steꝫ :
+W_M3_08_104 Wiēt lief si ofte leet
+
+
+W_M3_09_105 Bouen al es god ongedraghen
+W_M3_09_106 Negeen dinc en mach hem beclagen
+W_M3_09_107 Dat hise iet vʼlast
+W_M3_09_108 Onder al sondʼ last vā waghen
+W_M3_09_109 Want hem en moeyt rustē no iagē
+W_M3_09_110 Sijn wesen es soe vast
+W_M3_09_111 Butē al en̄ ē breidt niewerīc sij̄ dagē
+W_M3_09_112 Wāt hi es al sōdʼ vᵃgē :
+W_M3_09_113 Weʼt voecht en̄ nᵗ gast
+W_M3_09_114 Binnē al en̄ veruullet iegē plagen
+W_M3_09_115 Dat sine dinc met geenen vlagen
+W_M3_09_116 En si ōgerast :
+W_M3_09_117 No gequetst enen bast
 
 
 W_M3_10_118 Uan enē god spreken wi van enen
@@ -612,4 +614,6 @@ W_M3_39_504 Die de doot wrac van abelle
 W_M3_39_505 Moet ons bringen tʼ hoeghʼ celle
 W_M3_39_506 Dats ī abrahams scoet
 W_M3_39_507 Na dese corte doot Amen
+
+Line_number 508 is missing
 

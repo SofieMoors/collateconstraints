@@ -43,7 +43,6 @@ Ge_M1_67_867 Ontfermichꝫ vā moede
 Ge_M1_67_868 God selue die nie en loech
 Ge_M1_67_869 Enten mildē nꝫ en bedroech
 Ge_M1_67_870 Sette di in sijnre hoeden
-Ge_M1_67_871 
 
 
 
@@ -90,7 +89,6 @@ Ge_M1_70_905 So nau om hʼe scoenhꝫ s
 Ge_M1_70_906 Wie es dieser toe hael
 Ge_M1_70_907 Wilde die clager te tid
 Ge_M1_70_908 Sone mocht hē ni
-Ge_M1_70_909 
 
 
 
@@ -137,7 +135,6 @@ Ge_M1_73_943 rsoende dē vader gram
 Ge_M1_73_944  wijsde ons den dam
 Ge_M1_73_945 ter hoger eruen
 Ge_M1_73_946 dʼ dinc niemā vʼnā
-Ge_M1_73_947 
 
 
 
@@ -174,15 +171,16 @@ Ge_M1_75_973 In haer benic tendē bout
 Ge_M1_75_974 In onsen dyaloge
 Ge_M1_75_975 En vrage no en toghe
 
+Line_number 976 is missing
 
-Ge_M2_1_000 Den anderen merten
-Ge_M2_1_001 SLaeptu mertē slaept dij̄ sin
-Ge_M2_1_002 Sprect hebdi sprekē in
-Ge_M2_1_003 Du dunckes mi verdoren
-Ge_M2_1_004 Dune achtes meer no min
-Ge_M2_1_005 Dan op weelde en̄ gewin
-Ge_M2_1_006 Wiltu di dus versmoren
-Ge_M2_1_007 Alwaert dij̄ dꝫ comt īt tswī
-Ge_M2_1_008 Gout siluer loed iser tin
-Ge_M2_1_009 
+
+Ge_M2_01_000 Den anderen merten
+Ge_M2_01_001 SLaeptu mertē slaept dij̄ sin
+Ge_M2_01_002 Sprect hebdi sprekē in
+Ge_M2_01_003 Du dunckes mi verdoren
+Ge_M2_01_004 Dune achtes meer no min
+Ge_M2_01_005 Dan op weelde en̄ gewin
+Ge_M2_01_006 Wiltu di dus versmoren
+Ge_M2_01_007 Alwaert dij̄ dꝫ comt īt tswī
+Ge_M2_01_008 Gout siluer loed iser tin
 

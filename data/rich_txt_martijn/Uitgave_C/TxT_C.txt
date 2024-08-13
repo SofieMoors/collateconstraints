@@ -1,6 +1,6 @@
 &217ra&
 _M3_
-§1§
+§01§
 0 <V>an der drieuoudicheide..
 1 <I_12>c mane den mannen metten wiuen 
 die dit lesen zoelen ofte scriuen
@@ -15,7 +15,7 @@ moeghen oec niet nochtan
 hets daer ic mi eer om liet ontliuen
 eer icker sciede van 
 hoert mi dat ict leren can.
-§2§
+§02§
 <I_2>acob wij hebben onderlinghe 
 15 ghehandelt menegherande dinghe
 andworde mi op een
@@ -29,7 +29,7 @@ dits waereit claer en(de) biechtinghe
 subtijl waer therte diet beuinghe 
 25 want hogher dinc en is engheen 
 nu andworde mi tusghen ons tween.
-§3§ 
+§03§ 
 <M_2>artijn du vraghes mi tehoghe
 al vloghic bouen der yngle vloghe
 bouuen cerub en(de) seraf
@@ -43,7 +43,7 @@ dat hoer enich te uollen toghe
 mer nu verscarp dijns zins oghe 
 hoer wat mi scrifture gaf
 hout in dijnre herten graf.
-§4§ 
+§04§ 
 40 <M_2>oyses spreect in zinen boeken 
 die beesten die den bergh besoeken 
 moeten zijn ghesteent 
@@ -59,7 +59,7 @@ ic waen dijn herte meent.
 dat du nu heues verleent. 
 
 &217rb&
-§5§
+§05§
 <I_2>acob du ne zoelt di niet vergramen 
 ic zouds mi in mi zeluen scamen 
 55 haddict ie ghedocht
@@ -73,7 +73,7 @@ mer eer minen cranken zin minen lame(n)
 ghewont metter zonden bramen
 van dat du vermocht 
 65 zoe is mijn wille volbrocht.
-§6§ 
+§06§ 
 <M_2>artijn merc wel in dinen zinne 
 god is een wesen voer alle beghinne 
 ende tedelste bouuen al 
@@ -87,7 +87,7 @@ diet kinnen ende smal
 bouuen alrehande ghewinne 
 en(de) bouuen al gheual 
 daer bouuen of hier int dal.
-§7§ 
+§07§ 
 <D_2>en hemel en(de) den troen die merke 
 80 god is bouuen alle zine ghewerke 
 en(de) onder alle zine dinc  
@@ -101,7 +101,7 @@ mer al gheheel in elke merke
 buten binnen in water in swerke 
 90 in dit dijn herte brinc 
 zonder bosen winc. 
-§8§
+§08§
 <B_2>ouen al is god alse here 
 die besitter is emmermere 
 alre dinc die men weet. 
@@ -117,7 +117,7 @@ daert ewelike steet.
 wient lief zi ofte leet. 
 
 &217va&
-§9§
+§09§
 105 <B_2>ouuen is god onghedraghen 
 noch ghene dinc mach haer beclaghen 
 dat hi ze verlast 
@@ -578,7 +578,7 @@ ____
 
 &219va&
 _M1_
-§1§
+§01§
 0 <V>an iacob en(de) van martijn.
 1 <U_5>uapene martijn hoe zalt gaen  
 zal dese werelt iet langhe staen 
@@ -593,7 +593,7 @@ en(de) plucken van den stoue
 beide bescatten en(de) vaen 
 alse die mese in die cloue 
 recht of hen god verscroue.
-§2§
+§02§
 <H_2>oe langhe zal ghedoghen dit 
 15 god die alle dinc besit 
 in zijnre heerscappie 
@@ -607,7 +607,7 @@ zoe dat hi iet ghedie
 21 eest blau eest grau eest swart eest wit
 22 hets ghetrouwe als die zye 
 26 mi is leet dat ic waer lye.
-§3§
+§03§
 27 <L_2>aet ons martijn over een 
 28 hier af spreken onder ons tween 
 29 in dit dyaloghe 
@@ -621,7 +621,7 @@ ledicheit is vroem en gheen
 arbeit vijnt vier in den steen 
 waerbi ontsteect dat droghe 
 nu sprec en(de) ic ghedoghe.
-§4§
+§04§
 40 <S_2>preken jacob lieue compaen 
 waer zoudict hebben verstaen
 dat ic daer toe dochte
@@ -638,7 +638,7 @@ god zeinde mi den hemelscen traen
 
 want hi mi diere cochte 
 en(de) ict gherne volbrochte.
-§5§
+§05§
 <M_2>artijn doe die werelt began 
 man teuerheffen bouen man 
 55 doe sciet mijn vrouwe ver eere 
@@ -652,7 +652,7 @@ zech mi wanne dit venijn ran
 toegh mi redene daer van 
 65 wies scout dat dit were 
 64 want ic gherne lere.
-§6§
+§06§
 66 <M_2>artijn mi dunct ouerwaer
 67 zijnt dat edelheit hadde vaer 
 68 te pinen om die eere
@@ -666,7 +666,7 @@ en(de) daelt je lanc zo mere
 en(de) oeghscijn al openbaer
 dus is verbanden eere
 en(de) wederstaen ten kere. 
-§7§
+§07§
 <N_2>u merct bi der zonnen lecht
 80 dat alder werelt oghen berecht 
 bi ziere edelre naturen
@@ -680,7 +680,7 @@ alse hi hem daer ane hecht
 en(de) haer edelheit verplecht
 90 dat zi laet gheduren 
 bi haer die scalke zuren.
-§8§
+§08§
 <Z_2>int dat scalke droeghen ouereen
 dat neen was ja en(de) ja was neen
 en(de) hem dat wijsheit dochte 
@@ -697,7 +697,7 @@ ay god ghef hem den langhen ween
 die te cnauwene gaf dit been 
 den edelen ghedochte
 want hire moert anwrochte.
-§9§
+§09§
 105 <V_2>uat zal zeghel en(de) was
 en(de) brieue die ghewaghen das 
 van dat landsheren gheuen

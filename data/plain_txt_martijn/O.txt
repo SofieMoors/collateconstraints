@@ -2,163 +2,165 @@
 
 
 
-O_M1_1_001 WAphene martin hoe salt gaen
-O_M1_1_002 Sal dese weerelt yet langhe staen.
-O_M1_1_003 In dus cranken loue
-O_M1_1_004 So zal mijn vrauwe eere zaen
-O_M1_1_005 Sonder twifel en̄ waen
-O_M1_1_006 Rumē der heerē houe
-O_M1_1_007 Ic sie den scalke wel ontfaen
-O_M1_1_008 Die de heeren connen dwaen
-O_M1_1_009 Ende plocken van den stoue
-O_M1_1_010 Ic zie die gherechte slaen
-O_M1_1_011 Bede bescatten ende vaen
-O_M1_1_012 Alse die meese in de cloue
-O_M1_1_013 Recht oftene god verscoue.
+
+Line_number 000 is missing
+O_M1_01_001 WAphene martin hoe salt gaen
+O_M1_01_002 Sal dese weerelt yet langhe staen.
+O_M1_01_003 In dus cranken loue
+O_M1_01_004 So zal mijn vrauwe eere zaen
+O_M1_01_005 Sonder twifel en̄ waen
+O_M1_01_006 Rumē der heerē houe
+O_M1_01_007 Ic sie den scalke wel ontfaen
+O_M1_01_008 Die de heeren connen dwaen
+O_M1_01_009 Ende plocken van den stoue
+O_M1_01_010 Ic zie die gherechte slaen
+O_M1_01_011 Bede bescatten ende vaen
+O_M1_01_012 Alse die meese in de cloue
+O_M1_01_013 Recht oftene god verscoue.
 
 
 
 
 
-O_M1_2_014 HOe langhe zal ghedoghē dit
-O_M1_2_015 God die alle dijnc besit
-O_M1_2_016 In sine heerscapie
-O_M1_2_017 Wat die goede vleeut ende bidt
-O_M1_2_018 Hem en doech no dat no dit
-O_M1_2_019 Dat hij hier ghedie
-O_M1_2_020 Al gaet in den helschen pit
-O_M1_2_021 Eist grau blaeu zwart of wit
-O_M1_2_022 Het es ghetrauwe als die zie
-O_M1_2_023 Recht man deluet zondʼ spit
-O_M1_2_024 Hij en heeft te pointe niet ghehit
-O_M1_2_025 In ne ghene baelgie
-O_M1_2_026 Mij es leet dat ic waer lye
+O_M1_02_014 HOe langhe zal ghedoghē dit
+O_M1_02_015 God die alle dijnc besit
+O_M1_02_016 In sine heerscapie
+O_M1_02_017 Wat die goede vleeut ende bidt
+O_M1_02_018 Hem en doech no dat no dit
+O_M1_02_019 Dat hij hier ghedie
+O_M1_02_020 Al gaet in den helschen pit
+O_M1_02_021 Eist grau blaeu zwart of wit
+O_M1_02_022 Het es ghetrauwe als die zie
+O_M1_02_023 Recht man deluet zondʼ spit
+O_M1_02_024 Hij en heeft te pointe niet ghehit
+O_M1_02_025 In ne ghene baelgie
+O_M1_02_026 Mij es leet dat ic waer lye
 
 
 
 
 
-O_M1_3_027 LAet ons martin ouer een
-O_M1_3_028 Te gader sprekē ondʼ ons tweē
-O_M1_3_029 In dit dyaloghe
-O_M1_3_030 Wanen ons cam deese ween
-O_M1_3_031 Die wijlen so onwaert scheen
-O_M1_3_032 Ende nu sit zo hooghe
-O_M1_3_033 Ic zal vraghen ende vleen
-O_M1_3_034 Antwoordt my ia ofte neen
-O_M1_3_035 Van dat ic dy betooghe
-O_M1_3_036 Ledicheit es vrome negheen
-O_M1_3_037 Aerbeit vint vier in den steen
-O_M1_3_038 Daer by ontsteect dat droghe
-O_M1_3_039 Nu spreect ende ic ghedoghe.
+O_M1_03_027 LAet ons martin ouer een
+O_M1_03_028 Te gader sprekē ondʼ ons tweē
+O_M1_03_029 In dit dyaloghe
+O_M1_03_030 Wanen ons cam deese ween
+O_M1_03_031 Die wijlen so onwaert scheen
+O_M1_03_032 Ende nu sit zo hooghe
+O_M1_03_033 Ic zal vraghen ende vleen
+O_M1_03_034 Antwoordt my ia ofte neen
+O_M1_03_035 Van dat ic dy betooghe
+O_M1_03_036 Ledicheit es vrome negheen
+O_M1_03_037 Aerbeit vint vier in den steen
+O_M1_03_038 Daer by ontsteect dat droghe
+O_M1_03_039 Nu spreect ende ic ghedoghe.
 
 
 
 
 
-O_M1_4_040 Spreken iacob lieue cōpaen
-O_M1_4_041 Waer zoude ic dat hebbē uʼstaē
-O_M1_4_042 Dat ic daer toe dochte
-O_M1_4_043 Te verclarene dijnen waen
-O_M1_4_044 Die met twifele ware beuaen
-O_M1_4_045 Dats dat ic niet en vermochte
-O_M1_4_046 Doch en wille icx niet ontgaen
-O_M1_4_047 Ic wille die bede van di ontfaē
-O_M1_4_048 Die dit ane my sochte
-O_M1_4_049 God zende my dē hemelschē traen
-O_M1_4_050 Ende moete mine zinnē dwaen
-O_M1_4_051 Want hi mi diere cochte
-O_M1_4_052 Ende ict gheerne volbrochte
+O_M1_04_040 Spreken iacob lieue cōpaen
+O_M1_04_041 Waer zoude ic dat hebbē uʼstaē
+O_M1_04_042 Dat ic daer toe dochte
+O_M1_04_043 Te verclarene dijnen waen
+O_M1_04_044 Die met twifele ware beuaen
+O_M1_04_045 Dats dat ic niet en vermochte
+O_M1_04_046 Doch en wille icx niet ontgaen
+O_M1_04_047 Ic wille die bede van di ontfaē
+O_M1_04_048 Die dit ane my sochte
+O_M1_04_049 God zende my dē hemelschē traen
+O_M1_04_050 Ende moete mine zinnē dwaen
+O_M1_04_051 Want hi mi diere cochte
+O_M1_04_052 Ende ict gheerne volbrochte
 
 
 
 
 
-O_M1_5_053 MArtin als die werelt began
-O_M1_5_054 Man te vʼheffene bouē man
-O_M1_5_055 Doe vʼstac mijn vrauwe Eere
-O_M1_5_056 den dorpere. ende den wijsen dan
-O_M1_5_057 Daer trauwe ende duecht was an
-O_M1_5_058 Dien liet zij zijn heere
-O_M1_5_059 Nu maken die heerē een ghespan
-O_M1_5_060 Ende gheuē der eeren eenē ban
-O_M1_5_061 Ende en willen niet dat soe keere
-O_M1_5_062 Secht my wanē dit venijn ran
-O_M1_5_063 Ende toecht my redene daer van
-O_M1_5_064 Want ic gheerne leere
-O_M1_5_065 Wiens scult dat dit weere
+O_M1_05_053 MArtin als die werelt began
+O_M1_05_054 Man te vʼheffene bouē man
+O_M1_05_055 Doe vʼstac mijn vrauwe Eere
+O_M1_05_056 den dorpere. ende den wijsen dan
+O_M1_05_057 Daer trauwe ende duecht was an
+O_M1_05_058 Dien liet zij zijn heere
+O_M1_05_059 Nu maken die heerē een ghespan
+O_M1_05_060 Ende gheuē der eeren eenē ban
+O_M1_05_061 Ende en willen niet dat soe keere
+O_M1_05_062 Secht my wanē dit venijn ran
+O_M1_05_063 Ende toecht my redene daer van
+O_M1_05_064 Want ic gheerne leere
+O_M1_05_065 Wiens scult dat dit weere
 
 
 
 
 
-O_M1_6_066 IAcob mi dijnct ouerwaer
-O_M1_6_067 Sint dat edelheit hadde vaer
-O_M1_6_068 Te pinene ōme die Eere
-O_M1_6_069 Ende zij trac die scalke naer
-O_M1_6_070 Die raden nu hier nu daer
-O_M1_6_071 Ende niet en scelden den heʼe
-O_M1_6_072 So es edelheit wordē zo zwaer
-O_M1_6_073 Dat zoe te clēmene heeft ōmaer
-O_M1_6_074 Ende danct zo lanc zo meere
-O_M1_6_075 Dits nu alder werelt claer
-O_M1_6_076 Ende den ghesindē openbaer
-O_M1_6_077 Dus es verbannen Eere
-O_M1_6_078 Ende wederstaen ten keere
+O_M1_06_066 IAcob mi dijnct ouerwaer
+O_M1_06_067 Sint dat edelheit hadde vaer
+O_M1_06_068 Te pinene ōme die Eere
+O_M1_06_069 Ende zij trac die scalke naer
+O_M1_06_070 Die raden nu hier nu daer
+O_M1_06_071 Ende niet en scelden den heʼe
+O_M1_06_072 So es edelheit wordē zo zwaer
+O_M1_06_073 Dat zoe te clēmene heeft ōmaer
+O_M1_06_074 Ende danct zo lanc zo meere
+O_M1_06_075 Dits nu alder werelt claer
+O_M1_06_076 Ende den ghesindē openbaer
+O_M1_06_077 Dus es verbannen Eere
+O_M1_06_078 Ende wederstaen ten keere
 
 
 
 
 
-O_M1_7_079 MErket bi dʼ sonnē lecht
-O_M1_7_080 Dat aldʼ weerelt oghē berecht
-O_M1_7_081 By zijnre edelre natuere
-O_M1_7_082 Als dat zwerc daer ieghē vecht
-O_M1_7_083 En̄ die neuel met zier drecht
-O_M1_7_084 So en can zi te dier vren
-O_M1_7_085 Niet ghetoghē haer scone lecht
-O_M1_7_086 Dus verdonkert die scalke knecht
-O_M1_7_087 Die edele creaturen
-O_M1_7_088 Als hi hē daer ane hecht
-O_M1_7_089 En̄ haer edelheit verplecht
-O_M1_7_090 Dat zij laet ghedueren
-O_M1_7_091 By haer den scalkē sueren
+O_M1_07_079 MErket bi dʼ sonnē lecht
+O_M1_07_080 Dat aldʼ weerelt oghē berecht
+O_M1_07_081 By zijnre edelre natuere
+O_M1_07_082 Als dat zwerc daer ieghē vecht
+O_M1_07_083 En̄ die neuel met zier drecht
+O_M1_07_084 So en can zi te dier vren
+O_M1_07_085 Niet ghetoghē haer scone lecht
+O_M1_07_086 Dus verdonkert die scalke knecht
+O_M1_07_087 Die edele creaturen
+O_M1_07_088 Als hi hē daer ane hecht
+O_M1_07_089 En̄ haer edelheit verplecht
+O_M1_07_090 Dat zij laet ghedueren
+O_M1_07_091 By haer den scalkē sueren
 
 
 
 
 
-O_M1_8_092 Siden scalke droughē ouʼ een
-O_M1_8_093 Dat neen was ja en̄ ia neen
-O_M1_8_094 Ende hem dat wijsheit dochte
-O_M1_8_095 Ende edelheit daer ōme green
-O_M1_8_096 Want daer wasdom hute scheen
-O_M1_8_097 Wanen dat commen mochte
-O_M1_8_098 Zo worden edel herten so steen
-O_M1_8_099 Dat haer ontfaermt dij̄c ne gheen
-O_M1_8_100 Dan daer men ghelt vut cnochte
-O_M1_8_101 God gheue hē den langhen ween
-O_M1_8_102 Die te cnaghene gaf dit been
+O_M1_08_092 Siden scalke droughē ouʼ een
+O_M1_08_093 Dat neen was ja en̄ ia neen
+O_M1_08_094 Ende hem dat wijsheit dochte
+O_M1_08_095 Ende edelheit daer ōme green
+O_M1_08_096 Want daer wasdom hute scheen
+O_M1_08_097 Wanen dat commen mochte
+O_M1_08_098 Zo worden edel herten so steen
+O_M1_08_099 Dat haer ontfaermt dij̄c ne gheen
+O_M1_08_100 Dan daer men ghelt vut cnochte
+O_M1_08_101 God gheue hē den langhen ween
+O_M1_08_102 Die te cnaghene gaf dit been
 
 
 
+O_M1_08_103 Den edelen ghedochte
+O_M1_08_104 Want hier moort an wrochte
 
 
-O_M1_9_103 Den edelen ghedochte
-O_M1_9_104 Want hier moort an wrochte
-O_M1_9_105 Wat zal zeghel en̄ was
-O_M1_9_106 En̄ brieuē die ghewaghē das
-O_M1_9_107 Van dat deese heeren gheuen
-O_M1_9_108 En es el niet dan een ghedwas
-O_M1_9_109 Also lief hadt my een zas
-O_M1_9_110 Oft een vriese bescreuen
-O_M1_9_111 Trauwe es broocher dā een glas
-O_M1_9_112 Die wijlen so staerc was
-O_M1_9_113 Es nu te broken bleuen
-O_M1_9_114 Ic waene noyt herte en ghenas
-O_M1_9_115 Die scalke tsinen rade las
-O_M1_9_116 Hien moste int eynde sneuen:
-O_M1_9_117 Ende sulck sijns lants verdreuen
+O_M1_09_105 Wat zal zeghel en̄ was
+O_M1_09_106 En̄ brieuē die ghewaghē das
+O_M1_09_107 Van dat deese heeren gheuen
+O_M1_09_108 En es el niet dan een ghedwas
+O_M1_09_109 Also lief hadt my een zas
+O_M1_09_110 Oft een vriese bescreuen
+O_M1_09_111 Trauwe es broocher dā een glas
+O_M1_09_112 Die wijlen so staerc was
+O_M1_09_113 Es nu te broken bleuen
+O_M1_09_114 Ic waene noyt herte en ghenas
+O_M1_09_115 Die scalke tsinen rade las
+O_M1_09_116 Hien moste int eynde sneuen:
+O_M1_09_117 Ende sulck sijns lants verdreuen
 
 
 
@@ -1369,167 +1371,167 @@ O_M1_75_975 Ic en vraghe niet meer noch toeghe
 O_M1_75_976 Explicit liber primꝰ
 
 
-O_M2_1_977 Incipit liber secundꝰ
-O_M2_1_001 MArtin slaepstu slaept dij̄ zin
-O_M2_1_002 Sprec hebstu gheē sprekē jn
-O_M2_1_003 Du dijncs my verdoren
-O_M2_1_004 Du ne achtes meer no min
-O_M2_1_005 Dan om weelde ende ghewin
-O_M2_1_006 Wiltstu di dus versmoren
-O_M2_1_007 Al waert al dijn dat comt in zwin
-O_M2_1_008 Goud zeluer stael yser tyn
-O_M2_1_009 So bleefstu verlooren
-O_M2_1_010 Daetstu ter dueghet gheen ghewin
-O_M2_1_011 Heft vp dijn hoeft en̄ dijnen kyn
-O_M2_1_012 Tontide waerstu ghebooren
-O_M2_1_013 Hebstu dichten verzworen.
+O_M2_01_000 Incipit liber secundꝰ
+O_M2_01_001 MArtin slaepstu slaept dij̄ zin
+O_M2_01_002 Sprec hebstu gheē sprekē jn
+O_M2_01_003 Du dijncs my verdoren
+O_M2_01_004 Du ne achtes meer no min
+O_M2_01_005 Dan om weelde ende ghewin
+O_M2_01_006 Wiltstu di dus versmoren
+O_M2_01_007 Al waert al dijn dat comt in zwin
+O_M2_01_008 Goud zeluer stael yser tyn
+O_M2_01_009 So bleefstu verlooren
+O_M2_01_010 Daetstu ter dueghet gheen ghewin
+O_M2_01_011 Heft vp dijn hoeft en̄ dijnen kyn
+O_M2_01_012 Tontide waerstu ghebooren
+O_M2_01_013 Hebstu dichten verzworen.
 
 
 
 
 
-O_M2_2_014 IAcob du woens in dē dam
-O_M2_2_015 En̄ ic tutrech dies bē ic grā
-O_M2_2_016 Dat wi dus zijn versceeden
-O_M2_2_017 Weet di wat my meest mesquam
-O_M2_2_018 Dat ic noyt bate en vernam
-O_M2_2_019 An tdichten van ons beeden
-O_M2_2_020 Zo es my die zin wordē zo lam
-O_M2_2_021 Dat icker node weder an cam
-O_M2_2_022 Dit doet my verleeden
-O_M2_2_023 Du wets my als een stotel ram
-O_M2_2_024 Bestu wilt du worts noch tam
-O_M2_2_025 Leere dine woordē cleden
-O_M2_2_026 Soetelike ende ghereden
+O_M2_02_014 IAcob du woens in dē dam
+O_M2_02_015 En̄ ic tutrech dies bē ic grā
+O_M2_02_016 Dat wi dus zijn versceeden
+O_M2_02_017 Weet di wat my meest mesquam
+O_M2_02_018 Dat ic noyt bate en vernam
+O_M2_02_019 An tdichten van ons beeden
+O_M2_02_020 Zo es my die zin wordē zo lam
+O_M2_02_021 Dat icker node weder an cam
+O_M2_02_022 Dit doet my verleeden
+O_M2_02_023 Du wets my als een stotel ram
+O_M2_02_024 Bestu wilt du worts noch tam
+O_M2_02_025 Leere dine woordē cleden
+O_M2_02_026 Soetelike ende ghereden
 
 
 
 
 
-O_M2_3_027 MArtin vriend heb ic messeit
-O_M2_3_028 Te beterene bē icx bereit
-O_M2_3_029 Jc wils al vp di bliuen
-O_M2_3_030 Maer vʼstant my en̄ ontbeit
-O_M2_3_031 Eene dijnc die my vp therte leit
-O_M2_3_032 Wille ic di bescriuen
-O_M2_3_033 Daer haer die weerelt mede meyt
-O_M2_3_034 En dade dat lief waere leyt
-O_M2_3_035 Ende dat es minne vā wiuen
-O_M2_3_036 Al dat es in die weerelt breit
-O_M2_3_037 Steden borghen bosschen preit
-O_M2_3_038 Soude minne verdriuen
-O_M2_3_039 Wilde mense ontliuen
+O_M2_03_027 MArtin vriend heb ic messeit
+O_M2_03_028 Te beterene bē icx bereit
+O_M2_03_029 Jc wils al vp di bliuen
+O_M2_03_030 Maer vʼstant my en̄ ontbeit
+O_M2_03_031 Eene dijnc die my vp therte leit
+O_M2_03_032 Wille ic di bescriuen
+O_M2_03_033 Daer haer die weerelt mede meyt
+O_M2_03_034 En dade dat lief waere leyt
+O_M2_03_035 Ende dat es minne vā wiuen
+O_M2_03_036 Al dat es in die weerelt breit
+O_M2_03_037 Steden borghen bosschen preit
+O_M2_03_038 Soude minne verdriuen
+O_M2_03_039 Wilde mense ontliuen
 
 
 
 
 
-O_M2_4_040 IAcob dit was oyt dij̄ doen
-O_M2_4_041 Van vrouwen dij̄ sermoen
-O_M2_4_042 Beghinnen ofte henden
-O_M2_4_043 Waerstu een dorꝑ du spraecs vā coen
-O_M2_4_044 Nu es dijn herte dies ontfloen
-O_M2_4_045 Doch wille icx my ghenenden
-O_M2_4_046 Ende steken af minē caproen
-O_M2_4_047 Ende horen wat di hier toe spoen
-O_M2_4_048 Dattu den onbekenden
-O_M2_4_049 Martine niet en laets gheroen
-O_M2_4_050 Al hadde ic an twe yserin scoen
-O_M2_4_051 Jc en mochte di niet ontwenden
-O_M2_4_052 Nu vraech ic salt ontbenden
+O_M2_04_040 IAcob dit was oyt dij̄ doen
+O_M2_04_041 Van vrouwen dij̄ sermoen
+O_M2_04_042 Beghinnen ofte henden
+O_M2_04_043 Waerstu een dorꝑ du spraecs vā coen
+O_M2_04_044 Nu es dijn herte dies ontfloen
+O_M2_04_045 Doch wille icx my ghenenden
+O_M2_04_046 Ende steken af minē caproen
+O_M2_04_047 Ende horen wat di hier toe spoen
+O_M2_04_048 Dattu den onbekenden
+O_M2_04_049 Martine niet en laets gheroen
+O_M2_04_050 Al hadde ic an twe yserin scoen
+O_M2_04_051 Jc en mochte di niet ontwenden
+O_M2_04_052 Nu vraech ic salt ontbenden
 
 
 
 
 
-O_M2_5_053 MArtin du zuls my vʼstaen
-O_M2_5_054 Eene vrauwe wel ghedaen
-O_M2_5_055 Heeft my gheuaen met minnē
-O_M2_5_056 Al dat gode es onderdaen
-O_M2_5_057 Liet ic om haeren wille gaen
-O_M2_5_058 Mochte icse ghewinnen
-O_M2_5_059 Nochtan weet ic wel zondʼ waen
-O_M2_5_060 Dat zij my niet en acht een spaen
-O_M2_5_061 Mijn herte dat doet my bekinnē
-O_M2_5_062 Al souder de weerelt ōme vʼgaen
-O_M2_5_063 Dat zij my niet en zoude ontfaen
+O_M2_05_053 MArtin du zuls my vʼstaen
+O_M2_05_054 Eene vrauwe wel ghedaen
+O_M2_05_055 Heeft my gheuaen met minnē
+O_M2_05_056 Al dat gode es onderdaen
+O_M2_05_057 Liet ic om haeren wille gaen
+O_M2_05_058 Mochte icse ghewinnen
+O_M2_05_059 Nochtan weet ic wel zondʼ waen
+O_M2_05_060 Dat zij my niet en acht een spaen
+O_M2_05_061 Mijn herte dat doet my bekinnē
+O_M2_05_062 Al souder de weerelt ōme vʼgaen
+O_M2_05_063 Dat zij my niet en zoude ontfaen
 
 
 
-O_M2_5_064 Jn haer herte binnen
-O_M2_5_065 Hier toe en es gheē vʼwinnē
+O_M2_05_064 Jn haer herte binnen
+O_M2_05_065 Hier toe en es gheē vʼwinnē
 
 
-O_M2_6_066 Eene ander vrauwe es die my mint
-O_M2_6_067 Bouē alle die zij leuende kint
-O_M2_6_068 Met ghestadigher trauwen
-O_M2_6_069 Die en mīne ic niet een twint
-O_M2_6_070 Zij es de scoonste die men vint
-O_M2_6_071 Ende speghel van allē vrauwen
-O_M2_6_072 Nu es mijn herte zo hart een vlint
-O_M2_6_073 Dat het daer toe hem yet verbint
-O_M2_6_074 Dat haer wille scauwen
-
-
-
-O_M2_6_075 Hoe lief vpsien zij my toesint
-O_M2_6_076 Het dijnct mijnre hertē zij̄ een wint
-O_M2_6_077 Zij liet haer eer an sticken hauwē
-O_M2_6_078 Eer zijer om quame in rauwen
-
-
-O_M2_7_079 MArtin nu hore en̄ vʼstant
-O_M2_7_080 De twe zijn in een vʼbant
-O_M2_7_081 Dat costen moet der eenre leuen
-O_M2_7_082 Nu hebbic de macht in mine hant
-O_M2_7_083 Welker ic wille breke ic den bant
-O_M2_7_084 Ende macht haer al vergheuen
-O_M2_7_085 Emmer moet de eene ghenietē dē pant
+O_M2_06_066 Eene ander vrauwe es die my mint
+O_M2_06_067 Bouē alle die zij leuende kint
+O_M2_06_068 Met ghestadigher trauwen
+O_M2_06_069 Die en mīne ic niet een twint
+O_M2_06_070 Zij es de scoonste die men vint
+O_M2_06_071 Ende speghel van allē vrauwen
+O_M2_06_072 Nu es mijn herte zo hart een vlint
+O_M2_06_073 Dat het daer toe hem yet verbint
+O_M2_06_074 Dat haer wille scauwen
 
 
 
-O_M2_7_086 Den hartsten die god ye gheuant
-O_M2_7_087 Hier toe zijn zij verdreuen
-O_M2_7_088 En liecht my niet als een truant
-O_M2_7_089 Maer seght my an welken cant
-O_M2_7_090 Dijne herte es bleuen
-O_M2_7_091 Ende welke du liets leuen
+O_M2_06_075 Hoe lief vpsien zij my toesint
+O_M2_06_076 Het dijnct mijnre hertē zij̄ een wint
+O_M2_06_077 Zij liet haer eer an sticken hauwē
+O_M2_06_078 Eer zijer om quame in rauwen
 
 
-O_M2_8_092 IAcob dit en es gheēs vraghēs wert
-O_M2_8_093 Die de waerheit niet en spaert
-O_M2_8_094 Heeft dit zaen ontbonden
-O_M2_8_095 Het es emmer der herten aert
-O_M2_8_096 Dat zoe daerwaert tiet en̄ vaert
-
-
-
-O_M2_8_097 Daenen haer quam̄ de wonden
-O_M2_8_098 Al sout al varen hinderuaert
-O_M2_8_099 Wat dat weluaerens begaert
-O_M2_8_100 Nu ende tallen stonden
-O_M2_8_101 Jc verleeste die my therte bezwaert
-O_M2_8_102 Soudic haer latē smakē tzwaert
-O_M2_8_103 Dat waere onderuonden
-O_M2_8_104 Meerder mort dan zonden
-
-
-O_M2_9_105 TOnghe liecht maer therte niet
-O_M2_9_106 Want soe wat therte ghebiet
-O_M2_9_107 Wiltmen emmer vulbringhen
+O_M2_07_079 MArtin nu hore en̄ vʼstant
+O_M2_07_080 De twe zijn in een vʼbant
+O_M2_07_081 Dat costen moet der eenre leuen
+O_M2_07_082 Nu hebbic de macht in mine hant
+O_M2_07_083 Welker ic wille breke ic den bant
+O_M2_07_084 Ende macht haer al vergheuen
+O_M2_07_085 Emmer moet de eene ghenietē dē pant
 
 
 
-O_M2_9_108 Wat was narchisus ghesciet
-O_M2_9_109 Die zijne vorme spieghelt en̄ ziet
-O_M2_9_110 Jnt water sonder minghen
-O_M2_9_111 Hant en̄ mont hi daerwaert biet
-O_M2_9_112 Hij bidt en̄ claghet zij̄ vʼdriet
-O_M2_9_113 Nature en wils niet ghehinghē
-O_M2_9_114 Dat hem can ghehelpen yet
-O_M2_9_115 Als hi wel in hemseluen siet
-O_M2_9_116 Nochtan const hi hē niet bedwīghē
-O_M2_9_117 Hi en staerf bi deesen dijnghē
+O_M2_07_086 Den hartsten die god ye gheuant
+O_M2_07_087 Hier toe zijn zij verdreuen
+O_M2_07_088 En liecht my niet als een truant
+O_M2_07_089 Maer seght my an welken cant
+O_M2_07_090 Dijne herte es bleuen
+O_M2_07_091 Ende welke du liets leuen
+
+
+O_M2_08_092 IAcob dit en es gheēs vraghēs wert
+O_M2_08_093 Die de waerheit niet en spaert
+O_M2_08_094 Heeft dit zaen ontbonden
+O_M2_08_095 Het es emmer der herten aert
+O_M2_08_096 Dat zoe daerwaert tiet en̄ vaert
+
+
+
+O_M2_08_097 Daenen haer quam̄ de wonden
+O_M2_08_098 Al sout al varen hinderuaert
+O_M2_08_099 Wat dat weluaerens begaert
+O_M2_08_100 Nu ende tallen stonden
+O_M2_08_101 Jc verleeste die my therte bezwaert
+O_M2_08_102 Soudic haer latē smakē tzwaert
+O_M2_08_103 Dat waere onderuonden
+O_M2_08_104 Meerder mort dan zonden
+
+
+O_M2_09_105 TOnghe liecht maer therte niet
+O_M2_09_106 Want soe wat therte ghebiet
+O_M2_09_107 Wiltmen emmer vulbringhen
+
+
+
+O_M2_09_108 Wat was narchisus ghesciet
+O_M2_09_109 Die zijne vorme spieghelt en̄ ziet
+O_M2_09_110 Jnt water sonder minghen
+O_M2_09_111 Hant en̄ mont hi daerwaert biet
+O_M2_09_112 Hij bidt en̄ claghet zij̄ vʼdriet
+O_M2_09_113 Nature en wils niet ghehinghē
+O_M2_09_114 Dat hem can ghehelpen yet
+O_M2_09_115 Als hi wel in hemseluen siet
+O_M2_09_116 Nochtan const hi hē niet bedwīghē
+O_M2_09_117 Hi en staerf bi deesen dijnghē
 
 
 
@@ -1845,161 +1847,161 @@ O_M2_26_338 Vrye met zinen wonden
 O_M2_26_339 Explicit secundꝰ liber
 
 
-O_M3_1_340 Incipit tertius.
-O_M3_1_001 IC mane mānen mettē wiuē
-O_M3_1_002 Die dit ghedichte lesē of scriuē
-O_M3_1_003 Vp den hoechsten ban
-O_M3_1_004 Dat zijt reine latē bliuē
-O_M3_1_005 Ende zij er niet in en driuen
-O_M3_1_006 Woor lettere of noch an
-O_M3_1_007 En doen zijs met hē zal becliuē
-O_M3_1_008 Mine ban en̄ zijne zullē afwriuē
-O_M3_1_009 Niet moghen nochtan
-O_M3_1_010 En es gheen spot dit vā keytiuē
-O_M3_1_011 Hets daer ic my ōme liete ontliuē
-O_M3_1_012 Eer icker sciede van
-O_M3_1_013 Nu hoore die leere can
+O_M3_01_000 Incipit tertius.
+O_M3_01_001 IC mane mānen mettē wiuē
+O_M3_01_002 Die dit ghedichte lesē of scriuē
+O_M3_01_003 Vp den hoechsten ban
+O_M3_01_004 Dat zijt reine latē bliuē
+O_M3_01_005 Ende zij er niet in en driuen
+O_M3_01_006 Woor lettere of noch an
+O_M3_01_007 En doen zijs met hē zal becliuē
+O_M3_01_008 Mine ban en̄ zijne zullē afwriuē
+O_M3_01_009 Niet moghen nochtan
+O_M3_01_010 En es gheen spot dit vā keytiuē
+O_M3_01_011 Hets daer ic my ōme liete ontliuē
+O_M3_01_012 Eer icker sciede van
+O_M3_01_013 Nu hoore die leere can
 
 
 
 
 
-O_M3_2_014 IAcob wi hebben onderlinghe
-O_M3_2_015 Ghehandelt messelike dijnghe
-O_M3_2_016 Nu andwoort my vp een
-O_M3_2_017 Leere mi eer ic di ontspringhe
-O_M3_2_018 Hoe ic mijn herte daertoe bringhe
-O_M3_2_019 Te kennē hem dien wij vleen
-O_M3_2_020 Ic leze zomwile ende zinghe
-O_M3_2_021 Dat gode kēnen by zijnē ghehinge
-O_M3_2_022 Es leuen zonder ween
-O_M3_2_023 Waerhede eist claer zo ict singhe
-O_M3_2_024 Subtijl waer therte diet beuinghe
+O_M3_02_014 IAcob wi hebben onderlinghe
+O_M3_02_015 Ghehandelt messelike dijnghe
+O_M3_02_016 Nu andwoort my vp een
+O_M3_02_017 Leere mi eer ic di ontspringhe
+O_M3_02_018 Hoe ic mijn herte daertoe bringhe
+O_M3_02_019 Te kennē hem dien wij vleen
+O_M3_02_020 Ic leze zomwile ende zinghe
+O_M3_02_021 Dat gode kēnen by zijnē ghehinge
+O_M3_02_022 Es leuen zonder ween
+O_M3_02_023 Waerhede eist claer zo ict singhe
+O_M3_02_024 Subtijl waer therte diet beuinghe
 
 
 
-O_M3_2_025 Want hogher dijnc en es gheen
-O_M3_2_026 Nu antwoort ons tween
+O_M3_02_025 Want hogher dijnc en es gheen
+O_M3_02_026 Nu antwoort ons tween
 
 
-O_M3_3_027 MArtin du vraghes te hoghe
-O_M3_3_028 Al vloghe ic bouē dʼ inghelē vloghe
-O_M3_3_029 Bouen cherub ende cheraph
-O_M3_3_030 Zo weet ic wel dat ic en moghe
-O_M3_3_031 Berechten dat te vullen doeghe
-O_M3_3_032 Met woorden hier af
-O_M3_3_033 Alle zinne zijn te droeghe
-O_M3_3_034 Van creaturen hoe soemē poeghe
-O_M3_3_035 En doghen niet een caf
-
-
-
-O_M3_3_036 Dat hare enich te vullen doeghe
-O_M3_3_037 Maer verscerp dijns zinnes oeghe
-O_M3_3_038 Ende hoore wat die scrifture gaf
-O_M3_3_039 Sluut in dijnre herten graf
-
-
-O_M3_4_040 MOyses spreect in zine bouken
-O_M3_4_041 Beesten die den berch bezoukē
-O_M3_4_042 Moeten zijn ghescent
-O_M3_4_043 Beeste es de mensche die wille rouken
-O_M3_4_044 Te nauwe vp die godheit louken
-O_M3_4_045 Hets recht dat hijt beweent
-O_M3_4_046 Du zouchs my in allen houken
+O_M3_03_027 MArtin du vraghes te hoghe
+O_M3_03_028 Al vloghe ic bouē dʼ inghelē vloghe
+O_M3_03_029 Bouen cherub ende cheraph
+O_M3_03_030 Zo weet ic wel dat ic en moghe
+O_M3_03_031 Berechten dat te vullen doeghe
+O_M3_03_032 Met woorden hier af
+O_M3_03_033 Alle zinne zijn te droeghe
+O_M3_03_034 Van creaturen hoe soemē poeghe
+O_M3_03_035 En doghen niet een caf
 
 
 
-O_M3_4_047 Met rime zondʼ valsche vā boukē
-O_M3_4_048 Es dit goet ic waene neent
-O_M3_4_049 Du telles my met wisen clouken
-O_M3_4_050 Waert goet ic soudʼ di ōme vloukē
-O_M3_4_051 Ic wane dijn herte meent
-O_M3_4_052 Dattu my heues verbeent
+O_M3_03_036 Dat hare enich te vullen doeghe
+O_M3_03_037 Maer verscerp dijns zinnes oeghe
+O_M3_03_038 Ende hoore wat die scrifture gaf
+O_M3_03_039 Sluut in dijnre herten graf
 
 
-O_M3_5_053 Iacob du ne souts di niet vʼgramē
-O_M3_5_054 Ic souts my al mijn leuē scamē
-O_M3_5_055 Hadde ic yet ghedocht
-
-
-
-O_M3_5_056 Oec lye ic metti te zamen
-O_M3_5_057 Dat die hoecheit der hogher namē
-O_M3_5_058 Te nauwe niet en doecht ghesocht
-O_M3_5_059 Al waert dat alle die inghelē quamē
-O_M3_5_060 Sine conde de godheid niet gheramē
-O_M3_5_061 Dit es al af ghecnocht
-O_M3_5_062 Maer leere minē crankē zin lamen
-O_M3_5_063 Ghewont metter zonden bramen
-O_M3_5_064 Van dattu vermocht
-O_M3_5_065 Zo es mine wille vulbrocht
+O_M3_04_040 MOyses spreect in zine bouken
+O_M3_04_041 Beesten die den berch bezoukē
+O_M3_04_042 Moeten zijn ghescent
+O_M3_04_043 Beeste es de mensche die wille rouken
+O_M3_04_044 Te nauwe vp die godheit louken
+O_M3_04_045 Hets recht dat hijt beweent
+O_M3_04_046 Du zouchs my in allen houken
 
 
 
+O_M3_04_047 Met rime zondʼ valsche vā boukē
+O_M3_04_048 Es dit goet ic waene neent
+O_M3_04_049 Du telles my met wisen clouken
+O_M3_04_050 Waert goet ic soudʼ di ōme vloukē
+O_M3_04_051 Ic wane dijn herte meent
+O_M3_04_052 Dattu my heues verbeent
 
 
-O_M3_6_066 MArtin nu merke ī dinē zinne
-O_M3_6_067 God es een wesen voor alle beghīne
-O_M3_6_068 Deedelste bouen al
-O_M3_6_069 Zijn wesen es also ict kinne
-O_M3_6_070 Dupperste god dupperste minne
-O_M3_6_071 Die es ofte wesen zal
-O_M3_6_072 Sine ghewerken daer mē kent jnne
-O_M3_6_073 Zijn so groot dat zij zijn dinne
-O_M3_6_074 Diet bekennē ende smal
-O_M3_6_075 Sine wijshede es coninghinne
-O_M3_6_076 Bouen al anderē ghewinne
-O_M3_6_077 Ende bouen alle gheual
-O_M3_6_078 Daer bouen en̄ hier int dal
+O_M3_05_053 Iacob du ne souts di niet vʼgramē
+O_M3_05_054 Ic souts my al mijn leuē scamē
+O_M3_05_055 Hadde ic yet ghedocht
 
 
-O_M3_7_079 DEn hemel en̄ dē troen die merke
-O_M3_7_080 God es al bouen zijne ghewʼke
-O_M3_7_081 Ende onder al zine dijnc
-O_M3_7_082 Hij es buten dit nu merke
-O_M3_7_083 Ende binnē dit hout sterke
-O_M3_7_084 Hier vute niet en sprinc
-O_M3_7_085 Oec segghen de wise clerke
-O_M3_7_086 Hij en es niet ghedeelt in ꝑke
-O_M3_7_087 Hier toe dijne herte dwijnc
-O_M3_7_088 Maer gheheel in elkē merke
-O_M3_7_089 Butē binnē in watʼe in zwerke
-O_M3_7_090 Hier af dijn herte niet en brinc
-O_M3_7_091 Sonder eenighē losen wijnc
+
+O_M3_05_056 Oec lye ic metti te zamen
+O_M3_05_057 Dat die hoecheit der hogher namē
+O_M3_05_058 Te nauwe niet en doecht ghesocht
+O_M3_05_059 Al waert dat alle die inghelē quamē
+O_M3_05_060 Sine conde de godheid niet gheramē
+O_M3_05_061 Dit es al af ghecnocht
+O_M3_05_062 Maer leere minē crankē zin lamen
+O_M3_05_063 Ghewont metter zonden bramen
+O_M3_05_064 Van dattu vermocht
+O_M3_05_065 Zo es mine wille vulbrocht
 
 
 
 
 
-O_M3_8_092 BOuen es god als heere
-O_M3_8_093 Die bezitter es ēmermeere
-O_M3_8_094 Alles dies men weet
-O_M3_8_095 Onder alse die in allen keere
-O_M3_8_096 Die dijnc hout moghēdelike zeʼe
-O_M3_8_097 Zonder enich onderscheet
-O_M3_8_098 Buten als die met groter eere
-O_M3_8_099 Sijn werc behoet dat hem ne deere
-O_M3_8_100 Ghene dijnc cout no heet
-O_M3_8_101 Binnē als die met zij̄re leere
-O_M3_8_102 Sijn werc vʼuult mꝫ zulker eere
-O_M3_8_103 Ghene dinc cout no heet
-O_M3_8_104 Wien lief zij of leet
+O_M3_06_066 MArtin nu merke ī dinē zinne
+O_M3_06_067 God es een wesen voor alle beghīne
+O_M3_06_068 Deedelste bouen al
+O_M3_06_069 Zijn wesen es also ict kinne
+O_M3_06_070 Dupperste god dupperste minne
+O_M3_06_071 Die es ofte wesen zal
+O_M3_06_072 Sine ghewerken daer mē kent jnne
+O_M3_06_073 Zijn so groot dat zij zijn dinne
+O_M3_06_074 Diet bekennē ende smal
+O_M3_06_075 Sine wijshede es coninghinne
+O_M3_06_076 Bouen al anderē ghewinne
+O_M3_06_077 Ende bouen alle gheual
+O_M3_06_078 Daer bouen en̄ hier int dal
+
+
+O_M3_07_079 DEn hemel en̄ dē troen die merke
+O_M3_07_080 God es al bouen zijne ghewʼke
+O_M3_07_081 Ende onder al zine dijnc
+O_M3_07_082 Hij es buten dit nu merke
+O_M3_07_083 Ende binnē dit hout sterke
+O_M3_07_084 Hier vute niet en sprinc
+O_M3_07_085 Oec segghen de wise clerke
+O_M3_07_086 Hij en es niet ghedeelt in ꝑke
+O_M3_07_087 Hier toe dijne herte dwijnc
+O_M3_07_088 Maer gheheel in elkē merke
+O_M3_07_089 Butē binnē in watʼe in zwerke
+O_M3_07_090 Hier af dijn herte niet en brinc
+O_M3_07_091 Sonder eenighē losen wijnc
 
 
 
 
 
-O_M3_9_105 BOuen es god al onghedraghē
-O_M3_9_106 Ghene dijnc mach hʼ beclaghē
-O_M3_9_107 Dat hize verlast
-O_M3_9_108 Onder zonder last van waghen
-O_M3_9_109 Want hem rusten en moyt no iaghē
-O_M3_9_110 Zijn weesen es zo vast
-O_M3_9_111 Buten breect hij niewʼ zijn daghen
-O_M3_9_112 Want hij es al zonder vraghen
-O_M3_9_113 Vocht weert ende niet gast
-O_M3_9_114 Binnē veruult hijt zondʼ plaghē
+O_M3_08_092 BOuen es god als heere
+O_M3_08_093 Die bezitter es ēmermeere
+O_M3_08_094 Alles dies men weet
+O_M3_08_095 Onder alse die in allen keere
+O_M3_08_096 Die dijnc hout moghēdelike zeʼe
+O_M3_08_097 Zonder enich onderscheet
+O_M3_08_098 Buten als die met groter eere
+O_M3_08_099 Sijn werc behoet dat hem ne deere
+O_M3_08_100 Ghene dijnc cout no heet
+O_M3_08_101 Binnē als die met zij̄re leere
+O_M3_08_102 Sijn werc vʼuult mꝫ zulker eere
+O_M3_08_103 Ghene dinc cout no heet
+O_M3_08_104 Wien lief zij of leet
+
+
+
+
+
+O_M3_09_105 BOuen es god al onghedraghē
+O_M3_09_106 Ghene dijnc mach hʼ beclaghē
+O_M3_09_107 Dat hize verlast
+O_M3_09_108 Onder zonder last van waghen
+O_M3_09_109 Want hem rusten en moyt no iaghē
+O_M3_09_110 Zijn weesen es zo vast
+O_M3_09_111 Buten breect hij niewʼ zijn daghen
+O_M3_09_112 Want hij es al zonder vraghen
+O_M3_09_113 Vocht weert ende niet gast
+O_M3_09_114 Binnē veruult hijt zondʼ plaghē
 
 Line_number 115 is missing
 

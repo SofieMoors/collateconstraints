@@ -161,7 +161,7 @@ _M1_
 Ø
 ____
 _M2_
-§1§
+§01§
 0 <D>en anderen merten
 1 <S_2><L>aeptu merte(n) slaept dij(n) sin
 <S>prect hebdi spreke(n) in

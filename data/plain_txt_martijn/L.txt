@@ -2,145 +2,147 @@
 
 
 
-L_M1_1_001 WAphene merten hoe saelt gaen
-L_M1_1_002 Sal dese werelt lange staē
-L_M1_1_003 In dus crancken loeue
-L_M1_1_004 Soe sal mijn vrouwe verē saen
-L_M1_1_005 Sonder twiuel ende waen
-L_M1_1_006 Rumen der heren houe
-L_M1_1_007 Ic sie den scalckē wel ontfaen
-L_M1_1_008 Die de heren connē dwaen
-L_M1_1_009 En̄ pluckē vanden stoeue
-L_M1_1_010 Ic sie den gherechtē slaen
-L_M1_1_011 Beide bespotten ende vaen
-L_M1_1_012 Alse die meese inde cloeue
-L_M1_1_013 Recht oftene god vʼscroeue
+
+Line_number 000 is missing
+L_M1_01_001 WAphene merten hoe saelt gaen
+L_M1_01_002 Sal dese werelt lange staē
+L_M1_01_003 In dus crancken loeue
+L_M1_01_004 Soe sal mijn vrouwe verē saen
+L_M1_01_005 Sonder twiuel ende waen
+L_M1_01_006 Rumen der heren houe
+L_M1_01_007 Ic sie den scalckē wel ontfaen
+L_M1_01_008 Die de heren connē dwaen
+L_M1_01_009 En̄ pluckē vanden stoeue
+L_M1_01_010 Ic sie den gherechtē slaen
+L_M1_01_011 Beide bespotten ende vaen
+L_M1_01_012 Alse die meese inde cloeue
+L_M1_01_013 Recht oftene god vʼscroeue
 
 
-L_M1_2_014 HOe lange sal gedoegen dit
-L_M1_2_015 God die alle dinc besit
-L_M1_2_016 In sine herscapie
-L_M1_2_017 Dattie goede vleyt en̄ bidt
-L_M1_2_018 Hem en doech dat no dit
-L_M1_2_019 Dat hi yet ghedie
-L_M1_2_020 Al gaet in den helschen pit
-L_M1_2_021 Eest blau grau swert oft wit
-L_M1_2_022 Hets ghetrouwe als die sie
-L_M1_2_023 Recht mā deluet sondʼ spit
-L_M1_2_024 Hine heeft te poentē nꝫ gehit
-L_M1_2_025 In ne ghene baelgie
-L_M1_2_026 Mi es leet dat ic waer lie
+L_M1_02_014 HOe lange sal gedoegen dit
+L_M1_02_015 God die alle dinc besit
+L_M1_02_016 In sine herscapie
+L_M1_02_017 Dattie goede vleyt en̄ bidt
+L_M1_02_018 Hem en doech dat no dit
+L_M1_02_019 Dat hi yet ghedie
+L_M1_02_020 Al gaet in den helschen pit
+L_M1_02_021 Eest blau grau swert oft wit
+L_M1_02_022 Hets ghetrouwe als die sie
+L_M1_02_023 Recht mā deluet sondʼ spit
+L_M1_02_024 Hine heeft te poentē nꝫ gehit
+L_M1_02_025 In ne ghene baelgie
+L_M1_02_026 Mi es leet dat ic waer lie
 
 
-L_M1_3_027 LAet ons merten ouer een
-L_M1_3_028 Hier af sprekē ondʼ ōs tweē
-L_M1_3_029 In dit dyaloeghe
-L_M1_3_030 Wanē quaem ons desen ween
-L_M1_3_031 Die wilen soe onwaert scheen
-L_M1_3_032 En̄ nv sit soe hoeghe
-L_M1_3_033 Ic sal v vraeghē en̄ vleen
-L_M1_3_034 Antwoort mi ia ofte neen
-L_M1_3_035 Van dat ic di betoeghe
-L_M1_3_036 Ledicheit es vroeme gheen
-L_M1_3_037 Aerbeit vint vier in den steen
-L_M1_3_038 D droeghe
-L_M1_3_039 ...
+L_M1_03_027 LAet ons merten ouer een
+L_M1_03_028 Hier af sprekē ondʼ ōs tweē
+L_M1_03_029 In dit dyaloeghe
+L_M1_03_030 Wanē quaem ons desen ween
+L_M1_03_031 Die wilen soe onwaert scheen
+L_M1_03_032 En̄ nv sit soe hoeghe
+L_M1_03_033 Ic sal v vraeghē en̄ vleen
+L_M1_03_034 Antwoort mi ia ofte neen
+L_M1_03_035 Van dat ic di betoeghe
+L_M1_03_036 Ledicheit es vroeme gheen
+L_M1_03_037 Aerbeit vint vier in den steen
+L_M1_03_038 D droeghe
+L_M1_03_039 
 
 
-L_M1_4_040 
-
-
-
-L_M1_4_041 Waer soudic d ...
-L_M1_4_042 Dat ic daer ... 
-L_M1_4_043 Te vʼclaerne...
-L_M1_4_044 Die met twi beu
-L_M1_4_045 Dats dat ic niet en vʼm
-L_M1_4_046 Doch en willics niet on
-L_M1_4_047 Ic wille dine bede ontf
-L_M1_4_048 Die dit ane mi sochte
-L_M1_4_049 God sende mi den hem
-L_M1_4_050 En̄ moet minē sin dwa
-L_M1_4_051 Want hi mi diere cochte
-L_M1_4_052 En̄ ict gherne volbroc
-
-
-L_M1_5_053 MErten doen die wer
-L_M1_5_054 Man te vʼheffen b... 
-L_M1_5_055 Doen sciet mijn vrouw
-L_M1_5_056 Den dorpers wijsde m
-L_M1_5_057 Dʼ trouwe en̄ doget wa 
-L_M1_5_058 Dien hiet si sijn here
-L_M1_5_059 Nv maken die herē .I. g 
-L_M1_5_060 En̄ gheuen dʼ eren enē 
-L_M1_5_061 En̄ en willen niet dat 
-L_M1_5_062 Segt mi wanen tfen
-L_M1_5_063 Toch mi redene daer
-L_M1_5_064 Want ic gherne leere
-L_M1_5_065 Wies scout dat weere
-
-
-L_M1_6_066 IAcop mi dunckt ouʼw
-L_M1_6_067 Sint dꝫ edelheit had
-L_M1_6_068 Te pinē om̄e die eere
-L_M1_6_069 En̄ si trac den scalckē 
-L_M1_6_070 Die raeden nv hier nv 
-L_M1_6_071 Ende niet scelden den h
-L_M1_6_072 Soe es edelheit woordē 
-L_M1_6_073 Dat si te clēmen heeft 
-L_M1_6_074 En̄ daelt in lanc soe me
-L_M1_6_075 Dits nv alder werelt cl
-L_M1_6_076 En̄ ogen siens openba
-L_M1_6_077 Dus es vʼbannen eere
-L_M1_6_078 En̄ wedʼ staen ten kere
-
-
-L_M1_7_079 NV merct bider sonnē 
-L_M1_7_080 Die alder werelt oe
-L_M1_7_081 Bi hare edele natuere
-L_M1_7_082 Als dat swerc daer ieg
-L_M1_7_083 Entie neuel mꝫ siere dr
-L_M1_7_084 Sone can so tier vren
-L_M1_7_085 
+L_M1_04_040 
 
 
 
-L_M1_7_086  ...rt die scalke knecht
-L_M1_7_087  ...ren
-L_M1_7_088  ane hecht
-L_M1_7_089 ...lheit vʼplecht
-L_M1_7_090  et ghedueren
-L_M1_7_091  dē scalke sueren
+L_M1_04_041 Waer soudic d ...
+L_M1_04_042 Dat ic daer ... 
+L_M1_04_043 Te vʼclaerne...
+L_M1_04_044 Die met twi beu
+L_M1_04_045 Dats dat ic niet en vʼm
+L_M1_04_046 Doch en willics niet on
+L_M1_04_047 Ic wille dine bede ontf
+L_M1_04_048 Die dit ane mi sochte
+L_M1_04_049 God sende mi den hem
+L_M1_04_050 En̄ moet minē sin dwa
+L_M1_04_051 Want hi mi diere cochte
+L_M1_04_052 En̄ ict gherne volbroc
 
 
-L_M1_8_092 nt scalke droeghē ouʼeen
-L_M1_8_093 eē ... en̄ ia neen
-L_M1_8_094  dat wijsheit dochte
-L_M1_8_095 lheit dʼ ōme green
-L_M1_8_096 t wasdom wt scheen
-L_M1_8_097  dꝫ comē mochte
-L_M1_8_098 delhᵗ werdē steen
-L_M1_8_099  ontfermt dinc gheen
-L_M1_8_100 men tgelt wt knochte
-L_M1_8_101 eue hē den langhē weē
-L_M1_8_102 naeghen gaf dꝫ been
-L_M1_8_103 den ghedochte
-L_M1_8_104 iere moort mꝫ wrochte
+L_M1_05_053 MErten doen die wer
+L_M1_05_054 Man te vʼheffen b... 
+L_M1_05_055 Doen sciet mijn vrouw
+L_M1_05_056 Den dorpers wijsde m
+L_M1_05_057 Dʼ trouwe en̄ doget wa 
+L_M1_05_058 Dien hiet si sijn here
+L_M1_05_059 Nv maken die herē .I. g 
+L_M1_05_060 En̄ gheuen dʼ eren enē 
+L_M1_05_061 En̄ en willen niet dat 
+L_M1_05_062 Segt mi wanen tfen
+L_M1_05_063 Toch mi redene daer
+L_M1_05_064 Want ic gherne leere
+L_M1_05_065 Wies scout dat weere
 
 
-L_M1_9_105 segel en̄ was
-L_M1_9_106  brieue die gewaegē das
-L_M1_9_107  lantsherē gheuen
-L_M1_9_108  l niet dā ghedwas
-L_M1_9_109  f hadt mi eē sas
-L_M1_9_110  vriese bescreuen
-L_M1_9_111  es broescher dā gelas
-L_M1_9_112 en soe sterc was
-L_M1_9_113  te broekē bleuen
-L_M1_9_114 ns noeyt hʼe ghenas
-L_M1_9_115 lke tsinē raede las
-L_M1_9_116 oeste int inde sneuen
-L_M1_9_117 c sijns lants vʼdreuen
+L_M1_06_066 IAcop mi dunckt ouʼw
+L_M1_06_067 Sint dꝫ edelheit had
+L_M1_06_068 Te pinē om̄e die eere
+L_M1_06_069 En̄ si trac den scalckē 
+L_M1_06_070 Die raeden nv hier nv 
+L_M1_06_071 Ende niet scelden den h
+L_M1_06_072 Soe es edelheit woordē 
+L_M1_06_073 Dat si te clēmen heeft 
+L_M1_06_074 En̄ daelt in lanc soe me
+L_M1_06_075 Dits nv alder werelt cl
+L_M1_06_076 En̄ ogen siens openba
+L_M1_06_077 Dus es vʼbannen eere
+L_M1_06_078 En̄ wedʼ staen ten kere
+
+
+L_M1_07_079 NV merct bider sonnē 
+L_M1_07_080 Die alder werelt oe
+L_M1_07_081 Bi hare edele natuere
+L_M1_07_082 Als dat swerc daer ieg
+L_M1_07_083 Entie neuel mꝫ siere dr
+L_M1_07_084 Sone can so tier vren
+L_M1_07_085 
+
+
+
+L_M1_07_086  ...rt die scalke knecht
+L_M1_07_087  ...ren
+L_M1_07_088  ane hecht
+L_M1_07_089 ...lheit vʼplecht
+L_M1_07_090  et ghedueren
+L_M1_07_091  dē scalke sueren
+
+
+L_M1_08_092 nt scalke droeghē ouʼeen
+L_M1_08_093 eē ... en̄ ia neen
+L_M1_08_094  dat wijsheit dochte
+L_M1_08_095 lheit dʼ ōme green
+L_M1_08_096 t wasdom wt scheen
+L_M1_08_097  dꝫ comē mochte
+L_M1_08_098 delhᵗ werdē steen
+L_M1_08_099  ontfermt dinc gheen
+L_M1_08_100 men tgelt wt knochte
+L_M1_08_101 eue hē den langhē weē
+L_M1_08_102 naeghen gaf dꝫ been
+L_M1_08_103 den ghedochte
+L_M1_08_104 iere moort mꝫ wrochte
+
+
+L_M1_09_105 segel en̄ was
+L_M1_09_106  brieue die gewaegē das
+L_M1_09_107  lantsherē gheuen
+L_M1_09_108  l niet dā ghedwas
+L_M1_09_109  f hadt mi eē sas
+L_M1_09_110  vriese bescreuen
+L_M1_09_111  es broescher dā gelas
+L_M1_09_112 en soe sterc was
+L_M1_09_113  te broekē bleuen
+L_M1_09_114 ns noeyt hʼe ghenas
+L_M1_09_115 lke tsinē raede las
+L_M1_09_116 oeste int inde sneuen
+L_M1_09_117 c sijns lants vʼdreuen
 
 
 L_M1_10_118 n du berechts mi wel
@@ -323,9 +325,9 @@ L_M1_62_802 Om̄e die helle tonfliene
 L_M1_62_803 Hier in waert sekerst ...
 L_M1_62_804 Die hē int doepsel 
 L_M1_62_805 
+L_M1_62_806 
 
 
-L_M1_63_806 
 
 
 
@@ -532,128 +534,130 @@ L_M1_75_973 In haer benic tinden bout
 L_M1_75_974 Onse dyaloeghe
 L_M1_75_975 En vraege nēmeer no en toege
 
-
-L_M2_1_000 Dander merten
-L_M2_1_001 SLaepstu mertē slaept dij̄ sin
-L_M2_1_002 Sprekē en heeft geen sprekē in
-L_M2_1_003 Du dunckes mi vʼdoren
-L_M2_1_004 Dune achtes meer no min
-L_M2_1_005 Dan op welde en̄ op ghewin
-L_M2_1_006 Wiltu di aldus versmoren
-L_M2_1_007 Al wʼt al dine dꝫ comt int swin
-L_M2_1_008 Gout seluer loot yser tin
-L_M2_1_009 Soe bleefstu verloren
-L_M2_1_010 
+Line_number 976 is missing
 
 
-
-L_M2_1_011 Hef op dijn hoet dinen kin
-L_M2_1_012 Tontide waerstu geboren
-L_M2_1_013 Heeftu dichtens vʼsworen
-
-
-L_M2_2_014 IAcop du woens inden dam
-L_M2_2_015 En̄ ic tutrecht des benic grā
-L_M2_2_016 Dat wi dus sijn verscheeden
-L_M2_2_017 Wetti wat mi meest mesquaem
-L_M2_2_018 Dat ic noeyt bate en vʼnaem
-L_M2_2_019 Aent dichten vā ons beeden
-L_M2_2_020 Soe es mijn sin woordē soe lam
-L_M2_2_021 Dat icker noede wedʼ aen quaē
-L_M2_2_022 Dit doet mi verleeden
-L_M2_2_023 Du wecs mi als .I. stotel ram
-L_M2_2_024 Sidi wilt ghi wert noch tam
-L_M2_2_025 Leere dine woorde cleeden
-L_M2_2_026 Soetelike en̄ ghereeden
-
-
-L_M2_3_027 MErten vrient hebbic messeit
-L_M2_3_028 Ic bens te betren gereit
-L_M2_3_029 Ic wils al op di bliuen
-L_M2_3_030 Mʼ vʼstant mi en̄ ontbeit
-L_M2_3_031 Een dinc dꝫ mi opt hʼte leit
-L_M2_3_032 Willic di bescriuen
-L_M2_3_033 Dʼ hʼ die wʼelt mede meit
-L_M2_3_034 En̄ daede dꝫ lief ware leit
-L_M2_3_035 En̄ dats mīne vā wiuen
-L_M2_3_036 Wat dꝫ inde weʼlt steit
-L_M2_3_037 Steden borghe bossche preit
-L_M2_3_038 Soude men vʼdriuen
-L_M2_3_039 Woude mē min̄e ontliuen
-
-
-L_M2_4_040 IAcop dit was oeyt dijn doen
-L_M2_4_041 Vā vrouwē te makē dij̄ sermoē
-L_M2_4_042 Beghinnen ofte inden
-L_M2_4_043 Waerstu een dorpʼ du spraecs vā coē
-L_M2_4_044 Nv es dijn hʼte des ontvloen
-L_M2_4_045 Doch willics mi ghenenden
-L_M2_4_046 En̄ stekē af minen caproen
-L_M2_4_047 En̄ hoerē watti hʼ toe spoen
-L_M2_4_048 Dattu den ombekinden
-L_M2_4_049 Merten niet en laet gheroen
-L_M2_4_050 Al haddic aen ij. yserē scoen
-L_M2_4_051 En mochte di niet ontwindē
-L_M2_4_052 Nv vraecht ic sal ontbinden
-
-
-L_M2_5_053 MErten du sout mi vʼstaen
-L_M2_5_054 Een vrouwe wel gedaen
-L_M2_5_055 
+L_M2_01_000 Dander merten
+L_M2_01_001 SLaepstu mertē slaept dij̄ sin
+L_M2_01_002 Sprekē en heeft geen sprekē in
+L_M2_01_003 Du dunckes mi vʼdoren
+L_M2_01_004 Dune achtes meer no min
+L_M2_01_005 Dan op welde en̄ op ghewin
+L_M2_01_006 Wiltu di aldus versmoren
+L_M2_01_007 Al wʼt al dine dꝫ comt int swin
+L_M2_01_008 Gout seluer loot yser tin
+L_M2_01_009 Soe bleefstu verloren
+L_M2_01_010 
 
 
 
-L_M2_5_056 Aldat gode es onder daen
-L_M2_5_057 Lietic al om̄e hare gaen
-L_M2_5_058 Mochticse gewinnē
-L_M2_5_059 Nochtan wetic sondʼ waen
-L_M2_5_060 Dat si mijns nꝫ en acht I spaen
-L_M2_5_061 Mijn sin doet mi bekinnen
-L_M2_5_062 Al souder die werelt om̄e vʼgaen
-L_M2_5_063 Si en soude mi niet ontfaen
-L_M2_5_064 In haer herte binnen
-L_M2_5_065 Hier toe es gheen vʼwinnen
+L_M2_01_011 Hef op dijn hoet dinen kin
+L_M2_01_012 Tontide waerstu geboren
+L_M2_01_013 Heeftu dichtens vʼsworen
 
 
-L_M2_6_066 EEn andʼ vrouwe es die mi mīt
-L_M2_6_067 Bouē al dꝫ si leuende kint
-L_M2_6_068 Met gestaeder trouwen
-L_M2_6_069 Die niet mi geprijst es twint
-L_M2_6_070 Mʼ die scoenste die men vint
-L_M2_6_071 En̄ spiegel vā allē vrouwen
-L_M2_6_075 Hoe lief op sien si mi toe sent
-L_M2_6_073 Mijn herte es soe vʼblent
-L_M2_6_074 Dat icse niet en wille scouwen
-L_M2_6_072 Mij̄ hʼte dꝫ es soe hart twint
-L_M2_6_076 Dꝫ het mi al duncket wint
-L_M2_6_077 Si liet hʼ eer te stuckē houwen
-L_M2_6_078 Eer siere om̄e quaē in rouwen
+L_M2_02_014 IAcop du woens inden dam
+L_M2_02_015 En̄ ic tutrecht des benic grā
+L_M2_02_016 Dat wi dus sijn verscheeden
+L_M2_02_017 Wetti wat mi meest mesquaem
+L_M2_02_018 Dat ic noeyt bate en vʼnaem
+L_M2_02_019 Aent dichten vā ons beeden
+L_M2_02_020 Soe es mijn sin woordē soe lam
+L_M2_02_021 Dat icker noede wedʼ aen quaē
+L_M2_02_022 Dit doet mi verleeden
+L_M2_02_023 Du wecs mi als .I. stotel ram
+L_M2_02_024 Sidi wilt ghi wert noch tam
+L_M2_02_025 Leere dine woorde cleeden
+L_M2_02_026 Soetelike en̄ ghereeden
 
 
-L_M2_7_079 MErten hore en̄ vʼstant
-L_M2_7_080 Dese .ij. sijn in I bewant
-L_M2_7_081 Dat costen moꝫ dʼ eren leuē
-L_M2_7_082 Nv hebbic die macht inde hant
-L_M2_7_083 Welker ic wille brekē den cant
-L_M2_7_084 En̄ maecht hʼ al vergheuen
-L_M2_7_085 Emmer moꝫ deē bitē den tant
-L_M2_7_086 Den besten die god ie vant
-L_M2_7_087 Hier toe sijn si verdreuen
-L_M2_7_088 En liecht mi niet als I. truwant
-L_M2_7_089 Mʼ segt mi aen welken cant
-L_M2_7_090 Dijn herte es bleuen
-L_M2_7_091 En̄ welke du liets sneuen
+L_M2_03_027 MErten vrient hebbic messeit
+L_M2_03_028 Ic bens te betren gereit
+L_M2_03_029 Ic wils al op di bliuen
+L_M2_03_030 Mʼ vʼstant mi en̄ ontbeit
+L_M2_03_031 Een dinc dꝫ mi opt hʼte leit
+L_M2_03_032 Willic di bescriuen
+L_M2_03_033 Dʼ hʼ die wʼelt mede meit
+L_M2_03_034 En̄ daede dꝫ lief ware leit
+L_M2_03_035 En̄ dats mīne vā wiuen
+L_M2_03_036 Wat dꝫ inde weʼlt steit
+L_M2_03_037 Steden borghe bossche preit
+L_M2_03_038 Soude men vʼdriuen
+L_M2_03_039 Woude mē min̄e ontliuen
 
 
-L_M2_8_092 IAcop dit en es geēs vragēs waert
-L_M2_8_093 Die de wʼheit nꝫ en spaert
-L_M2_8_094 Heeft dit saen ontbonden
-L_M2_8_095 Hets ēmer dʼ hʼten aert
-L_M2_8_096 Dat si daer waert tijt en̄ vaert
-L_M2_8_097 Danē hʼ quaemē die wonden
-L_M2_8_098 Al sout al vaeren hindʼwaert
-L_M2_8_099 Al dat weluarens begaert
-L_M2_8_100 
+L_M2_04_040 IAcop dit was oeyt dijn doen
+L_M2_04_041 Vā vrouwē te makē dij̄ sermoē
+L_M2_04_042 Beghinnen ofte inden
+L_M2_04_043 Waerstu een dorpʼ du spraecs vā coē
+L_M2_04_044 Nv es dijn hʼte des ontvloen
+L_M2_04_045 Doch willics mi ghenenden
+L_M2_04_046 En̄ stekē af minen caproen
+L_M2_04_047 En̄ hoerē watti hʼ toe spoen
+L_M2_04_048 Dattu den ombekinden
+L_M2_04_049 Merten niet en laet gheroen
+L_M2_04_050 Al haddic aen ij. yserē scoen
+L_M2_04_051 En mochte di niet ontwindē
+L_M2_04_052 Nv vraecht ic sal ontbinden
+
+
+L_M2_05_053 MErten du sout mi vʼstaen
+L_M2_05_054 Een vrouwe wel gedaen
+L_M2_05_055 
+
+
+
+L_M2_05_056 Aldat gode es onder daen
+L_M2_05_057 Lietic al om̄e hare gaen
+L_M2_05_058 Mochticse gewinnē
+L_M2_05_059 Nochtan wetic sondʼ waen
+L_M2_05_060 Dat si mijns nꝫ en acht I spaen
+L_M2_05_061 Mijn sin doet mi bekinnen
+L_M2_05_062 Al souder die werelt om̄e vʼgaen
+L_M2_05_063 Si en soude mi niet ontfaen
+L_M2_05_064 In haer herte binnen
+L_M2_05_065 Hier toe es gheen vʼwinnen
+
+
+L_M2_06_066 EEn andʼ vrouwe es die mi mīt
+L_M2_06_067 Bouē al dꝫ si leuende kint
+L_M2_06_068 Met gestaeder trouwen
+L_M2_06_069 Die niet mi geprijst es twint
+L_M2_06_070 Mʼ die scoenste die men vint
+L_M2_06_071 En̄ spiegel vā allē vrouwen
+L_M2_06_075 Hoe lief op sien si mi toe sent
+L_M2_06_073 Mijn herte es soe vʼblent
+L_M2_06_074 Dat icse niet en wille scouwen
+L_M2_06_072 Mij̄ hʼte dꝫ es soe hart twint
+L_M2_06_076 Dꝫ het mi al duncket wint
+L_M2_06_077 Si liet hʼ eer te stuckē houwen
+L_M2_06_078 Eer siere om̄e quaē in rouwen
+
+
+L_M2_07_079 MErten hore en̄ vʼstant
+L_M2_07_080 Dese .ij. sijn in I bewant
+L_M2_07_081 Dat costen moꝫ dʼ eren leuē
+L_M2_07_082 Nv hebbic die macht inde hant
+L_M2_07_083 Welker ic wille brekē den cant
+L_M2_07_084 En̄ maecht hʼ al vergheuen
+L_M2_07_085 Emmer moꝫ deē bitē den tant
+L_M2_07_086 Den besten die god ie vant
+L_M2_07_087 Hier toe sijn si verdreuen
+L_M2_07_088 En liecht mi niet als I. truwant
+L_M2_07_089 Mʼ segt mi aen welken cant
+L_M2_07_090 Dijn herte es bleuen
+L_M2_07_091 En̄ welke du liets sneuen
+
+
+L_M2_08_092 IAcop dit en es geēs vragēs waert
+L_M2_08_093 Die de wʼheit nꝫ en spaert
+L_M2_08_094 Heeft dit saen ontbonden
+L_M2_08_095 Hets ēmer dʼ hʼten aert
+L_M2_08_096 Dat si daer waert tijt en̄ vaert
+L_M2_08_097 Danē hʼ quaemē die wonden
+L_M2_08_098 Al sout al vaeren hindʼwaert
+L_M2_08_099 Al dat weluarens begaert
+L_M2_08_100 
 
 
 
@@ -762,8 +766,6 @@ L_M3_33_424 Dꝫ hi vā sinen vol...
 L_M3_33_425 Smaecte eē droepelkin
 L_M3_33_426 Die ware gode die aldʼ neeste
 L_M3_33_427 Gheen vrese vā tempeeste
-L_M3_33_428 
-L_M3_33_429 
 
 
 
@@ -817,9 +819,8 @@ L_M3_36_468 Dꝫ nēmermeer vʼgheit
 L_M3_37_469 WAt hulpt mertē sin en̄ taele
 L_M3_37_470 Die begheuē mi alte maele
 L_M3_37_471 Meer te sprekene voort
-L_M3_37_472 ...
-L_M3_37_473 ...
-L_M3_37_474 
+L_M3_37_472 
+L_M3_37_473 
 
 
 

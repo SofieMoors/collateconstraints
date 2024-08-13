@@ -14,7 +14,7 @@ _M1_
 Ø
 ____
 _M2_
-§1§
+§01§
 0 ¶ <D>at ander de bo[...]
 1 <M_2><A>rtijn slaepty sla[...]
 <S>preect hebdy g[...]
@@ -32,7 +32,7 @@ _M2_
 [...] hooft en(de) uwen sin
 [...] waerstu geboren
 [...]chtens versworen
-§2§
+§02§
 [...]ghi woent in den dam
 15 [...] echt dies ben ic gram
 [...]s sijn verscheeden
@@ -46,7 +46,7 @@ _M2_
 [...] ghi wort noch tam
 25 [...] woorden cleeden
 [...] en(de) met reden
-§3§
+§03§
 [...] vrient heb ic messeyt
 [...]eteren bereyt
 [...] v bliuen
@@ -63,7 +63,7 @@ _M2_
 <S>teden/borge(n)/bossce(n) preyt
 <S>oudemen verdriuen
 <W>ildemen minne ontlijuen
-§4§
+§04§
 40 <I>acop dit was oyt dijn doen
 <D>at van vrouwen v sermoen
 <B>eghinnen moet oft eynden
@@ -79,7 +79,7 @@ _M2_
 <N>v vraecht ic sal ontbende(n)
 
 &2v&
-§5§
+§05§
 [...]rtijn ghi sult mi verstaen
 [...] vrouwe wel ghedaen
 55 [...]t mi beuaen met minnen
@@ -93,7 +93,7 @@ _M2_
 [...] si mi niet en sonde ontfaen
 [...]aer herte binnen
 65 [...]etoe en is geen versinnen
-§6§
+§06§
 [...]n and[er] vrouwe die mi bemint
 [...]en al dat sij leuende kint
 [...] ghestadiger trouwen
@@ -110,7 +110,7 @@ _M2_
 <H>et dunct mijnd[er] herte(n) alsen [...]
 <S>ij liet h*a*er eer in stucken hou[...]
 <E>er sij daer om quam in rouw[...]
-§7§
+§07§
 <M>artijn hoort en(de) verstant
 80 <D>ese twee sijn in een verbant
 <D>at costen moet der eenredle [...] 
@@ -119,7 +119,7 @@ _M2_
 
 
 &3v& 
-§8§
+§08§
 95 [...] ymmer der herten aert
 [...]darwaerts tijdt en(de) vaert
 [...]aen haer quame(n) d*ie* wonden
@@ -132,7 +132,7 @@ _M2_
 104 [...]ermoort dan sonden
 
 &4r& 
-§9§
+§09§
 116 <H>i en konst hem niet bed*w*[...]
 117 <H>i en sterf bi desen dingen
 §10§

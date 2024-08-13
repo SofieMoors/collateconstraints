@@ -355,14 +355,14 @@ ____
 
 &4ra&
 _M2_
-§7§
+§07§
 86 *<D>en liefsten die ...*
 87 <H>iertoe sijn si verdreuen
 88 <L>iecht mi n{iet} als een truwant
 89 <M>[aer] sech mi an welken cant
 90 <D>ijn h[er]te es bleuen
 <E>n(de) welke*r* du liets sneuen
-§8§
+§08§
 <I_2>a*cop* dits geens vragens w[aer]t
 <D>ie de w[aer]heit niet en s{paer}t
 <H>eeft dit saen ontbonden
@@ -376,7 +376,7 @@ _M2_
 <S>oudic h[aer] laten smake(n) tsw[aer]t
 <D>{at} ware onderuonden
 <M>eerder moert dan sonde
-§9§
+§09§
 105 <T_2>onghe liecht mer th[er]te niet
 <M>[aer] wat therte ghebiet
 <D>{at} wiltmen volbringen
@@ -647,7 +647,7 @@ _M2_
 ____
 
 _M3_
-§1§
+§01§
 0 *...* es den derden boeck
 1 <J_10><C> mane manne m{et}ten wiuen
 <D>ie dit lesen ofte scriuen
@@ -665,7 +665,7 @@ _M3_
 &2vb&
 
 [...]t die lere [...]
-§2§
+§02§
 <I_2>acop wi hebben ond[er]linge
 15 <G>hehandelt misselike dinge
 <N>v antwoort mi op een
@@ -679,7 +679,7 @@ _M3_
 <S>ubtijl w[aer] therte diet beuinge
 25 <W>ant hoger dinc nes gee(n)
 <N>v antwoort tussche(n) ons twee(n)
-§3§
+§03§
 <M_2><E>rten du vrages te hoge
 <A>l vlogic bouen d[er] ingle vloge
 <B>ouen cherub en(de) cheraf
@@ -693,7 +693,7 @@ _M3_
 <M>[aer] verscerpt dijns sins oge
 <H>ore wat scriftuere di gaf
 <S>luut in diere h[er]ten graf
-§4§
+§04§
 40 <M_2>oyses sprect in sine(n) boeke(n)
 <B>eesten die den berch besoeke(n)
 <M>oeten sij(n) vereent

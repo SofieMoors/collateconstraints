@@ -2,145 +2,147 @@
 
 
 
-B_M1_1_001 Waphene martin hoe salt gaē
-B_M1_1_002 Sal de weʼlt yet lang staen
-B_M1_1_003 In dus cranckē loue
-B_M1_1_004 So moet mijn vrauwe ere zaē
-B_M1_1_005 Sondʼ twiuel en̄ waen
-B_M1_1_006 Rumen heren houe
-B_M1_1_007 Ic sie die valsche wel ontfaen
-B_M1_1_008 Die de heren connē dʼstaen
-B_M1_1_009 Ende plockē vandē stoue
-B_M1_1_010 En̄ ic sie den rechten slaen
-B_M1_1_011 Bede bespotten en̄ vaen
-B_M1_1_012 Als die meze in de cloue
-B_M1_1_013 Recht offen god vʼscoue
+
+Line_number 000 is missing
+B_M1_01_001 Waphene martin hoe salt gaē
+B_M1_01_002 Sal de weʼlt yet lang staen
+B_M1_01_003 In dus cranckē loue
+B_M1_01_004 So moet mijn vrauwe ere zaē
+B_M1_01_005 Sondʼ twiuel en̄ waen
+B_M1_01_006 Rumen heren houe
+B_M1_01_007 Ic sie die valsche wel ontfaen
+B_M1_01_008 Die de heren connē dʼstaen
+B_M1_01_009 Ende plockē vandē stoue
+B_M1_01_010 En̄ ic sie den rechten slaen
+B_M1_01_011 Bede bespotten en̄ vaen
+B_M1_01_012 Als die meze in de cloue
+B_M1_01_013 Recht offen god vʼscoue
 
 
-B_M1_2_014 Hoe lang sal hi doghen dit
-B_M1_2_015 God die alle dinc besit
-B_M1_2_016 In sijn heerscepie
-B_M1_2_017 Dat die guede fleut en̄ bidt
-B_M1_2_018 Ende hem dooch dat noch dit
-B_M1_2_019 Dat hi yet ghedie
-B_M1_2_020 Al wairtet indē helschē pit
-B_M1_2_021 Eist graeu blaeu zwart off wit
-B_M1_2_022 Tes ghetrauwe als die zie
-B_M1_2_023 Recht als een man deluet sondʼ spit
-B_M1_2_024 Hien heeft te punte niet ghehit
-B_M1_2_025 Inne ghene talie
-B_M1_2_026 Mi es leet dat ic wair lie
+B_M1_02_014 Hoe lang sal hi doghen dit
+B_M1_02_015 God die alle dinc besit
+B_M1_02_016 In sijn heerscepie
+B_M1_02_017 Dat die guede fleut en̄ bidt
+B_M1_02_018 Ende hem dooch dat noch dit
+B_M1_02_019 Dat hi yet ghedie
+B_M1_02_020 Al wairtet indē helschē pit
+B_M1_02_021 Eist graeu blaeu zwart off wit
+B_M1_02_022 Tes ghetrauwe als die zie
+B_M1_02_023 Recht als een man deluet sondʼ spit
+B_M1_02_024 Hien heeft te punte niet ghehit
+B_M1_02_025 Inne ghene talie
+B_M1_02_026 Mi es leet dat ic wair lie
 
 
-B_M1_3_027 Laet ons martijn ouer een
-B_M1_3_028 Hier of spreken ondʼ ons tween
-B_M1_3_029 In dit dyaloghe
-B_M1_3_030 Wanē eerst quam dese ween
-B_M1_3_031 Die wilen so ontwert sceen
-B_M1_3_032 Ende nv sit so hoghe
-B_M1_3_033 Ic sal di vraghen en̄ vleen
-B_M1_3_034 Ende antwʼt mi ja of neen
-B_M1_3_035 Van dat ic di betoghe
-B_M1_3_036 Ledicheit es vrome ne gheen
-B_M1_3_037 Arbeit vint vier indē steen
-B_M1_3_038 Dair bi ontsteict dat droghe
-B_M1_3_039 Nu spreect en̄ ic ghedoghe
+B_M1_03_027 Laet ons martijn ouer een
+B_M1_03_028 Hier of spreken ondʼ ons tween
+B_M1_03_029 In dit dyaloghe
+B_M1_03_030 Wanē eerst quam dese ween
+B_M1_03_031 Die wilen so ontwert sceen
+B_M1_03_032 Ende nv sit so hoghe
+B_M1_03_033 Ic sal di vraghen en̄ vleen
+B_M1_03_034 Ende antwʼt mi ja of neen
+B_M1_03_035 Van dat ic di betoghe
+B_M1_03_036 Ledicheit es vrome ne gheen
+B_M1_03_037 Arbeit vint vier indē steen
+B_M1_03_038 Dair bi ontsteict dat droghe
+B_M1_03_039 Nu spreect en̄ ic ghedoghe
 
 
-B_M1_4_040 Sprekē iacop lieue cōpaen
-B_M1_4_041 Wair soude ic dat hebbē vʼstaen
-B_M1_4_042 Dat ic dair toe dochte
-B_M1_4_043 Te vʼclarē dinē waen
-
-
-
-B_M1_4_044 Die mit twiuele ware beuaen
-B_M1_4_045 Dats dat ic niet en vʼmochte
-B_M1_4_046 Doch en wille ic niet ontgaen
-B_M1_4_047 Ic en wille dine beide ontfaen
-B_M1_4_048 Die dit ane mi besochte
-B_M1_4_049 God sende my den hemelschē traen
-B_M1_4_050 Ende moete mine zinnē dwaen
-B_M1_4_051 Want hi my diere cochte
-B_M1_4_052 Ende ict gairne volbrochte
-
-
-B_M1_5_053 Martijn als de werelt began
-B_M1_5_054 Man te vʼheffen bouē man
-B_M1_5_055 So sciet mijn vrauwe ere
-B_M1_5_056 Den dorpere en̄ wijsdem dē dan
-B_M1_5_057 Dair trouwe en̄ doecht was an
-B_M1_5_058 Dien hiet so sijn here
-B_M1_5_059 Nu maken die herē ghespan
-B_M1_5_060 Ende gheuē dʼ eren enē ban
-B_M1_5_061 Ende en willen niet dat so kere
-B_M1_5_062 Segt mi waen dit venijn ran
-B_M1_5_063 Toicht mi redene dair van
-B_M1_5_064 Want ic gairne lere
-B_M1_5_065 Wies scout dattet were
-
-
-B_M1_6_066 Iacop my dinct ouer wair
-B_M1_6_067 Sint dat edelheit hadde vaer
-B_M1_6_068 Te pijne om die ere
-B_M1_6_069 Ende so trac de scalke naer
-B_M1_6_070 Die raden nv hier nv dair
-B_M1_6_071 Ende niet scelden den here
-B_M1_6_072 So es edelheit worden so zwair
-B_M1_6_073 Dat so tclemmē heeft ōmaer
-B_M1_6_074 Ende daelt so lanc so mere
-B_M1_6_075 Dats nv al ter werelt claer
-B_M1_6_076 Ende oic zietment openbair
-B_M1_6_077 Dus es vʼbannē die ere
-B_M1_6_078 Ende wederstaen ten kere
-
-
-B_M1_7_079 Nv merc bidʼ sonnē lecht
-B_M1_7_080 Dat al dʼ weʼlt oghen berecht
-B_M1_7_081 Bi sire edelre naturen
-B_M1_7_082 Als dat zwerc dair ieghen vecht
-B_M1_7_083 Ende die neuel mit sire drecht
-B_M1_7_084 So en can so tier vren
-B_M1_7_085 Niet toghen hairre scoonhᵗ echt
-B_M1_7_086 Aldus vʼdonckert die scalcke knecht
+B_M1_04_040 Sprekē iacop lieue cōpaen
+B_M1_04_041 Wair soude ic dat hebbē vʼstaen
+B_M1_04_042 Dat ic dair toe dochte
+B_M1_04_043 Te vʼclarē dinē waen
 
 
 
-B_M1_7_087 Die edele creaturē
-B_M1_7_088 Als hi hem dair ane hecht
-B_M1_7_089 Ende hare ydelheyt verplecht
-B_M1_7_090 Dat so laet ghedueren
-B_M1_7_091 By hare die scalcke zurē
+B_M1_04_044 Die mit twiuele ware beuaen
+B_M1_04_045 Dats dat ic niet en vʼmochte
+B_M1_04_046 Doch en wille ic niet ontgaen
+B_M1_04_047 Ic en wille dine beide ontfaen
+B_M1_04_048 Die dit ane mi besochte
+B_M1_04_049 God sende my den hemelschē traen
+B_M1_04_050 Ende moete mine zinnē dwaen
+B_M1_04_051 Want hi my diere cochte
+B_M1_04_052 Ende ict gairne volbrochte
 
 
-B_M1_8_092 Sint scalkē droughē ouʼ een
-B_M1_8_093 Dat neen was ja en̄ ja neen
-B_M1_8_094 En̄ hem dat wijsheit dochte
-B_M1_8_095 En̄ ydelheyt dʼ ōme green
-B_M1_8_096 Wanter wasdom uut sceen
-B_M1_8_097 Wanē soot comē mochte
-B_M1_8_098 So is ydelheit worden steen
-B_M1_8_099 Want hare ontfermt dinc ne gheē
-B_M1_8_100 Dan dairmē ghelt wt knochte
-B_M1_8_101 Ay god gheue hem dē langē ween
-B_M1_8_102 Die te cnauwen gaf dit been
-B_M1_8_103 Den ydelen gedochte
-B_M1_8_104 Want hire mort an wrochte
+B_M1_05_053 Martijn als de werelt began
+B_M1_05_054 Man te vʼheffen bouē man
+B_M1_05_055 So sciet mijn vrauwe ere
+B_M1_05_056 Den dorpere en̄ wijsdem dē dan
+B_M1_05_057 Dair trouwe en̄ doecht was an
+B_M1_05_058 Dien hiet so sijn here
+B_M1_05_059 Nu maken die herē ghespan
+B_M1_05_060 Ende gheuē dʼ eren enē ban
+B_M1_05_061 Ende en willen niet dat so kere
+B_M1_05_062 Segt mi waen dit venijn ran
+B_M1_05_063 Toicht mi redene dair van
+B_M1_05_064 Want ic gairne lere
+B_M1_05_065 Wies scout dattet were
 
 
-B_M1_9_105 Wat zal seighel en̄ was
-B_M1_9_106 En̄ brieuē die ghewaghē das
-B_M1_9_107 Van dat lantsherē gheuē
-B_M1_9_108 Hets al niet ende een ghedwas
-B_M1_9_109 Also lief had mi een tsas tsas
-B_M1_9_110 Off een vriese bescreuē
-B_M1_9_111 Trouwe es broschʼ dan glas
-B_M1_9_112 Die hier te voren so starc was
-B_M1_9_113 So es nv te brocken bleuē
-B_M1_9_114 Ic waens noyt lantsheʼ genas
-B_M1_9_115 Die scalc mit hē te rade las
-B_M1_9_116 Hien moste int eynde sneuē
-B_M1_9_117 Ende zulc zijns lants vʼdreuē
+B_M1_06_066 Iacop my dinct ouer wair
+B_M1_06_067 Sint dat edelheit hadde vaer
+B_M1_06_068 Te pijne om die ere
+B_M1_06_069 Ende so trac de scalke naer
+B_M1_06_070 Die raden nv hier nv dair
+B_M1_06_071 Ende niet scelden den here
+B_M1_06_072 So es edelheit worden so zwair
+B_M1_06_073 Dat so tclemmē heeft ōmaer
+B_M1_06_074 Ende daelt so lanc so mere
+B_M1_06_075 Dats nv al ter werelt claer
+B_M1_06_076 Ende oic zietment openbair
+B_M1_06_077 Dus es vʼbannē die ere
+B_M1_06_078 Ende wederstaen ten kere
+
+
+B_M1_07_079 Nv merc bidʼ sonnē lecht
+B_M1_07_080 Dat al dʼ weʼlt oghen berecht
+B_M1_07_081 Bi sire edelre naturen
+B_M1_07_082 Als dat zwerc dair ieghen vecht
+B_M1_07_083 Ende die neuel mit sire drecht
+B_M1_07_084 So en can so tier vren
+B_M1_07_085 Niet toghen hairre scoonhᵗ echt
+B_M1_07_086 Aldus vʼdonckert die scalcke knecht
+
+
+
+B_M1_07_087 Die edele creaturē
+B_M1_07_088 Als hi hem dair ane hecht
+B_M1_07_089 Ende hare ydelheyt verplecht
+B_M1_07_090 Dat so laet ghedueren
+B_M1_07_091 By hare die scalcke zurē
+
+
+B_M1_08_092 Sint scalkē droughē ouʼ een
+B_M1_08_093 Dat neen was ja en̄ ja neen
+B_M1_08_094 En̄ hem dat wijsheit dochte
+B_M1_08_095 En̄ ydelheyt dʼ ōme green
+B_M1_08_096 Wanter wasdom uut sceen
+B_M1_08_097 Wanē soot comē mochte
+B_M1_08_098 So is ydelheit worden steen
+B_M1_08_099 Want hare ontfermt dinc ne gheē
+B_M1_08_100 Dan dairmē ghelt wt knochte
+B_M1_08_101 Ay god gheue hem dē langē ween
+B_M1_08_102 Die te cnauwen gaf dit been
+B_M1_08_103 Den ydelen gedochte
+B_M1_08_104 Want hire mort an wrochte
+
+
+B_M1_09_105 Wat zal seighel en̄ was
+B_M1_09_106 En̄ brieuē die ghewaghē das
+B_M1_09_107 Van dat lantsherē gheuē
+B_M1_09_108 Hets al niet ende een ghedwas
+B_M1_09_109 Also lief had mi een tsas tsas
+B_M1_09_110 Off een vriese bescreuē
+B_M1_09_111 Trouwe es broschʼ dan glas
+B_M1_09_112 Die hier te voren so starc was
+B_M1_09_113 So es nv te brocken bleuē
+B_M1_09_114 Ic waens noyt lantsheʼ genas
+B_M1_09_115 Die scalc mit hē te rade las
+B_M1_09_116 Hien moste int eynde sneuē
+B_M1_09_117 Ende zulc zijns lants vʼdreuē
 
 
 B_M1_10_118 Mertijn du berechts mi wel
@@ -1200,149 +1202,153 @@ B_M1_75_973 In hare ben ic te endene bout
 B_M1_75_974 Onse dyaloghe
 B_M1_75_975 Ic en vraghe nēmer no toghe
 
-
-B_M2_1_001 Maertijn slaepstu slaep dijn zin
-B_M2_1_002 Sprec hebstu gheen sprekē jn
-B_M2_1_003 Du dincts mi vʼdorē
-B_M2_1_004 Du en achts anders meer no min
-B_M2_1_005 Dan weelde en̄ ghewin
-B_M2_1_006 Wiltu di dus vʼsmoren
-B_M2_1_007 Wair al di dat comt int zwin
-B_M2_1_008 Goud suluer loot en̄ tin
+Line_number 976 is missing
 
 
 
-B_M2_1_009 So bleuestu vʼlorē
-B_M2_1_010 Daetstu ter doghet gheen beghin
-B_M2_1_011 Hef op dijn hooft en̄ dinē kin
-B_M2_1_012 Tontijt waerstu gheborē
-B_M2_1_013 Hebstu dichtens vʼzworē
-
-
-B_M2_2_014 Iacop du woens in dē dam
-B_M2_2_015 Ende ic tutrecht dies bin ic grā
-B_M2_2_016 Dat wi dus zijn vʼsceden
-B_M2_2_017 Weetstu wat my meest misquā
-B_M2_2_018 Dats dat ic noyt bate vʼnam
-B_M2_2_019 An dichten van ons beden
-B_M2_2_020 So es mi de zin wʼden so lam
-B_M2_2_021 Dat ickʼ node wedʼ anquā
-B_M2_2_022 Dat deit mi vʼleden
-B_M2_2_023 Du weex mi als een slotel ram
-B_M2_2_024 Al bistu wilt du warts noch tam
-B_M2_2_025 Lere dijn worden cleden
-B_M2_2_026 Soetelike ende ghereden
-
-
-B_M2_3_027 Mairtin vrient heb ic messeit
-B_M2_3_028 Jc bens te beter ghereit
-B_M2_3_029 Jc wils al op di bliuē
-B_M2_3_030 Mʼ vʼstaet mi en̄ onbeyt
-B_M2_3_031 Een dinc die mi jnt hʼte leit
-B_M2_3_032 Willic die bescriuē
-B_M2_3_033 Dair hair die weʼlt mede meit
-B_M2_3_034 Ne wair ooc dat. lief wair leit
-B_M2_3_035 Ende dats mīne van wiuē
-B_M2_3_036 Wat dat es in die weʼlt breit
-B_M2_3_037 Steden burghen busschen preit
-B_M2_3_038 Soudemē vʼdriuē
-B_M2_3_039 Wildemē mīnē ontliuē
-
-
-B_M2_4_040 Iacop dit was oyt dijn doen
-B_M2_4_041 Van vrauwē moetstu dij̄ sʼmoen
-B_M2_4_042 Altois begonnē of eynden
-B_M2_4_043 Wairstu een dorper du spraex vā koen
-B_M2_4_044 Nu es dine hʼte dies ontuloen
-B_M2_4_045 Doch wil ics mi ghenēden
-B_M2_4_046 En̄ wille of steken mijn caproē
-B_M2_4_047 En̄ wat di hier toe spoen
-B_M2_4_048 Dattu dē onbekenden
+Line_number 000 is missing
+B_M2_01_001 Maertijn slaepstu slaep dijn zin
+B_M2_01_002 Sprec hebstu gheen sprekē jn
+B_M2_01_003 Du dincts mi vʼdorē
+B_M2_01_004 Du en achts anders meer no min
+B_M2_01_005 Dan weelde en̄ ghewin
+B_M2_01_006 Wiltu di dus vʼsmoren
+B_M2_01_007 Wair al di dat comt int zwin
+B_M2_01_008 Goud suluer loot en̄ tin
 
 
 
-B_M2_4_049 Maertin niet laets geroen
-B_M2_4_050 Al haddic an twe yseren scoen
-B_M2_4_051 En mochte di niet ontwendē
-B_M2_4_052 Nu vrach ic sal onbenden
+B_M2_01_009 So bleuestu vʼlorē
+B_M2_01_010 Daetstu ter doghet gheen beghin
+B_M2_01_011 Hef op dijn hooft en̄ dinē kin
+B_M2_01_012 Tontijt waerstu gheborē
+B_M2_01_013 Hebstu dichtens vʼzworē
 
 
-B_M2_5_053 Mairtijn du salt mi vʼstaen
-B_M2_5_054 Ene vrouwe wel gedaen
-B_M2_5_055 Heeft mi beuaen mit mīnen
-B_M2_5_056 Al dat goede es en̄ daen
-B_M2_5_057 Lietic om hare gaen
-B_M2_5_058 Mochte icse ghewinnē
-B_M2_5_059 Nochtan wetic sondʼ waen
-B_M2_5_060 Dat si mijns niet acht een spaen
-B_M2_5_061 Mine harte doet mi bekennē
-B_M2_5_062 Alle zoudʼ ōme die weʼlt vʼgaen
-B_M2_5_063 Dat soe mi niet soude ontfaen
-B_M2_5_064 Jn hare harte binnē
-B_M2_5_065 Hier toe nes gheen vʼwinnē
+B_M2_02_014 Iacop du woens in dē dam
+B_M2_02_015 Ende ic tutrecht dies bin ic grā
+B_M2_02_016 Dat wi dus zijn vʼsceden
+B_M2_02_017 Weetstu wat my meest misquā
+B_M2_02_018 Dats dat ic noyt bate vʼnam
+B_M2_02_019 An dichten van ons beden
+B_M2_02_020 So es mi de zin wʼden so lam
+B_M2_02_021 Dat ickʼ node wedʼ anquā
+B_M2_02_022 Dat deit mi vʼleden
+B_M2_02_023 Du weex mi als een slotel ram
+B_M2_02_024 Al bistu wilt du warts noch tam
+B_M2_02_025 Lere dijn worden cleden
+B_M2_02_026 Soetelike ende ghereden
 
 
-B_M2_6_066 Een andʼ vrauwe es die mi mint
-B_M2_6_067 Bouē al dat soe leuende kint
-B_M2_6_068 Mit ghestader trouwe
-B_M2_6_069 Die in my gheprijst es niet j. twint
-B_M2_6_070 Mar de scoenste diemē vint
-B_M2_6_071 En̄ blome bouē allen vrouwē
-B_M2_6_072 Nu es mij̄ hʼte so hart j. blint
-B_M2_6_073 Dat so hair dair toe yet vʼbint
-B_M2_6_074 Dat soese yet wille scouwen
-B_M2_6_075 Hoe lieff zoe mi toezint
-B_M2_6_076 Het dinct mire hʼten zij̄ al wint
-B_M2_6_077 Soe liet hair eer in stucken houwē
-B_M2_6_078 Eer soer ōme quame in rauwē
+B_M2_03_027 Mairtin vrient heb ic messeit
+B_M2_03_028 Jc bens te beter ghereit
+B_M2_03_029 Jc wils al op di bliuē
+B_M2_03_030 Mʼ vʼstaet mi en̄ onbeyt
+B_M2_03_031 Een dinc die mi jnt hʼte leit
+B_M2_03_032 Willic die bescriuē
+B_M2_03_033 Dair hair die weʼlt mede meit
+B_M2_03_034 Ne wair ooc dat. lief wair leit
+B_M2_03_035 Ende dats mīne van wiuē
+B_M2_03_036 Wat dat es in die weʼlt breit
+B_M2_03_037 Steden burghen busschen preit
+B_M2_03_038 Soudemē vʼdriuē
+B_M2_03_039 Wildemē mīnē ontliuē
 
 
-B_M2_7_079 Mairtin nu hore en̄ vʼstant
-B_M2_7_080 Dese twe zijn in een bewant
-B_M2_7_081 Dat costen moet des eens leuē
-B_M2_7_082 Nu hebbic de macht in mine hāt
-B_M2_7_083 Welkʼ ic vrede den bant
-B_M2_7_084 En̄ mach hare al vʼgheuē
-B_M2_7_085 Emmʼ moet dene geuē dē pant
-B_M2_7_086 Den liefste die god yet vant
-B_M2_7_087 Hier toe zijn zij bedreuē
+B_M2_04_040 Iacop dit was oyt dijn doen
+B_M2_04_041 Van vrauwē moetstu dij̄ sʼmoen
+B_M2_04_042 Altois begonnē of eynden
+B_M2_04_043 Wairstu een dorper du spraex vā koen
+B_M2_04_044 Nu es dine hʼte dies ontuloen
+B_M2_04_045 Doch wil ics mi ghenēden
+B_M2_04_046 En̄ wille of steken mijn caproē
+B_M2_04_047 En̄ wat di hier toe spoen
+B_M2_04_048 Dattu dē onbekenden
 
 
 
-B_M2_7_088 En liegh mi niet als een truwāt
-B_M2_7_089 Mʼ segt mi an welkʼ cant
-B_M2_7_090 Dine hʼte es bleuē
-B_M2_7_091 En̄ welke du liets sneiuē
+B_M2_04_049 Maertin niet laets geroen
+B_M2_04_050 Al haddic an twe yseren scoen
+B_M2_04_051 En mochte di niet ontwendē
+B_M2_04_052 Nu vrach ic sal onbenden
 
 
-B_M2_8_092 Iacop dits gheen vᵃghēs wairt
-B_M2_8_093 Die de wairheit niet en spairt
-B_M2_8_094 Heeft dit zaen ontbonden
-B_M2_8_095 Het is emmʼ dʼ hʼten aert
-B_M2_8_096 Dat so dair wʼt tijt en̄ vairt
-B_M2_8_097 Danen hare quamē die wondē
-B_M2_8_098 Al soudt al varē indʼ vaert
-B_M2_8_099 So wat dat wel varēs begairt
-B_M2_8_100 Nu en̄ te allen stondē
-B_M2_8_101 Jc lossede die mi thʼte vʼzwairt
-B_M2_8_102 Soude ic hare laten smakē tzwrt
-B_M2_8_103 Dat ware ondʼuonden
-B_M2_8_104 Meerre mort dāne zondē
+B_M2_05_053 Mairtijn du salt mi vʼstaen
+B_M2_05_054 Ene vrouwe wel gedaen
+B_M2_05_055 Heeft mi beuaen mit mīnen
+B_M2_05_056 Al dat goede es en̄ daen
+B_M2_05_057 Lietic om hare gaen
+B_M2_05_058 Mochte icse ghewinnē
+B_M2_05_059 Nochtan wetic sondʼ waen
+B_M2_05_060 Dat si mijns niet acht een spaen
+B_M2_05_061 Mine harte doet mi bekennē
+B_M2_05_062 Alle zoudʼ ōme die weʼlt vʼgaen
+B_M2_05_063 Dat soe mi niet soude ontfaen
+B_M2_05_064 Jn hare harte binnē
+B_M2_05_065 Hier toe nes gheen vʼwinnē
 
 
-B_M2_9_105 Tonge liecht mʼ thʼte niet
-B_M2_9_106 Wāt so wat thʼte ghebiet
-B_M2_9_107 Wille mē emmʼ volbringhē
-B_M2_9_108 Wat es nairchisuse ghesciet
-B_M2_9_109 Die sine vorme spieghelt en̄ siet
-B_M2_9_110 Jnt watʼ sondʼ minghen
-B_M2_9_111 Hant en̄ mont hi dair wt biet
-B_M2_9_112 Hi bid hi claghet zijn vʼdriet
-B_M2_9_113 Nature en wils ghehinghen
-B_M2_9_114 Dat hem can ghehelpen yet
-B_M2_9_115 Hi doolt als hi wel selue ghiet
-B_M2_9_116 Hi en conste sijn hʼte dwinghē
-B_M2_9_117 Hi starf van desen dinghē
+B_M2_06_066 Een andʼ vrauwe es die mi mint
+B_M2_06_067 Bouē al dat soe leuende kint
+B_M2_06_068 Mit ghestader trouwe
+B_M2_06_069 Die in my gheprijst es niet j. twint
+B_M2_06_070 Mar de scoenste diemē vint
+B_M2_06_071 En̄ blome bouē allen vrouwē
+B_M2_06_072 Nu es mij̄ hʼte so hart j. blint
+B_M2_06_073 Dat so hair dair toe yet vʼbint
+B_M2_06_074 Dat soese yet wille scouwen
+B_M2_06_075 Hoe lieff zoe mi toezint
+B_M2_06_076 Het dinct mire hʼten zij̄ al wint
+B_M2_06_077 Soe liet hair eer in stucken houwē
+B_M2_06_078 Eer soer ōme quame in rauwē
+
+
+B_M2_07_079 Mairtin nu hore en̄ vʼstant
+B_M2_07_080 Dese twe zijn in een bewant
+B_M2_07_081 Dat costen moet des eens leuē
+B_M2_07_082 Nu hebbic de macht in mine hāt
+B_M2_07_083 Welkʼ ic vrede den bant
+B_M2_07_084 En̄ mach hare al vʼgheuē
+B_M2_07_085 Emmʼ moet dene geuē dē pant
+B_M2_07_086 Den liefste die god yet vant
+B_M2_07_087 Hier toe zijn zij bedreuē
+
+
+
+B_M2_07_088 En liegh mi niet als een truwāt
+B_M2_07_089 Mʼ segt mi an welkʼ cant
+B_M2_07_090 Dine hʼte es bleuē
+B_M2_07_091 En̄ welke du liets sneiuē
+
+
+B_M2_08_092 Iacop dits gheen vᵃghēs wairt
+B_M2_08_093 Die de wairheit niet en spairt
+B_M2_08_094 Heeft dit zaen ontbonden
+B_M2_08_095 Het is emmʼ dʼ hʼten aert
+B_M2_08_096 Dat so dair wʼt tijt en̄ vairt
+B_M2_08_097 Danen hare quamē die wondē
+B_M2_08_098 Al soudt al varē indʼ vaert
+B_M2_08_099 So wat dat wel varēs begairt
+B_M2_08_100 Nu en̄ te allen stondē
+B_M2_08_101 Jc lossede die mi thʼte vʼzwairt
+B_M2_08_102 Soude ic hare laten smakē tzwrt
+B_M2_08_103 Dat ware ondʼuonden
+B_M2_08_104 Meerre mort dāne zondē
+
+
+B_M2_09_105 Tonge liecht mʼ thʼte niet
+B_M2_09_106 Wāt so wat thʼte ghebiet
+B_M2_09_107 Wille mē emmʼ volbringhē
+B_M2_09_108 Wat es nairchisuse ghesciet
+B_M2_09_109 Die sine vorme spieghelt en̄ siet
+B_M2_09_110 Jnt watʼ sondʼ minghen
+B_M2_09_111 Hant en̄ mont hi dair wt biet
+B_M2_09_112 Hi bid hi claghet zijn vʼdriet
+B_M2_09_113 Nature en wils ghehinghen
+B_M2_09_114 Dat hem can ghehelpen yet
+B_M2_09_115 Hi doolt als hi wel selue ghiet
+B_M2_09_116 Hi en conste sijn hʼte dwinghē
+B_M2_09_117 Hi starf van desen dinghē
 
 
 B_M2_10_118 MEdea toocht ons selue dat
@@ -1617,149 +1623,153 @@ B_M2_26_336 Dair mīne nᵗ ent haer jaer
 B_M2_26_337 En̄ ten laetsten stondē
 B_M2_26_338 Vrien mit zinē wondē
 
-
-B_M3_1_001 IC mane mānē mittē wiuē
-B_M3_1_002 Die dit dicht sullē lesen of scriuē
-B_M3_1_003 Op den hoichstē ban
-B_M3_1_004 Dat si dit dicht latē bliuē
-B_M3_1_005 Feine dat sire niet in driuē
-B_M3_1_006 Woort no lettere of no an
-B_M3_1_007 Doen sijt ooc hem sal becliuē
-B_M3_1_008 Mijn ban en̄ si ne sulne of wriuē
-B_M3_1_009 Niet moghen nochtan
-B_M3_1_010 Het nes gheen spot vā keytiuē
-B_M3_1_011 Hets dair ic mi ōme liete ōtliuē
-B_M3_1_012 Eer ickʼ scede van
-B_M3_1_013 Nu hore die leren can
-
-
-B_M3_2_014 Iacop wi hebben ondʼlinghe
-B_M3_2_015 Ghehandelt misselike dinghe
-B_M3_2_016 Nu antwoirt mi op een
-B_M3_2_017 Lere mi eer ic di ontspringhe
-B_M3_2_018 Hoe ic mine hʼte dair toe dwīge
-B_M3_2_019 Te kēnene hē diē wi vleen
-B_M3_2_020 Ic leise somwile en̄ singhe
-B_M3_2_021 Dat gode te kēne bi sinē ghehīge
-B_M3_2_022 Es leuē sondʼ ween.
-B_M3_2_023 Dits wʼheit claer en̄ ghinghe
-B_M3_2_024 Subtijl wair thʼte diet bevīghe
-B_M3_2_025 Want hogher dinc es gheen
-B_M3_2_026 Nu antwoort tusschen ons tweē
-
-
-B_M3_3_027 Martijn du vraghes te hoghe
-B_M3_3_028 Al vloghic bouē d'englen vloghe
-B_M3_3_029 Bouē cherub en̄ seraph
+Line_number 339 is missing
 
 
 
-B_M3_3_030 Soe wetic wel dat ic ne moghe
-B_M3_3_031 Berechten dat di te vullē doghe
-B_M3_3_032 Met reden hier af
-B_M3_3_033 Alle zinnē zijn te droghe
-B_M3_3_034 Alle creaturē hoe so mē poghe
-B_M3_3_035 Ne doghen niet een caf
-B_M3_3_036 Hi Dat hair enich te vullē toghe
-B_M3_3_037 Mer vʼscep dijns zins oghe
-B_M3_3_038 Hore wat scrifture mi gaf
-B_M3_3_039 Hout in dire hʼtē graf
+Line_number 000 is missing
+B_M3_01_001 IC mane mānē mittē wiuē
+B_M3_01_002 Die dit dicht sullē lesen of scriuē
+B_M3_01_003 Op den hoichstē ban
+B_M3_01_004 Dat si dit dicht latē bliuē
+B_M3_01_005 Feine dat sire niet in driuē
+B_M3_01_006 Woort no lettere of no an
+B_M3_01_007 Doen sijt ooc hem sal becliuē
+B_M3_01_008 Mijn ban en̄ si ne sulne of wriuē
+B_M3_01_009 Niet moghen nochtan
+B_M3_01_010 Het nes gheen spot vā keytiuē
+B_M3_01_011 Hets dair ic mi ōme liete ōtliuē
+B_M3_01_012 Eer ickʼ scede van
+B_M3_01_013 Nu hore die leren can
 
 
-B_M3_4_040 MOyses sprect in sine boekē
-B_M3_4_041 Die beeste die de berghen soekē
-B_M3_4_042 Moeten zijn ghesteent
-B_M3_4_043 Beeste es die mēsche die wille besoukē
-B_M3_4_044 Te nauwe en̄ om die godhᵗ loukē
-B_M3_4_045 Hets recht dat hijt beweent
-B_M3_4_046 Du soucts mi in allē houkē
-B_M3_4_047 Met rimē sondʼ valsch vā doukē
-B_M3_4_048 Eist goet ic wane neent
-B_M3_4_049 Du telts mi mettē wisen cloukē
-B_M3_4_050 Wairtt goet ic soudʼ di om vloukē
-B_M3_4_051 Ic wane dine harte meent
-B_M3_4_052 Dattu mi hebs vʼbeent
+B_M3_02_014 Iacop wi hebben ondʼlinghe
+B_M3_02_015 Ghehandelt misselike dinghe
+B_M3_02_016 Nu antwoirt mi op een
+B_M3_02_017 Lere mi eer ic di ontspringhe
+B_M3_02_018 Hoe ic mine hʼte dair toe dwīge
+B_M3_02_019 Te kēnene hē diē wi vleen
+B_M3_02_020 Ic leise somwile en̄ singhe
+B_M3_02_021 Dat gode te kēne bi sinē ghehīge
+B_M3_02_022 Es leuē sondʼ ween.
+B_M3_02_023 Dits wʼheit claer en̄ ghinghe
+B_M3_02_024 Subtijl wair thʼte diet bevīghe
+B_M3_02_025 Want hogher dinc es gheen
+B_M3_02_026 Nu antwoort tusschen ons tweē
 
 
-B_M3_5_053 Iacop du en zouts di nᵗ vʼgᵃmen
-B_M3_5_054 Ic souts mi in mij̄ seluē scamē
-B_M3_5_055 Had ict oyt ghedocht
-B_M3_5_056 Oic lye ics metti te samē
-B_M3_5_057 Dat de hoichᵗ dʼ hoghʼ namē
-B_M3_5_058 Te vʼre niet docht ghesocht
-B_M3_5_059 Al wairt dat alle die enghelē qᵃmē
-B_M3_5_060 Si en conden die godhᵗ ghehamē
-B_M3_5_061 Dits al of ghecnocht
-B_M3_5_062 Mʼ lere minē zin dein lamen
-B_M3_5_063 Ghewont mittʼ zondē blamē
-B_M3_5_064 Van datti vʼmocht
-B_M3_5_065 So es mijn wille volbrocht
-
-
-B_M3_6_066 Mairtijn nv merct in dinē zinne
-B_M3_6_067 God es een wisen wesē vor alle begīne
-B_M3_6_068 Tedelste bouē al
-B_M3_6_069 Sijn wesen es als ict bekinne
+B_M3_03_027 Martijn du vraghes te hoghe
+B_M3_03_028 Al vloghic bouē d'englen vloghe
+B_M3_03_029 Bouē cherub en̄ seraph
 
 
 
-B_M3_6_070 Tupperste goet de opperste mīne
-B_M3_6_071 Dat es off wesen sal
-B_M3_6_072 Sine ghewerke dairment kent jnne
-B_M3_6_073 Es so groott dat si sijn dinne
-B_M3_6_074 Diet kēnen en̄ smal
-B_M3_6_075 Sine wijshede es coninginne
-B_M3_6_076 Bouē alrande ghewinne
-B_M3_6_077 Ende bouē al gheual
-B_M3_6_078 Dair bouē of hier int dal
+B_M3_03_030 Soe wetic wel dat ic ne moghe
+B_M3_03_031 Berechten dat di te vullē doghe
+B_M3_03_032 Met reden hier af
+B_M3_03_033 Alle zinnē zijn te droghe
+B_M3_03_034 Alle creaturē hoe so mē poghe
+B_M3_03_035 Ne doghen niet een caf
+B_M3_03_036 Hi Dat hair enich te vullē toghe
+B_M3_03_037 Mer vʼscep dijns zins oghe
+B_M3_03_038 Hore wat scrifture mi gaf
+B_M3_03_039 Hout in dire hʼtē graf
 
 
-B_M3_7_079 Den hemel en̄ den troon gemʼcke
-B_M3_7_080 God es bouē al sinē ghewercke
-B_M3_7_081 Ende onder al zine dinc
-B_M3_7_082 Hi es butē al nv mercke
-B_M3_7_083 En̄ binnē al dit hout starcke
-B_M3_7_084 Hier vte niet en sprinc
-B_M3_7_085 Ooc segghen ons die wise clerke
-B_M3_7_086 Hi es niet gedeilt in parke
-B_M3_7_087 Hier toe dine hʼte dwinc
-B_M3_7_088 Mʼ gheheel in elkē nv mʼcke
-B_M3_7_089 Buten binnē in watre in zwʼke
-B_M3_7_090 Hier in dine harte brinc
-B_M3_7_091 Sondʼ losen winc
+B_M3_04_040 MOyses sprect in sine boekē
+B_M3_04_041 Die beeste die de berghen soekē
+B_M3_04_042 Moeten zijn ghesteent
+B_M3_04_043 Beeste es die mēsche die wille besoukē
+B_M3_04_044 Te nauwe en̄ om die godhᵗ loukē
+B_M3_04_045 Hets recht dat hijt beweent
+B_M3_04_046 Du soucts mi in allē houkē
+B_M3_04_047 Met rimē sondʼ valsch vā doukē
+B_M3_04_048 Eist goet ic wane neent
+B_M3_04_049 Du telts mi mettē wisen cloukē
+B_M3_04_050 Wairtt goet ic soudʼ di om vloukē
+B_M3_04_051 Ic wane dine harte meent
+B_M3_04_052 Dattu mi hebs vʼbeent
 
 
-B_M3_8_092 Bouē al es god als here
-B_M3_8_093 Die besitteʼ es emmʼmere
-B_M3_8_094 Alles datmē weet
-B_M3_8_095 Ondʼ als die niet allen kere
-B_M3_8_096 Die dinc hout mogēdelic zere
-B_M3_8_097 Jeghen al weersteet
-B_M3_8_098 Butē als die mit sire were
-B_M3_8_099 Sijn werc hoet dat hē ne dere
-B_M3_8_100 Ghene dinc cout no heet
-B_M3_8_101 Binnē als die met sire lere
-B_M3_8_102 Sijn werc vʼuolt mit sulkʼ ere
-B_M3_8_103 Dat ewelike steet
-B_M3_8_104 Wient lief si of leet
+B_M3_05_053 Iacop du en zouts di nᵗ vʼgᵃmen
+B_M3_05_054 Ic souts mi in mij̄ seluē scamē
+B_M3_05_055 Had ict oyt ghedocht
+B_M3_05_056 Oic lye ics metti te samē
+B_M3_05_057 Dat de hoichᵗ dʼ hoghʼ namē
+B_M3_05_058 Te vʼre niet docht ghesocht
+B_M3_05_059 Al wairt dat alle die enghelē qᵃmē
+B_M3_05_060 Si en conden die godhᵗ ghehamē
+B_M3_05_061 Dits al of ghecnocht
+B_M3_05_062 Mʼ lere minē zin dein lamen
+B_M3_05_063 Ghewont mittʼ zondē blamē
+B_M3_05_064 Van datti vʼmocht
+B_M3_05_065 So es mijn wille volbrocht
 
 
-B_M3_9_105 BOuen al es god onghedraghē
-B_M3_9_106 Ghene dinc mach gheclaghē
-B_M3_9_107 Dat hise vʼlast
-B_M3_9_108 Ondʼ zondʼ van waghen
-B_M3_9_109 Want hē ne moeyt rustē no jaghen.
+B_M3_06_066 Mairtijn nv merct in dinē zinne
+B_M3_06_067 God es een wisen wesē vor alle begīne
+B_M3_06_068 Tedelste bouē al
+B_M3_06_069 Sijn wesen es als ict bekinne
 
 
 
-B_M3_9_110 Sijn wesen es so vast
-B_M3_9_111 Butē ne breet nauwʼ sine daghē
-B_M3_9_112 Want hi es altois sondʼ vraghen
-B_M3_9_113 Werdt g voghet en̄ met gast
-B_M3_9_114 Binnē vʼuolt hijt jeghen plaghē
-B_M3_9_115 Dat zijn werc met ghenē vlaghē
-B_M3_9_116 Ne sijn ongherast
-B_M3_9_117 Noch ghequetst een bast
+B_M3_06_070 Tupperste goet de opperste mīne
+B_M3_06_071 Dat es off wesen sal
+B_M3_06_072 Sine ghewerke dairment kent jnne
+B_M3_06_073 Es so groott dat si sijn dinne
+B_M3_06_074 Diet kēnen en̄ smal
+B_M3_06_075 Sine wijshede es coninginne
+B_M3_06_076 Bouē alrande ghewinne
+B_M3_06_077 Ende bouē al gheual
+B_M3_06_078 Dair bouē of hier int dal
+
+
+B_M3_07_079 Den hemel en̄ den troon gemʼcke
+B_M3_07_080 God es bouē al sinē ghewercke
+B_M3_07_081 Ende onder al zine dinc
+B_M3_07_082 Hi es butē al nv mercke
+B_M3_07_083 En̄ binnē al dit hout starcke
+B_M3_07_084 Hier vte niet en sprinc
+B_M3_07_085 Ooc segghen ons die wise clerke
+B_M3_07_086 Hi es niet gedeilt in parke
+B_M3_07_087 Hier toe dine hʼte dwinc
+B_M3_07_088 Mʼ gheheel in elkē nv mʼcke
+B_M3_07_089 Buten binnē in watre in zwʼke
+B_M3_07_090 Hier in dine harte brinc
+B_M3_07_091 Sondʼ losen winc
+
+
+B_M3_08_092 Bouē al es god als here
+B_M3_08_093 Die besitteʼ es emmʼmere
+B_M3_08_094 Alles datmē weet
+B_M3_08_095 Ondʼ als die niet allen kere
+B_M3_08_096 Die dinc hout mogēdelic zere
+B_M3_08_097 Jeghen al weersteet
+B_M3_08_098 Butē als die mit sire were
+B_M3_08_099 Sijn werc hoet dat hē ne dere
+B_M3_08_100 Ghene dinc cout no heet
+B_M3_08_101 Binnē als die met sire lere
+B_M3_08_102 Sijn werc vʼuolt mit sulkʼ ere
+B_M3_08_103 Dat ewelike steet
+B_M3_08_104 Wient lief si of leet
+
+
+B_M3_09_105 BOuen al es god onghedraghē
+B_M3_09_106 Ghene dinc mach gheclaghē
+B_M3_09_107 Dat hise vʼlast
+B_M3_09_108 Ondʼ zondʼ van waghen
+B_M3_09_109 Want hē ne moeyt rustē no jaghen.
+
+
+
+B_M3_09_110 Sijn wesen es so vast
+B_M3_09_111 Butē ne breet nauwʼ sine daghē
+B_M3_09_112 Want hi es altois sondʼ vraghen
+B_M3_09_113 Werdt g voghet en̄ met gast
+B_M3_09_114 Binnē vʼuolt hijt jeghen plaghē
+B_M3_09_115 Dat zijn werc met ghenē vlaghē
+B_M3_09_116 Ne sijn ongherast
+B_M3_09_117 Noch ghequetst een bast
 
 
 B_M3_10_118 Van enē god sprekē wi dan vā enē

@@ -1,6 +1,6 @@
 &1ra&
 _M1_
-§1§
+§01§
 0 Ø
 1 <W_7><A>phene m*e*rten hoe saelt gaen
 2 <S>al dese werelt lange stae(n)
@@ -16,7 +16,7 @@ _M1_
 <A>lse die meese inde cloeue	
 <R>echt oftene god v[er]scroeue 
 
-§2§	
+§02§	
 <H_2><O>e lange sal gedoegen dit	
 15 <G>od die alle dinc besit		
 <I>n sine herscapie 		
@@ -31,7 +31,7 @@ _M1_
 25 <I>n ne ghene baelgie 	
 <M>i es leet dat ic waer lie 	
 
-§3§	
+§03§	
 <L_2><A>et ons merten ouer een	
 <H>ier af spreke(n) ond[er] o(n)s twee(n)	
 <I>n dit dyaloeghe			
@@ -45,7 +45,7 @@ _M1_
 <A>erbeit vint vier in den st*e*en
 *<D>*[...] *droeghe* 	
 [...]
-§4§
+§04§
 40 [...]				
 
 &1rb&
@@ -62,7 +62,7 @@ _M1_
 50 <E>n(de) moet mine(n) sin dwa[...] 	
 <W>ant hi mi diere cochte		
 <E>n(de) ict gherne volbroc[...]
-§5§	
+§05§	
 <M_2><E>rten doen die wer[...]		
 <M>an te v[er]heffen b*...* [...]	
 55 <D>oen sciet mijn vrouw[...]	
@@ -76,7 +76,7 @@ _M1_
 <T>och mi redene daer[...]		
 <W>ant ic gherne leere		
 65 <W>ies scout dat weere
-§6§ 		
+§06§ 		
 <I_2><A>cop mi dunckt ou[er]w[...]	
 <S>int d{at} edelheit had[...]		
 <T>e pine(n) om(m)e die eere		
@@ -90,7 +90,7 @@ _M1_
 <E>n(de) ogen siens openba[...] 	
 <D>us es v[er]bannen eere 		
 <E>n(de) wed[er] staen ten kere
-§7§ 	
+§07§ 	
 <N_2><V> merct bider sonne(n) [...]	
 80 <D>ie alder werelt oe[...]		
 <B>i hare edel*e* natuere 		
@@ -107,7 +107,7 @@ _M1_
 [...]*...*lheit v[er]plecht		
 90 [...] *et* ghed*ueren*		
 [...] *d*e(n) scalke *sueren*
-§8§	
+§08§	
 [...]*nt* scalke droeghe(n) ou[er]een	
 [...]ee(n) *...* en(de) ia neen	
 [...] dat wijsheit dochte 		
@@ -121,7 +121,7 @@ _M1_
 [...]naeghen gaf d{at} been 	
 [...]den ghedochte 		
 [...]iere moort m{et} wrochte
-§9§	
+§09§	
 105 [...]segel en(de) was		
 [...] *br*ieue die gewaege(n) das 	
 [...] *l*antshere(n) gheuen		
@@ -301,8 +301,7 @@ _M1_
 <O>m(m)e die helle tonfliene	
 <H>ier in waert sekerst *...*[...]	
 <D>ie he(m) int doe*psel* [...]	
-805 [...]
-				
+805 [...]			
 806 [...]	 
 
 &2va&	
@@ -501,7 +500,7 @@ _M1_
 
 ____
 _M2_
-§1§
+§01§
 0 *Dander merten*	
 1 <S_2><L>aepstu merte(n) slaept dij(n) sin 	
 <S>preke(n) en heeft geen spreke(n) in 
@@ -519,7 +518,7 @@ _M2_
 <H>ef op dijn hoet dinen kin 	
 <T>ontide waerstu geboren	
 <H>eeftu dichtens v[er]sworen
-§2§
+§02§
 <I_2><A>cop du woens inden dam	
 15 <E>n(de) ic tutrecht des benic gra(m) 	
 <D>at wi dus sijn verscheeden 	
@@ -533,7 +532,7 @@ _M2_
 <S>idi wilt ghi wert noch tam 	
 25 <L>eere dine woorde cleeden 	
 <S>oetelike en(de) ghereeden
-§3§ 	
+§03§ 	
 <M_2><E>rten vrient hebbic messeit	
 <I>c bens te betren gereit		
 <I>c wils al op di bliuen		
@@ -547,7 +546,7 @@ _M2_
 <S>teden borghe bossche preit 	
 <S>oude men v[er]driuen	
 <W>oude me(n) min(n)e ontliuen
-§4§ 	
+§04§ 	
 40 <I_2><A>cop dit was oeyt dijn doen 		
 <V>a(n) vrouwe(n) te make(n) dij(n) sermoe(n)
 <B>eghinnen ofte inden 		
@@ -561,7 +560,7 @@ _M2_
 50 <A>l haddic aen ij. ysere(n) scoen	
 <E>n mochte di niet ontwinde(n) 	
 <N>v vraecht ic sal ontbinden
-§5§	
+§05§	
 <M_2><E>rten du sout mi v[er]staen	
 <E>en vrouwe wel gedaen 	
 55 [...]			
@@ -578,7 +577,7 @@ _M2_
 <S>i en soude mi niet ontfaen	
 <I>n haer herte binnen 		
 65 <H>ier toe es gheen v[er]winnen
-§6§ 	
+§06§ 	
 <E_2><E>n and[er] vrouwe es die mi mi(n)t 
 <B>oue(n) al d{at} si leuende kint 	
 <M>et gestaeder trouwen 		
@@ -592,7 +591,7 @@ _M2_
 76 <D>{at} het mi al duncket wint	
 77 <S>i liet h[aer] eer te stucke(n) houwen	
 78 <E>er siere om(m)e quae(m) in rouwen
-§7§ 
+§07§ 
 79 <M_2><E>rten hore en(de) v[er]stant 	
 80 <D>ese .ij. sijn in <I> bewant 		
 <D>at costen mo{et} d[er] eren leue(n)	
@@ -606,7 +605,7 @@ _M2_
 <M>[aer] segt mi aen welken cant 	
 90 <D>ijn herte es bleuen 		
 <E>n(de) welke du liets sneuen
-§8§ 	
+§08§ 	
 <I_2><A>cop dit en es gee(n)s vrage(n)s waert 
 <D>ie de w[aer]heit n{iet} en spaert	
 <H>eeft dit saen ontbonden 	

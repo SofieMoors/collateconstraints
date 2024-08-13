@@ -2,155 +2,155 @@
 
 
 
-D_M1_1_000 ¶ Dit Is Wapene Martijn
-D_M1_1_001 WApen martijn hoe salt gaē
-D_M1_1_002 Sal dese werelt lange staen
-D_M1_1_003 In desen crancken gheloue
-D_M1_1_004 Soe moet mijn vrouwe eer saen
-D_M1_1_005 Sonder twiuel ende waen/
-D_M1_1_006 Rumen der heren houe
-D_M1_1_007 Ick sie den scalcken wel ontfaen
-D_M1_1_008 Die die heren connen dwaen
-D_M1_1_009 Ende plucken vanden stoue:
-D_M1_1_010 Ick sie den gherechten slaen.
-D_M1_1_011 Beyde scatten ende vaen:
-D_M1_1_012 Als die meese inden cloue.
-D_M1_1_013 Recht of hem god verscoue
+D_M1_01_000 ¶ Dit Is Wapene Martijn
+D_M1_01_001 WApen martijn hoe salt gaē
+D_M1_01_002 Sal dese werelt lange staen
+D_M1_01_003 In desen crancken gheloue
+D_M1_01_004 Soe moet mijn vrouwe eer saen
+D_M1_01_005 Sonder twiuel ende waen/
+D_M1_01_006 Rumen der heren houe
+D_M1_01_007 Ick sie den scalcken wel ontfaen
+D_M1_01_008 Die die heren connen dwaen
+D_M1_01_009 Ende plucken vanden stoue:
+D_M1_01_010 Ick sie den gherechten slaen.
+D_M1_01_011 Beyde scatten ende vaen:
+D_M1_01_012 Als die meese inden cloue.
+D_M1_01_013 Recht of hem god verscoue
 
 
-D_M1_2_014 Hoe langhe sal ghedoghen dit
-D_M1_2_015 God die alle dinck besit
-D_M1_2_016 In sine heerscapie
-D_M1_2_017 Dat die goede smeect of bidt
-D_M1_2_018 Hem en doech dat noch dit:
-D_M1_2_019 Dattet yet ghedije
-
-
-
-D_M1_2_020 Het gaet al inden helschen pit/
-D_M1_2_021 Eest graeu blaeu swert of wit/
-D_M1_2_022 Het es ghetrouwe als die zye.
-D_M1_2_023 Recht man deluet sonder spit
-D_M1_2_024 Hi en heeftet te punte niet ghehit
-D_M1_2_025 In gheender baelgye:
-D_M1_2_026 Mij es leet dat ic waer lye
-
-
-D_M1_3_027 Laet ons martijn ouer een
-D_M1_3_028 Hier af spreken onder ons tween.
-D_M1_3_029 In desen dyaloghe.
-D_M1_3_030 Van waen quam ons desen ween
-D_M1_3_031 Die ter wijlen soe onwaert scheen
-D_M1_3_032 Ende nv sit soe hoghe
-D_M1_3_033 Ick sal vraghen ende vleen
-D_M1_3_034 Antwoert mij nv ia oft neen/
-D_M1_3_035 Van dat ic di betoghe:
-D_M1_3_036 Ledicheyt en is vrome gheen.
-D_M1_3_037 Mer arbeyt vint vier inden steen
-D_M1_3_038 Daer bi ontsteect dat droghe
-D_M1_3_039 Nv spreect ende ic ghedoghe/
-
-
-D_M1_4_040 Spreket iacop lieue compaen
+D_M1_02_014 Hoe langhe sal ghedoghen dit
+D_M1_02_015 God die alle dinck besit
+D_M1_02_016 In sine heerscapie
+D_M1_02_017 Dat die goede smeect of bidt
+D_M1_02_018 Hem en doech dat noch dit:
+D_M1_02_019 Dattet yet ghedije
 
 
 
-D_M1_4_041 Waer soude ic dat hebben verstaen
-D_M1_4_042 Dat ic hier toe dochte.
-D_M1_4_043 Te verclaren dijnen waen/
-D_M1_4_044 Die in twiuel is beuaen.
-D_M1_4_045 Dats dat icx niet en vermochte
-D_M1_4_046 Doch en wil icx niet ontgaen
-D_M1_4_047 Ick en wil sine bede wel ontfaen
-D_M1_4_048 Die dit aen mi sochte
-D_M1_4_049 God sendt mij den hemelschē traen
-D_M1_4_050 Ende moet mine sinnen dwaen
-D_M1_4_051 Want hi my diere cochte
-D_M1_4_052 Ende ict soe gaerne volbrochte
+D_M1_02_020 Het gaet al inden helschen pit/
+D_M1_02_021 Eest graeu blaeu swert of wit/
+D_M1_02_022 Het es ghetrouwe als die zye.
+D_M1_02_023 Recht man deluet sonder spit
+D_M1_02_024 Hi en heeftet te punte niet ghehit
+D_M1_02_025 In gheender baelgye:
+D_M1_02_026 Mij es leet dat ic waer lye
 
 
-D_M1_5_053 Martijn doe die werelt beghan
-D_M1_5_054 Man te verheffen bouen man
-D_M1_5_055 Doen schiet mijn vrouwe eere
-D_M1_5_056 Den dorper wijsde si den dā
-D_M1_5_057 Daer trouwe ende doecht lach an
-D_M1_5_058 Dien hiet sy wesen heere
-D_M1_5_059 Nv maken die heeren een ghespan
-D_M1_5_060 Ende gheuen der eeren enen ban/
-D_M1_5_061 Ende en willen niet dat sy keere
+D_M1_03_027 Laet ons martijn ouer een
+D_M1_03_028 Hier af spreken onder ons tween.
+D_M1_03_029 In desen dyaloghe.
+D_M1_03_030 Van waen quam ons desen ween
+D_M1_03_031 Die ter wijlen soe onwaert scheen
+D_M1_03_032 Ende nv sit soe hoghe
+D_M1_03_033 Ick sal vraghen ende vleen
+D_M1_03_034 Antwoert mij nv ia oft neen/
+D_M1_03_035 Van dat ic di betoghe:
+D_M1_03_036 Ledicheyt en is vrome gheen.
+D_M1_03_037 Mer arbeyt vint vier inden steen
+D_M1_03_038 Daer bi ontsteect dat droghe
+D_M1_03_039 Nv spreect ende ic ghedoghe/
 
 
-
-D_M1_5_062 Segt mij waent fenijn ran
-D_M1_5_063 Toecht mi reden daer van
-D_M1_5_064 Want ict gaerne leere
-D_M1_5_065 Wiens schult dattet weere:
-
-
-D_M1_6_066 Iacop my dunct ouerwaer.
-D_M1_6_067 Sunt dat edelheyt hadde vaer/
-D_M1_6_068 Te pinen om die eere.
-D_M1_6_069 Ende sy trac den scalcken naer
-D_M1_6_070 Die raden nv hier nv daer/
-D_M1_6_071 Ende niet in schelden den heere
-D_M1_6_072 Soe is edelheyt worden soe swaer
-D_M1_6_073 Dat sy te climmen heeft onmaer
-D_M1_6_074 Ende daelt soe lanck soe meere
-D_M1_6_075 Nv ist alder werelt claer
-D_M1_6_076 Ende oeck soe sietment openbaer
-D_M1_6_077 Dus is verbannen eere
-D_M1_6_078 Ende wederstaen ten keere
-
-
-D_M1_7_079 Nv mercket byder sonnen lecht
-D_M1_7_080 Dat alder werelt oghe berecht.
-D_M1_7_081 By haer edelre natuere
-D_M1_7_082 Als dat volc daer tseghen vecht
+D_M1_04_040 Spreket iacop lieue compaen
 
 
 
-D_M1_7_083 Ende die neuel met sijnre drecht
-D_M1_7_084 Soe en can sy te dier vren
-D_M1_7_085 Niet ghetoghen haer scoenheit echt
-D_M1_7_086 Dus verdonckert die scalke knecht/
-D_M1_7_087 Die edele creatuere
-D_M1_7_088 Als hy hem daer aen hecht/
-D_M1_7_089 Ende haer edelheyt verplecht
-D_M1_7_090 Dat sy laet ghedueren.
-D_M1_7_091 By haer den scalcken sueren
+D_M1_04_041 Waer soude ic dat hebben verstaen
+D_M1_04_042 Dat ic hier toe dochte.
+D_M1_04_043 Te verclaren dijnen waen/
+D_M1_04_044 Die in twiuel is beuaen.
+D_M1_04_045 Dats dat icx niet en vermochte
+D_M1_04_046 Doch en wil icx niet ontgaen
+D_M1_04_047 Ick en wil sine bede wel ontfaen
+D_M1_04_048 Die dit aen mi sochte
+D_M1_04_049 God sendt mij den hemelschē traen
+D_M1_04_050 Ende moet mine sinnen dwaen
+D_M1_04_051 Want hi my diere cochte
+D_M1_04_052 Ende ict soe gaerne volbrochte
 
 
-D_M1_8_092 Sunt die scalken droegen ouer een
-D_M1_8_093 Ende neen was ia ende ia was neē
-D_M1_8_094 Ende hem dat wijsheyt dochte
-D_M1_8_095 Ende edelheyt daer omme green
-D_M1_8_096 Want daer wasdoeme wt scheen
-D_M1_8_097 Van waen soe tcomen mochte:
-D_M1_8_098 Soe is edel herte werden steen/
-D_M1_8_099 Van haer en ontfermt dinck ne geē
-D_M1_8_100 Dan daerment ghelt wt knochte
-D_M1_8_101 God gheue hem den langhen weē/
-D_M1_8_102 Die te knauwen gaf dit been
-D_M1_8_103 Den edelen ghedochte
+D_M1_05_053 Martijn doe die werelt beghan
+D_M1_05_054 Man te verheffen bouen man
+D_M1_05_055 Doen schiet mijn vrouwe eere
+D_M1_05_056 Den dorper wijsde si den dā
+D_M1_05_057 Daer trouwe ende doecht lach an
+D_M1_05_058 Dien hiet sy wesen heere
+D_M1_05_059 Nv maken die heeren een ghespan
+D_M1_05_060 Ende gheuen der eeren enen ban/
+D_M1_05_061 Ende en willen niet dat sy keere
 
 
 
-D_M1_8_104 Want hier moort an wrochte:
+D_M1_05_062 Segt mij waent fenijn ran
+D_M1_05_063 Toecht mi reden daer van
+D_M1_05_064 Want ict gaerne leere
+D_M1_05_065 Wiens schult dattet weere:
 
 
-D_M1_9_105 Wat sal seghel ende was
-D_M1_9_106 Of brieuen die ghewaghen das:
-D_M1_9_107 Van dat lansheren gheuen
-D_M1_9_108 Het en is anders niet dan gedwas.
-D_M1_9_109 Alsoe lief haddet mi een sas
-D_M1_9_110 Oft een vriese bescreuen.
-D_M1_9_111 Trouwe is broesscher dan een glas
-D_M1_9_112 Die ter wijlen soe sterck was
-D_M1_9_113 Si is ghebroken bleuen/
-D_M1_9_114 Ick waent noyt herte en ghenas
-D_M1_9_115 Die scalke tsinen rade las
-D_M1_9_116 Hi en moste int eynde sneuen:
-D_M1_9_117 Ende sulck sijns lants verdreuen
+D_M1_06_066 Iacop my dunct ouerwaer.
+D_M1_06_067 Sunt dat edelheyt hadde vaer/
+D_M1_06_068 Te pinen om die eere.
+D_M1_06_069 Ende sy trac den scalcken naer
+D_M1_06_070 Die raden nv hier nv daer/
+D_M1_06_071 Ende niet in schelden den heere
+D_M1_06_072 Soe is edelheyt worden soe swaer
+D_M1_06_073 Dat sy te climmen heeft onmaer
+D_M1_06_074 Ende daelt soe lanck soe meere
+D_M1_06_075 Nv ist alder werelt claer
+D_M1_06_076 Ende oeck soe sietment openbaer
+D_M1_06_077 Dus is verbannen eere
+D_M1_06_078 Ende wederstaen ten keere
+
+
+D_M1_07_079 Nv mercket byder sonnen lecht
+D_M1_07_080 Dat alder werelt oghe berecht.
+D_M1_07_081 By haer edelre natuere
+D_M1_07_082 Als dat volc daer tseghen vecht
+
+
+
+D_M1_07_083 Ende die neuel met sijnre drecht
+D_M1_07_084 Soe en can sy te dier vren
+D_M1_07_085 Niet ghetoghen haer scoenheit echt
+D_M1_07_086 Dus verdonckert die scalke knecht/
+D_M1_07_087 Die edele creatuere
+D_M1_07_088 Als hy hem daer aen hecht/
+D_M1_07_089 Ende haer edelheyt verplecht
+D_M1_07_090 Dat sy laet ghedueren.
+D_M1_07_091 By haer den scalcken sueren
+
+
+D_M1_08_092 Sunt die scalken droegen ouer een
+D_M1_08_093 Ende neen was ia ende ia was neē
+D_M1_08_094 Ende hem dat wijsheyt dochte
+D_M1_08_095 Ende edelheyt daer omme green
+D_M1_08_096 Want daer wasdoeme wt scheen
+D_M1_08_097 Van waen soe tcomen mochte:
+D_M1_08_098 Soe is edel herte werden steen/
+D_M1_08_099 Van haer en ontfermt dinck ne geē
+D_M1_08_100 Dan daerment ghelt wt knochte
+D_M1_08_101 God gheue hem den langhen weē/
+D_M1_08_102 Die te knauwen gaf dit been
+D_M1_08_103 Den edelen ghedochte
+
+
+
+D_M1_08_104 Want hier moort an wrochte:
+
+
+D_M1_09_105 Wat sal seghel ende was
+D_M1_09_106 Of brieuen die ghewaghen das:
+D_M1_09_107 Van dat lansheren gheuen
+D_M1_09_108 Het en is anders niet dan gedwas.
+D_M1_09_109 Alsoe lief haddet mi een sas
+D_M1_09_110 Oft een vriese bescreuen.
+D_M1_09_111 Trouwe is broesscher dan een glas
+D_M1_09_112 Die ter wijlen soe sterck was
+D_M1_09_113 Si is ghebroken bleuen/
+D_M1_09_114 Ick waent noyt herte en ghenas
+D_M1_09_115 Die scalke tsinen rade las
+D_M1_09_116 Hi en moste int eynde sneuen:
+D_M1_09_117 Ende sulck sijns lants verdreuen
 
 
 D_M1_10_118 Martijn du berechtes mij wel.
@@ -1265,159 +1265,161 @@ D_M1_75_973 In haer ben ick te eynden bout:
 D_M1_75_974 Onser beyder dyaloghe
 D_M1_75_975 Ick en vrage niet meer noch en toge
 
-
-D_M2_1_000 ¶ Dat Anderde Boeck.
-D_M2_1_001 MArtijn slaepstu slaept dij̄ sin
-D_M2_1_002 Spreect: hebstu geē sprekē in
-D_M2_1_003 Du dūckes mi verdorē
-D_M2_1_004 Du en achtes meer noch min.
-D_M2_1_005 Dan op weelde ende ghewin:
-D_M2_1_006 Wiltu di dus versmorē
-D_M2_1_007 Al waert al dijn dat comt int zwint.
+Line_number 976 is missing
 
 
-
-D_M2_1_008 Gout siluer loet stael yser tin
-D_M2_1_009 Nochtan bliuense verloren
-D_M2_1_010 Daedstu der duecht gheen beghin
-D_M2_1_011 Heft op dijn hoeft ende dijn kin/
-D_M2_1_012 Tontide waerstu gheboren
-D_M2_1_013 Hebstu dichten versworen/
-
-
-D_M2_2_014 Iacop du woens inden dam
-D_M2_2_015 Ende ick tutrecht des ben ick gram
-D_M2_2_016 dat wi dus sijn ghescheden
-D_M2_2_017 Weetti wes mi meest mesquam.
-D_M2_2_018 dat ick noyt baet en vernam
-D_M2_2_019 Aent dichten van ons beeden/
-D_M2_2_020 Soe is mijn sin worden soe lam
-D_M2_2_021 dat icker noode weder anquam:
-D_M2_2_022 dat doet my verleeden
-D_M2_2_023 du wrecs mi als een ghestoten ram
-D_M2_2_024 Bistu wilt du wordes tam
-D_M2_2_025 Leert dine woerden cleeden
-D_M2_2_026 Soetelike ende reeden/
-
-
-D_M2_3_027 Martijn vrient heb ick misseyt
-D_M2_3_028 Ick bens te beeteren bereyt
+D_M2_01_000 ¶ Dat Anderde Boeck.
+D_M2_01_001 MArtijn slaepstu slaept dij̄ sin
+D_M2_01_002 Spreect: hebstu geē sprekē in
+D_M2_01_003 Du dūckes mi verdorē
+D_M2_01_004 Du en achtes meer noch min.
+D_M2_01_005 Dan op weelde ende ghewin:
+D_M2_01_006 Wiltu di dus versmorē
+D_M2_01_007 Al waert al dijn dat comt int zwint.
 
 
 
-D_M2_3_029 Ick wils al op di bliuen
-D_M2_3_030 Maer verstant ende ontbeyt.
-D_M2_3_031 Een dinck mi opt therte leyt.
-D_M2_3_032 Wil ick di bescriuen
-D_M2_3_033 Daer haer die werelt mede meyt.
-D_M2_3_034 En dade dat lief waer leyt
-D_M2_3_035 Dats minne van wiuen
-D_M2_3_036 Al dat is in die werelt breyt.
-D_M2_3_037 Stedē borch bosch ende preyt
-D_M2_3_038 Soudemen verdriuen/
-D_M2_3_039 Wildemen minne ontliuen
+D_M2_01_008 Gout siluer loet stael yser tin
+D_M2_01_009 Nochtan bliuense verloren
+D_M2_01_010 Daedstu der duecht gheen beghin
+D_M2_01_011 Heft op dijn hoeft ende dijn kin/
+D_M2_01_012 Tontide waerstu gheboren
+D_M2_01_013 Hebstu dichten versworen/
 
 
-D_M2_4_040 Iacop dit was oyt dijn doen.
-D_M2_4_041 Dattu van vrouwen dijn sermoen
-D_M2_4_042 Beghinnen moets oft eynden
-D_M2_4_043 Waerstu een dorper du spraecs vā coē
-D_M2_4_044 Nv is dijn herte des ontuloē
-D_M2_4_045 Doch wil icx mi gheuenden
-D_M2_4_046 Ende striken af minen caproen
-D_M2_4_047 Ende horen watti hier toe spoen
-D_M2_4_048 Dattu den onbekenden.
+D_M2_02_014 Iacop du woens inden dam
+D_M2_02_015 Ende ick tutrecht des ben ick gram
+D_M2_02_016 dat wi dus sijn ghescheden
+D_M2_02_017 Weetti wes mi meest mesquam.
+D_M2_02_018 dat ick noyt baet en vernam
+D_M2_02_019 Aent dichten van ons beeden/
+D_M2_02_020 Soe is mijn sin worden soe lam
+D_M2_02_021 dat icker noode weder anquam:
+D_M2_02_022 dat doet my verleeden
+D_M2_02_023 du wrecs mi als een ghestoten ram
+D_M2_02_024 Bistu wilt du wordes tam
+D_M2_02_025 Leert dine woerden cleeden
+D_M2_02_026 Soetelike ende reeden/
 
 
-
-D_M2_4_049 Martijn niet en laets gheroen
-D_M2_4_050 Al had ick an twee yseren schoen
-D_M2_4_051 Ick en mocht v niet ontwenden
-D_M2_4_052 Nu vraecht ick sal ontbenden
-
-
-D_M2_5_053 Martijn du sulste my verstaen/
-D_M2_5_054 Een vrouwe wel ghedaen
-D_M2_5_055 Heeft my beuaen met minnen
-D_M2_5_056 Al dat god was onderdaen/
-D_M2_5_057 Liet ick om haerre wille gaen
-D_M2_5_058 Mocht icse ghewinnen
-D_M2_5_059 Nochtan weet ick sonder waen
-D_M2_5_060 Dat si mijns niet en acht een spaen
-D_M2_5_061 Mijn hert doet my bekinnen
-D_M2_5_062 Al souder die werelt om vergaen
-D_M2_5_063 Dat si mi niet en soude ontfaen
-D_M2_5_064 In haer herte binnen
-D_M2_5_065 Hier toe en is gheen versinnen
-
-
-D_M2_6_066 Een ander vrou is die my mint.
-D_M2_6_067 Bouen al dat sy leuende kent
-D_M2_6_068 Met ghestadigher trouwen
-D_M2_6_069 Die mijn gheprijs en heuet twint
+D_M2_03_027 Martijn vrient heb ick misseyt
+D_M2_03_028 Ick bens te beeteren bereyt
 
 
 
-D_M2_6_070 Maer sy is die schoenste diemē vint
-D_M2_6_071 Ende bloem bouen alle vrouwen.
-D_M2_6_072 Nv is mijn herte soe een glint
-D_M2_6_073 Dat hem daer toe niet verbint/
-D_M2_6_074 Dat hyse yet wille scouwen
-D_M2_6_075 Hoe lief opsien si my toesint/
-D_M2_6_076 Het dunct mijnre herten al wint.
-D_M2_6_077 Si liet haer in stucken houwen
-D_M2_6_078 Eer sy daer om quame in rouwen
+D_M2_03_029 Ick wils al op di bliuen
+D_M2_03_030 Maer verstant ende ontbeyt.
+D_M2_03_031 Een dinck mi opt therte leyt.
+D_M2_03_032 Wil ick di bescriuen
+D_M2_03_033 Daer haer die werelt mede meyt.
+D_M2_03_034 En dade dat lief waer leyt
+D_M2_03_035 Dats minne van wiuen
+D_M2_03_036 Al dat is in die werelt breyt.
+D_M2_03_037 Stedē borch bosch ende preyt
+D_M2_03_038 Soudemen verdriuen/
+D_M2_03_039 Wildemen minne ontliuen
 
 
-D_M2_7_079 Martijn hoert ende verstant.
-D_M2_7_080 Dese twee sijn in een bedwant
-D_M2_7_081 Dat costen moet der eenre tleuen.
-D_M2_7_082 Nv heb ick die machte in die hant.
-D_M2_7_083 Welcker ick wille breeck ic den bant
-D_M2_7_084 Ende macht haer al vergeuen
-D_M2_7_085 Immer moet deen quiten den pant
-D_M2_7_086 Den liefsten die god ye vant
-D_M2_7_087 Hier toe sijn sy verdreuen
-D_M2_7_088 Liecht mi niet als een truwant.
-D_M2_7_089 Maer segt mi ander welcker cant
-D_M2_7_090 Dijn herte is gebleuen
-
-
-
-D_M2_7_091 Ende welcker du liets sneuen/
-
-
-D_M2_8_092 Iacop ten is gheen vragēs waert.
-D_M2_8_093 Die de waerheyt niet en spaert
-D_M2_8_094 Heeft dit saen ontbonden
-D_M2_8_095 Hets emmer der herten aert.
-D_M2_8_096 Dat sy derwaerts tijt ende gaert
-D_M2_8_097 Dan daen haer quamen de wondē
-D_M2_8_098 Al sout al varen in die vaert.
-D_M2_8_099 Dat weluarens begaert
-D_M2_8_100 Nv ende tot allen stonden
-D_M2_8_101 Ick loste die mi therte beswaert
-D_M2_8_102 Soud ic haer laten smaken tswaert
-D_M2_8_103 Dat waer onderuonden
-D_M2_8_104 Meerder moort dan sonden/
-
-
-D_M2_9_105 Die tonghe liecht maer therte niet.
-D_M2_9_106 Maer wat soe therte ghebiet
-D_M2_9_107 Wiltmen ymmer volbringhen
-D_M2_9_108 Wat is narciscus gheschiet
-D_M2_9_109 Die sine vorme spieghelt ende siet
-D_M2_9_110 Int water sonder minghen.
-D_M2_9_111 Hant ende mont hi derwaert biet
+D_M2_04_040 Iacop dit was oyt dijn doen.
+D_M2_04_041 Dattu van vrouwen dijn sermoen
+D_M2_04_042 Beghinnen moets oft eynden
+D_M2_04_043 Waerstu een dorper du spraecs vā coē
+D_M2_04_044 Nv is dijn herte des ontuloē
+D_M2_04_045 Doch wil icx mi gheuenden
+D_M2_04_046 Ende striken af minen caproen
+D_M2_04_047 Ende horen watti hier toe spoen
+D_M2_04_048 Dattu den onbekenden.
 
 
 
-D_M2_9_112 Hi bidt hi claecht sijn verdriet
-D_M2_9_113 Natuere en wils ghehinghen
-D_M2_9_114 Dat hem can gehelpen yet.
-D_M2_9_115 Hi doelt als hi selue siet
-D_M2_9_116 Hi en conste niet bedwinghen
-D_M2_9_117 Hi en starf by dese dinghen
+D_M2_04_049 Martijn niet en laets gheroen
+D_M2_04_050 Al had ick an twee yseren schoen
+D_M2_04_051 Ick en mocht v niet ontwenden
+D_M2_04_052 Nu vraecht ick sal ontbenden
+
+
+D_M2_05_053 Martijn du sulste my verstaen/
+D_M2_05_054 Een vrouwe wel ghedaen
+D_M2_05_055 Heeft my beuaen met minnen
+D_M2_05_056 Al dat god was onderdaen/
+D_M2_05_057 Liet ick om haerre wille gaen
+D_M2_05_058 Mocht icse ghewinnen
+D_M2_05_059 Nochtan weet ick sonder waen
+D_M2_05_060 Dat si mijns niet en acht een spaen
+D_M2_05_061 Mijn hert doet my bekinnen
+D_M2_05_062 Al souder die werelt om vergaen
+D_M2_05_063 Dat si mi niet en soude ontfaen
+D_M2_05_064 In haer herte binnen
+D_M2_05_065 Hier toe en is gheen versinnen
+
+
+D_M2_06_066 Een ander vrou is die my mint.
+D_M2_06_067 Bouen al dat sy leuende kent
+D_M2_06_068 Met ghestadigher trouwen
+D_M2_06_069 Die mijn gheprijs en heuet twint
+
+
+
+D_M2_06_070 Maer sy is die schoenste diemē vint
+D_M2_06_071 Ende bloem bouen alle vrouwen.
+D_M2_06_072 Nv is mijn herte soe een glint
+D_M2_06_073 Dat hem daer toe niet verbint/
+D_M2_06_074 Dat hyse yet wille scouwen
+D_M2_06_075 Hoe lief opsien si my toesint/
+D_M2_06_076 Het dunct mijnre herten al wint.
+D_M2_06_077 Si liet haer in stucken houwen
+D_M2_06_078 Eer sy daer om quame in rouwen
+
+
+D_M2_07_079 Martijn hoert ende verstant.
+D_M2_07_080 Dese twee sijn in een bedwant
+D_M2_07_081 Dat costen moet der eenre tleuen.
+D_M2_07_082 Nv heb ick die machte in die hant.
+D_M2_07_083 Welcker ick wille breeck ic den bant
+D_M2_07_084 Ende macht haer al vergeuen
+D_M2_07_085 Immer moet deen quiten den pant
+D_M2_07_086 Den liefsten die god ye vant
+D_M2_07_087 Hier toe sijn sy verdreuen
+D_M2_07_088 Liecht mi niet als een truwant.
+D_M2_07_089 Maer segt mi ander welcker cant
+D_M2_07_090 Dijn herte is gebleuen
+
+
+
+D_M2_07_091 Ende welcker du liets sneuen/
+
+
+D_M2_08_092 Iacop ten is gheen vragēs waert.
+D_M2_08_093 Die de waerheyt niet en spaert
+D_M2_08_094 Heeft dit saen ontbonden
+D_M2_08_095 Hets emmer der herten aert.
+D_M2_08_096 Dat sy derwaerts tijt ende gaert
+D_M2_08_097 Dan daen haer quamen de wondē
+D_M2_08_098 Al sout al varen in die vaert.
+D_M2_08_099 Dat weluarens begaert
+D_M2_08_100 Nv ende tot allen stonden
+D_M2_08_101 Ick loste die mi therte beswaert
+D_M2_08_102 Soud ic haer laten smaken tswaert
+D_M2_08_103 Dat waer onderuonden
+D_M2_08_104 Meerder moort dan sonden/
+
+
+D_M2_09_105 Die tonghe liecht maer therte niet.
+D_M2_09_106 Maer wat soe therte ghebiet
+D_M2_09_107 Wiltmen ymmer volbringhen
+D_M2_09_108 Wat is narciscus gheschiet
+D_M2_09_109 Die sine vorme spieghelt ende siet
+D_M2_09_110 Int water sonder minghen.
+D_M2_09_111 Hant ende mont hi derwaert biet
+
+
+
+D_M2_09_112 Hi bidt hi claecht sijn verdriet
+D_M2_09_113 Natuere en wils ghehinghen
+D_M2_09_114 Dat hem can gehelpen yet.
+D_M2_09_115 Hi doelt als hi selue siet
+D_M2_09_116 Hi en conste niet bedwinghen
+D_M2_09_117 Hi en starf by dese dinghen
 
 
 D_M2_10_118 Medea toghet ons selue dat.
@@ -1704,159 +1706,161 @@ D_M2_26_336 Daer mīme niet en eȳdet haer iaer
 D_M2_26_337 En̄ ten lestē stondē.
 D_M2_26_338 Vryē met sinen wōdē:
 
-
-D_M3_1_000 ¶ Dat Derde Boeck/
-D_M3_1_001 ICk mane mānē mettē wiuen.
-D_M3_1_002 Die dit dicht lesen of schriuen
-D_M3_1_003 Op den hoochsten ban.
+Line_number 339 is missing
 
 
-
-D_M3_1_004 Dat sijt reyne laten bliuen.
-D_M3_1_005 Ende si daer niet in en driuen:
-D_M3_1_006 Woert letter af noch an
-D_M3_1_007 Doen sijt. hem sal becliuen/
-D_M3_1_008 Mijn ban sine selen af wriuen.
-D_M3_1_009 Niet moghen nochtan.
-D_M3_1_010 En is gheen spot van keytiuen
-D_M3_1_011 Hets daer ick mi om liet ontliuen
-D_M3_1_012 Eer icker schiede van
-D_M3_1_013 Nv hoor die leeren can:
-
-
-D_M3_2_014 Iacop wi hebben onderlinghe/
-D_M3_2_015 Ghehandelt messelike dinghe:
-D_M3_2_016 Nv antwoert mij op een
-D_M3_2_017 Leer my eer ick di ontspringhe
-D_M3_2_018 Hoe ick mijn hert daer toe bringhe/
-D_M3_2_019 Te kennen die wi vleen
-D_M3_2_020 Ick lese somwilen ende singhe
-D_M3_2_021 Dat god te kennen bi sinē gehinge.
-D_M3_2_022 Is leuen sonder ween
-D_M3_2_023 Tes claer waerheyt ende gehinghe
-D_M3_2_024 Subtijl waer therte diet beuinghe/
+D_M3_01_000 ¶ Dat Derde Boeck/
+D_M3_01_001 ICk mane mānē mettē wiuen.
+D_M3_01_002 Die dit dicht lesen of schriuen
+D_M3_01_003 Op den hoochsten ban.
 
 
 
-D_M3_2_025 Want hogher dinck en is gheen/
-D_M3_2_026 Nv antwoert onder ons tween:
+D_M3_01_004 Dat sijt reyne laten bliuen.
+D_M3_01_005 Ende si daer niet in en driuen:
+D_M3_01_006 Woert letter af noch an
+D_M3_01_007 Doen sijt. hem sal becliuen/
+D_M3_01_008 Mijn ban sine selen af wriuen.
+D_M3_01_009 Niet moghen nochtan.
+D_M3_01_010 En is gheen spot van keytiuen
+D_M3_01_011 Hets daer ick mi om liet ontliuen
+D_M3_01_012 Eer icker schiede van
+D_M3_01_013 Nv hoor die leeren can:
 
 
-D_M3_3_027 Martijn du vraghes mi wel hoghe
-D_M3_3_028 Al vloech ic bouē der enghelē vloge/
-D_M3_3_029 Bouen serub ende seraph
-D_M3_3_030 Soe weet ick wel dat ick en moghe.
-D_M3_3_031 Berechten dat ten vollen toghe:
-D_M3_3_032 Met waerden niet hier af
-D_M3_3_033 Alle sinnen sijn te droghe
-D_M3_3_034 Alle creatueren hoement poghe.
-D_M3_3_035 En doghen niet een caf
-D_M3_3_036 Datter enich te vollen doghe
-D_M3_3_037 Maer verscerp dijns sins oghe.
-D_M3_3_038 Hoert wat my schriftuere gaf
-D_M3_3_039 Sluyt dat in dijnre herten graf
-
-
-D_M3_4_040 Moyses spreect in sinen boecken
-D_M3_4_041 Beesten die den berch besoeken
-D_M3_4_042 Moeten sijn ghesteent
-D_M3_4_043 Beeste is hi die wil roekē
-D_M3_4_044 Te nauwe in die godheyt loeken
-
-
-
-D_M3_4_045 Hets recht dat hijt beweent
-D_M3_4_046 Du soecs my in allen hoeken.
-D_M3_4_047 Met rime sonder valsche vā doekē/
-D_M3_4_048 Eest goet ick wane neent
-D_M3_4_049 Du telles my metten wisen cloeken
-D_M3_4_050 Waert goet ick soudʼ di om vloekē
-D_M3_4_051 Ick wane dijn herte dat meent.
-D_M3_4_052 Dattu my heues verbeent
-
-
-D_M3_5_053 Iacop du en sals niet vergramen
-D_M3_5_054 Ick souts mi alte sere scamen
-D_M3_5_055 Had icx ye ghedocht.
-D_M3_5_056 Oeck lye ick met dy tsamen
-D_M3_5_057 Dat die hoecheyt der hogher namē
-D_M3_5_058 Niet te verre en doech ghesocht
-D_M3_5_059 Al waert dat alle die yngelē quamē/
-D_M3_5_060 Sy en constens niet gheramen
-D_M3_5_061 Het es al af gheknocht/
-D_M3_5_062 Maer leere mijne sin lamen
-D_M3_5_063 Ghewont metter sonden bramen
-D_M3_5_064 Van dattu vermocht
-D_M3_5_065 Soe es mijn wil volbrocht:
+D_M3_02_014 Iacop wi hebben onderlinghe/
+D_M3_02_015 Ghehandelt messelike dinghe:
+D_M3_02_016 Nv antwoert mij op een
+D_M3_02_017 Leer my eer ick di ontspringhe
+D_M3_02_018 Hoe ick mijn hert daer toe bringhe/
+D_M3_02_019 Te kennen die wi vleen
+D_M3_02_020 Ick lese somwilen ende singhe
+D_M3_02_021 Dat god te kennen bi sinē gehinge.
+D_M3_02_022 Is leuen sonder ween
+D_M3_02_023 Tes claer waerheyt ende gehinghe
+D_M3_02_024 Subtijl waer therte diet beuinghe/
 
 
 
+D_M3_02_025 Want hogher dinck en is gheen/
+D_M3_02_026 Nv antwoert onder ons tween:
 
 
-D_M3_6_066 Martijn merct in dynen sinne.
-D_M3_6_067 God is een wesen voer al beghinne
-D_M3_6_068 Die edelste bouen al.
-D_M3_6_069 Sijn wesen is als ick kinne
-D_M3_6_070 Die opperste god die opperste mīne
-D_M3_6_071 Die is oft wesen sal/
-D_M3_6_072 Sijn ghewerckē daermē kēt inne
-D_M3_6_073 Sijn soe groot dat sy sijn dinne
-D_M3_6_074 Te kennen ende smal.
-D_M3_6_075 Sijn wijsheyt is coninghinne
-D_M3_6_076 Bouen alderhande ghewinne:
-D_M3_6_077 Ende bouen al gheual.
-D_M3_6_078 Daer bouen ende hier int dal
+D_M3_03_027 Martijn du vraghes mi wel hoghe
+D_M3_03_028 Al vloech ic bouē der enghelē vloge/
+D_M3_03_029 Bouen serub ende seraph
+D_M3_03_030 Soe weet ick wel dat ick en moghe.
+D_M3_03_031 Berechten dat ten vollen toghe:
+D_M3_03_032 Met waerden niet hier af
+D_M3_03_033 Alle sinnen sijn te droghe
+D_M3_03_034 Alle creatueren hoement poghe.
+D_M3_03_035 En doghen niet een caf
+D_M3_03_036 Datter enich te vollen doghe
+D_M3_03_037 Maer verscerp dijns sins oghe.
+D_M3_03_038 Hoert wat my schriftuere gaf
+D_M3_03_039 Sluyt dat in dijnre herten graf
 
 
-D_M3_7_079 Den hemel en̄ des troēs te merckē
-D_M3_7_080 God is bouen al sijn wercken
-D_M3_7_081 Ende onder al sijn dinck.
-D_M3_7_082 Hi is buten wilt hier na hercken
-D_M3_7_083 Ende binnen hout dit versterckē
-D_M3_7_084 Hier wt niet en sprinck.
-D_M3_7_085 Oeck segghē ons die wise clerckē
-D_M3_7_086 Hien is niet ghedeylt in percken
-
-
-
-D_M3_7_087 Hier toe dijn herte dwinck:
-D_M3_7_088 Maer gheheel in elcke mercken
-D_M3_7_089 Buten binnen in water in swerckē
-D_M3_7_090 Hier inne dijn herte brinck
-D_M3_7_091 Sonder loosen winck
-
-
-D_M3_8_092 Bouen al is god als here/
-D_M3_8_093 Die besitter is ymmermeere
-D_M3_8_094 Alles dies men weet
-D_M3_8_095 Onder als die in alle keere.
-D_M3_8_096 Sijn dinck hout moghende seere
-D_M3_8_097 Ieghen alle verscheet
-D_M3_8_098 Buten als met groter weere
-D_M3_8_099 Sijn werck behoet dat hem en dere
-D_M3_8_100 Gheen dinck cout noch heet
-D_M3_8_101 Binnen als met sijnre leere
-D_M3_8_102 Sijn werck veruolt met sulcker ere
-D_M3_8_103 Dat ewelijck steet
-D_M3_8_104 Wient lief sy oft leet
-
-
-D_M3_9_105 Bouen al is god onghedraghen
-D_M3_9_106 Gheen dinck en mach hem beclagē
-D_M3_9_107 Dat hijt yet verlast
+D_M3_04_040 Moyses spreect in sinen boecken
+D_M3_04_041 Beesten die den berch besoeken
+D_M3_04_042 Moeten sijn ghesteent
+D_M3_04_043 Beeste is hi die wil roekē
+D_M3_04_044 Te nauwe in die godheyt loeken
 
 
 
-D_M3_9_108 Onder sonder last van waghen.
-D_M3_9_109 Want hē en moyt rustē noch iaghē
-D_M3_9_110 Sijn wesen is soe vast
-D_M3_9_111 Buten breet hi nyeuwers sijn dagē
-D_M3_9_112 Want hi is altoos sonder vraghen.
-D_M3_9_113 Waert voecht ende niet gast
-D_M3_9_114 Binnen veruolt hijt ieghen plagē
-D_M3_9_115 Dat sijn dinck met ghenen vlaghē/
-D_M3_9_116 En sy yet ongherast.
-D_M3_9_117 Noch ghequetst een bast
+D_M3_04_045 Hets recht dat hijt beweent
+D_M3_04_046 Du soecs my in allen hoeken.
+D_M3_04_047 Met rime sonder valsche vā doekē/
+D_M3_04_048 Eest goet ick wane neent
+D_M3_04_049 Du telles my metten wisen cloeken
+D_M3_04_050 Waert goet ick soudʼ di om vloekē
+D_M3_04_051 Ick wane dijn herte dat meent.
+D_M3_04_052 Dattu my heues verbeent
+
+
+D_M3_05_053 Iacop du en sals niet vergramen
+D_M3_05_054 Ick souts mi alte sere scamen
+D_M3_05_055 Had icx ye ghedocht.
+D_M3_05_056 Oeck lye ick met dy tsamen
+D_M3_05_057 Dat die hoecheyt der hogher namē
+D_M3_05_058 Niet te verre en doech ghesocht
+D_M3_05_059 Al waert dat alle die yngelē quamē/
+D_M3_05_060 Sy en constens niet gheramen
+D_M3_05_061 Het es al af gheknocht/
+D_M3_05_062 Maer leere mijne sin lamen
+D_M3_05_063 Ghewont metter sonden bramen
+D_M3_05_064 Van dattu vermocht
+D_M3_05_065 Soe es mijn wil volbrocht:
+
+
+
+
+
+D_M3_06_066 Martijn merct in dynen sinne.
+D_M3_06_067 God is een wesen voer al beghinne
+D_M3_06_068 Die edelste bouen al.
+D_M3_06_069 Sijn wesen is als ick kinne
+D_M3_06_070 Die opperste god die opperste mīne
+D_M3_06_071 Die is oft wesen sal/
+D_M3_06_072 Sijn ghewerckē daermē kēt inne
+D_M3_06_073 Sijn soe groot dat sy sijn dinne
+D_M3_06_074 Te kennen ende smal.
+D_M3_06_075 Sijn wijsheyt is coninghinne
+D_M3_06_076 Bouen alderhande ghewinne:
+D_M3_06_077 Ende bouen al gheual.
+D_M3_06_078 Daer bouen ende hier int dal
+
+
+D_M3_07_079 Den hemel en̄ des troēs te merckē
+D_M3_07_080 God is bouen al sijn wercken
+D_M3_07_081 Ende onder al sijn dinck.
+D_M3_07_082 Hi is buten wilt hier na hercken
+D_M3_07_083 Ende binnen hout dit versterckē
+D_M3_07_084 Hier wt niet en sprinck.
+D_M3_07_085 Oeck segghē ons die wise clerckē
+D_M3_07_086 Hien is niet ghedeylt in percken
+
+
+
+D_M3_07_087 Hier toe dijn herte dwinck:
+D_M3_07_088 Maer gheheel in elcke mercken
+D_M3_07_089 Buten binnen in water in swerckē
+D_M3_07_090 Hier inne dijn herte brinck
+D_M3_07_091 Sonder loosen winck
+
+
+D_M3_08_092 Bouen al is god als here/
+D_M3_08_093 Die besitter is ymmermeere
+D_M3_08_094 Alles dies men weet
+D_M3_08_095 Onder als die in alle keere.
+D_M3_08_096 Sijn dinck hout moghende seere
+D_M3_08_097 Ieghen alle verscheet
+D_M3_08_098 Buten als met groter weere
+D_M3_08_099 Sijn werck behoet dat hem en dere
+D_M3_08_100 Gheen dinck cout noch heet
+D_M3_08_101 Binnen als met sijnre leere
+D_M3_08_102 Sijn werck veruolt met sulcker ere
+D_M3_08_103 Dat ewelijck steet
+D_M3_08_104 Wient lief sy oft leet
+
+
+D_M3_09_105 Bouen al is god onghedraghen
+D_M3_09_106 Gheen dinck en mach hem beclagē
+D_M3_09_107 Dat hijt yet verlast
+
+
+
+D_M3_09_108 Onder sonder last van waghen.
+D_M3_09_109 Want hē en moyt rustē noch iaghē
+D_M3_09_110 Sijn wesen is soe vast
+D_M3_09_111 Buten breet hi nyeuwers sijn dagē
+D_M3_09_112 Want hi is altoos sonder vraghen.
+D_M3_09_113 Waert voecht ende niet gast
+D_M3_09_114 Binnen veruolt hijt ieghen plagē
+D_M3_09_115 Dat sijn dinck met ghenen vlaghē/
+D_M3_09_116 En sy yet ongherast.
+D_M3_09_117 Noch ghequetst een bast
 
 
 D_M3_10_118 Dan spreken wi van enen/
@@ -2233,7 +2237,7 @@ D_M3_31_403 Dattu daer coemst ongheureest:
 
 D_M3_32_404 Martijn ons leert die scriftuere
 D_M3_32_405 Dat een god ende een natuere
-D_M3_32_406 Altoos sijn dese drie
+D_M3_32_406 Aaltoos sijn dese drie
 D_M3_32_407 Emmer euen na ghebuere
 D_M3_32_408 Ende verscheden te gheender vre
 D_M3_32_409 Noch en verschieden nie
@@ -2244,6 +2248,8 @@ D_M3_32_413 Soe comt die gheest die soete guere/
 D_M3_32_414 Die reyne godheyt ende die puere
 D_M3_32_415 Hier proeft ende sie
 D_M3_32_416 Met herten ende ghie
+
+
 
 Line_number 417 is missing
 

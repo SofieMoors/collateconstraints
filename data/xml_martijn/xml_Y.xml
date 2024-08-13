@@ -41,148 +41,148 @@
 
 <text n="Eerste Martijn" xml:id="M1">
 <body>
-<p><lg type="stanza" n="1">
+<p><lg type="stanza" n="01">
 
-<note n="Y_M1_1_000">Line_number 000 is missing</note>
-<lb n="1" xml:id="Yf1ra.1"/><l n="Y_M1_1_001"><hi rend="capitalsize6">W</hi>Aphene martijn hoe saelt gaen</l>
-<lb n="2" xml:id="Yf1ra.2"/><l n="Y_M1_1_002"><hi rend="capitalsize1">S</hi>al dese weerelt langhe staen.</l>
-<lb n="3" xml:id="Yf1ra.3"/><l n="Y_M1_1_003"><hi rend="capitalsize1">I</hi>n dus crancken loue</l>
-<lb n="4" xml:id="Yf1ra.4"/><l n="Y_M1_1_004"><hi rend="capitalsize1">S</hi>oe moet mijn vrouwe eere saen</l>
-<lb n="5" xml:id="Yf1ra.5"/><l n="Y_M1_1_005"><hi rend="capitalsize1">Sonder</hi> twiuel ende waen</l>
-<lb n="6" xml:id="Yf1ra.6"/><l n="Y_M1_1_006"><choice><abbr><hi rend="capitalsize1">R</hi>ume<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">R</hi>ume<ex>n</ex></expan></choice> der heeren houe</l>
-<lb n="7" xml:id="Yf1ra.7"/><l n="Y_M1_1_007"><hi rend="capitalsize1">I</hi>c sie <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> scalcken wel ontfaen</l>
-<lb n="8" xml:id="Yf1ra.8"/><l n="Y_M1_1_008"><hi rend="capitalsize1">D</hi>ie de <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> <unclear>conn</unclear>en dwaen</l>
-<lb n="9" xml:id="Yf1ra.9"/><l n="Y_M1_1_009"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> plucken vanden stoue</l>
-<lb n="10" xml:id="Yf1ra.10"/><l n="Y_M1_1_010"><hi rend="capitalsize1">I</hi>c sie den gerechten slaen</l>
-<lb n="11" xml:id="Yf1ra.11"/><l n="Y_M1_1_011"><hi rend="capitalsize1">B</hi>eide bescatten en vlaen</l>
-<lb n="12" xml:id="Yf1ra.12"/><l n="Y_M1_1_012"><hi rend="capitalsize1">A</hi>lse die meese in die cloue</l>
-<lb n="13" xml:id="Yf1ra.13"/><l n="Y_M1_1_013"><hi rend="capitalsize1">R</hi>echt often god verscroue</l>
+<note n="Y_M1_01_000">Line_number 000 is missing</note>
+<lb n="1" xml:id="Yf1ra.1"/><l n="Y_M1_01_001"><hi rend="capitalsize6">W</hi>Aphene martijn hoe saelt gaen</l>
+<lb n="2" xml:id="Yf1ra.2"/><l n="Y_M1_01_002"><hi rend="capitalsize1">S</hi>al dese weerelt langhe staen.</l>
+<lb n="3" xml:id="Yf1ra.3"/><l n="Y_M1_01_003"><hi rend="capitalsize1">I</hi>n dus crancken loue</l>
+<lb n="4" xml:id="Yf1ra.4"/><l n="Y_M1_01_004"><hi rend="capitalsize1">S</hi>oe moet mijn vrouwe eere saen</l>
+<lb n="5" xml:id="Yf1ra.5"/><l n="Y_M1_01_005"><hi rend="capitalsize1">Sonder</hi> twiuel ende waen</l>
+<lb n="6" xml:id="Yf1ra.6"/><l n="Y_M1_01_006"><choice><abbr><hi rend="capitalsize1">R</hi>ume<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">R</hi>ume<ex>n</ex></expan></choice> der heeren houe</l>
+<lb n="7" xml:id="Yf1ra.7"/><l n="Y_M1_01_007"><hi rend="capitalsize1">I</hi>c sie <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> scalcken wel ontfaen</l>
+<lb n="8" xml:id="Yf1ra.8"/><l n="Y_M1_01_008"><hi rend="capitalsize1">D</hi>ie de <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> <unclear>conn</unclear>en dwaen</l>
+<lb n="9" xml:id="Yf1ra.9"/><l n="Y_M1_01_009"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> plucken vanden stoue</l>
+<lb n="10" xml:id="Yf1ra.10"/><l n="Y_M1_01_010"><hi rend="capitalsize1">I</hi>c sie den gerechten slaen</l>
+<lb n="11" xml:id="Yf1ra.11"/><l n="Y_M1_01_011"><hi rend="capitalsize1">B</hi>eide bescatten en vlaen</l>
+<lb n="12" xml:id="Yf1ra.12"/><l n="Y_M1_01_012"><hi rend="capitalsize1">A</hi>lse die meese in die cloue</l>
+<lb n="13" xml:id="Yf1ra.13"/><l n="Y_M1_01_013"><hi rend="capitalsize1">R</hi>echt often god verscroue</l>
 </lg>
-<lg type="stanza" n="2">
-<lb n="14" xml:id="Yf1ra.14"/><l n="Y_M1_2_014"><hi rend="capitalsize2">H</hi>oe lange sal gedogen dit</l>
-<lb n="15" xml:id="Yf1ra.15"/><l n="Y_M1_2_015"><hi rend="capitalsize1">G</hi>od die alle dinc besit</l>
-<lb n="16" xml:id="Yf1ra.16"/><l n="Y_M1_2_016"><hi rend="capitalsize1">I</hi>n sijn heerscaepie</l>
-<lb n="17" xml:id="Yf1ra.17"/><l n="Y_M1_2_017"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>tie</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>tie</expan></choice> goede vleyt ende bit</l>
-<lb n="18" xml:id="Yf1ra.18"/><l n="Y_M1_2_018"><hi rend="capitalsize1">H</hi>em en doech dat no dit</l>
-<lb n="19" xml:id="Yf1ra.19"/><l n="Y_M1_2_019"><hi rend="capitalsize1">V</hi>an datti yet gedye</l>
-<lb n="20" xml:id="Yf1ra.20"/><l n="Y_M1_2_020"><hi rend="capitalsize1">A</hi>l varet inden helschen pit</l>
-<lb n="21" xml:id="Yf1ra.21"/><l n="Y_M1_2_021"><hi rend="capitalsize1">E</hi>est grau blau <choice><abbr>sw<g ref="#apomod"/>t</abbr><expan>sw<ex>ar</ex>t</expan></choice> oft wit</l>
-<lb n="22" xml:id="Yf1ra.22"/><l n="Y_M1_2_022"><hi rend="capitalsize1">H</hi>ets getrouwe als die zide</l>
-<lb n="23" xml:id="Yf1ra.23"/><l n="Y_M1_2_023"><hi rend="capitalsize1">R</hi>echt man deluet <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> spit</l>
-<lb n="24" xml:id="Yf1ra.24"/><l n="Y_M1_2_024"><hi rend="capitalsize1">H</hi>ine heeft poente niet gehit</l>
-<lb n="25" xml:id="Yf1ra.25"/><l n="Y_M1_2_025"><hi rend="capitalsize1">I</hi>n <unclear>...</unclear> baelgye</l>
-<lb n="26" xml:id="Yf1ra.26"/><l n="Y_M1_2_026"><unclear>...</unclear>et dat ic waer lye</l>
+<lg type="stanza" n="02">
+<lb n="14" xml:id="Yf1ra.14"/><l n="Y_M1_02_014"><hi rend="capitalsize2">H</hi>oe lange sal gedogen dit</l>
+<lb n="15" xml:id="Yf1ra.15"/><l n="Y_M1_02_015"><hi rend="capitalsize1">G</hi>od die alle dinc besit</l>
+<lb n="16" xml:id="Yf1ra.16"/><l n="Y_M1_02_016"><hi rend="capitalsize1">I</hi>n sijn heerscaepie</l>
+<lb n="17" xml:id="Yf1ra.17"/><l n="Y_M1_02_017"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/>tie</abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex>tie</expan></choice> goede vleyt ende bit</l>
+<lb n="18" xml:id="Yf1ra.18"/><l n="Y_M1_02_018"><hi rend="capitalsize1">H</hi>em en doech dat no dit</l>
+<lb n="19" xml:id="Yf1ra.19"/><l n="Y_M1_02_019"><hi rend="capitalsize1">V</hi>an datti yet gedye</l>
+<lb n="20" xml:id="Yf1ra.20"/><l n="Y_M1_02_020"><hi rend="capitalsize1">A</hi>l varet inden helschen pit</l>
+<lb n="21" xml:id="Yf1ra.21"/><l n="Y_M1_02_021"><hi rend="capitalsize1">E</hi>est grau blau <choice><abbr>sw<g ref="#apomod"/>t</abbr><expan>sw<ex>ar</ex>t</expan></choice> oft wit</l>
+<lb n="22" xml:id="Yf1ra.22"/><l n="Y_M1_02_022"><hi rend="capitalsize1">H</hi>ets getrouwe als die zide</l>
+<lb n="23" xml:id="Yf1ra.23"/><l n="Y_M1_02_023"><hi rend="capitalsize1">R</hi>echt man deluet <choice><abbr>sond<g ref="#apomod"/></abbr><expan>sond<ex>er</ex></expan></choice> spit</l>
+<lb n="24" xml:id="Yf1ra.24"/><l n="Y_M1_02_024"><hi rend="capitalsize1">H</hi>ine heeft poente niet gehit</l>
+<lb n="25" xml:id="Yf1ra.25"/><l n="Y_M1_02_025"><hi rend="capitalsize1">I</hi>n <unclear>...</unclear> baelgye</l>
+<lb n="26" xml:id="Yf1ra.26"/><l n="Y_M1_02_026"><unclear>...</unclear>et dat ic waer lye</l>
 </lg>
-<lg type="stanza" n="3">
-<lb n="27" xml:id="Yf1ra.27"/><l n="Y_M1_3_027"><hi rend="capitalsize2">L</hi>aet ons martijn ouer een</l>
-<lb n="28" xml:id="Yf1ra.28"/><l n="Y_M1_3_028"><hi rend="capitalsize1">H</hi>ier af spreken <choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> ons <choice><abbr>twee<g ref="#bar"/></abbr><expan>twee<ex>n</ex></expan></choice></l>
-<lb n="29" xml:id="Yf1ra.29"/><l n="Y_M1_3_029"><hi rend="capitalsize1">I</hi>n desen dyaloghe</l>
-<lb n="30" xml:id="Yf1ra.30"/><l n="Y_M1_3_030"><hi rend="capitalsize1">W</hi>anen quam ons desen ween</l>
-<lb n="31" xml:id="Yf1ra.31"/><l n="Y_M1_3_031"><hi rend="capitalsize1">D</hi>ie wilen soe onwert scheen</l>
-<lb n="32" xml:id="Yf1ra.32"/><l n="Y_M1_3_032"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> nv sit soe hoeghe</l>
-<lb n="33" xml:id="Yf1ra.33"/><l n="Y_M1_3_033"><hi rend="capitalsize1">I</hi>c sal <choice><abbr>vrage<g ref="#bar"/></abbr><expan>vrage<ex>n</ex></expan></choice> ende vleen</l>
-<lb n="34" xml:id="Yf1ra.34"/><l n="Y_M1_3_034"><hi rend="capitalsize1">A</hi>ntwert nu ia oft neen</l>
-<lb n="35" xml:id="Yf1ra.35"/><l n="Y_M1_3_035"><hi rend="capitalsize1">V</hi>an dat ic di betoge</l>
-<lb n="36" xml:id="Yf1ra.36"/><l n="Y_M1_3_036"><hi rend="capitalsize1">L</hi>edicheit es vrome gheen</l>
-<lb n="37" xml:id="Yf1ra.37"/><l n="Y_M1_3_037"><hi rend="capitalsize1">A</hi>rbeit vint vier inden steen</l>
-<lb n="38" xml:id="Yf1ra.38"/><l n="Y_M1_3_038"><hi rend="capitalsize1">D</hi>aer bi ontstect dat droge</l>
-<lb n="39" xml:id="Yf1ra.39"/><l n="Y_M1_3_039"><hi rend="capitalsize1">N</hi>v sprect ende ict gedoge</l>
+<lg type="stanza" n="03">
+<lb n="27" xml:id="Yf1ra.27"/><l n="Y_M1_03_027"><hi rend="capitalsize2">L</hi>aet ons martijn ouer een</l>
+<lb n="28" xml:id="Yf1ra.28"/><l n="Y_M1_03_028"><hi rend="capitalsize1">H</hi>ier af spreken <choice><abbr>ond<g ref="#apomod"/></abbr><expan>ond<ex>er</ex></expan></choice> ons <choice><abbr>twee<g ref="#bar"/></abbr><expan>twee<ex>n</ex></expan></choice></l>
+<lb n="29" xml:id="Yf1ra.29"/><l n="Y_M1_03_029"><hi rend="capitalsize1">I</hi>n desen dyaloghe</l>
+<lb n="30" xml:id="Yf1ra.30"/><l n="Y_M1_03_030"><hi rend="capitalsize1">W</hi>anen quam ons desen ween</l>
+<lb n="31" xml:id="Yf1ra.31"/><l n="Y_M1_03_031"><hi rend="capitalsize1">D</hi>ie wilen soe onwert scheen</l>
+<lb n="32" xml:id="Yf1ra.32"/><l n="Y_M1_03_032"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> nv sit soe hoeghe</l>
+<lb n="33" xml:id="Yf1ra.33"/><l n="Y_M1_03_033"><hi rend="capitalsize1">I</hi>c sal <choice><abbr>vrage<g ref="#bar"/></abbr><expan>vrage<ex>n</ex></expan></choice> ende vleen</l>
+<lb n="34" xml:id="Yf1ra.34"/><l n="Y_M1_03_034"><hi rend="capitalsize1">A</hi>ntwert nu ia oft neen</l>
+<lb n="35" xml:id="Yf1ra.35"/><l n="Y_M1_03_035"><hi rend="capitalsize1">V</hi>an dat ic di betoge</l>
+<lb n="36" xml:id="Yf1ra.36"/><l n="Y_M1_03_036"><hi rend="capitalsize1">L</hi>edicheit es vrome gheen</l>
+<lb n="37" xml:id="Yf1ra.37"/><l n="Y_M1_03_037"><hi rend="capitalsize1">A</hi>rbeit vint vier inden steen</l>
+<lb n="38" xml:id="Yf1ra.38"/><l n="Y_M1_03_038"><hi rend="capitalsize1">D</hi>aer bi ontstect dat droge</l>
+<lb n="39" xml:id="Yf1ra.39"/><l n="Y_M1_03_039"><hi rend="capitalsize1">N</hi>v sprect ende ict gedoge</l>
 </lg>
-<lg type="stanza" n="4">
-<lb n="40" xml:id="Yf1ra.40"/><l n="Y_M1_4_040"><hi rend="capitalsize2">S</hi>preken <hi rend="capitalsize1">I</hi>acob lieue compaen</l>
-<lb n="41" xml:id="Yf1ra.41"/><l n="Y_M1_4_041"><hi rend="capitalsize1">W</hi>aer soudic dat <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> <choice><abbr>verstae<g ref="#bar"/></abbr><expan>verstae<ex>n</ex></expan></choice></l>
-<lb n="42" xml:id="Yf1ra.42"/><l n="Y_M1_4_042"><hi rend="capitalsize1">D</hi>at ic daer toe dochte</l>
-<lb n="43" xml:id="Yf1ra.43"/><l n="Y_M1_4_043"><hi rend="capitalsize1">T</hi>e <choice><abbr>v<g ref="#apomod"/>claren</abbr><expan>v<ex>er</ex>claren</expan></choice> dinen waen</l>
+<lg type="stanza" n="04">
+<lb n="40" xml:id="Yf1ra.40"/><l n="Y_M1_04_040"><hi rend="capitalsize2">S</hi>preken <hi rend="capitalsize1">I</hi>acob lieue compaen</l>
+<lb n="41" xml:id="Yf1ra.41"/><l n="Y_M1_04_041"><hi rend="capitalsize1">W</hi>aer soudic dat <choice><abbr>hebbe<g ref="#bar"/></abbr><expan>hebbe<ex>n</ex></expan></choice> <choice><abbr>verstae<g ref="#bar"/></abbr><expan>verstae<ex>n</ex></expan></choice></l>
+<lb n="42" xml:id="Yf1ra.42"/><l n="Y_M1_04_042"><hi rend="capitalsize1">D</hi>at ic daer toe dochte</l>
+<lb n="43" xml:id="Yf1ra.43"/><l n="Y_M1_04_043"><hi rend="capitalsize1">T</hi>e <choice><abbr>v<g ref="#apomod"/>claren</abbr><expan>v<ex>er</ex>claren</expan></choice> dinen waen</l>
 
 
 <pb xml:id="Y.f1rb" n="1rb"/>
-<lb n="1" xml:id="Yf1rb.1"/><l n="Y_M1_4_044"><hi rend="capitalsize1">D</hi>ie met twiuel waer beuaen</l>
-<lb n="2" xml:id="Yf1rb.2"/><l n="Y_M1_4_045"><hi rend="capitalsize1">D</hi>ats dat ic niet en <choice><abbr>v<g ref="#apomod"/>mochte</abbr><expan>v<ex>er</ex>mochte</expan></choice></l>
-<lb n="3" xml:id="Yf1rb.3"/><l n="Y_M1_4_046"><hi rend="capitalsize1">D</hi>och en willicx niet ontgaen</l>
-<lb n="4" xml:id="Yf1rb.4"/><l n="Y_M1_4_047"><hi rend="capitalsize1">I</hi>c wille dine beede ontfaen</l>
-<lb n="5" xml:id="Yf1rb.5"/><l n="Y_M1_4_048"><hi rend="capitalsize1">D</hi>ie dit aen mi sochte</l>
-<lb n="6" xml:id="Yf1rb.6"/><l n="Y_M1_4_049"><hi rend="capitalsize1">G</hi>od sinde mi <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>hemelsche<g ref="#bar"/></abbr><expan>hemelsche<ex>n</ex></expan></choice> traen</l>
-<lb n="7" xml:id="Yf1rb.7"/><l n="Y_M1_4_050"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> moet minen sin dwaen</l>
-<lb n="8" xml:id="Yf1rb.8"/><l n="Y_M1_4_051"><hi rend="capitalsize1">W</hi>ant hi mi diere cochte</l>
-<lb n="9" xml:id="Yf1rb.9"/><l n="Y_M1_4_052"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ict gherne volbrochte</l>
+<lb n="1" xml:id="Yf1rb.1"/><l n="Y_M1_04_044"><hi rend="capitalsize1">D</hi>ie met twiuel waer beuaen</l>
+<lb n="2" xml:id="Yf1rb.2"/><l n="Y_M1_04_045"><hi rend="capitalsize1">D</hi>ats dat ic niet en <choice><abbr>v<g ref="#apomod"/>mochte</abbr><expan>v<ex>er</ex>mochte</expan></choice></l>
+<lb n="3" xml:id="Yf1rb.3"/><l n="Y_M1_04_046"><hi rend="capitalsize1">D</hi>och en willicx niet ontgaen</l>
+<lb n="4" xml:id="Yf1rb.4"/><l n="Y_M1_04_047"><hi rend="capitalsize1">I</hi>c wille dine beede ontfaen</l>
+<lb n="5" xml:id="Yf1rb.5"/><l n="Y_M1_04_048"><hi rend="capitalsize1">D</hi>ie dit aen mi sochte</l>
+<lb n="6" xml:id="Yf1rb.6"/><l n="Y_M1_04_049"><hi rend="capitalsize1">G</hi>od sinde mi <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> <choice><abbr>hemelsche<g ref="#bar"/></abbr><expan>hemelsche<ex>n</ex></expan></choice> traen</l>
+<lb n="7" xml:id="Yf1rb.7"/><l n="Y_M1_04_050"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> moet minen sin dwaen</l>
+<lb n="8" xml:id="Yf1rb.8"/><l n="Y_M1_04_051"><hi rend="capitalsize1">W</hi>ant hi mi diere cochte</l>
+<lb n="9" xml:id="Yf1rb.9"/><l n="Y_M1_04_052"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> ict gherne volbrochte</l>
 </lg>
-<lg type="stanza" n="5">
-<lb n="10" xml:id="Yf1rb.10"/><l n="Y_M1_5_053"><hi rend="capitalsize2">M</hi>artijn <choice><abbr>doe<g ref="#bar"/></abbr><expan>doe<ex>n</ex></expan></choice> de werelt began</l>
-<lb n="11" xml:id="Yf1rb.11"/><l n="Y_M1_5_054">man te verheffen bouen man</l>
-<lb n="12" xml:id="Yf1rb.12"/><l n="Y_M1_5_055"><hi rend="capitalsize1">D</hi>oen sciet mijn vrouwe ver eere</l>
-<lb n="13" xml:id="Yf1rb.13"/><l n="Y_M1_5_056"><hi rend="capitalsize1">D</hi>en dorper ende wijstem <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> dan</l>
-<lb n="14" xml:id="Yf1rb.14"/><l n="Y_M1_5_057"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> trouwe ende eere was an</l>
-<lb n="15" xml:id="Yf1rb.15"/><l n="Y_M1_5_058"><hi rend="capitalsize1">D</hi>ien hiet se wesen heere</l>
-<lb n="16" xml:id="Yf1rb.16"/><l n="Y_M1_5_059"><hi rend="capitalsize1">N</hi>v <choice><abbr>make<g ref="#bar"/></abbr><expan>make<ex>n</ex></expan></choice> die <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> een gespan</l>
-<lb n="17" xml:id="Yf1rb.17"/><l n="Y_M1_5_060"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> der <choice><abbr>eere<g ref="#bar"/></abbr><expan>eere<ex>n</ex></expan></choice> <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> ban</l>
-<lb n="18" xml:id="Yf1rb.18"/><l n="Y_M1_5_061"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> en willen niet dat si keere</l>
-<lb n="19" xml:id="Yf1rb.19"/><l n="Y_M1_5_062"><hi rend="capitalsize1">S</hi>ech mi <choice><abbr>wane<g ref="#bar"/></abbr><expan>wane<ex>n</ex></expan></choice> dit venijn ran</l>
-<lb n="20" xml:id="Yf1rb.20"/><l n="Y_M1_5_063"><hi rend="capitalsize1">T</hi>oech mi redene daervan</l>
-<lb n="21" xml:id="Yf1rb.21"/><l n="Y_M1_5_064"><hi rend="capitalsize1">W</hi>ant ict gherne leere</l>
-<lb n="22" xml:id="Yf1rb.22"/><l n="Y_M1_5_065"><hi rend="capitalsize1">W</hi>ies scout het weere</l>
+<lg type="stanza" n="05">
+<lb n="10" xml:id="Yf1rb.10"/><l n="Y_M1_05_053"><hi rend="capitalsize2">M</hi>artijn <choice><abbr>doe<g ref="#bar"/></abbr><expan>doe<ex>n</ex></expan></choice> de werelt began</l>
+<lb n="11" xml:id="Yf1rb.11"/><l n="Y_M1_05_054">man te verheffen bouen man</l>
+<lb n="12" xml:id="Yf1rb.12"/><l n="Y_M1_05_055"><hi rend="capitalsize1">D</hi>oen sciet mijn vrouwe ver eere</l>
+<lb n="13" xml:id="Yf1rb.13"/><l n="Y_M1_05_056"><hi rend="capitalsize1">D</hi>en dorper ende wijstem <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> dan</l>
+<lb n="14" xml:id="Yf1rb.14"/><l n="Y_M1_05_057"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#apomod"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>aer</ex></expan></choice> trouwe ende eere was an</l>
+<lb n="15" xml:id="Yf1rb.15"/><l n="Y_M1_05_058"><hi rend="capitalsize1">D</hi>ien hiet se wesen heere</l>
+<lb n="16" xml:id="Yf1rb.16"/><l n="Y_M1_05_059"><hi rend="capitalsize1">N</hi>v <choice><abbr>make<g ref="#bar"/></abbr><expan>make<ex>n</ex></expan></choice> die <choice><abbr>heere<g ref="#bar"/></abbr><expan>heere<ex>n</ex></expan></choice> een gespan</l>
+<lb n="17" xml:id="Yf1rb.17"/><l n="Y_M1_05_060"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <choice><abbr>gheue<g ref="#bar"/></abbr><expan>gheue<ex>n</ex></expan></choice> der <choice><abbr>eere<g ref="#bar"/></abbr><expan>eere<ex>n</ex></expan></choice> <choice><abbr>ene<g ref="#bar"/></abbr><expan>ene<ex>n</ex></expan></choice> ban</l>
+<lb n="18" xml:id="Yf1rb.18"/><l n="Y_M1_05_061"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> en willen niet dat si keere</l>
+<lb n="19" xml:id="Yf1rb.19"/><l n="Y_M1_05_062"><hi rend="capitalsize1">S</hi>ech mi <choice><abbr>wane<g ref="#bar"/></abbr><expan>wane<ex>n</ex></expan></choice> dit venijn ran</l>
+<lb n="20" xml:id="Yf1rb.20"/><l n="Y_M1_05_063"><hi rend="capitalsize1">T</hi>oech mi redene daervan</l>
+<lb n="21" xml:id="Yf1rb.21"/><l n="Y_M1_05_064"><hi rend="capitalsize1">W</hi>ant ict gherne leere</l>
+<lb n="22" xml:id="Yf1rb.22"/><l n="Y_M1_05_065"><hi rend="capitalsize1">W</hi>ies scout het weere</l>
 </lg>
-<lg type="stanza" n="6">
-<lb n="23" xml:id="Yf1rb.23"/><l n="Y_M1_6_066"><hi rend="capitalsize2">I</hi>acob mi dunct ouerwaer</l>
-<lb n="24" xml:id="Yf1rb.24"/><l n="Y_M1_6_067"><hi rend="capitalsize1">S</hi>int dat edelheit hadde vaer</l>
-<lb n="25" xml:id="Yf1rb.25"/><l n="Y_M1_6_068"><hi rend="capitalsize1">T</hi>e pinen om die eere</l>
-<lb n="26" xml:id="Yf1rb.26"/><l n="Y_M1_6_069"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> so trac den scalke nare</l>
-<lb n="27" xml:id="Yf1rb.27"/><l n="Y_M1_6_070"><unclear>...</unclear> rade nv hier<unclear>...</unclear></l>
-<lb n="28" xml:id="Yf1rb.28"/><l n="Y_M1_6_071"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> niet en scelden den heere</l>
-<lb n="29" xml:id="Yf1rb.29"/><l n="Y_M1_6_072"><hi rend="capitalsize1">S</hi>oe es edelheit worden swaer</l>
-<lb n="30" xml:id="Yf1rb.30"/><l n="Y_M1_6_073"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> si <unclear>...</unclear> <choice><abbr>clemme<g ref="#bar"/></abbr><expan>clemme<ex>n</ex></expan></choice> heeft <choice><abbr>o<g ref="#bar"/>maer</abbr><expan>o<ex>m</ex>maer</expan></choice></l>
-<lb n="31" xml:id="Yf1rb.31"/><l n="Y_M1_6_074"><hi rend="capitalsize1">E</hi>nde daelt int lanc <unclear>...</unclear> meere</l>
-<lb n="32" xml:id="Yf1rb.32"/><l n="Y_M1_6_075"><hi rend="capitalsize1">D</hi>ats nv alder werelt claer</l>
-<lb n="33" xml:id="Yf1rb.33"/><l n="Y_M1_6_076"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <unclear>...</unclear>siene openbaer</l>
-<lb n="34" xml:id="Yf1rb.34"/><l n="Y_M1_6_077"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> dus es <choice><abbr>v<g ref="#apomod"/>bannen</abbr><expan>v<ex>er</ex>bannen</expan></choice> eere</l>
-<lb n="35" xml:id="Yf1rb.35"/><l n="Y_M1_6_078"><hi rend="capitalsize1">E</hi>nde <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice> ten keere</l>
+<lg type="stanza" n="06">
+<lb n="23" xml:id="Yf1rb.23"/><l n="Y_M1_06_066"><hi rend="capitalsize2">I</hi>acob mi dunct ouerwaer</l>
+<lb n="24" xml:id="Yf1rb.24"/><l n="Y_M1_06_067"><hi rend="capitalsize1">S</hi>int dat edelheit hadde vaer</l>
+<lb n="25" xml:id="Yf1rb.25"/><l n="Y_M1_06_068"><hi rend="capitalsize1">T</hi>e pinen om die eere</l>
+<lb n="26" xml:id="Yf1rb.26"/><l n="Y_M1_06_069"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> so trac den scalke nare</l>
+<lb n="27" xml:id="Yf1rb.27"/><l n="Y_M1_06_070"><unclear>...</unclear> rade nv hier<unclear>...</unclear></l>
+<lb n="28" xml:id="Yf1rb.28"/><l n="Y_M1_06_071"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> niet en scelden den heere</l>
+<lb n="29" xml:id="Yf1rb.29"/><l n="Y_M1_06_072"><hi rend="capitalsize1">S</hi>oe es edelheit worden swaer</l>
+<lb n="30" xml:id="Yf1rb.30"/><l n="Y_M1_06_073"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> si <unclear>...</unclear> <choice><abbr>clemme<g ref="#bar"/></abbr><expan>clemme<ex>n</ex></expan></choice> heeft <choice><abbr>o<g ref="#bar"/>maer</abbr><expan>o<ex>m</ex>maer</expan></choice></l>
+<lb n="31" xml:id="Yf1rb.31"/><l n="Y_M1_06_074"><hi rend="capitalsize1">E</hi>nde daelt int lanc <unclear>...</unclear> meere</l>
+<lb n="32" xml:id="Yf1rb.32"/><l n="Y_M1_06_075"><hi rend="capitalsize1">D</hi>ats nv alder werelt claer</l>
+<lb n="33" xml:id="Yf1rb.33"/><l n="Y_M1_06_076"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> <unclear>...</unclear>siene openbaer</l>
+<lb n="34" xml:id="Yf1rb.34"/><l n="Y_M1_06_077"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> dus es <choice><abbr>v<g ref="#apomod"/>bannen</abbr><expan>v<ex>er</ex>bannen</expan></choice> eere</l>
+<lb n="35" xml:id="Yf1rb.35"/><l n="Y_M1_06_078"><hi rend="capitalsize1">E</hi>nde <choice><abbr>wed<g ref="#apomod"/></abbr><expan>wed<ex>er</ex></expan></choice> <choice><abbr>stae<g ref="#bar"/></abbr><expan>stae<ex>n</ex></expan></choice> ten keere</l>
 </lg>
-<lg type="stanza" n="7">
-<lb n="36" xml:id="Yf1rb.36"/><l n="Y_M1_7_079"><hi rend="capitalsize2">N</hi>v merct bider <choice><abbr>sonne<g ref="#bar"/></abbr><expan>sonne<ex>n</ex></expan></choice> lecht</l>
-<lb n="37" xml:id="Yf1rb.37"/><l n="Y_M1_7_080"><hi rend="capitalsize1">D</hi>at alder werelt ogen berecht</l>
-<lb n="38" xml:id="Yf1rb.38"/><l n="Y_M1_7_081"><hi rend="capitalsize1">B</hi>i hare edelre naturen</l>
-<lb n="39" xml:id="Yf1rb.39"/><l n="Y_M1_7_082"><hi rend="capitalsize1">A</hi>ls dat swerc daer <choice><abbr>yege<g ref="#bar"/></abbr><expan>yege<ex>n</ex></expan></choice> vecht</l>
-<lb n="40" xml:id="Yf1rb.40"/><l n="Y_M1_7_084"><hi rend="capitalsize1">S</hi>one <choice><abbr>ca<g ref="#bar"/></abbr><expan>ca<ex>n</ex></expan></choice> si te diere vren</l>
-<lb n="41" xml:id="Yf1rb.41"/><l n="Y_M1_7_083"><hi rend="capitalsize1">E</hi>ntie neuel met sijnre drecht</l>
-<lb n="42" xml:id="Yf1rb.42"/><l n="Y_M1_7_085"><hi rend="capitalsize1">N</hi>iet getoghen <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> scoenheit echt</l>
-<lb n="43" xml:id="Yf1rb.43"/><l n="Y_M1_7_086"><hi rend="capitalsize1">A</hi>ldus verdonckert die scalke knecht</l>
-<lb n="44" xml:id="Yf1rb.44"/><l n="Y_M1_7_087"><hi rend="capitalsize1">D</hi>ie edele creaturen</l>
-<lb n="45" xml:id="Yf1rb.45"/><l n="Y_M1_7_088"><hi rend="capitalsize1">A</hi>lsi hem daer ane hecht.</l>
+<lg type="stanza" n="07">
+<lb n="36" xml:id="Yf1rb.36"/><l n="Y_M1_07_079"><hi rend="capitalsize2">N</hi>v merct bider <choice><abbr>sonne<g ref="#bar"/></abbr><expan>sonne<ex>n</ex></expan></choice> lecht</l>
+<lb n="37" xml:id="Yf1rb.37"/><l n="Y_M1_07_080"><hi rend="capitalsize1">D</hi>at alder werelt ogen berecht</l>
+<lb n="38" xml:id="Yf1rb.38"/><l n="Y_M1_07_081"><hi rend="capitalsize1">B</hi>i hare edelre naturen</l>
+<lb n="39" xml:id="Yf1rb.39"/><l n="Y_M1_07_082"><hi rend="capitalsize1">A</hi>ls dat swerc daer <choice><abbr>yege<g ref="#bar"/></abbr><expan>yege<ex>n</ex></expan></choice> vecht</l>
+<lb n="40" xml:id="Yf1rb.40"/><l n="Y_M1_07_084"><hi rend="capitalsize1">S</hi>one <choice><abbr>ca<g ref="#bar"/></abbr><expan>ca<ex>n</ex></expan></choice> si te diere vren</l>
+<lb n="41" xml:id="Yf1rb.41"/><l n="Y_M1_07_083"><hi rend="capitalsize1">E</hi>ntie neuel met sijnre drecht</l>
+<lb n="42" xml:id="Yf1rb.42"/><l n="Y_M1_07_085"><hi rend="capitalsize1">N</hi>iet getoghen <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> scoenheit echt</l>
+<lb n="43" xml:id="Yf1rb.43"/><l n="Y_M1_07_086"><hi rend="capitalsize1">A</hi>ldus verdonckert die scalke knecht</l>
+<lb n="44" xml:id="Yf1rb.44"/><l n="Y_M1_07_087"><hi rend="capitalsize1">D</hi>ie edele creaturen</l>
+<lb n="45" xml:id="Yf1rb.45"/><l n="Y_M1_07_088"><hi rend="capitalsize1">A</hi>lsi hem daer ane hecht.</l>
 
 
 <pb xml:id="Y.f1va" n="1va"/>
-<lb n="1" xml:id="Yf1va.1"/><l n="Y_M1_7_089"><hi rend="capitalsize1">E</hi>nde haer edelheit verplecht</l>
-<lb n="2" xml:id="Yf1va.2"/><l n="Y_M1_7_090"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> si laet ghedueren</l>
-<lb n="3" xml:id="Yf1va.3"/><l n="Y_M1_7_091"><hi rend="capitalsize1">B</hi>y haer den <choice><abbr>scalke<g ref="#bar"/></abbr><expan>scalke<ex>n</ex></expan></choice> <choice><abbr>suere<g ref="#bar"/></abbr><expan>suere<ex>n</ex></expan></choice></l>
+<lb n="1" xml:id="Yf1va.1"/><l n="Y_M1_07_089"><hi rend="capitalsize1">E</hi>nde haer edelheit verplecht</l>
+<lb n="2" xml:id="Yf1va.2"/><l n="Y_M1_07_090"><choice><abbr><hi rend="capitalsize1">D</hi><g ref="#etfin"/></abbr><expan><hi rend="capitalsize1">D</hi><ex>at</ex></expan></choice> si laet ghedueren</l>
+<lb n="3" xml:id="Yf1va.3"/><l n="Y_M1_07_091"><hi rend="capitalsize1">B</hi>y haer den <choice><abbr>scalke<g ref="#bar"/></abbr><expan>scalke<ex>n</ex></expan></choice> <choice><abbr>suere<g ref="#bar"/></abbr><expan>suere<ex>n</ex></expan></choice></l>
 </lg>
-<lg type="stanza" n="8">
-<lb n="4" xml:id="Yf1va.4"/><l n="Y_M1_8_092"><hi rend="capitalsize2">S</hi>int dat scalke <choice><abbr>droeghe<g ref="#bar"/></abbr><expan>droeghe<ex>n</ex></expan></choice> <choice><abbr>ou<g ref="#apomod"/>ee<g ref="#bar"/></abbr><expan>ou<ex>er</ex>ee<ex>n</ex></expan></choice></l>
-<lb n="5" xml:id="Yf1va.5"/><l n="Y_M1_8_093"><hi rend="capitalsize1">D</hi>at neen was <hi rend="capitalsize1">I</hi>a neen</l>
-<lb n="6" xml:id="Yf1va.6"/><l n="Y_M1_8_094"><hi rend="capitalsize1">E</hi>nde hem dat wijsheit dochte</l>
-<lb n="7" xml:id="Yf1va.7"/><l n="Y_M1_8_095"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> edelheit daer <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> green</l>
-<lb n="8" xml:id="Yf1va.8"/><l n="Y_M1_8_096"><hi rend="capitalsize1">W</hi>ant <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> wasdom vut scheen</l>
-<lb n="9" xml:id="Yf1va.9"/><l n="Y_M1_8_097"><choice><abbr><hi rend="capitalsize1">W</hi>ane<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">W</hi>ane<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> comen mochte</l>
-<lb n="10" xml:id="Yf1va.10"/><l n="Y_M1_8_098"><hi rend="capitalsize1">S</hi>oe es edelhert worden steen</l>
-<lb n="11" xml:id="Yf1va.11"/><l n="Y_M1_8_099"><hi rend="capitalsize1">W</hi>ant <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> ontfermt dinc gheen</l>
-<lb n="12" xml:id="Yf1va.12"/><l n="Y_M1_8_100"><hi rend="capitalsize1">D</hi>an <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> men gelt vut knochte</l>
-<lb n="13" xml:id="Yf1va.13"/><l n="Y_M1_8_101"><hi rend="capitalsize1">G</hi>od gheue hem <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> langen <choice><abbr>wee<g ref="#bar"/></abbr><expan>wee<ex>n</ex></expan></choice></l>
-<lb n="14" xml:id="Yf1va.14"/><l n="Y_M1_8_102"><hi rend="capitalsize1">D</hi>ie te knagen gaf dit been</l>
-<lb n="15" xml:id="Yf1va.15"/><l n="Y_M1_8_103"><hi rend="capitalsize1">D</hi>en <choice><abbr>edele<g ref="#bar"/></abbr><expan>edele<ex>n</ex></expan></choice> ghedochte</l>
-<lb n="16" xml:id="Yf1va.16"/><l n="Y_M1_8_104"><hi rend="capitalsize1">W</hi>ant hire mort aen wrochte</l>
+<lg type="stanza" n="08">
+<lb n="4" xml:id="Yf1va.4"/><l n="Y_M1_08_092"><hi rend="capitalsize2">S</hi>int dat scalke <choice><abbr>droeghe<g ref="#bar"/></abbr><expan>droeghe<ex>n</ex></expan></choice> <choice><abbr>ou<g ref="#apomod"/>ee<g ref="#bar"/></abbr><expan>ou<ex>er</ex>ee<ex>n</ex></expan></choice></l>
+<lb n="5" xml:id="Yf1va.5"/><l n="Y_M1_08_093"><hi rend="capitalsize1">D</hi>at neen was <hi rend="capitalsize1">I</hi>a neen</l>
+<lb n="6" xml:id="Yf1va.6"/><l n="Y_M1_08_094"><hi rend="capitalsize1">E</hi>nde hem dat wijsheit dochte</l>
+<lb n="7" xml:id="Yf1va.7"/><l n="Y_M1_08_095"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> edelheit daer <choice><abbr>o<g ref="#bar"/>me</abbr><expan>o<ex>m</ex>me</expan></choice> green</l>
+<lb n="8" xml:id="Yf1va.8"/><l n="Y_M1_08_096"><hi rend="capitalsize1">W</hi>ant <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> wasdom vut scheen</l>
+<lb n="9" xml:id="Yf1va.9"/><l n="Y_M1_08_097"><choice><abbr><hi rend="capitalsize1">W</hi>ane<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">W</hi>ane<ex>n</ex></expan></choice> <choice><abbr>d<g ref="#etfin"/></abbr><expan>d<ex>at</ex></expan></choice> comen mochte</l>
+<lb n="10" xml:id="Yf1va.10"/><l n="Y_M1_08_098"><hi rend="capitalsize1">S</hi>oe es edelhert worden steen</l>
+<lb n="11" xml:id="Yf1va.11"/><l n="Y_M1_08_099"><hi rend="capitalsize1">W</hi>ant <choice><abbr>h<g ref="#apomod"/></abbr><expan>h<ex>aer</ex></expan></choice> ontfermt dinc gheen</l>
+<lb n="12" xml:id="Yf1va.12"/><l n="Y_M1_08_100"><hi rend="capitalsize1">D</hi>an <choice><abbr>d<g ref="#apomod"/></abbr><expan>d<ex>aer</ex></expan></choice> men gelt vut knochte</l>
+<lb n="13" xml:id="Yf1va.13"/><l n="Y_M1_08_101"><hi rend="capitalsize1">G</hi>od gheue hem <choice><abbr>de<g ref="#bar"/></abbr><expan>de<ex>n</ex></expan></choice> langen <choice><abbr>wee<g ref="#bar"/></abbr><expan>wee<ex>n</ex></expan></choice></l>
+<lb n="14" xml:id="Yf1va.14"/><l n="Y_M1_08_102"><hi rend="capitalsize1">D</hi>ie te knagen gaf dit been</l>
+<lb n="15" xml:id="Yf1va.15"/><l n="Y_M1_08_103"><hi rend="capitalsize1">D</hi>en <choice><abbr>edele<g ref="#bar"/></abbr><expan>edele<ex>n</ex></expan></choice> ghedochte</l>
+<lb n="16" xml:id="Yf1va.16"/><l n="Y_M1_08_104"><hi rend="capitalsize1">W</hi>ant hire mort aen wrochte</l>
 </lg>
-<lg type="stanza" n="9">
-<lb n="17" xml:id="Yf1va.17"/><l n="Y_M1_9_105"><hi rend="capitalsize2">W</hi>at sal zegel ende was</l>
-<lb n="18" xml:id="Yf1va.18"/><l n="Y_M1_9_106"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> brieue die <choice><abbr>gewage<g ref="#bar"/></abbr><expan>gewage<ex>n</ex></expan></choice> das</l>
-<lb n="19" xml:id="Yf1va.19"/><l n="Y_M1_9_107"><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> dat <choice><abbr>lansheere<g ref="#bar"/></abbr><expan>lansheere<ex>n</ex></expan></choice> gheuen</l>
-<lb n="20" xml:id="Yf1va.20"/><l n="Y_M1_9_108"><hi rend="capitalsize1">H</hi>ets el niet dan gedwas</l>
-<lb n="21" xml:id="Yf1va.21"/><l n="Y_M1_9_109"><hi rend="capitalsize1">A</hi>lsoe lief hadt mi .<hi rend="capitalsize1">I</hi>. sas</l>
-<lb n="22" xml:id="Yf1va.22"/><l n="Y_M1_9_110"><hi rend="capitalsize1">O</hi>ft <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> vriese bescreue</l>
-<lb n="23" xml:id="Yf1va.23"/><l n="Y_M1_9_111"><hi rend="capitalsize1">T</hi>rouwe es broescer <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> gelas</l>
-<lb n="24" xml:id="Yf1va.24"/><l n="Y_M1_9_112"><hi rend="capitalsize1">D</hi>ie wilen soe starc was</l>
-<lb n="25" xml:id="Yf1va.25"/><l n="Y_M1_9_113"><hi rend="capitalsize1">E</hi>s nv te broken bleuen</l>
-<lb n="26" xml:id="Yf1va.26"/><l n="Y_M1_9_114"><hi rend="capitalsize1">I</hi>c waens noyt <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> genas</l>
-<lb n="27" xml:id="Yf1va.27"/><l n="Y_M1_9_115"><hi rend="capitalsize1">D</hi>ie scalke <choice><abbr>tsine<g ref="#bar"/></abbr><expan>tsine<ex>n</ex></expan></choice> rade las</l>
-<lb n="28" xml:id="Yf1va.28"/><l n="Y_M1_9_116"><hi rend="capitalsize1">H</hi>ine moeste in dinde <choice><abbr>sneue<g ref="#bar"/></abbr><expan>sneue<ex>n</ex></expan></choice></l>
-<lb n="29" xml:id="Yf1va.29"/><l n="Y_M1_9_117"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> selc sijns lants <choice><abbr>v<g ref="#apomod"/>dreuen</abbr><expan>v<ex>er</ex>dreuen</expan></choice></l>
+<lg type="stanza" n="09">
+<lb n="17" xml:id="Yf1va.17"/><l n="Y_M1_09_105"><hi rend="capitalsize2">W</hi>at sal zegel ende was</l>
+<lb n="18" xml:id="Yf1va.18"/><l n="Y_M1_09_106"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> brieue die <choice><abbr>gewage<g ref="#bar"/></abbr><expan>gewage<ex>n</ex></expan></choice> das</l>
+<lb n="19" xml:id="Yf1va.19"/><l n="Y_M1_09_107"><choice><abbr><hi rend="capitalsize1">V</hi>a<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">V</hi>a<ex>n</ex></expan></choice> dat <choice><abbr>lansheere<g ref="#bar"/></abbr><expan>lansheere<ex>n</ex></expan></choice> gheuen</l>
+<lb n="20" xml:id="Yf1va.20"/><l n="Y_M1_09_108"><hi rend="capitalsize1">H</hi>ets el niet dan gedwas</l>
+<lb n="21" xml:id="Yf1va.21"/><l n="Y_M1_09_109"><hi rend="capitalsize1">A</hi>lsoe lief hadt mi .<hi rend="capitalsize1">I</hi>. sas</l>
+<lb n="22" xml:id="Yf1va.22"/><l n="Y_M1_09_110"><hi rend="capitalsize1">O</hi>ft <choice><abbr>ee<g ref="#bar"/></abbr><expan>ee<ex>n</ex></expan></choice> vriese bescreue</l>
+<lb n="23" xml:id="Yf1va.23"/><l n="Y_M1_09_111"><hi rend="capitalsize1">T</hi>rouwe es broescer <choice><abbr>da<g ref="#bar"/></abbr><expan>da<ex>n</ex></expan></choice> gelas</l>
+<lb n="24" xml:id="Yf1va.24"/><l n="Y_M1_09_112"><hi rend="capitalsize1">D</hi>ie wilen soe starc was</l>
+<lb n="25" xml:id="Yf1va.25"/><l n="Y_M1_09_113"><hi rend="capitalsize1">E</hi>s nv te broken bleuen</l>
+<lb n="26" xml:id="Yf1va.26"/><l n="Y_M1_09_114"><hi rend="capitalsize1">I</hi>c waens noyt <choice><abbr>he<g ref="#apomod"/>e</abbr><expan>he<ex>er</ex>e</expan></choice> genas</l>
+<lb n="27" xml:id="Yf1va.27"/><l n="Y_M1_09_115"><hi rend="capitalsize1">D</hi>ie scalke <choice><abbr>tsine<g ref="#bar"/></abbr><expan>tsine<ex>n</ex></expan></choice> rade las</l>
+<lb n="28" xml:id="Yf1va.28"/><l n="Y_M1_09_116"><hi rend="capitalsize1">H</hi>ine moeste in dinde <choice><abbr>sneue<g ref="#bar"/></abbr><expan>sneue<ex>n</ex></expan></choice></l>
+<lb n="29" xml:id="Yf1va.29"/><l n="Y_M1_09_117"><choice><abbr><hi rend="capitalsize1">E</hi>n<g ref="#bar"/></abbr><expan><hi rend="capitalsize1">E</hi>n<ex>de</ex></expan></choice> selc sijns lants <choice><abbr>v<g ref="#apomod"/>dreuen</abbr><expan>v<ex>er</ex>dreuen</expan></choice></l>
 </lg>
 <lg type="stanza" n="10">
 <lb n="30" xml:id="Yf1va.30"/><l n="Y_M1_10_118"><hi rend="capitalsize2">M</hi>artijn du berechts mi wel</l>
